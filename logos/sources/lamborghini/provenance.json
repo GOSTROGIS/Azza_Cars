@@ -60,5 +60,49 @@
     "retrieved_utc": "2026-11-22T20:01:36Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://lamborghini.com",
+  "retrieved_utc": "2026-11-22T20:13:09.094Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[alt*=\"logo\" i]",
+    "src": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/logos/2024/03_26/logo_header_01.svg",
+    "displayed_px": [
+     57,
+     59
+    ],
+    "sha256": "9130c219a0d08e78e663abbd6a82a92d8f5002e7e292070be2edafdab29a6b30",
+    "bytes": 14945
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "db62246b729e2bbf6efd22f4968260f75b27b20c5f5199d25d50156cbccc8ed6",
+    "bytes": 549
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "17c08e45574eae674b5a726244be0c5cd6be273deb3e2ed5fa4c441b0730d86b",
+    "bytes": 822
+   }
+  ],
+  "page_final": "https://www.lamborghini.com/en-en",
+  "http_status": 200
  }
 }

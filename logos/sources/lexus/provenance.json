@@ -40,5 +40,37 @@
     "retrieved_utc": "2026-11-22T20:01:37Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://discoverlexus.com",
+  "retrieved_utc": "2026-11-22T20:13:14.887Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://discoverlexus.com/_nuxt/img/lexus-logo.a79e118.png",
+    "displayed_px": [
+     146,
+     27
+    ],
+    "sha256": "6cdd60755db6e85dcd9be380aa20b5cc0eaee840fb3f1f9765828fbe74bb9c7e",
+    "bytes": 4174
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     31,
+     50
+    ],
+    "sha256": "aa0c180fa99d1493417fee0661f74cdfa3acb8e0719f9d0cd0136c6c9ddd6d21",
+    "bytes": 878
+   }
+  ],
+  "page_final": "https://discoverlexus.com/",
+  "http_status": 200
  }
 }
