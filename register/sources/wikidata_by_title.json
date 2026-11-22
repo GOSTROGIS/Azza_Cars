@@ -1,0 +1,2963 @@
+{
+ "Acura": {
+  "dissolved": null,
+  "inception": "1986-03-27",
+  "label": "Acura",
+  "logos": [
+   {
+    "end": null,
+    "file": "Acura logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q53097",
+  "websites": [
+   "https://www.acura.com/"
+  ]
+ },
+ "Alfa Romeo": {
+  "dissolved": null,
+  "inception": "1910-06-24",
+  "label": "Alfa Romeo",
+  "logos": [
+   {
+    "end": null,
+    "file": "ALFA ROMEO badge on a car (cropped).jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q26921",
+  "websites": [
+   "https://www.alfaromeo.com/"
+  ]
+ },
+ "American Motors Corporation": {
+  "dissolved": "1988-06-20",
+  "inception": "1954-01-01",
+  "label": "American Motors Corporation",
+  "logos": [
+   {
+    "end": null,
+    "file": "American-motors.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q202708",
+  "websites": []
+ },
+ "Aston Martin": {
+  "dissolved": null,
+  "inception": null,
+  "label": "Aston Martin Lagonda",
+  "logos": [
+   {
+    "end": null,
+    "file": "Aston Martin wordmark.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27074",
+  "websites": [
+   "https://www.astonmartinlagonda.com/"
+  ]
+ },
+ "Asüna": {
+  "dissolved": "1994-01-01",
+  "inception": "1992-01-01",
+  "label": "Asüna",
+  "logos": [
+   {
+    "end": null,
+    "file": "Asuna cars logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q732935",
+  "websites": []
+ },
+ "Audi": {
+  "dissolved": null,
+  "inception": "1909-01-01",
+  "label": "Audi AG",
+  "logos": [
+   {
+    "end": null,
+    "file": "Audi.png",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "2808 audi logo nuevo th 2.jpg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Audi logo detail.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Audi-Logo 2016.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q23317",
+  "websites": [
+   "https://www.audi.co.za/",
+   "https://www.audi.com",
+   "https://www.audi.de/",
+   "https://www.audi.fr/"
+  ]
+ },
+ "Autocar Company": {
+  "dissolved": null,
+  "inception": "1897-01-01",
+  "label": "Autocar Company",
+  "logos": [
+   {
+    "end": null,
+    "file": "Autocar Company logo.svg",
+    "rank": "PreferredRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Autocar 1.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q2872534",
+  "websites": [
+   "http://www.autocartruck.com/"
+  ]
+ },
+ "Avanti (car)": {
+  "dissolved": "1991-01-01",
+  "inception": "1964-07-01",
+  "label": "Avanti",
+  "logos": [],
+  "qid": "Q4827699",
+  "websites": []
+ },
+ "BAIC Motor": {
+  "dissolved": null,
+  "inception": "2010-09-01",
+  "label": "BAIC Motor",
+  "logos": [
+   {
+    "end": null,
+    "file": "BAIC logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q33111848",
+  "websites": [
+   "http://www.baicmotor.com"
+  ]
+ },
+ "BMW": {
+  "dissolved": null,
+  "inception": "1916-03-07",
+  "label": "BMW",
+  "logos": [
+   {
+    "end": "2020-01-01T00:00:00Z",
+    "file": "BMW.svg",
+    "rank": "NormalRank",
+    "start": "1997-01-01T00:00:00Z"
+   },
+   {
+    "end": "1963-01-01T00:00:00Z",
+    "file": "BMW 1936-1963 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1936-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Logo BMW Group 2021.svg",
+    "rank": "PreferredRank",
+    "start": "2021-01-01T00:00:00Z"
+   },
+   {
+    "end": "1989-01-01T00:00:00Z",
+    "file": "BMW 1970-1989 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1970-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "BMW logo (gray).svg",
+    "rank": "DeprecatedRank",
+    "start": null
+   },
+   {
+    "end": "1933-01-01T00:00:00Z",
+    "file": "BMW 1916-1933 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1916-01-01T00:00:00Z"
+   },
+   {
+    "end": "1997-01-01T00:00:00Z",
+    "file": "BMW 1963-1997 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1963-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q26678",
+  "websites": [
+   "https://www.bmw.com"
+  ]
+ },
+ "BYD Auto": {
+  "dissolved": null,
+  "inception": "2003-01-22",
+  "label": "BYD Auto",
+  "logos": [
+   {
+    "end": null,
+    "file": "BYD Auto 2022 logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27423",
+  "websites": [
+   "https://byd-automobiles.com/fr/",
+   "https://www.byd.com/cn",
+   "https://www.byd.com/en",
+   "https://www.byd.com/es"
+  ]
+ },
+ "Bentley": {
+  "dissolved": null,
+  "inception": "1919-01-18",
+  "label": "Bentley",
+  "logos": [
+   {
+    "end": null,
+    "file": "Bentley, Theaterplaz-102.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27224",
+  "websites": [
+   "https://www.bentleymotors.com"
+  ]
+ },
+ "BrightDrop": {
+  "dissolved": "2024-01-01",
+  "inception": "2021-01-01",
+  "label": "BrightDrop",
+  "logos": [
+   {
+    "end": null,
+    "file": "BrightDrop logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q105085729",
+  "websites": [
+   "https://www.gmenvolve.com/fleet/electric-vehicles/brightdrop-zevo"
+  ]
+ },
+ "Bugatti Automobiles": {
+  "dissolved": null,
+  "inception": "2000-12-15",
+  "label": "Q2308012",
+  "logos": [
+   {
+    "end": null,
+    "file": "2022 Bugatti wordmark.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q2308012",
+  "websites": [
+   "https://www.bugatti.com/"
+  ]
+ },
+ "Buick": {
+  "dissolved": null,
+  "inception": "1899-12-01",
+  "label": "Buick",
+  "logos": [
+   {
+    "end": "http://www.wikidata.org/.well-known/genid/490b4ead53730da3688eac260cd21cc7",
+    "file": "Buick logo 1980.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27415",
+  "websites": [
+   "https://www.buick.com/"
+  ]
+ },
+ "Cadillac": {
+  "dissolved": null,
+  "inception": "1902-01-01",
+  "label": "Cadillac",
+  "logos": [
+   {
+    "end": "2021-01-01T00:00:00Z",
+    "file": "Cadillac Logo 2021.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Cadillac Wordmark 2021.svg",
+    "rank": "NormalRank",
+    "start": "2021-10-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Cadillac emblem.jpg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27436",
+  "websites": [
+   "https://www.cadillac.com/",
+   "https://www.cadillaceurope.com/"
+  ]
+ },
+ "Canoo": {
+  "dissolved": "2025-01-17",
+  "inception": "2017-01-01",
+  "label": "Canoo",
+  "logos": [
+   {
+    "end": null,
+    "file": "Canoo logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q99482082",
+  "websites": [
+   "https://www.canoo.com/"
+  ]
+ },
+ "Changan Automobile": {
+  "dissolved": null,
+  "inception": "1996-01-01",
+  "label": "Changan Automobile",
+  "logos": [
+   {
+    "end": null,
+    "file": "Changan icon.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q29366",
+  "websites": [
+   "http://www.changan.com.cn/",
+   "http://www.globalchangan.com/"
+  ]
+ },
+ "Checker Motors Corporation": {
+  "dissolved": "2010-01-14",
+  "inception": "1922-01-01",
+  "label": "Checker Motors Corporation",
+  "logos": [
+   {
+    "end": null,
+    "file": "Checkermotoslogo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q209374",
+  "websites": [
+   "https://www.checkermotorcars.com/"
+  ]
+ },
+ "Chery": {
+  "dissolved": null,
+  "inception": "1997-01-08",
+  "label": "Chery",
+  "logos": [
+   {
+    "end": null,
+    "file": "Chery logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q591001",
+  "websites": [
+   "https://www.chery.cn/",
+   "https://www.cheryinternational.com/"
+  ]
+ },
+ "Chevrolet": {
+  "dissolved": null,
+  "inception": "1911-11-03",
+  "label": "Chevrolet",
+  "logos": [
+   {
+    "end": null,
+    "file": "Chevrolet simple logo.svg",
+    "rank": "NormalRank",
+    "start": "2024-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q29570",
+  "websites": [
+   "https://www.chevrolet.com/"
+  ]
+ },
+ "Chrysler": {
+  "dissolved": null,
+  "inception": "2009-04-28",
+  "label": "Stellantis North America",
+  "logos": [
+   {
+    "end": "2021-01-01T00:00:00Z",
+    "file": "Fiat Chrysler Automobiles logo.svg",
+    "rank": "NormalRank",
+    "start": "2014-01-01T00:00:00Z"
+   },
+   {
+    "end": "2014-01-01T00:00:00Z",
+    "file": "Chrysler Group logo.svg",
+    "rank": "NormalRank",
+    "start": "2007-01-01T00:00:00Z"
+   },
+   {
+    "end": "2007-01-01T00:00:00Z",
+    "file": "DaimlerChrysler wordmark.svg",
+    "rank": "NormalRank",
+    "start": "1998-01-01T00:00:00Z"
+   },
+   {
+    "end": "1998-01-01T00:00:00Z",
+    "file": "Chrysler logo 1962.png",
+    "rank": "NormalRank",
+    "start": "1962-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Stellantis.svg",
+    "rank": "PreferredRank",
+    "start": "2021-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q181114",
+  "websites": [
+   "https://media.stellantisnorthamerica.com/"
+  ]
+ },
+ "Coda (electric car)": {
+  "dissolved": null,
+  "inception": null,
+  "label": "Coda",
+  "logos": [],
+  "qid": "Q384874",
+  "websites": []
+ },
+ "Cupra (marque)": {
+  "dissolved": null,
+  "inception": "1996-01-01",
+  "label": "Cupra",
+  "logos": [
+   {
+    "end": null,
+    "file": "Cupra.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q8352675",
+  "websites": [
+   "https://www.cupra.com/",
+   "https://www.cupra.com/es-es/"
+  ]
+ },
+ "Czinger": {
+  "dissolved": null,
+  "inception": "2019-01-01",
+  "label": "Czinger",
+  "logos": [],
+  "qid": "Q99670567",
+  "websites": [
+   "https://www.czinger.com"
+  ]
+ },
+ "DINA S.A.": {
+  "dissolved": null,
+  "inception": "1951-01-01",
+  "label": "DINA Camiones S.A.",
+  "logos": [
+   {
+    "end": null,
+    "file": "Mexican-GRUPO Dina-LOGO.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q2278607",
+  "websites": [
+   "http://www.dina.com.mx/"
+  ]
+ },
+ "Daewoo Motors": {
+  "dissolved": "2011-01-01",
+  "inception": "1972-01-01",
+  "label": "Daewoo Motors",
+  "logos": [
+   {
+    "end": null,
+    "file": "Logo wordmark DAEWOO Motors (2002-2016).svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27483",
+  "websites": []
+ },
+ "Daihatsu": {
+  "dissolved": null,
+  "inception": "1907-03-01",
+  "label": "Daihatsu",
+  "logos": [
+   {
+    "end": null,
+    "file": "Daihatsu logo 1998.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27511",
+  "websites": [
+   "https://www.daihatsu.com/"
+  ]
+ },
+ "Datsun": {
+  "dissolved": "1986-01-01",
+  "inception": "1931-01-01",
+  "label": "Datsun",
+  "logos": [
+   {
+    "end": "1935-01-01T00:00:00Z",
+    "file": "Datsun 1931.svg",
+    "rank": "NormalRank",
+    "start": "1931-01-01T00:00:00Z"
+   },
+   {
+    "end": "1965-01-01T00:00:00Z",
+    "file": "Datsun 1935.svg",
+    "rank": "NormalRank",
+    "start": "1935-01-01T00:00:00Z"
+   },
+   {
+    "end": "1976-01-01T00:00:00Z",
+    "file": "Datsun 1965.svg",
+    "rank": "NormalRank",
+    "start": "1965-01-01T00:00:00Z"
+   },
+   {
+    "end": "1986-01-01T00:00:00Z",
+    "file": "Datsun 1976 logo.svg",
+    "rank": "PreferredRank",
+    "start": "1976-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q27543",
+  "websites": []
+ },
+ "DeLorean Motor Company": {
+  "dissolved": "1982-10-26",
+  "inception": "1975-10-24",
+  "label": "DeLorean Motor Company",
+  "logos": [
+   {
+    "end": "2022-01-01T00:00:00Z",
+    "file": "DeLorean Motor Company logo.svg",
+    "rank": "NormalRank",
+    "start": "1995-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q1241608",
+  "websites": []
+ },
+ "Deepal": {
+  "dissolved": null,
+  "inception": "2008-04-01",
+  "label": "Deepal",
+  "logos": [
+   {
+    "end": null,
+    "file": "Deepal global logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q112874951",
+  "websites": [
+   "https://deepal.au/",
+   "https://deepal.com.cn/",
+   "https://deepal.com.pk/"
+  ]
+ },
+ "Diamond Reo Trucks": {
+  "dissolved": null,
+  "inception": "1967-01-01",
+  "label": "Diamond Reo Trucks",
+  "logos": [],
+  "qid": "Q5270903",
+  "websites": []
+ },
+ "Dodge": {
+  "dissolved": null,
+  "inception": "1900-12-14",
+  "label": "Dodge",
+  "logos": [
+   {
+    "end": "2024-01-01T00:00:00Z",
+    "file": "Dodge Logo 2010.svg",
+    "rank": "NormalRank",
+    "start": "2010-01-01T00:00:00Z"
+   },
+   {
+    "end": "2010-01-01T00:00:00Z",
+    "file": "Dodge 1993 wordmark.svg",
+    "rank": "NormalRank",
+    "start": "1993-01-01T00:00:00Z"
+   },
+   {
+    "end": "1993-01-01T00:00:00Z",
+    "file": "Dodge 1969 logo.svg",
+    "rank": "NormalRank",
+    "start": "1969-01-01T00:00:00Z"
+   },
+   {
+    "end": "1993-01-01T00:00:00Z",
+    "file": "Dodge 1964-1993 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1963-01-01T00:00:00Z"
+   },
+   {
+    "end": "1976-01-01T00:00:00Z",
+    "file": "Dodge 1962 logo.svg",
+    "rank": "NormalRank",
+    "start": "1962-01-01T00:00:00Z"
+   },
+   {
+    "end": "1962-01-01T00:00:00Z",
+    "file": "Dodge 1955 logo.svg",
+    "rank": "NormalRank",
+    "start": "1955-01-01T00:00:00Z"
+   },
+   {
+    "end": "1955-01-01T00:00:00Z",
+    "file": "Dodge 1928.svg",
+    "rank": "NormalRank",
+    "start": "1928-01-01T00:00:00Z"
+   },
+   {
+    "end": "1928-01-01T00:00:00Z",
+    "file": "Dodge Brothers logo.svg",
+    "rank": "NormalRank",
+    "start": "1914-01-01T00:00:00Z"
+   },
+   {
+    "end": "1914-01-01T00:00:00Z",
+    "file": "Dodge 1910 logo.svg",
+    "rank": "NormalRank",
+    "start": "1910-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Dodge 2022 logo.svg",
+    "rank": "PreferredRank",
+    "start": "2024-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q27564",
+  "websites": [
+   "https://www.dodge.com/"
+  ]
+ },
+ "Eagle (automobile)": {
+  "dissolved": "1999-01-01",
+  "inception": "1987-01-01",
+  "label": "Eagle",
+  "logos": [
+   {
+    "end": null,
+    "file": "Eagle vision (cropped).jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1203417",
+  "websites": []
+ },
+ "Ferrari": {
+  "dissolved": null,
+  "inception": "1947-03-12",
+  "label": "Ferrari",
+  "logos": [
+   {
+    "end": null,
+    "file": "Ferrari wordmark.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27586",
+  "websites": [
+   "https://www.ferrari.com/"
+  ]
+ },
+ "Fiat": {
+  "dissolved": null,
+  "inception": "1899-07-11",
+  "label": "Fiat",
+  "logos": [
+   {
+    "end": "2022-01-01T00:00:00Z",
+    "file": "FIAT logo (2020).svg",
+    "rank": "NormalRank",
+    "start": "2020-01-01T00:00:00Z"
+   },
+   {
+    "end": "2020-01-01T00:00:00Z",
+    "file": "Fiat Automobiles logo.svg",
+    "rank": "NormalRank",
+    "start": "2006-01-01T00:00:00Z"
+   },
+   {
+    "end": "1999-01-01T00:00:00Z",
+    "file": "Fiat logo 1968.svg",
+    "rank": "NormalRank",
+    "start": "1968-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "FIAT logo coloured.svg",
+    "rank": "PreferredRank",
+    "start": "2022-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q27597",
+  "websites": [
+   "https://www.fiat.com/",
+   "https://www.fiat.com.ar"
+  ]
+ },
+ "Fisker Inc.": {
+  "dissolved": null,
+  "inception": "2016-01-01",
+  "label": "Fisker",
+  "logos": [
+   {
+    "end": null,
+    "file": "Fisker, IAA Mobility 2023, Munich (P1110255).jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1420893",
+  "websites": []
+ },
+ "Ford Motor Company": {
+  "dissolved": null,
+  "inception": "1903-06-16",
+  "label": "Ford Motor Company",
+  "logos": [
+   {
+    "end": null,
+    "file": "Ford logo flat.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q44294",
+  "websites": [
+   "https://www.ford.com"
+  ]
+ },
+ "Foton Motor": {
+  "dissolved": null,
+  "inception": "1996-08-28",
+  "label": "Foton Motor",
+  "logos": [
+   {
+    "end": null,
+    "file": "Foton Motor logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q814825",
+  "websites": [
+   "https://www.foton.com.cn"
+  ]
+ },
+ "Freightliner Trucks": {
+  "dissolved": null,
+  "inception": "1942-01-01",
+  "label": "Q1420724",
+  "logos": [
+   {
+    "end": null,
+    "file": "Logo of Freightliner Trucks.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1420724",
+  "websites": [
+   "https://www.freightliner.com/"
+  ]
+ },
+ "Fuso (company)": {
+  "dissolved": null,
+  "inception": "2003-01-06",
+  "label": "Mitsubishi Fuso Truck and Bus Corporation",
+  "logos": [
+   {
+    "end": null,
+    "file": "Fuso logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1190247",
+  "websites": [
+   "https://www.mitsubishi-fuso.com/"
+  ]
+ },
+ "GAC Motor": {
+  "dissolved": null,
+  "inception": "2008-07-21",
+  "label": "GAC Motor",
+  "logos": [
+   {
+    "end": null,
+    "file": "לוגו של קבוצת GAC.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q95981531",
+  "websites": [
+   "https://www.gac-motor.com/"
+  ]
+ },
+ "GMC (automobile)": {
+  "dissolved": null,
+  "inception": "1911-01-01",
+  "label": "GMC",
+  "logos": [
+   {
+    "end": null,
+    "file": "Gmc brand logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q28993",
+  "websites": [
+   "https://www.gmc.com/"
+  ]
+ },
+ "Geely Auto": {
+  "dissolved": null,
+  "inception": "1986-01-01",
+  "label": "Geely Auto",
+  "logos": [
+   {
+    "end": null,
+    "file": "Geely Auto 2023.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q55118127",
+  "websites": [
+   "https://www.geely.com"
+  ]
+ },
+ "Genesis Motor": {
+  "dissolved": null,
+  "inception": "2015-11-04",
+  "label": "Genesis Motor",
+  "logos": [
+   {
+    "end": null,
+    "file": "Genesis G90 3.5T RS4 Savile Silver (30).jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q21451523",
+  "websites": [
+   "https://www.genesis.com/"
+  ]
+ },
+ "Geo (automobile)": {
+  "dissolved": "1997-01-01",
+  "inception": "1989-01-01",
+  "label": "Geo",
+  "logos": [
+   {
+    "end": null,
+    "file": "Geo car brand logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1502806",
+  "websites": []
+ },
+ "Great Wall Motor": {
+  "dissolved": null,
+  "inception": "1984-01-01",
+  "label": "Great Wall Motor",
+  "logos": [
+   {
+    "end": "2025-01-01T00:00:00Z",
+    "file": "Logo da Great Wall Motors.png",
+    "rank": "NormalRank",
+    "start": "2020-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "GWM 2025 logo.svg",
+    "rank": "PreferredRank",
+    "start": "2025-04-23T00:00:00Z"
+   }
+  ],
+  "qid": "Q1117001",
+  "websites": [
+   "http://www.gwm.com.cn/",
+   "https://www.gwm-eu.com/",
+   "https://www.gwm-global.com/",
+   "https://www.gwm.co.za/",
+   "https://www.gwm.iq/",
+   "https://www.gwm.iq/en",
+   "https://www.gwmanz.com/",
+   "https://www.gwmanz.com/au/",
+   "https://www.gwmanz.com/nz/",
+   "https://www.gwmbrunei.com/",
+   "https://www.gwmhaval.com.au/",
+   "https://www.onegwm.co.za/"
+  ]
+ },
+ "Haval": {
+  "dissolved": null,
+  "inception": null,
+  "label": "Haval",
+  "logos": [],
+  "qid": "Q27790533",
+  "websites": []
+ },
+ "Hino Motors": {
+  "dissolved": null,
+  "inception": "1942-05-01",
+  "label": "Hino Motors",
+  "logos": [
+   {
+    "end": null,
+    "file": "Hino Motors logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q867667",
+  "websites": [
+   "https://www.hino-global.com/",
+   "https://www.hino.co.jp"
+  ]
+ },
+ "Holden": {
+  "dissolved": "2021-01-01",
+  "inception": "1856-01-01",
+  "label": "Holden",
+  "logos": [
+   {
+    "end": null,
+    "file": "Holden text logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q29281",
+  "websites": [
+   "https://www.holden.com.au/"
+  ]
+ },
+ "Honda": {
+  "dissolved": null,
+  "inception": "1948-09-24",
+  "label": "Honda",
+  "logos": [
+   {
+    "end": null,
+    "file": "Honda.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Honda Logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Honda Canada.webp",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": "2026-01-01T00:00:00Z",
+    "file": "Honda logo.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q9584",
+  "websites": [
+   "https://global.honda"
+  ]
+ },
+ "Hummer": {
+  "dissolved": null,
+  "inception": "1992-01-01",
+  "label": "Hummer",
+  "logos": [
+   {
+    "end": null,
+    "file": "New Hummer logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q213487",
+  "websites": [
+   "https://www.gmc.com/electric/hummer-ev/pickup-trucks-suvs"
+  ]
+ },
+ "Hyundai Motor Company": {
+  "dissolved": null,
+  "inception": "1967-12-29",
+  "label": "Hyundai Motor Company",
+  "logos": [
+   {
+    "end": null,
+    "file": "Hyundai Motor Company logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q55931",
+  "websites": [
+   "https://www.hyundai.com/"
+  ]
+ },
+ "Ineos Automotive": {
+  "dissolved": null,
+  "inception": "2018-02-12",
+  "label": "Ineos Automotive",
+  "logos": [],
+  "qid": "Q108757682",
+  "websites": [
+   "https://www.ineos.com/businesses/ineos-automotive"
+  ]
+ },
+ "Infiniti": {
+  "dissolved": null,
+  "inception": "1989-11-08",
+  "label": "Infiniti",
+  "logos": [
+   {
+    "end": null,
+    "file": "Infiniti logo 2023.svg",
+    "rank": "NormalRank",
+    "start": "2023-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q29714",
+  "websites": [
+   "https://www.infiniti.com/"
+  ]
+ },
+ "International Motors": {
+  "dissolved": null,
+  "inception": "1986-01-01",
+  "label": "International",
+  "logos": [
+   {
+    "end": null,
+    "file": "International Motors Logo, October 2024.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q29739",
+  "websites": [
+   "https://www.international.com/"
+  ]
+ },
+ "Isuzu": {
+  "dissolved": null,
+  "inception": "1934-03-30",
+  "label": "Isuzu",
+  "logos": [
+   {
+    "end": null,
+    "file": "Isuzu.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q29803",
+  "websites": [
+   "https://www.isuzu.co.jp/world/"
+  ]
+ },
+ "Iveco": {
+  "dissolved": null,
+  "inception": "1975-01-01",
+  "label": "Iveco",
+  "logos": [
+   {
+    "end": null,
+    "file": "IVECO 2.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Iveco Logo 2023.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q29913",
+  "websites": [
+   "http://www.iveco.com"
+  ]
+ },
+ "JAC Group": {
+  "dissolved": null,
+  "inception": "1964-01-01",
+  "label": "JAC Group",
+  "logos": [
+   {
+    "end": null,
+    "file": "Jac motors textlogo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q545579",
+  "websites": [
+   "https://www.jac.com.cn/"
+  ]
+ },
+ "Jaecoo": {
+  "dissolved": null,
+  "inception": "2023-04-01",
+  "label": "Jaecoo",
+  "logos": [
+   {
+    "end": null,
+    "file": "Jaecoo wordmark.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q124255702",
+  "websites": [
+   "https://www.omodajaecoo.com/"
+  ]
+ },
+ "Jaguar Cars": {
+  "dissolved": "2012-12-31",
+  "inception": "1934-01-01",
+  "label": "Jaguar Cars",
+  "logos": [],
+  "qid": "Q30055",
+  "websites": []
+ },
+ "Jeep": {
+  "dissolved": null,
+  "inception": "1941-01-01",
+  "label": "Jeep",
+  "logos": [
+   {
+    "end": null,
+    "file": "Jeep wordmark.svg",
+    "rank": "PreferredRank",
+    "start": "1993-01-01T00:00:00Z"
+   },
+   {
+    "end": "1993-01-01T00:00:00Z",
+    "file": "Jeep 1987 logo.svg",
+    "rank": "NormalRank",
+    "start": "1987-01-01T00:00:00Z"
+   },
+   {
+    "end": "1987-01-01T00:00:00Z",
+    "file": "Jeep 1970 logo.svg",
+    "rank": "NormalRank",
+    "start": "1970-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Jeep.svg",
+    "rank": "PreferredRank",
+    "start": "1970-01-01T00:00:00Z"
+   },
+   {
+    "end": "1970-01-01T00:00:00Z",
+    "file": "Jeep kaiser logo.png",
+    "rank": "NormalRank",
+    "start": "1963-01-01T00:00:00Z"
+   },
+   {
+    "end": "1963-01-01T00:00:00Z",
+    "file": "Jeep 1945 logo.svg",
+    "rank": "NormalRank",
+    "start": "1945-01-01T00:00:00Z"
+   },
+   {
+    "end": "1945-01-01T00:00:00Z",
+    "file": "Jeep 1941 logo.svg",
+    "rank": "NormalRank",
+    "start": "1941-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q30113",
+  "websites": [
+   "https://www.jeep.com/"
+  ]
+ },
+ "Jetour": {
+  "dissolved": null,
+  "inception": "2018-01-22",
+  "label": "Jetour",
+  "logos": [
+   {
+    "end": null,
+    "file": "Jetour logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q98145436",
+  "websites": [
+   "https://www.jetour.com.cn/"
+  ]
+ },
+ "Jiangling Motors": {
+  "dissolved": null,
+  "inception": "1952-01-01",
+  "label": "Jiangling Motors",
+  "logos": [
+   {
+    "end": null,
+    "file": "JMC Motor logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1065539",
+  "websites": [
+   "http://www.jmc.com.cn"
+  ]
+ },
+ "Kandi Technologies": {
+  "dissolved": null,
+  "inception": "2013-04-19",
+  "label": "Kandi Technologies",
+  "logos": [],
+  "qid": "Q17006727",
+  "websites": [
+   "http://en.kandivehicle.com/",
+   "http://www.kandivehicle.com/"
+  ]
+ },
+ "Karma Automotive": {
+  "dissolved": null,
+  "inception": "2015-01-01",
+  "label": "Karma Automotive",
+  "logos": [
+   {
+    "end": "2021-01-01T00:00:00Z",
+    "file": "Karma-logo.png",
+    "rank": "NormalRank",
+    "start": "2015-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Karma Automomotive logo 2021.svg",
+    "rank": "NormalRank",
+    "start": "2021-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q22671741",
+  "websites": [
+   "https://www.karmaautomotive.com/"
+  ]
+ },
+ "Kenworth": {
+  "dissolved": null,
+  "inception": "1923-01-01",
+  "label": "Kenworth",
+  "logos": [
+   {
+    "end": null,
+    "file": "KW K104 badge.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q774830",
+  "websites": [
+   "http://www.kenworth.com/"
+  ]
+ },
+ "Kia": {
+  "dissolved": null,
+  "inception": "1944-12-11",
+  "label": "Kia",
+  "logos": [
+   {
+    "end": "2021-01-01T00:00:00Z",
+    "file": "KIA logo2.svg",
+    "rank": "NormalRank",
+    "start": "2012-01-01T00:00:00Z"
+   },
+   {
+    "end": "1994-01-01T00:00:00Z",
+    "file": "Kia Motors Logo (1986-1994).svg",
+    "rank": "NormalRank",
+    "start": "1986-01-01T00:00:00Z"
+   },
+   {
+    "end": "1986-01-01T00:00:00Z",
+    "file": "Kia Motors 1964-1986 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1964-01-01T00:00:00Z"
+   },
+   {
+    "end": "1964-01-01T00:00:00Z",
+    "file": "Kia Motors 1953-1964 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1953-01-01T00:00:00Z"
+   },
+   {
+    "end": "2012-01-01T00:00:00Z",
+    "file": "Kia Motors 2002-2012 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1994-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "KIA logo3.svg",
+    "rank": "PreferredRank",
+    "start": "2021-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q35349",
+  "websites": [
+   "https://kia.com"
+  ]
+ },
+ "Koenigsegg": {
+  "dissolved": null,
+  "inception": "1994-01-01",
+  "label": "Koenigsegg",
+  "logos": [
+   {
+    "end": "2020-01-01T00:00:00Z",
+    "file": "Koenigsegg-logo-1994-2048x2048.png",
+    "rank": "NormalRank",
+    "start": "1994-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Koenigsegg logo.svg",
+    "rank": "PreferredRank",
+    "start": "2020-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q35594",
+  "websites": [
+   "https://koenigsegg.com"
+  ]
+ },
+ "Lada": {
+  "dissolved": null,
+  "inception": "1966-01-01",
+  "label": "Lada",
+  "logos": [
+   {
+    "end": null,
+    "file": "Lada company logo image.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q35676",
+  "websites": [
+   "https://www.lada.ru/"
+  ]
+ },
+ "Lamborghini": {
+  "dissolved": null,
+  "inception": "1948-03-11",
+  "label": "Lamborghini",
+  "logos": [
+   {
+    "end": null,
+    "file": "Lamborghini - logo wordmark+payoff (Italy, 1963-).svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Lamborghini Gallardo 5.2 '08 (9403022249) (cropped).jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q35886",
+  "websites": [
+   "https://www.lamborghini.com/en-en"
+  ]
+ },
+ "Lancia": {
+  "dissolved": null,
+  "inception": "1906-11-27",
+  "label": "Lancia",
+  "logos": [
+   {
+    "end": "2022-01-01T00:00:00Z",
+    "file": "Lancia Automobiles logo.jpg",
+    "rank": "NormalRank",
+    "start": "2007-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Lancia Logo 2023.svg",
+    "rank": "PreferredRank",
+    "start": "2023-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q35896",
+  "websites": [
+   "https://www.lancia.com/"
+  ]
+ },
+ "Land Rover": {
+  "dissolved": null,
+  "inception": "1978-01-01",
+  "label": "Land Rover",
+  "logos": [
+   {
+    "end": null,
+    "file": "Land Rover 2023.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q35907",
+  "websites": []
+ },
+ "Leapmotor": {
+  "dissolved": null,
+  "inception": "2015-12-01",
+  "label": "Leapmotor",
+  "logos": [
+   {
+    "end": null,
+    "file": "Leapmotor logo en.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Leapmotor logo zh.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q99510294",
+  "websites": [
+   "https://www.leapmotor.com/"
+  ]
+ },
+ "Lexus": {
+  "dissolved": null,
+  "inception": "1989-01-01",
+  "label": "Lexus",
+  "logos": [
+   {
+    "end": null,
+    "file": "Lexus.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q35919",
+  "websites": [
+   "https://discoverlexus.com/"
+  ]
+ },
+ "Lincoln Motor Company": {
+  "dissolved": null,
+  "inception": "1917-01-01",
+  "label": "Lincoln Motor Company",
+  "logos": [
+   {
+    "end": null,
+    "file": "Logo Lincoln.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q216796",
+  "websites": [
+   "https://www.lincoln.com/"
+  ]
+ },
+ "Lion Electric Company": {
+  "dissolved": null,
+  "inception": "2008-01-01",
+  "label": "Lion Electric Company",
+  "logos": [],
+  "qid": "Q6555405",
+  "websites": [
+   "http://www.lionbuses.com/en/",
+   "https://thelionelectric.com/fr/"
+  ]
+ },
+ "Lotus Cars": {
+  "dissolved": null,
+  "inception": "1952-01-01",
+  "label": "Lotus Cars",
+  "logos": [
+   {
+    "end": null,
+    "file": "Lotus Eletre S Type 132 Blossum Grey (8).jpg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q35935",
+  "websites": [
+   "https://www.lotuscars.com"
+  ]
+ },
+ "Lucid Motors": {
+  "dissolved": null,
+  "inception": "2007-01-01",
+  "label": "Lucid Motors",
+  "logos": [
+   {
+    "end": null,
+    "file": "Lucid Motors logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q28027517",
+  "websites": [
+   "https://lucidmotors.com/"
+  ]
+ },
+ "Lynk & Co": {
+  "dissolved": null,
+  "inception": "2016-10-20",
+  "label": "Lynk & Co",
+  "logos": [
+   {
+    "end": null,
+    "file": "Lynk & Co 2016 logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q27555283",
+  "websites": [
+   "https://www.lynkco.com/"
+  ]
+ },
+ "MG Motor": {
+  "dissolved": null,
+  "inception": "2005-07-22",
+  "label": "MG Motor",
+  "logos": [
+   {
+    "end": null,
+    "file": "Mg logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1881443",
+  "websites": [
+   "https://www.mg.co.uk/"
+  ]
+ },
+ "Mack Trucks": {
+  "dissolved": null,
+  "inception": "1900-01-01",
+  "label": "Mack Trucks",
+  "logos": [],
+  "qid": "Q950650",
+  "websites": [
+   "https://www.macktrucks.com"
+  ]
+ },
+ "Mahindra & Mahindra": {
+  "dissolved": null,
+  "inception": "1945-10-02",
+  "label": "Mahindra & Mahindra",
+  "logos": [
+   {
+    "end": null,
+    "file": "Mahindra Electric SUVs Logo.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q848059",
+  "websites": [
+   "http://www.mahindra.com"
+  ]
+ },
+ "Marmon Motor Company": {
+  "dissolved": "1997-01-01",
+  "inception": "1963-01-01",
+  "label": "Marmon Motor Company",
+  "logos": [
+   {
+    "end": null,
+    "file": "MarmonLogoTruck.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q6772154",
+  "websites": []
+ },
+ "Maserati": {
+  "dissolved": null,
+  "inception": "1914-12-01",
+  "label": "Maserati",
+  "logos": [
+   {
+    "end": null,
+    "file": "Maserati logo 2.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q35962",
+  "websites": [
+   "https://www.maserati.com/"
+  ]
+ },
+ "Mastretta": {
+  "dissolved": "2015-01-01",
+  "inception": "1987-01-01",
+  "label": "Mastretta",
+  "logos": [
+   {
+    "end": null,
+    "file": "Mastretta logo.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1724639",
+  "websites": []
+ },
+ "Maybach": {
+  "dissolved": "2013-01-01",
+  "inception": "1909-01-01",
+  "label": "Maybach",
+  "logos": [
+   {
+    "end": null,
+    "file": "Maybach logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q35989",
+  "websites": [
+   "https://www.maybach.com/",
+   "https://www.mercedes-benz.com/en/vehicles/passenger-cars/mercedes-maybach/"
+  ]
+ },
+ "Mazda": {
+  "dissolved": null,
+  "inception": "1920-01-30",
+  "label": "Mazda",
+  "logos": [
+   {
+    "end": null,
+    "file": "Mazda-Museum Augsburg 01.jpg",
+    "rank": "NormalRank",
+    "start": "2017-08-07T00:00:00Z"
+   },
+   {
+    "end": "2000-01-01T00:00:00Z",
+    "file": "Mazda logo.svg",
+    "rank": "NormalRank",
+    "start": "1960-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Mazda logo 2024 (vertical).svg",
+    "rank": "PreferredRank",
+    "start": "2024-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q35996",
+  "websites": [
+   "https://www.mazda.com/ja/"
+  ]
+ },
+ "McLaren Automotive": {
+  "dissolved": null,
+  "inception": "1985-12-02",
+  "label": "McLaren Automotive",
+  "logos": [
+   {
+    "end": null,
+    "file": "McLaren logo (2026).svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1351854",
+  "websites": [
+   "https://cars.mclaren.com"
+  ]
+ },
+ "Mercedes-Benz": {
+  "dissolved": null,
+  "inception": "1926-01-01",
+  "label": "Mercedes-Benz",
+  "logos": [
+   {
+    "end": "2021-01-01T00:00:00Z",
+    "file": "Mercedes-Benz Logo 2010.svg",
+    "rank": "NormalRank",
+    "start": "2010-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q36008",
+  "websites": [
+   "https://www.mercedes-benz.com/en/"
+  ]
+ },
+ "Mercury (automobile)": {
+  "dissolved": "2011-01-01",
+  "inception": "1938-01-01",
+  "label": "Mercury",
+  "logos": [
+   {
+    "end": null,
+    "file": "Mercury Logo (automobile company).svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q613883",
+  "websites": []
+ },
+ "Merkur": {
+  "dissolved": "1989-01-01",
+  "inception": "1985-01-01",
+  "label": "Merkur",
+  "logos": [
+   {
+    "end": null,
+    "file": "Merkur ford brand logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q179622",
+  "websites": []
+ },
+ "Mini (marque)": {
+  "dissolved": null,
+  "inception": "1969-01-01",
+  "label": "Mini",
+  "logos": [
+   {
+    "end": null,
+    "file": "MINI logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q116232",
+  "websites": [
+   "https://www.mini.com"
+  ]
+ },
+ "Mitsubishi Motors": {
+  "dissolved": null,
+  "inception": "1970-04-22",
+  "label": "Mitsubishi Motors",
+  "logos": [
+   {
+    "end": null,
+    "file": "Mitsubishi motors new logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q36033",
+  "websites": [
+   "https://www.mitsubishi-motors.com/en/"
+  ]
+ },
+ "Morgan Motor Company": {
+  "dissolved": null,
+  "inception": "1909-01-01",
+  "label": "Morgan Motor Company",
+  "logos": [
+   {
+    "end": null,
+    "file": "Morgan badge - Flickr - exfordy.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1165625",
+  "websites": [
+   "http://www.morgan-motor.co.uk/"
+  ]
+ },
+ "Mosler Automotive": {
+  "dissolved": "2013-01-01",
+  "inception": "1985-01-01",
+  "label": "Mosler Automotive",
+  "logos": [],
+  "qid": "Q1806804",
+  "websites": [
+   "http://www.moslerauto.com"
+  ]
+ },
+ "Nikola Corporation": {
+  "dissolved": null,
+  "inception": "2014-01-01",
+  "label": "Nikola Corporation",
+  "logos": [
+   {
+    "end": null,
+    "file": "Nikola logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q24887050",
+  "websites": [
+   "https://nikolamotor.com/"
+  ]
+ },
+ "Nissan": {
+  "dissolved": null,
+  "inception": "1933-12-26",
+  "label": "Nissan",
+  "logos": [
+   {
+    "end": null,
+    "file": "Nissan Motor Corporation 2020 logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Nissan brand wordmark.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q20165",
+  "websites": [
+   "https://www.nissan-global.com/"
+  ]
+ },
+ "Nu Ride Inc.": {
+  "dissolved": "2023-06-01",
+  "inception": "2018-01-01",
+  "label": "Lordstown Motors",
+  "logos": [
+   {
+    "end": null,
+    "file": "Lordstown Motors logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q86681792",
+  "websites": [
+   "http://lordstownmotors.com/"
+  ]
+ },
+ "Oldsmobile": {
+  "dissolved": "2004-04-29",
+  "inception": "1897-01-01",
+  "label": "Oldsmobile",
+  "logos": [
+   {
+    "end": null,
+    "file": "Oldsmobile logo used from 1981 until 1997.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q204327",
+  "websites": []
+ },
+ "Omoda": {
+  "dissolved": null,
+  "inception": "2022-06-01",
+  "label": "Omoda",
+  "logos": [
+   {
+    "end": null,
+    "file": "Omoda wordmark.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q118646009",
+  "websites": [
+   "https://www.omodajaecoo.com/"
+  ]
+ },
+ "Opel": {
+  "dissolved": null,
+  "inception": "1862-01-21",
+  "label": "Opel",
+  "logos": [
+   {
+    "end": null,
+    "file": "Opel logo 2023.svg",
+    "rank": "PreferredRank",
+    "start": "2023-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Opel Print 1970.svg",
+    "rank": "DeprecatedRank",
+    "start": null
+   },
+   {
+    "end": "2021-01-01T00:00:00Z",
+    "file": "Opel-Logo 2017.svg",
+    "rank": "DeprecatedRank",
+    "start": "2017-01-01T00:00:00Z"
+   },
+   {
+    "end": "2017-01-01T00:00:00Z",
+    "file": "Opel logo.svg",
+    "rank": "DeprecatedRank",
+    "start": "2009-01-01T00:00:00Z"
+   },
+   {
+    "end": "2023-01-01T00:00:00Z",
+    "file": "Opel Logo 2021.svg",
+    "rank": "DeprecatedRank",
+    "start": "2021-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Opel Logo 1987.svg",
+    "rank": "DeprecatedRank",
+    "start": null
+   }
+  ],
+  "qid": "Q40966",
+  "websites": [
+   "https://www.opel.com/"
+  ]
+ },
+ "Oshkosh Corporation": {
+  "dissolved": null,
+  "inception": "1917-01-01",
+  "label": "Oshkosh Corporation",
+  "logos": [
+   {
+    "end": null,
+    "file": "Oshkosh Corporation 2019 Logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1969091",
+  "websites": [
+   "https://www.oshkoshcorp.com/"
+  ]
+ },
+ "Pagani Automobili": {
+  "dissolved": null,
+  "inception": "1998-01-01",
+  "label": "Pagani Automobili",
+  "logos": [
+   {
+    "end": null,
+    "file": "IMGPAGANI25.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q749239",
+  "websites": [
+   "http://www.pagani.com/"
+  ]
+ },
+ "Panoz": {
+  "dissolved": null,
+  "inception": "1989-01-01",
+  "label": "Panoz Auto Development",
+  "logos": [],
+  "qid": "Q746256",
+  "websites": [
+   "https://panoz.com/"
+  ]
+ },
+ "Passport (automobile dealership)": {
+  "dissolved": "1991-01-01",
+  "inception": "1988-01-01",
+  "label": "Passport",
+  "logos": [
+   {
+    "end": null,
+    "file": "Passport-auto-logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q2056156",
+  "websites": []
+ },
+ "Peterbilt": {
+  "dissolved": null,
+  "inception": "1939-01-01",
+  "label": "Peterbilt",
+  "logos": [
+   {
+    "end": null,
+    "file": "Peterbilt logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q944640",
+  "websites": [
+   "http://www.peterbilt.com"
+  ]
+ },
+ "Peugeot": {
+  "dissolved": null,
+  "inception": "1810-09-26",
+  "label": "Peugeot",
+  "logos": [
+   {
+    "end": null,
+    "file": "2021 - Peugeot 308 III (C) - 42.jpg",
+    "rank": "PreferredRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Wordmark Peugeot 2021.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q6742",
+  "websites": [
+   "https://carros.peugeot.com.br/",
+   "https://www.peugeot.co.uk/",
+   "https://www.peugeot.com/en/",
+   "https://www.peugeot.de",
+   "https://www.peugeot.fr/",
+   "https://www.peugeot.com.ar"
+  ]
+ },
+ "Plymouth (automobile)": {
+  "dissolved": "2001-06-29",
+  "inception": "1928-07-07",
+  "label": "Plymouth",
+  "logos": [
+   {
+    "end": null,
+    "file": "Plymouth brand logo 1964.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1124857",
+  "websites": []
+ },
+ "Polestar": {
+  "dissolved": null,
+  "inception": "1996-01-01",
+  "label": "Polestar",
+  "logos": [
+   {
+    "end": null,
+    "file": "Polestar logo 2020.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q4047174",
+  "websites": [
+   "https://www.polestar.com/"
+  ]
+ },
+ "Pontiac": {
+  "dissolved": null,
+  "inception": null,
+  "label": "Pontiac",
+  "logos": [],
+  "qid": "Q225978",
+  "websites": []
+ },
+ "Porsche": {
+  "dissolved": null,
+  "inception": "1931-01-01",
+  "label": "Porsche",
+  "logos": [
+   {
+    "end": null,
+    "file": "Porsche Schriftzug.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Newporschecrest.jpg",
+    "rank": "PreferredRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Porsche Wortmarke.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q40993",
+  "websites": [
+   "https://www.porsche.com"
+  ]
+ },
+ "Ram Trucks": {
+  "dissolved": null,
+  "inception": "2010-01-01",
+  "label": "Ram Trucks",
+  "logos": [
+   {
+    "end": null,
+    "file": "Ram Trucks 2009 wordmark.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q165708",
+  "websites": [
+   "https://www.ramtrucks.com/"
+  ]
+ },
+ "Renault": {
+  "dissolved": null,
+  "inception": "1898-12-24",
+  "label": "Renault",
+  "logos": [
+   {
+    "end": null,
+    "file": "2021 Renault Group logo.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q6686",
+  "websites": [
+   "https://www.renaultgroup.com/"
+  ]
+ },
+ "Rimac Automobili": {
+  "dissolved": null,
+  "inception": "2009-01-01",
+  "label": "Rimac Automobili",
+  "logos": [
+   {
+    "end": null,
+    "file": "Rimac Automobili logo.png",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Rimac Automobili logo.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q7334368",
+  "websites": [
+   "https://www.rimac-automobili.com"
+  ]
+ },
+ "Rivian": {
+  "dissolved": null,
+  "inception": "2009-06-01",
+  "label": "Rivian Automotive",
+  "logos": [
+   {
+    "end": null,
+    "file": "Rivian logo and wordmark.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q7338847",
+  "websites": [
+   "https://rivian.com"
+  ]
+ },
+ "Rolls-Royce Motor Cars": {
+  "dissolved": null,
+  "inception": "1998-01-01",
+  "label": "Rolls-Royce Motor Cars",
+  "logos": [
+   {
+    "end": null,
+    "file": "Rolls-Royce Motor Cars logo.svg",
+    "rank": "PreferredRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Rolls royce motorcars logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q234803",
+  "websites": [
+   "https://www.rolls-roycemotorcars.com/en_GB/home.html"
+  ]
+ },
+ "Rover Company": {
+  "dissolved": "1967-01-01",
+  "inception": "1896-06-13",
+  "label": "Q848620",
+  "logos": [
+   {
+    "end": null,
+    "file": "Rover badge 1965.jpg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Rover badge 1907.jpg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q848620",
+  "websites": []
+ },
+ "SEAT": {
+  "dissolved": null,
+  "inception": "1950-05-09",
+  "label": "SEAT",
+  "logos": [
+   {
+    "end": null,
+    "file": "SEAT S.A. logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q188217",
+  "websites": [
+   "https://www.seat.com/"
+  ]
+ },
+ "SSC North America": {
+  "dissolved": null,
+  "inception": "1999-01-01",
+  "label": "SSC North America",
+  "logos": [
+   {
+    "end": null,
+    "file": "SSC company logo 2014-03-26 23-11.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1514963",
+  "websites": [
+   "https://www.sscnorthamerica.com/"
+  ]
+ },
+ "Saab Automobile": {
+  "dissolved": "2011-01-01",
+  "inception": "1945-01-01",
+  "label": "Saab Automobile",
+  "logos": [
+   {
+    "end": null,
+    "file": "Saab wordmark grey.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q48957",
+  "websites": []
+ },
+ "Saleen": {
+  "dissolved": null,
+  "inception": "1983-01-01",
+  "label": "Saleen",
+  "logos": [],
+  "qid": "Q1361906",
+  "websites": [
+   "https://www.saleen.com/"
+  ]
+ },
+ "Saturn Corporation": {
+  "dissolved": "2010-10-31",
+  "inception": "1985-01-01",
+  "label": "Saturn Corporation",
+  "logos": [
+   {
+    "end": null,
+    "file": "Saturn corporation logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q569235",
+  "websites": []
+ },
+ "Scion (automobile)": {
+  "dissolved": "2016-02-03",
+  "inception": "2003-06-09",
+  "label": "Scion",
+  "logos": [
+   {
+    "end": null,
+    "file": "Front Scion Emblem - 2014 Scion tC (15230161334).jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q503487",
+  "websites": []
+ },
+ "Scout Motors": {
+  "dissolved": null,
+  "inception": "2022-05-11",
+  "label": "Scout",
+  "logos": [
+   {
+    "end": null,
+    "file": "Scout Mark 2025.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q112077124",
+  "websites": [
+   "https://www.scoutmotors.com/"
+  ]
+ },
+ "Scuderia Cameron Glickenhaus": {
+  "dissolved": null,
+  "inception": "2004-01-01",
+  "label": "Scuderia Cameron Glickenhaus",
+  "logos": [],
+  "qid": "Q108187217",
+  "websites": [
+   "https://glickenhausracing.com/"
+  ]
+ },
+ "Seres Auto (Hubei)": {
+  "dissolved": null,
+  "inception": "2003-06-27",
+  "label": "Seres Auto (Hubei)",
+  "logos": [
+   {
+    "end": null,
+    "file": "Seres Automobile (2023) Logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q55608782",
+  "websites": [
+   "http://www.dfdongfeng.com.cn/",
+   "http://www.dfsk.com/"
+  ]
+ },
+ "Seres Group": {
+  "dissolved": null,
+  "inception": "1986-09-01",
+  "label": "Seres Group",
+  "logos": [
+   {
+    "end": null,
+    "file": "Logo Seres Group.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q104907477",
+  "websites": [
+   "https://en.seres.cn/",
+   "https://www.seres.cn/"
+  ]
+ },
+ "Shelby American": {
+  "dissolved": null,
+  "inception": "1962-08-17",
+  "label": "Carroll Shelby International",
+  "logos": [
+   {
+    "end": null,
+    "file": "Shelby American logo.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1045210",
+  "websites": [
+   "https://www.shelby.com/home"
+  ]
+ },
+ "Slate Auto": {
+  "dissolved": null,
+  "inception": "2022-01-01",
+  "label": "Slate Auto",
+  "logos": [
+   {
+    "end": null,
+    "file": "Slate Auto logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Slate Auto logo light-gray.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q134100360",
+  "websites": [
+   "https://www.slate.auto"
+  ]
+ },
+ "Smart (marque)": {
+  "dissolved": null,
+  "inception": "1994-02-01",
+  "label": "smart",
+  "logos": [
+   {
+    "end": null,
+    "file": "Smart 2022.svg",
+    "rank": "PreferredRank",
+    "start": "2022-01-01T00:00:00Z"
+   },
+   {
+    "end": "2022-01-01T00:00:00Z",
+    "file": "Smart.svg",
+    "rank": "NormalRank",
+    "start": "2002-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q156490",
+  "websites": [
+   "https://www.smart.com/"
+  ]
+ },
+ "Soueast": {
+  "dissolved": null,
+  "inception": "1995-01-01",
+  "label": "Soueast",
+  "logos": [
+   {
+    "end": null,
+    "file": "Soueast Logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1855184",
+  "websites": [
+   "http://en.soueast-motor.com/",
+   "http://www.soueast-motor.com/"
+  ]
+ },
+ "Spyker Cars": {
+  "dissolved": null,
+  "inception": "1999-01-01",
+  "label": "Spyker Cars",
+  "logos": [
+   {
+    "end": null,
+    "file": "Logo Spyker.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1128836",
+  "websites": [
+   "http://www.spykercars.com"
+  ]
+ },
+ "Sterling Trucks": {
+  "dissolved": "2009-01-01",
+  "inception": "1997-01-01",
+  "label": "Q1257962",
+  "logos": [
+   {
+    "end": null,
+    "file": "Logo of Sterling Trucks.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1257962",
+  "websites": [
+   "http://www.sterlingtrucks.com"
+  ]
+ },
+ "Street and Racing Technology": {
+  "dissolved": "2014-01-01",
+  "inception": "1989-01-01",
+  "label": "SRT",
+  "logos": [
+   {
+    "end": null,
+    "file": "Srt chrysler brand logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1789249",
+  "websites": [
+   "https://www.dodge.com/srt.html"
+  ]
+ },
+ "Subaru": {
+  "dissolved": null,
+  "inception": "1953-07-15",
+  "label": "Subaru",
+  "logos": [
+   {
+    "end": null,
+    "file": "Subaru logo (transparent).svg",
+    "rank": "NormalRank",
+    "start": "2019-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q172741",
+  "websites": [
+   "https://www.subaru-global.com/"
+  ]
+ },
+ "Suzuki": {
+  "dissolved": null,
+  "inception": "1909-02-10",
+  "label": "Suzuki Motor Corporation",
+  "logos": [
+   {
+    "end": null,
+    "file": "Suzuki logo 2025.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q181642",
+  "websites": [
+   "https://www.globalsuzuki.com/"
+  ]
+ },
+ "Tesla, Inc.": {
+  "dissolved": null,
+  "inception": "2003-07-01",
+  "label": "Tesla",
+  "logos": [
+   {
+    "end": null,
+    "file": "Tesla, Inc. - Logo (shield version 1, black).svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Tesla Motors.svg",
+    "rank": "PreferredRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Tesla Motors Logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Tesla, Inc. - Logo (black script version).svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q478214",
+  "websites": [
+   "https://www.tesla.com/"
+  ]
+ },
+ "Think Global": {
+  "dissolved": "2011-06-22",
+  "inception": "1991-01-01",
+  "label": "Think Global",
+  "logos": [
+   {
+    "end": null,
+    "file": "Th!nk logo.png",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1359036",
+  "websites": []
+ },
+ "Toyota": {
+  "dissolved": null,
+  "inception": "1937-08-28",
+  "label": "Toyota",
+  "logos": [
+   {
+    "end": null,
+    "file": "Toyota Symbol.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Toyota logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Registered trademark img 06.png",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Toyota.svg",
+    "rank": "PreferredRank",
+    "start": null
+   }
+  ],
+  "qid": "Q53268",
+  "websites": [
+   "https://global.toyota"
+  ]
+ },
+ "Triumph Motor Company": {
+  "dissolved": "1984-01-01",
+  "inception": "1885-01-01",
+  "label": "Triumph",
+  "logos": [
+   {
+    "end": "1947-01-01T00:00:00Z",
+    "file": "Triumph Globe Emblem2.jpg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Triumph STandard Emblem.jpg",
+    "rank": "NormalRank",
+    "start": "1947-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q1140388",
+  "websites": []
+ },
+ "UD Trucks": {
+  "dissolved": null,
+  "inception": "1935-01-01",
+  "label": "UD Trucks",
+  "logos": [
+   {
+    "end": null,
+    "file": "UD Trucks logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1241339",
+  "websites": [
+   "https://www.udtrucks.com/"
+  ]
+ },
+ "Vector Motors": {
+  "dissolved": null,
+  "inception": "1978-01-01",
+  "label": "Vector Motors",
+  "logos": [],
+  "qid": "Q1969669",
+  "websites": [
+   "https://web.archive.org/web/20130703025227/http://www.vectormotors.com/"
+  ]
+ },
+ "Vehículos Automotores Mexicanos": {
+  "dissolved": "1989-01-01",
+  "inception": "1946-01-01",
+  "label": "Vehículos Automotores Mexicanos",
+  "logos": [
+   {
+    "end": null,
+    "file": "15-07-16-Straszenszenen-Mexico-RalfR-WMA 1074.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q2511956",
+  "websites": []
+ },
+ "VinFast": {
+  "dissolved": null,
+  "inception": "2017-06-01",
+  "label": "VinFast",
+  "logos": [
+   {
+    "end": null,
+    "file": "Logo of VinFast (3D).svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Logo of VinFast (3D Banner).svg",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "VinFast logo (simple variant).svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q56660561",
+  "websites": [
+   "https://vinfastauto.com/"
+  ]
+ },
+ "Volkswagen": {
+  "dissolved": null,
+  "inception": "1937-05-28",
+  "label": "Volkswagen",
+  "logos": [
+   {
+    "end": "1939-01-01T00:00:00Z",
+    "file": "VW logo 1937 to 1939.svg",
+    "rank": "NormalRank",
+    "start": "1937-01-01T00:00:00Z"
+   },
+   {
+    "end": "2017-01-01T00:00:00Z",
+    "file": "VW logo 2000.png",
+    "rank": "NormalRank",
+    "start": "2000-01-01T00:00:00Z"
+   },
+   {
+    "end": null,
+    "file": "Volkswagen logo 2019.svg",
+    "rank": "PreferredRank",
+    "start": "2019-01-01T00:00:00Z"
+   },
+   {
+    "end": "2019-01-01T00:00:00Z",
+    "file": "Volkswagen logo.png",
+    "rank": "NormalRank",
+    "start": "2017-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q246",
+  "websites": [
+   "https://www.vw.com/en.html"
+  ]
+ },
+ "Volvo Cars": {
+  "dissolved": null,
+  "inception": "1927-04-14",
+  "label": "Volvo Cars",
+  "logos": [
+   {
+    "end": "2021-01-01T00:00:00Z",
+    "file": "Volvo Trucks Logo.png",
+    "rank": "NormalRank",
+    "start": null
+   },
+   {
+    "end": null,
+    "file": "Volvo-Iron-Mark-Black.svg",
+    "rank": "PreferredRank",
+    "start": "2021-01-01T00:00:00Z"
+   }
+  ],
+  "qid": "Q215293",
+  "websites": [
+   "https://www.volvocars.com/"
+  ]
+ },
+ "Volvo Trucks": {
+  "dissolved": null,
+  "inception": "1928-01-01",
+  "label": "Volvo Trucks",
+  "logos": [
+   {
+    "end": null,
+    "file": "Volvo-Iron-Mark-Black.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q2033642",
+  "websites": [
+   "http://www.volvotrucks.com/",
+   "https://www.volvotrucks.kr/"
+  ]
+ },
+ "Western Star Trucks": {
+  "dissolved": null,
+  "inception": "1967-01-01",
+  "label": "Western Star Trucks",
+  "logos": [
+   {
+    "end": null,
+    "file": "Western Star Trucks logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1370660",
+  "websites": [
+   "http://www.westernstartrucks.com"
+  ]
+ },
+ "White Motor Company": {
+  "dissolved": "1980-01-01",
+  "inception": "1902-01-01",
+  "label": "White Motor Company",
+  "logos": [
+   {
+    "end": null,
+    "file": "White-company 1912-06 cleveland.jpg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q1756227",
+  "websites": []
+ },
+ "Workhorse Group": {
+  "dissolved": null,
+  "inception": "1998-01-01",
+  "label": "Workhorse Group",
+  "logos": [
+   {
+    "end": null,
+    "file": "Workhorse Group logo (full).svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q28406599",
+  "websites": [
+   "https://workhorse.com/"
+  ]
+ },
+ "Xos, Inc.": {
+  "dissolved": null,
+  "inception": "2016-01-01",
+  "label": "Xos, Inc.",
+  "logos": [
+   {
+    "end": null,
+    "file": "Xos Logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q126325758",
+  "websites": [
+   "https://xostrucks.com/"
+  ]
+ },
+ "Yugo": {
+  "dissolved": null,
+  "inception": null,
+  "label": "Yugo",
+  "logos": [],
+  "qid": "Q21205906",
+  "websites": []
+ },
+ "Zeekr": {
+  "dissolved": null,
+  "inception": "2021-03-23",
+  "label": "Zeekr",
+  "logos": [
+   {
+    "end": null,
+    "file": "Zeekr logo.svg",
+    "rank": "NormalRank",
+    "start": null
+   }
+  ],
+  "qid": "Q106621124",
+  "websites": [
+   "https://zeekrglobal.com/",
+   "https://zeekrlife.com"
+  ]
+ }
+}

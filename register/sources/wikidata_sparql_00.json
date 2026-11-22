@@ -1,0 +1,3743 @@
+{
+  "head" : {
+    "vars" : [ "article", "item", "itemLabel", "logo", "logoStart", "logoEnd", "logoRank", "inception", "dissolved", "website" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jaguar_Cars"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30055"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1934-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-12-31T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jaguar Cars"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ineos_Automotive"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108757682"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-02-12T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ineos Automotive"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ineos.com/businesses/ineos-automotive"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/McLaren_Automotive"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1985-12-02T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren Automotive"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://cars.mclaren.com"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/McLaren%20logo%20%282026%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bugatti_Automobiles"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2308012"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2000-12-15T00:00:00Z"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q2308012"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bugatti.com/"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Bugatti%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Genesis_Motor"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21451523"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-11-04T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Genesis Motor"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.genesis.com/"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Genesis%20G90%203.5T%20RS4%20Savile%20Silver%20%2830%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lucid_Motors"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28027517"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lucid Motors"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://lucidmotors.com/"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lucid%20Motors%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Honda.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Honda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.honda"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-09-24T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Honda%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Honda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.honda"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-09-24T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Honda%20Canada.webp"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Honda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.honda"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-09-24T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Honda%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Honda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.honda"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-09-24T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2026-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20165"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20Motor%20Corporation%202020%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nissan"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nissan-global.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1933-12-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nissan"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20165"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20brand%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nissan"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.nissan-global.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1933-12-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nissan"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2808%20audi%20logo%20nuevo%20th%202.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20logo%20detail.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi-Logo%202016.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2808%20audi%20logo%20nuevo%20th%202.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20logo%20detail.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi-Logo%202016.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.de/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2808%20audi%20logo%20nuevo%20th%202.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.de/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20logo%20detail.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.de/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi-Logo%202016.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.de/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2808%20audi%20logo%20nuevo%20th%202.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi%20logo%20detail.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23317"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Audi-Logo%202016.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Audi"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.audi.fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audi AG"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26678"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BMW.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BMW"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmw.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-03-07T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BMW"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26678"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BMW%201936-1963%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BMW"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmw.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-03-07T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BMW"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1936-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26678"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20BMW%20Group%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BMW"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmw.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-03-07T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BMW"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26678"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BMW%201970-1989%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BMW"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmw.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-03-07T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BMW"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26678"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BMW%20logo%20%28gray%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#DeprecatedRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BMW"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmw.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-03-07T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BMW"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26678"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BMW%201916-1933%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BMW"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmw.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-03-07T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BMW"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1933-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26678"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BMW%201963-1997%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BMW"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bmw.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-03-07T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BMW"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26921"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/ALFA%20ROMEO%20badge%20on%20a%20car%20%28cropped%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Alfa_Romeo"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.alfaromeo.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-06-24T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alfa Romeo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27074"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Aston%20Martin%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Aston_Martin"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.astonmartinlagonda.com/"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aston Martin Lagonda"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27224"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Bentley%2C%20Theaterplaz-102.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bentley"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.bentleymotors.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1919-01-18T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bentley"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27415"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Buick%20logo%201980.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Buick"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.buick.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-12-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buick"
+      },
+      "logoEnd" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/.well-known/genid/490b4ead53730da3688eac260cd21cc7"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27436"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20Logo%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cadillac"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cadillac.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cadillac"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27436"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20Wordmark%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cadillac"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cadillac.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cadillac"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-10-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27436"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20emblem.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cadillac"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cadillac.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cadillac"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27436"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20Logo%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cadillac"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cadillaceurope.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cadillac"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27436"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20Wordmark%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cadillac"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cadillaceurope.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cadillac"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-10-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27436"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20emblem.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cadillac"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cadillaceurope.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cadillac"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%20Logo%202010.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2024-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%201993%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%201969%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1969-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%201964-1993%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%201962%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%201955%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1955-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%201928.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1955-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1928-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%20Brothers%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1928-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1914-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%201910%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1914-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27564"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Dodge%202022%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodge"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-12-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodge"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2024-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27586"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Ferrari%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ferrari"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ferrari.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-03-12T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ferrari"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/FIAT%20logo%20%282020%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20Automobiles%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2006-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20logo%201968.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/FIAT%20logo%20coloured.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/FIAT%20logo%20%282020%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com.ar"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20Automobiles%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com.ar"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2006-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20logo%201968.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com.ar"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27597"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/FIAT%20logo%20coloured.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiat"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.fiat.com.ar"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiat"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28993"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Gmc%20brand%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/GMC_(automobile)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gmc.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "GMC"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29570"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Chevrolet%20simple%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chevrolet"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chevrolet.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-11-03T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chevrolet"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2024-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29714"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Infiniti%20logo%202023.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Infiniti"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.infiniti.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-11-08T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Infiniti"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30113"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jeep%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jeep"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jeep.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeep"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30113"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jeep%201987%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jeep"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jeep.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeep"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1987-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30113"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jeep%201970%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jeep"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jeep.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeep"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1987-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30113"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jeep.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jeep"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jeep.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeep"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30113"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jeep%20kaiser%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jeep"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jeep.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeep"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30113"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jeep%201945%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jeep"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jeep.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeep"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1945-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30113"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jeep%201941%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jeep"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jeep.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeep"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1945-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35349"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/KIA%20logo2.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kia.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-12-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kia"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35349"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Motors%20Logo%20%281986-1994%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kia.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-12-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kia"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35349"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Motors%201964-1986%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kia.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-12-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kia"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35349"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Motors%201953-1964%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kia.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-12-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kia"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35349"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Motors%202002-2012%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kia.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-12-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kia"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35349"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/KIA%20logo3.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://kia.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-12-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kia"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35594"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Koenigsegg-logo-1994-2048x2048.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Koenigsegg"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://koenigsegg.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Koenigsegg"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35594"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Koenigsegg%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Koenigsegg"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://koenigsegg.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Koenigsegg"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35886"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20-%20logo%20wordmark%2Bpayoff%20%28Italy%2C%201963-%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lamborghini"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lamborghini.com/en-en"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-03-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lamborghini"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35886"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lamborghini%20Gallardo%205.2%20%2708%20%289403022249%29%20%28cropped%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lamborghini"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lamborghini.com/en-en"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-03-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lamborghini"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35907"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20Rover%202023.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Land_Rover"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Land Rover"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35919"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lexus.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lexus"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://discoverlexus.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lexus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35935"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lotus%20Eletre%20S%20Type%20132%20Blossum%20Grey%20%288%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lotus_Cars"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lotuscars.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1952-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lotus Cars"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35962"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Maserati%20logo%202.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maserati"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.maserati.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1914-12-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maserati"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35989"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Maybach%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maybach"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.maybach.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maybach"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35989"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Maybach%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maybach"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mercedes-benz.com/en/vehicles/passenger-cars/mercedes-maybach/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maybach"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35996"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda-Museum%20Augsburg%2001.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mazda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mazda.com/ja/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1920-01-30T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mazda"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-08-07T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35996"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mazda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mazda.com/ja/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1920-01-30T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mazda"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2000-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1960-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35996"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mazda%20logo%202024%20%28vertical%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mazda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mazda.com/ja/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1920-01-30T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mazda"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2024-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36008"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20Logo%202010.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mercedes-Benz"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mercedes-benz.com/en/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1926-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mercedes-Benz"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36033"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mitsubishi%20motors%20new%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mitsubishi_Motors"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mitsubishi-motors.com/en/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-04-22T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mitsubishi Motors"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44294"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20logo%20flat.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ford_Motor_Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ford.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-06-16T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ford Motor Company"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53097"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Acura%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Acura"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.acura.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-03-27T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55931"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Hyundai%20Motor%20Company%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hyundai.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1967-12-29T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hyundai Motor Company"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/MINI%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mini_(marque)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mini.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1969-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181114"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20Chrysler%20Automobiles%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chrysler"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://media.stellantisnorthamerica.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-04-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stellantis North America"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181114"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Chrysler%20Group%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chrysler"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://media.stellantisnorthamerica.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-04-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stellantis North America"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181114"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/DaimlerChrysler%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chrysler"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://media.stellantisnorthamerica.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-04-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stellantis North America"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181114"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Chrysler%20logo%201962.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chrysler"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://media.stellantisnorthamerica.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-04-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stellantis North America"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-01-01T00:00:00Z"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181114"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Stellantis.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chrysler"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://media.stellantisnorthamerica.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-04-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stellantis North America"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216796"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Lincoln.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lincoln_Motor_Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lincoln.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1917-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lincoln Motor Company"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Morgan%20badge%20-%20Flickr%20-%20exfordy.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Morgan_Motor_Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.morgan-motor.co.uk/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Motor Company"
+      }
+    } ]
+  }
+}

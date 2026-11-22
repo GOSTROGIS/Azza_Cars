@@ -1,0 +1,1353 @@
+{
+  "head" : {
+    "vars" : [ "article", "item", "itemLabel", "logo", "logoStart", "logoEnd", "logoRank", "inception", "dissolved", "website" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Coda_(electric_car)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q384874"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coda"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Panoz"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panoz Auto Development"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://panoz.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mack_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950650"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mack Trucks"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.macktrucks.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mosler_Automotive"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1806804"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mosler Automotive"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.moslerauto.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1985-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vector_Motors"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1969669"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vector Motors"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://web.archive.org/web/20130703025227/http://www.vectormotors.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Diamond_Reo_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5270903"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Diamond Reo Trucks"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1967-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lion_Electric_Company"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6555405"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lion Electric Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.lionbuses.com/en/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lion_Electric_Company"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6555405"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lion Electric Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://thelionelectric.com/fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Holden"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29281"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Holden"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.holden.com.au/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1856-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Holden%20text%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/International_Motors"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29739"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "International"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.international.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Motors%20Logo%2C%20October%202024.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Iveco"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29913"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iveco"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.iveco.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/IVECO%202.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Iveco"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29913"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iveco"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.iveco.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Iveco%20Logo%202023.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Opel"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40966"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Opel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.opel.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-01-21T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Opel%20logo%202023.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Opel"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40966"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Opel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.opel.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-01-21T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Opel%20Print%201970.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#DeprecatedRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Opel"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40966"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Opel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.opel.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-01-21T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Opel-Logo%202017.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#DeprecatedRank"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Opel"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40966"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Opel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.opel.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-01-21T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Opel%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#DeprecatedRank"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Opel"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40966"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Opel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.opel.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-01-21T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Opel%20Logo%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#DeprecatedRank"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Opel"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40966"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Opel"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.opel.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-01-21T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Opel%20Logo%201987.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#DeprecatedRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kenworth"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q774830"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kenworth"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kenworth.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1923-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/KW%20K104%20badge.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hino_Motors"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino Motors"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hino-global.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-05-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Hino%20Motors%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hino_Motors"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino Motors"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.hino.co.jp"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-05-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Hino%20Motors%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peterbilt"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q944640"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peterbilt"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.peterbilt.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1939-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Peterbilt%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Shelby_American"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045210"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carroll Shelby International"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.shelby.com/home"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-08-17T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Shelby%20American%20logo.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Spyker_Cars"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker Cars"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.spykercars.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Spyker.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fuso_(company)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1190247"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mitsubishi Fuso Truck and Bus Corporation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mitsubishi-fuso.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-01-06T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fuso%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/UD_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UD Trucks"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.udtrucks.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/UD%20Trucks%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sterling_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1257962"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q1257962"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.sterlingtrucks.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Sterling%20Trucks.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Think_Global"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1359036"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Think Global"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-06-22T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Th%21nk%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Western_Star_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1370660"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Star Trucks"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.westernstartrucks.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1967-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Star%20Trucks%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Freightliner_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420724"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q1420724"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.freightliner.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Freightliner%20Trucks.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mastretta"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1724639"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastretta"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1987-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mastretta%20logo.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/White_Motor_Company"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1756227"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "White Motor Company"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1980-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/White-company%201912-06%20cleveland.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Street_and_Racing_Technology"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1789249"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SRT"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.dodge.com/srt.html"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Srt%20chrysler%20brand%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Oshkosh_Corporation"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1969091"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oshkosh Corporation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.oshkoshcorp.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1917-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Oshkosh%20Corporation%202019%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volvo_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2033642"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volvo Trucks"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.volvotrucks.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1928-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo-Iron-Mark-Black.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volvo_Trucks"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2033642"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volvo Trucks"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.volvotrucks.kr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1928-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo-Iron-Mark-Black.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/DINA_S.A."
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2278607"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DINA Camiones S.A."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dina.com.mx/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1951-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mexican-GRUPO%20Dina-LOGO.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Veh%C3%ADculos_Automotores_Mexicanos"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2511956"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vehículos Automotores Mexicanos"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1946-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/15-07-16-Straszenszenen-Mexico-RalfR-WMA%201074.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Autocar_Company"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2872534"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Autocar Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.autocartruck.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1897-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Autocar%20Company%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Autocar_Company"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2872534"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Autocar Company"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.autocartruck.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1897-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Autocar%201.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Marmon_Motor_Company"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6772154"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marmon Motor Company"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/MarmonLogoTruck.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nikola_Corporation"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24887050"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nikola Corporation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://nikolamotor.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Nikola%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Workhorse_Group"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28406599"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Workhorse Group"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://workhorse.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Workhorse%20Group%20logo%20%28full%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Xos,_Inc."
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126325758"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Xos, Inc."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://xostrucks.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Xos%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      }
+    } ]
+  }
+}

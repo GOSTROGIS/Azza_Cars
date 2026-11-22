@@ -1,0 +1,50 @@
+[
+ {
+  "file": "vpic_getallmakes.json",
+  "committed": true,
+  "url": "https://vpic.nhtsa.dot.gov/api/vehicles/GetAllMakes?format=json",
+  "sha256": "7c18978eb40ee7b110f38d625fa5c848a4f82a46077dfb5ca2feb5c0a1673f75",
+  "bytes": 615656,
+  "retrieved_utc": "2026-11-22T19:50:03Z"
+ },
+ {
+  "file": "conjunto_de_datos_raiavl_mensual_venta_csv.zip",
+  "committed": false,
+  "url": "https://www.inegi.org.mx/contenidos/investigacion/datosprimarios/raiavl/datosabiertos/conjunto_de_datos_raiavl_mensual_venta_csv.zip",
+  "sha256": "efd59a9d8b0dae9e3eebf606d9907df40d7acb8db20754c1394007d22424794c",
+  "bytes": 22590997,
+  "retrieved_utc": "2026-11-22T19:50:13Z"
+ },
+ {
+  "file": "wikidata_sparql_00.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "987ec52f3760546afa96265f2c097874e4dc4fd6d98f396d957955ec79401f14",
+  "bytes": 106956,
+  "retrieved_utc": "2026-11-22T19:50:13Z"
+ },
+ {
+  "file": "wikidata_sparql_01.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "ae0d6679f4e613c7f17c6dbe8d3debf96fe20676e3778c0b3d526dec5c58090c",
+  "bytes": 96534,
+  "retrieved_utc": "2026-11-22T19:50:15Z"
+ },
+ {
+  "file": "wikidata_sparql_02.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "8bc12ebd5601e63b2d143154381b4cac52c7c9902719ccf787fb7b54d2e3d360",
+  "bytes": 67312,
+  "retrieved_utc": "2026-11-22T19:50:16Z"
+ },
+ {
+  "file": "wikidata_sparql_03.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "bb5abe07a7449edc5314e59c8d9e3cb0ea7410056fdcd008faca0814627e592b",
+  "bytes": 38579,
+  "retrieved_utc": "2026-11-22T19:50:17Z"
+ }
+]

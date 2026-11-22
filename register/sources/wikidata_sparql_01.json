@@ -1,0 +1,3365 @@
+{
+  "head" : {
+    "vars" : [ "article", "item", "itemLabel", "logo", "logoStart", "logoEnd", "logoRank", "inception", "dissolved", "website" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saleen"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1361906"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.saleen.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1983-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saleen"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kandi_Technologies"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17006727"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://en.kandivehicle.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-04-19T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kandi Technologies"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kandi_Technologies"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17006727"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.kandivehicle.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-04-19T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kandi Technologies"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Czinger"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99670567"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.czinger.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czinger"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Scuderia_Cameron_Glickenhaus"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108187217"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://glickenhausracing.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2004-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scuderia Cameron Glickenhaus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q246"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/VW%20logo%201937%20to%201939.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volkswagen"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1939-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vw.com/en.html"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-05-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volkswagen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q246"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/VW%20logo%202000.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volkswagen"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2000-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vw.com/en.html"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-05-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volkswagen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q246"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volkswagen%20logo%202019.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volkswagen"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vw.com/en.html"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-05-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volkswagen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q246"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volkswagen%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volkswagen"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.vw.com/en.html"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-05-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volkswagen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6686"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Renault%20Group%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Renault"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.renaultgroup.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1898-12-24T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renault"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20-%20Peugeot%20308%20III%20%28C%29%20-%2042.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://carros.peugeot.com.br/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Wordmark%20Peugeot%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://carros.peugeot.com.br/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20-%20Peugeot%20308%20III%20%28C%29%20-%2042.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.co.uk/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Wordmark%20Peugeot%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.co.uk/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20-%20Peugeot%20308%20III%20%28C%29%20-%2042.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.com/en/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Wordmark%20Peugeot%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.com/en/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20-%20Peugeot%20308%20III%20%28C%29%20-%2042.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.de"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Wordmark%20Peugeot%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.de"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20-%20Peugeot%20308%20III%20%28C%29%20-%2042.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Wordmark%20Peugeot%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20-%20Peugeot%20308%20III%20%28C%29%20-%2042.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.com.ar"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Wordmark%20Peugeot%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peugeot"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.peugeot.com.ar"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-09-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27423"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BYD%20Auto%202022%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BYD_Auto"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://byd-automobiles.com/fr/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-01-22T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BYD Auto"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27423"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BYD%20Auto%202022%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BYD_Auto"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.byd.com/cn"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-01-22T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BYD Auto"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27423"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BYD%20Auto%202022%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BYD_Auto"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.byd.com/en"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-01-22T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BYD Auto"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27423"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BYD%20Auto%202022%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BYD_Auto"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.byd.com/es"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-01-22T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BYD Auto"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29803"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Isuzu.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Isuzu"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.isuzu.co.jp/world/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1934-03-30T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isuzu"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40993"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Porsche%20Schriftzug.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Porsche"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.porsche.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Porsche"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40993"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Newporschecrest.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Porsche"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.porsche.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Porsche"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40993"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Porsche%20Wortmarke.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Porsche"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.porsche.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Porsche"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53268"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Toyota%20Symbol.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Toyota"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.toyota"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-08-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toyota"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53268"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Toyota%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Toyota"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.toyota"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-08-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toyota"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53268"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Registered%20trademark%20img%2006.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Toyota"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.toyota"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-08-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toyota"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53268"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Toyota.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Toyota"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://global.toyota"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1937-08-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toyota"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165708"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%20Trucks%202009%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ram_Trucks"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.ramtrucks.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ram Trucks"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172741"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Subaru%20logo%20%28transparent%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Subaru"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2019-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.subaru-global.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-07-15T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subaru"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181642"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Suzuki%20logo%202025.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Suzuki"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.globalsuzuki.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-02-10T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suzuki Motor Corporation"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q188217"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/SEAT%20S.A.%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/SEAT"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.seat.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1950-05-09T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SEAT"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215293"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo%20Trucks%20Logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volvo_Cars"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.volvocars.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-04-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volvo Cars"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215293"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo-Iron-Mark-Black.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volvo_Cars"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.volvocars.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-04-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volvo Cars"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215293"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo%20Trucks%20Logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volvo_Cars"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.volvocars.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volvo Cars"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215293"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Volvo-Iron-Mark-Black.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Volvo_Cars"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.volvocars.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volvo Cars"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q234803"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Rolls-Royce%20Motor%20Cars%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rolls-roycemotorcars.com/en_GB/home.html"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rolls-Royce Motor Cars"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q234803"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Rolls%20royce%20motorcars%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rolls-roycemotorcars.com/en_GB/home.html"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rolls-Royce Motor Cars"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q478214"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla%2C%20Inc.%20-%20Logo%20%28shield%20version%201%2C%20black%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.tesla.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-07-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tesla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q478214"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla%20Motors.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.tesla.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-07-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tesla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q478214"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla%20Motors%20Logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.tesla.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-07-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tesla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q478214"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla%2C%20Inc.%20-%20Logo%20%28black%20script%20version%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.tesla.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-07-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tesla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q545579"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jac%20motors%20textlogo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/JAC_Group"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jac.com.cn/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JAC Group"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q591001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Chery%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chery"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.chery.cn/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-08T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chery"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q591001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Chery%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chery"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cheryinternational.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-08T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chery"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/IMGPAGANI25.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pagani_Automobili"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.pagani.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Automobili"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mahindra%20Electric%20SUVs%20Logo.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mahindra_%26_Mahindra"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.mahindra.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1945-10-02T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra & Mahindra"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gwm.com.cn/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.gwm.com.cn/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm-eu.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm-eu.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm-global.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm-global.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm.iq/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm.iq/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm.iq/en"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwm.iq/en"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmanz.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmanz.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmanz.com/au/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmanz.com/au/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmanz.com/nz/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmanz.com/nz/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmbrunei.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmbrunei.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmhaval.com.au/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gwmhaval.com.au/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20da%20Great%20Wall%20Motors.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.onegwm.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/GWM%202025%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Great_Wall_Motor"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-04-23T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.onegwm.co.za/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420893"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Fisker%2C%20IAA%20Mobility%202023%2C%20Munich%20%28P1110255%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fisker_Inc."
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fisker"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1514963"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/SSC%20company%20logo%202014-03-26%2023-11.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/SSC_North_America"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.sscnorthamerica.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SSC North America"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1881443"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mg%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/MG_Motor"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.mg.co.uk/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-07-22T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "MG Motor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4047174"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Polestar%20logo%202020.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Polestar"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.polestar.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Polestar"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7334368"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Rimac%20Automobili%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rimac_Automobili"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rimac-automobili.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rimac Automobili"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7334368"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Rimac%20Automobili%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rimac_Automobili"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.rimac-automobili.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rimac Automobili"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7338847"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Rivian%20logo%20and%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rivian"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://rivian.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-06-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rivian Automotive"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8352675"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cupra.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cupra_(marque)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cupra.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cupra"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8352675"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Cupra.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cupra_(marque)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.cupra.com/es-es/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cupra"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22671741"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Karma-logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Karma_Automotive"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.karmaautomotive.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karma Automotive"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22671741"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Karma%20Automomotive%20logo%202021.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Karma_Automotive"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.karmaautomotive.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karma Automotive"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56660561"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20VinFast%20%283D%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/VinFast"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://vinfastauto.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "VinFast"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56660561"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20VinFast%20%283D%20Banner%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/VinFast"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://vinfastauto.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "VinFast"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56660561"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/VinFast%20logo%20%28simple%20variant%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/VinFast"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://vinfastauto.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "VinFast"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86681792"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lordstown%20Motors%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nu_Ride_Inc."
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://lordstownmotors.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lordstown Motors"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-06-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99482082"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Canoo%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Canoo"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.canoo.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canoo"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-17T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105085729"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BrightDrop%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BrightDrop"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gmenvolve.com/fleet/electric-vehicles/brightdrop-zevo"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BrightDrop"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2024-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Zeekr%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Zeekr"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://zeekrglobal.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-03-23T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Zeekr%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Zeekr"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://zeekrlife.com"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-03-23T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112077124"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Scout%20Mark%202025.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Scout_Motors"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.scoutmotors.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-05-11T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scout"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118646009"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Omoda%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Omoda"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.omodajaecoo.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-06-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Omoda"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124255702"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jaecoo%20wordmark.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jaecoo"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.omodajaecoo.com/"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-04-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jaecoo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134100360"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Slate%20Auto%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slate_Auto"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.slate.auto"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slate Auto"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134100360"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Slate%20Auto%20logo%20light-gray.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slate_Auto"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.slate.auto"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slate Auto"
+      }
+    } ]
+  }
+}

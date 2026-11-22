@@ -1,0 +1,2307 @@
+{
+  "head" : {
+    "vars" : [ "article", "item", "itemLabel", "logo", "logoStart", "logoEnd", "logoRank", "inception", "dissolved", "website" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pontiac"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q225978"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pontiac"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Avanti_(car)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4827699"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Avanti"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-07-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-01-01T00:00:00Z"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Yugo"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21205906"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yugo"
+      }
+    }, {
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Haval"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27790533"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27483"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20wordmark%20DAEWOO%20Motors%20%282002-2016%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Daewoo_Motors"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1972-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daewoo Motors"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27511"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Daihatsu%20logo%201998.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Daihatsu"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-03-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daihatsu"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.daihatsu.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201931.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201935.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201965.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201976%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201931.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201935.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201965.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201976%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201931.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201935.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201965.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201976%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201931.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201935.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201965.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1965-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27543"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Datsun%201976%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Datsun"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Datsun"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29366"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Changan%20icon.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Changan_Automobile"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Changan Automobile"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.changan.com.cn/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29366"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Changan%20icon.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Changan_Automobile"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Changan Automobile"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.globalchangan.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35676"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lada%20company%20logo%20image.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lada"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lada"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lada.ru/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35896"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lancia%20Automobiles%20logo.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lancia"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1906-11-27T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lancia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lancia.com/"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35896"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lancia%20Logo%202023.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lancia"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1906-11-27T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lancia"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lancia.com/"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48957"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Saab%20wordmark%20grey.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saab_Automobile"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1945-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saab Automobile"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Smart%202022.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Smart_(marque)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-02-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "smart"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.smart.com/"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Smart.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Smart_(marque)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-02-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "smart"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.smart.com/"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2002-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q179622"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Merkur%20ford%20brand%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Merkur"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1985-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Merkur"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202708"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/American-motors.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/American_Motors_Corporation"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1954-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1988-06-20T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "American Motors Corporation"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q204327"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Oldsmobile%20logo%20used%20from%201981%20until%201997.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Oldsmobile"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1897-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2004-04-29T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oldsmobile"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q209374"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Checkermotoslogo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Checker_Motors_Corporation"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1922-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-01-14T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Checker Motors Corporation"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.checkermotorcars.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213487"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/New%20Hummer%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hummer"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1992-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hummer"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gmc.com/electric/hummer-ev/pickup-trucks-suvs"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503487"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Front%20Scion%20Emblem%20-%202014%20Scion%20tC%20%2815230161334%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Scion_(automobile)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-06-09T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-02-03T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scion"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q569235"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Saturn%20corporation%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saturn_Corporation"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1985-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-10-31T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saturn Corporation"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q613883"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mercury%20Logo%20%28automobile%20company%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mercury_(automobile)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1938-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mercury"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q613883"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Mercury%20Logo%20%28automobile%20company%29.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mercury_(automobile)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1939-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mercury"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732935"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Asuna%20cars%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/As%C3%BCna"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1992-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1994-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asüna"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Foton%20Motor%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Foton_Motor"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-08-28T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Motor"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.foton.com.cn"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Rover%20badge%201965.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rover_Company"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1896-06-13T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1967-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q848620"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Rover%20badge%201907.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rover_Company"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1896-06-13T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1967-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "type" : "literal",
+        "value" : "Q848620"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/JMC%20Motor%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jiangling_Motors"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1952-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jiangling Motors"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.jmc.com.cn"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Plymouth%20brand%20logo%201964.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Plymouth_(automobile)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1928-07-07T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-06-29T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Triumph%20Globe%20Emblem2.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Triumph_Motor_Company"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Triumph%20STandard%20Emblem.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Triumph_Motor_Company"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1984-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Eagle%20vision%20%28cropped%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Eagle_(automobile)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1987-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Eagle%20vision%20%28cropped%29.jpg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Eagle_(automobile)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1988-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241608"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/DeLorean%20Motor%20Company%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/DeLorean_Motor_Company"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-10-24T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-10-26T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DeLorean Motor Company"
+      },
+      "logoStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1995-01-01T00:00:00Z"
+      },
+      "logoEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502806"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Geo%20car%20brand%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Geo_(automobile)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Geo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1855184"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Soueast%20Logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Soueast"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1995-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Soueast"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://en.soueast-motor.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1855184"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Soueast%20Logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Soueast"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1995-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Soueast"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.soueast-motor.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2056156"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Passport-auto-logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Passport_(automobile_dealership)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1988-01-01T00:00:00Z"
+      },
+      "dissolved" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Passport"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27555283"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Lynk%20%26%20Co%202016%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lynk_%26_Co"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-10-20T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lynk & Co"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.lynkco.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33111848"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/BAIC%20logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/BAIC_Motor"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-09-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "BAIC Motor"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.baicmotor.com"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55118127"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Geely%20Auto%202023.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Geely_Auto"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-01-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Geely Auto"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.geely.com"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55608782"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Seres%20Automobile%20%282023%29%20Logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seres_Auto_(Hubei)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-06-27T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seres Auto (Hubei)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dfdongfeng.com.cn/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55608782"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Seres%20Automobile%20%282023%29%20Logo.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seres_Auto_(Hubei)"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-06-27T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seres Auto (Hubei)"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "http://www.dfsk.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q95981531"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%9C%D7%95%D7%92%D7%95%20%D7%A9%D7%9C%20%D7%A7%D7%91%D7%95%D7%A6%D7%AA%20GAC.png"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/GAC_Motor"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-07-21T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "GAC Motor"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.gac-motor.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Jetour%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jetour"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-01-22T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.jetour.com.cn/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Leapmotor%20logo%20en.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Leapmotor"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-12-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.leapmotor.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Leapmotor%20logo%20zh.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Leapmotor"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-12-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.leapmotor.com/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104907477"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Seres%20Group.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seres_Group"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-09-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seres Group"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://en.seres.cn/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104907477"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Seres%20Group.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seres_Group"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1986-09-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seres Group"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://www.seres.cn/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Deepal%20global%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Deepal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-04-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deepal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://deepal.au/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Deepal%20global%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Deepal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-04-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deepal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://deepal.com.cn/"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "logo" : {
+        "type" : "uri",
+        "value" : "http://commons.wikimedia.org/wiki/Special:FilePath/Deepal%20global%20logo.svg"
+      },
+      "logoRank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "article" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Deepal"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-04-01T00:00:00Z"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deepal"
+      },
+      "website" : {
+        "type" : "uri",
+        "value" : "https://deepal.com.pk/"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,7057 @@
+{
+ "Acura": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "ADX": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 392
+   },
+   "ILX": {
+    "first_year": 2012,
+    "last_year": 2021,
+    "units": 2714
+   },
+   "INTEGRA": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 535
+   },
+   "Mdx": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 11183
+   },
+   "NSX": {
+    "first_year": 2016,
+    "last_year": 2022,
+    "units": 21
+   },
+   "Rdx": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 12426
+   },
+   "Rl": {
+    "first_year": 2005,
+    "last_year": 2012,
+    "units": 448
+   },
+   "Rlx": {
+    "first_year": 2013,
+    "last_year": 2015,
+    "units": 75
+   },
+   "TLX": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 2230
+   },
+   "TSX 2.4L": {
+    "first_year": 2008,
+    "last_year": 2014,
+    "units": 1765
+   },
+   "Tl 3.5l": {
+    "first_year": 2005,
+    "last_year": 2014,
+    "units": 4267
+   },
+   "Tl 3.7l": {
+    "first_year": 2009,
+    "last_year": 2016,
+    "units": 273
+   },
+   "Tsx 3.5l": {
+    "first_year": 2009,
+    "last_year": 2013,
+    "units": 237
+   },
+   "ZDX": {
+    "first_year": 2010,
+    "last_year": 2012,
+    "units": 32
+   }
+  },
+  "units": 36598
+ },
+ "Alfa Romeo": {
+  "first_year": 2011,
+  "last_year": 2026,
+  "models": {
+   "4C": {
+    "first_year": 2015,
+    "last_year": 2019,
+    "units": 52
+   },
+   "Alfa Romeo 159 2.2 Jts Sport Plus Selespeed": {
+    "first_year": 2011,
+    "last_year": 2012,
+    "units": 11
+   },
+   "Alfa Romeo 159 3.2 Sport Plus Awd Automatico": {
+    "first_year": 2011,
+    "last_year": 2012,
+    "units": 11
+   },
+   "Alfa Romeo Giulietta Progression Manual": {
+    "first_year": 2011,
+    "last_year": 2021,
+    "units": 958
+   },
+   "Alfa Romeo Mito Quadrifoglio Verde Manual": {
+    "first_year": 2011,
+    "last_year": 2019,
+    "units": 704
+   },
+   "Giulia": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 376
+   },
+   "Junior": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 375
+   },
+   "Stelvio": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 437
+   },
+   "TONALE": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 844
+   }
+  },
+  "units": 3768
+ },
+ "Audi": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "A 1 1.4T": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 2010
+   },
+   "A1": {
+    "first_year": 2018,
+    "last_year": 2019,
+    "units": 432
+   },
+   "A1*": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 6749
+   },
+   "A1-": {
+    "first_year": 2012,
+    "last_year": 2021,
+    "units": 17078
+   },
+   "A3": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 10905
+   },
+   "A3 Cabrio": {
+    "first_year": 2008,
+    "last_year": 2018,
+    "units": 213
+   },
+   "A3 Sed\u00e1n": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 1609
+   },
+   "A3-": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 34989
+   },
+   "A4": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 15379
+   },
+   "A4 1.8 Cabrio": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 80
+   },
+   "A4 1.8T": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 6458
+   },
+   "A4 2.0": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 3777
+   },
+   "A4 2.0 Cabrio": {
+    "first_year": 2006,
+    "last_year": 2009,
+    "units": 131
+   },
+   "A4 3.0": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 8
+   },
+   "A4 3.0 Cabrio": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 5
+   },
+   "A4 3.2": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 408
+   },
+   "A5": {
+    "first_year": 2012,
+    "last_year": 2025,
+    "units": 7106
+   },
+   "A5 2.0": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 415
+   },
+   "A5 2.0T Sportback": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 699
+   },
+   "A5 3.2": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 568
+   },
+   "A5 3.2 Sportback": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 110
+   },
+   "A5 Cabrio": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 65
+   },
+   "A5 Coupe": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 895
+   },
+   "A5 Sed\u00e1n": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 858
+   },
+   "A5 Sportback": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 2819
+   },
+   "A6": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 2709
+   },
+   "A6 2.7 Biturbo": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 13
+   },
+   "A6 2.8": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 322
+   },
+   "A6 3.0": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 557
+   },
+   "A6 3.2": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 1013
+   },
+   "A6 4.2": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 333
+   },
+   "A7": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 1939
+   },
+   "A8": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 528
+   },
+   "A8 4.2": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 208
+   },
+   "Audi Q7 3.0 TDI": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 602
+   },
+   "Audi Q7 3.6": {
+    "first_year": 2007,
+    "last_year": 2010,
+    "units": 1032
+   },
+   "Audi Q7 4.2": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 593
+   },
+   "Audi Q7 4.2 TDI": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 242
+   },
+   "Q 3": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 6515
+   },
+   "Q2": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 10551
+   },
+   "Q3": {
+    "first_year": 2018,
+    "last_year": 2021,
+    "units": 963
+   },
+   "Q3 SB": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 8547
+   },
+   "Q3-": {
+    "first_year": 2012,
+    "last_year": 2018,
+    "units": 10719
+   },
+   "Q5": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 22218
+   },
+   "Q5 2.0T": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 2171
+   },
+   "Q5 3.0 TDI": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 316
+   },
+   "Q5 3.2": {
+    "first_year": 2009,
+    "last_year": 2016,
+    "units": 7140
+   },
+   "Q6 etron": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 254
+   },
+   "Q7": {
+    "first_year": 2018,
+    "last_year": 2025,
+    "units": 661
+   },
+   "Q7 3.0T FSI": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 343
+   },
+   "Q7-": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 5586
+   },
+   "Q8": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 3853
+   },
+   "R8": {
+    "first_year": 2007,
+    "last_year": 2025,
+    "units": 769
+   },
+   "R8 Spyder": {
+    "first_year": 2010,
+    "last_year": 2018,
+    "units": 10
+   },
+   "RS 6": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 4
+   },
+   "RS4 4.2": {
+    "first_year": 2006,
+    "last_year": 2008,
+    "units": 48
+   },
+   "RS5 4.2": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 34
+   },
+   "RS6 Avant": {
+    "first_year": 2009,
+    "last_year": 2010,
+    "units": 4
+   },
+   "RS6 Sedan": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 13
+   },
+   "S3 2.0": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 333
+   },
+   "S4 3.0": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 30
+   },
+   "S4 4.2": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 96
+   },
+   "S4 4.2 Cabrio": {
+    "first_year": 2006,
+    "last_year": 2008,
+    "units": 6
+   },
+   "S5 4.2": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 179
+   },
+   "S6": {
+    "first_year": 2007,
+    "last_year": 2010,
+    "units": 25
+   },
+   "S8": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 44
+   },
+   "Sportback": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 3635
+   },
+   "TT Coupe": {
+    "first_year": 2005,
+    "last_year": 2023,
+    "units": 2130
+   },
+   "TT Roadster": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 211
+   },
+   "TTRS Coupe": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 5
+   },
+   "TTS Coupe": {
+    "first_year": 2008,
+    "last_year": 2010,
+    "units": 56
+   },
+   "TTS Roadster": {
+    "first_year": 2009,
+    "last_year": 2009,
+    "units": 1
+   },
+   "e-tron": {
+    "first_year": 2019,
+    "last_year": 2025,
+    "units": 518
+   }
+  },
+  "units": 211845
+ },
+ "Auteco": {
+  "first_year": 2024,
+  "last_year": 2026,
+  "models": {
+   "D2S 150": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 6
+   },
+   "D2S 250": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 5
+   },
+   "E-TRUCK B2.0T": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 7
+   },
+   "E-VAN S1.0T PRO": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 18
+   },
+   "E-Van B2.4T": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 2
+   },
+   "RICH 6 EV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 25
+   }
+  },
+  "units": 63
+ },
+ "BMW": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "118I": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 1254
+   },
+   "120I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 3787
+   },
+   "120i 3p": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 1466
+   },
+   "125i Coupe": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 688
+   },
+   "130I": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 152
+   },
+   "130i 3p": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 41
+   },
+   "135i Coupe": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 746
+   },
+   "320I": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 371
+   },
+   "325CI": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 140
+   },
+   "325CI Cabrio": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 114
+   },
+   "325I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 11965
+   },
+   "325I SDK": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 3
+   },
+   "325i Cabrio": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 459
+   },
+   "325i Coupe": {
+    "first_year": 2006,
+    "last_year": 2011,
+    "units": 794
+   },
+   "330CI": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 49
+   },
+   "330CI Cabrio": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 44
+   },
+   "330I": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 832
+   },
+   "335i": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 1105
+   },
+   "335i Cabrio": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 468
+   },
+   "335i Coupe": {
+    "first_year": 2006,
+    "last_year": 2011,
+    "units": 1050
+   },
+   "525I": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 1446
+   },
+   "528I": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 370
+   },
+   "530I": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 1379
+   },
+   "535I": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 383
+   },
+   "535i Gran Turismo": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 94
+   },
+   "540I": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 1
+   },
+   "545I": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 91
+   },
+   "550I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 553
+   },
+   "550i Gran Turismo": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 31
+   },
+   "645CI": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 60
+   },
+   "645CI Cabrio": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 24
+   },
+   "650I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 117
+   },
+   "650i Cabrio": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 46
+   },
+   "740I": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 53
+   },
+   "745I": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 16
+   },
+   "750I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 343
+   },
+   "760LI": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 70
+   },
+   "M3": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 241
+   },
+   "M3 Cabrio": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 37
+   },
+   "M3 Sedan": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 58
+   },
+   "M5": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 102
+   },
+   "M6": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 60
+   },
+   "Serie 1 Hatch": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 16267
+   },
+   "Serie 1 M Coupe": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 35
+   },
+   "Serie 1 Sed\u00e1n": {
+    "first_year": 2020,
+    "last_year": 2021,
+    "units": 1060
+   },
+   "Serie 2": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 9979
+   },
+   "Serie 2-": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 3926
+   },
+   "Serie 3": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 25055
+   },
+   "Serie 3-": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 7964
+   },
+   "Serie 4": {
+    "first_year": 2013,
+    "last_year": 2026,
+    "units": 11546
+   },
+   "Serie 5": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 5664
+   },
+   "Serie 6": {
+    "first_year": 2012,
+    "last_year": 2020,
+    "units": 283
+   },
+   "Serie 7": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 655
+   },
+   "Serie 8": {
+    "first_year": 2019,
+    "last_year": 2025,
+    "units": 136
+   },
+   "X1": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 26657
+   },
+   "X1 Sdrive20i": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 9
+   },
+   "X1 Xdrive 28i": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 342
+   },
+   "X1 Xdrive25i": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 672
+   },
+   "X2": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 8181
+   },
+   "X3": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 27870
+   },
+   "X3 2.5I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 3825
+   },
+   "X3 3.0I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1047
+   },
+   "X3 Xdrive 28ia": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 525
+   },
+   "X3 Xdrive35ia": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 212
+   },
+   "X4": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 12763
+   },
+   "X5": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 22049
+   },
+   "X5 3.0I": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 3147
+   },
+   "X5 4.4I": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 285
+   },
+   "X5 4.8I": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1603
+   },
+   "X5 M": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 69
+   },
+   "X5 Xdrive35I": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 715
+   },
+   "X5 Xdrive50I": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 252
+   },
+   "X6": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 11507
+   },
+   "X6 M": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 180
+   },
+   "X7": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 1866
+   },
+   "XM": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 191
+   },
+   "Z4": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1001
+   },
+   "Z4-": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 1292
+   },
+   "i3": {
+    "first_year": 2014,
+    "last_year": 2023,
+    "units": 481
+   },
+   "i4": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 432
+   },
+   "i5": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 269
+   },
+   "i7": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 36
+   },
+   "i8": {
+    "first_year": 2014,
+    "last_year": 2022,
+    "units": 135
+   },
+   "iX": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 1085
+   },
+   "iX1": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 626
+   },
+   "iX2": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 595
+   },
+   "iX3": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 760
+   }
+  },
+  "units": 244352
+ },
+ "Bentley": {
+  "first_year": 2006,
+  "last_year": 2026,
+  "models": {
+   "Arnage R": {
+    "first_year": 2007,
+    "last_year": 2008,
+    "units": 2
+   },
+   "Azure": {
+    "first_year": 2007,
+    "last_year": 2008,
+    "units": 4
+   },
+   "Bentayga": {
+    "first_year": 2016,
+    "last_year": 2026,
+    "units": 68
+   },
+   "Continental": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 179
+   },
+   "Flying Spur": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 123
+   },
+   "Mulsanne": {
+    "first_year": 2012,
+    "last_year": 2015,
+    "units": 7
+   }
+  },
+  "units": 383
+ },
+ "Changan": {
+  "first_year": 2025,
+  "last_year": 2026,
+  "models": {
+   "ALSVIN": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 6776
+   },
+   "CS35 PLUS": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 5035
+   },
+   "CS55 PLUS": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 3031
+   },
+   "CS55 Plus IDD": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 2732
+   },
+   "CS75": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1628
+   },
+   "CS95": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 189
+   },
+   "DEEPAL S07 BEV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 416
+   },
+   "DEEPAL S07 REEV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1129
+   },
+   "Eado Plus": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 2338
+   },
+   "Eado Plus IDD": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 2252
+   },
+   "HONOR S": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 3330
+   },
+   "HUNTER CHASIS": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 500
+   },
+   "HUNTER PLUS": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1889
+   },
+   "HUNTER WORK": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 520
+   },
+   "NEW STAR TRUCK": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 4182
+   },
+   "UNI-K": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1113
+   }
+  },
+  "units": 37060
+ },
+ "Chirey": {
+  "first_year": 2022,
+  "last_year": 2025,
+  "models": {
+   "Arrizo 8": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 649
+   },
+   "Tiggo 2": {
+    "first_year": 2023,
+    "last_year": 2025,
+    "units": 15513
+   },
+   "Tiggo 4": {
+    "first_year": 2022,
+    "last_year": 2025,
+    "units": 16383
+   },
+   "Tiggo 7": {
+    "first_year": 2022,
+    "last_year": 2025,
+    "units": 18592
+   },
+   "Tiggo 7 Pro e+": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 400
+   },
+   "Tiggo 8": {
+    "first_year": 2022,
+    "last_year": 2025,
+    "units": 7070
+   },
+   "Tiggo 8 Pro e+": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 301
+   }
+  },
+  "units": 58908
+ },
+ "Chrysler": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Aspen": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 2524
+   },
+   "Atos": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 71966
+   },
+   "Attitude": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 188987
+   },
+   "Avenger": {
+    "first_year": 2007,
+    "last_year": 2016,
+    "units": 36242
+   },
+   "CHRYSLER 300C": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 3341
+   },
+   "Caliber": {
+    "first_year": 2006,
+    "last_year": 2013,
+    "units": 23535
+   },
+   "Challenger": {
+    "first_year": 2008,
+    "last_year": 2025,
+    "units": 5989
+   },
+   "Charger": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 26208
+   },
+   "Cherokee": {
+    "first_year": 2013,
+    "last_year": 2026,
+    "units": 13451
+   },
+   "Chrysler 200": {
+    "first_year": 2011,
+    "last_year": 2017,
+    "units": 6204
+   },
+   "Chrysler 300": {
+    "first_year": 2005,
+    "last_year": 2020,
+    "units": 1567
+   },
+   "Chrysler Pacifica": {
+    "first_year": 2016,
+    "last_year": 2023,
+    "units": 3003
+   },
+   "Cirrus": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 9124
+   },
+   "Cirrus Coupe": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 162
+   },
+   "Commander": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 3537
+   },
+   "Commander Xk": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 2087
+   },
+   "Crew Cab": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 7225
+   },
+   "Crew Cab-": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 97290
+   },
+   "Crossfire": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 316
+   },
+   "Dakota": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 27784
+   },
+   "Dart": {
+    "first_year": 2012,
+    "last_year": 2017,
+    "units": 4431
+   },
+   "Dodge 1000": {
+    "first_year": 2007,
+    "last_year": 2010,
+    "units": 2585
+   },
+   "Dodge Neon": {
+    "first_year": 2016,
+    "last_year": 2021,
+    "units": 12045
+   },
+   "Durango": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 24840
+   },
+   "Grand Caravan": {
+    "first_year": 2016,
+    "last_year": 2021,
+    "units": 4673
+   },
+   "Grand Cherokee": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 78134
+   },
+   "H100": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 30190
+   },
+   "H100 Van": {
+    "first_year": 2009,
+    "last_year": 2014,
+    "units": 2608
+   },
+   "H100 Wagon": {
+    "first_year": 2009,
+    "last_year": 2015,
+    "units": 2989
+   },
+   "I10": {
+    "first_year": 2011,
+    "last_year": 2015,
+    "units": 37885
+   },
+   "JT": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 11023
+   },
+   "Jeep Compass": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 49502
+   },
+   "Jeep Compass-": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 15754
+   },
+   "Journey": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 147250
+   },
+   "Liberty": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 45751
+   },
+   "Mega Cab": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 1556
+   },
+   "Neon": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 11773
+   },
+   "Nitro": {
+    "first_year": 2006,
+    "last_year": 2013,
+    "units": 14281
+   },
+   "Nuevo Attitude": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 20076
+   },
+   "PT Cruiser": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 12458
+   },
+   "Pacifica": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 2154
+   },
+   "Patriot": {
+    "first_year": 2007,
+    "last_year": 2018,
+    "units": 76530
+   },
+   "Promaster": {
+    "first_year": 2013,
+    "last_year": 2026,
+    "units": 9779
+   },
+   "Promaster Rapid": {
+    "first_year": 2016,
+    "last_year": 2024,
+    "units": 27535
+   },
+   "Pt Cruiser Conv": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 379
+   },
+   "Quad Cab": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 30571
+   },
+   "RAM 1200": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 43238
+   },
+   "RAM 1500-": {
+    "first_year": 2007,
+    "last_year": 2022,
+    "units": 32672
+   },
+   "RAM 2500-": {
+    "first_year": 2007,
+    "last_year": 2022,
+    "units": 19526
+   },
+   "RAM 3500": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 1
+   },
+   "RAM 4000": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 74950
+   },
+   "RAM 4000 Diesel": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 1488
+   },
+   "RAM 5500": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 5
+   },
+   "RAM 700": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 127072
+   },
+   "RAM DS": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 3213
+   },
+   "Ram 1500": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 2686
+   },
+   "Ram 2500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 12446
+   },
+   "Renegade": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 32893
+   },
+   "Stratus": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 31901
+   },
+   "Verna 3 Ptas": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 2643
+   },
+   "Verna 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 11918
+   },
+   "Viper": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 73
+   },
+   "Vision": {
+    "first_year": 2014,
+    "last_year": 2021,
+    "units": 9782
+   },
+   "Voyager": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 32140
+   },
+   "Voyager Town&Country LTD": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 16632
+   },
+   "Voyager Town&Country LX": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 18301
+   },
+   "Wagoneer": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 1239
+   },
+   "Wrangler": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 58944
+   }
+  },
+  "units": 1741057
+ },
+ "Fiat": {
+  "first_year": 2006,
+  "last_year": 2026,
+  "models": {
+   "124 Spider": {
+    "first_year": 2016,
+    "last_year": 2017,
+    "units": 9
+   },
+   "500L": {
+    "first_year": 2015,
+    "last_year": 2021,
+    "units": 879
+   },
+   "500X": {
+    "first_year": 2015,
+    "last_year": 2017,
+    "units": 691
+   },
+   "Albea Sedan": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 857
+   },
+   "Argo": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 9718
+   },
+   "Bravo": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 127
+   },
+   "Ducato": {
+    "first_year": 2007,
+    "last_year": 2025,
+    "units": 8215
+   },
+   "FASTBACK": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 5374
+   },
+   "Fiat 500": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 1486
+   },
+   "Fiat 500-": {
+    "first_year": 2011,
+    "last_year": 2020,
+    "units": 18727
+   },
+   "Grande Punto 3 Ptas": {
+    "first_year": 2006,
+    "last_year": 2015,
+    "units": 1117
+   },
+   "Grande Punto 5 Ptas": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 964
+   },
+   "Grande Punto Turbo": {
+    "first_year": 2007,
+    "last_year": 2007,
+    "units": 14
+   },
+   "Idea": {
+    "first_year": 2007,
+    "last_year": 2010,
+    "units": 1216
+   },
+   "Linea": {
+    "first_year": 2010,
+    "last_year": 2012,
+    "units": 701
+   },
+   "Mobi": {
+    "first_year": 2016,
+    "last_year": 2026,
+    "units": 27138
+   },
+   "Nuevo Palio": {
+    "first_year": 2013,
+    "last_year": 2018,
+    "units": 3132
+   },
+   "Palio 1.8r": {
+    "first_year": 2006,
+    "last_year": 2009,
+    "units": 327
+   },
+   "Palio Adventure": {
+    "first_year": 2006,
+    "last_year": 2021,
+    "units": 7972
+   },
+   "Palio Hatchback": {
+    "first_year": 2006,
+    "last_year": 2009,
+    "units": 430
+   },
+   "Palio Sedan": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 1194
+   },
+   "Panda 4x2d": {
+    "first_year": 2007,
+    "last_year": 2013,
+    "units": 1167
+   },
+   "Panda 4x2m": {
+    "first_year": 2007,
+    "last_year": 2013,
+    "units": 897
+   },
+   "Panda 4x4": {
+    "first_year": 2007,
+    "last_year": 2010,
+    "units": 132
+   },
+   "Pulse": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 16114
+   },
+   "Stilo": {
+    "first_year": 2006,
+    "last_year": 2009,
+    "units": 263
+   },
+   "Strada Adventure": {
+    "first_year": 2006,
+    "last_year": 2016,
+    "units": 4139
+   },
+   "Uno": {
+    "first_year": 2013,
+    "last_year": 2021,
+    "units": 23484
+   }
+  },
+  "units": 136484
+ },
+ "Ford Motor": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Bronco": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 6894
+   },
+   "Bronco Sport": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 17339
+   },
+   "Club Wagon": {
+    "first_year": 2005,
+    "last_year": 2014,
+    "units": 5610
+   },
+   "Courier": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 31364
+   },
+   "Crown Victoria / Police Interceptor": {
+    "first_year": 2005,
+    "last_year": 2020,
+    "units": 2715
+   },
+   "E-Transit": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 3081
+   },
+   "Econoline": {
+    "first_year": 2005,
+    "last_year": 2014,
+    "units": 7620
+   },
+   "Ecosport": {
+    "first_year": 2005,
+    "last_year": 2022,
+    "units": 121836
+   },
+   "Edge": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 32528
+   },
+   "Escape": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "units": 130790
+   },
+   "Escape HEV": {
+    "first_year": 2019,
+    "last_year": 2025,
+    "units": 9960
+   },
+   "Excursion": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 268
+   },
+   "Expedition": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 29329
+   },
+   "Explorer": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 56004
+   },
+   "Explorer Sport Trac": {
+    "first_year": 2006,
+    "last_year": 2011,
+    "units": 6071
+   },
+   "F 150": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 39979
+   },
+   "F 250": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 24959
+   },
+   "F 250 Super Duty": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 11389
+   },
+   "F 350": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 50592
+   },
+   "F 450": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 12684
+   },
+   "F 450 Diesel": {
+    "first_year": 2009,
+    "last_year": 2010,
+    "units": 49
+   },
+   "F 550": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 3110
+   },
+   "F 550 Diesel": {
+    "first_year": 2009,
+    "last_year": 2009,
+    "units": 21
+   },
+   "F-350": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 72543
+   },
+   "F-450": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 13285
+   },
+   "F-550": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 7070
+   },
+   "F450 Diesel": {
+    "first_year": 2009,
+    "last_year": 2024,
+    "units": 5701
+   },
+   "F550 Diesel": {
+    "first_year": 2009,
+    "last_year": 2021,
+    "units": 3028
+   },
+   "Fiesta": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 27049
+   },
+   "Fiesta Ikon": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 22879
+   },
+   "Fiesta NA 5 DR": {
+    "first_year": 2010,
+    "last_year": 2019,
+    "units": 17704
+   },
+   "Fiesta NA Sedan": {
+    "first_year": 2010,
+    "last_year": 2019,
+    "units": 77369
+   },
+   "Fiesta Sedan / Ikon Notch": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 91755
+   },
+   "Fiesta St": {
+    "first_year": 2007,
+    "last_year": 2019,
+    "units": 579
+   },
+   "Figo 5 DR": {
+    "first_year": 2016,
+    "last_year": 2019,
+    "units": 16918
+   },
+   "Figo Sedan": {
+    "first_year": 2015,
+    "last_year": 2022,
+    "units": 89256
+   },
+   "Five Hundred": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 3148
+   },
+   "Focus 5 Dr": {
+    "first_year": 2009,
+    "last_year": 2019,
+    "units": 18592
+   },
+   "Focus Sedan": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 79825
+   },
+   "Focus St": {
+    "first_year": 2006,
+    "last_year": 2019,
+    "units": 4177
+   },
+   "Focus ZX3": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 15
+   },
+   "Ford GT": {
+    "first_year": 2020,
+    "last_year": 2022,
+    "units": 57
+   },
+   "Freestar": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 8187
+   },
+   "Fusion": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 47276
+   },
+   "Fusion Hibrido": {
+    "first_year": 2017,
+    "last_year": 2021,
+    "units": 1309
+   },
+   "Ikon Hatch": {
+    "first_year": 2011,
+    "last_year": 2015,
+    "units": 36429
+   },
+   "Ka": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 14749
+   },
+   "Lobo Crew Cab": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "units": 85725
+   },
+   "Lobo Regular Cab": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 57852
+   },
+   "Maverick": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 12753
+   },
+   "Mondeo": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 8281
+   },
+   "Mustang": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 32926
+   },
+   "Mustang Mach-E": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 522
+   },
+   "New F150 / F-150": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 72887
+   },
+   "Ranger": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 45816
+   },
+   "Ranger Chassis": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 3862
+   },
+   "Ranger Crew Cab": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 148380
+   },
+   "Ranger Larga": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 3555
+   },
+   "Sable": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 18
+   },
+   "Territory": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 57504
+   },
+   "Transit": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 55627
+   },
+   "Transit Courier": {
+    "first_year": 2021,
+    "last_year": 2024,
+    "units": 5439
+   },
+   "Transit Pasajeros": {
+    "first_year": 2009,
+    "last_year": 2023,
+    "units": 8305
+   }
+  },
+  "units": 1862544
+ },
+ "Foton": {
+  "first_year": 2024,
+  "last_year": 2026,
+  "models": {
+   "HI VAN EV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 14
+   },
+   "HI-VAN": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 563
+   },
+   "MILER": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 158
+   },
+   "S3": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 637
+   },
+   "S3 EV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 127
+   },
+   "TM 3": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1663
+   },
+   "TM EV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 24
+   },
+   "TUNLAND": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 2030
+   },
+   "Tunland EV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 9
+   },
+   "VIEW": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 985
+   },
+   "VIEW EV": {
+    "first_year": 2024,
+    "last_year": 2024,
+    "units": 24
+   },
+   "WONDER": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 50
+   },
+   "Wonder EV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 24
+   }
+  },
+  "units": 6308
+ },
+ "GAC": {
+  "first_year": 2024,
+  "last_year": 2026,
+  "models": {
+   "AION ES": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 2282
+   },
+   "AION UT": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1484
+   },
+   "AION Y": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 270
+   },
+   "Emkoo": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1835
+   },
+   "Emzoom": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 7850
+   },
+   "GN8": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 782
+   },
+   "GS4": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1145
+   },
+   "GS7": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 174
+   },
+   "GS8": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 2174
+   },
+   "HYPTEC HT": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 14
+   }
+  },
+  "units": 18010
+ },
+ "Geely": {
+  "first_year": 2024,
+  "last_year": 2026,
+  "models": {
+   "Cityray": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 3195
+   },
+   "Coolray": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 11369
+   },
+   "EX2": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 6835
+   },
+   "EX5": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 379
+   },
+   "EX5 EM-i": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 9956
+   },
+   "Emgrand": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 29257
+   },
+   "Geometry C": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 191
+   },
+   "Gx3 Pro": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 2057
+   },
+   "Monjaro": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1884
+   },
+   "Monjaro EM-i": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 357
+   },
+   "Okavango": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 494
+   },
+   "Starray": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 3190
+   }
+  },
+  "units": 69164
+ },
+ "General Motors": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "147": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 76
+   },
+   "156": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 52
+   },
+   "9-3 Sport Sedan 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1426
+   },
+   "9-5 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 101
+   },
+   "Acadia": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 25590
+   },
+   "Astra 3 Ptas": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 575
+   },
+   "Astra 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 20169
+   },
+   "Astra 5 Ptas": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 8474
+   },
+   "Ats 4p": {
+    "first_year": 2012,
+    "last_year": 2020,
+    "units": 1277
+   },
+   "Avalanche UUV": {
+    "first_year": 2005,
+    "last_year": 2014,
+    "units": 6008
+   },
+   "Aveo": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 482428
+   },
+   "Aveo HB": {
+    "first_year": 2023,
+    "last_year": 2023,
+    "units": 23
+   },
+   "Aveo-": {
+    "first_year": 2008,
+    "last_year": 2022,
+    "units": 529328
+   },
+   "Aztek SUV": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 90
+   },
+   "Beat": {
+    "first_year": 2017,
+    "last_year": 2023,
+    "units": 99060
+   },
+   "Beat 4 PTAS.": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 142992
+   },
+   "Blazer": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 6625
+   },
+   "Blazer EV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 197
+   },
+   "Bls 4 Ptas": {
+    "first_year": 2006,
+    "last_year": 2009,
+    "units": 397
+   },
+   "Bolt": {
+    "first_year": 2017,
+    "last_year": 2021,
+    "units": 122
+   },
+   "Bolt EUV": {
+    "first_year": 2022,
+    "last_year": 2025,
+    "units": 381
+   },
+   "Brightdrop": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 75
+   },
+   "Camaro": {
+    "first_year": 2009,
+    "last_year": 2025,
+    "units": 12333
+   },
+   "Camaro Convertible": {
+    "first_year": 2011,
+    "last_year": 2021,
+    "units": 596
+   },
+   "Canyon": {
+    "first_year": 2006,
+    "last_year": 2013,
+    "units": 3387
+   },
+   "Canyon Crew Cab 4x4": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 4573
+   },
+   "Captiva SUV": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 98011
+   },
+   "Captiva Sport": {
+    "first_year": 2007,
+    "last_year": 2023,
+    "units": 48961
+   },
+   "Cavalier 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 56662
+   },
+   "Chevrolet Express Cargo Van": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 13567
+   },
+   "Chevrolet Express Cutaway": {
+    "first_year": 2011,
+    "last_year": 2016,
+    "units": 248
+   },
+   "Chevrolet Express MAX Cargo Van": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1493
+   },
+   "Chevrolet Express Passenger Van": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "units": 13983
+   },
+   "Chevy 3 Ptas": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 156154
+   },
+   "Chevy 4 PTAS": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 127818
+   },
+   "Chevy 5 Ptas": {
+    "first_year": 2005,
+    "last_year": 2012,
+    "units": 82317
+   },
+   "Cheyenne  Doble Cabina": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 22311
+   },
+   "Cheyenne Cabina Regular": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 5562
+   },
+   "Cheyenne Doble Cabina": {
+    "first_year": 2019,
+    "last_year": 2025,
+    "units": 847
+   },
+   "Colorado Cabina Regular": {
+    "first_year": 2007,
+    "last_year": 2008,
+    "units": 697
+   },
+   "Colorado Doble Cabina": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 48284
+   },
+   "Corsa 5 Ptas": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 7796
+   },
+   "Corsa Sedan 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 95000
+   },
+   "Corvette": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 1530
+   },
+   "Corvette 2  Pts. Convertible": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 212
+   },
+   "Cruze 4 PTAS-": {
+    "first_year": 2016,
+    "last_year": 2024,
+    "units": 13630
+   },
+   "Cruze 4 Ptas": {
+    "first_year": 2009,
+    "last_year": 2020,
+    "units": 63662
+   },
+   "Cts 2 Ptas": {
+    "first_year": 2010,
+    "last_year": 2015,
+    "units": 299
+   },
+   "Cts 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 2560
+   },
+   "De Ville 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 7
+   },
+   "Enclave": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 11773
+   },
+   "Encore": {
+    "first_year": 2013,
+    "last_year": 2026,
+    "units": 14532
+   },
+   "Envision SUV": {
+    "first_year": 2016,
+    "last_year": 2026,
+    "units": 4811
+   },
+   "Envista SUV": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 5500
+   },
+   "Epica": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 871
+   },
+   "Equinox EV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 608
+   },
+   "Equinox SUV-": {
+    "first_year": 2017,
+    "last_year": 2022,
+    "units": 10056
+   },
+   "Equinox Suv": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 44823
+   },
+   "Escalade ESV SUV AWD": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 9050
+   },
+   "Escalade EXT UUV 4X4": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 1534
+   },
+   "Escalade IQ Suv": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 69
+   },
+   "Escalade IQL Suv": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 59
+   },
+   "Escalade Suv": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 5995
+   },
+   "G3 4 PTAS-": {
+    "first_year": 2008,
+    "last_year": 2009,
+    "units": 3487
+   },
+   "G3 4 Ptas": {
+    "first_year": 2006,
+    "last_year": 2011,
+    "units": 17751
+   },
+   "G3 5 PTAS-": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 1296
+   },
+   "G5 2 Ptas": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 4142
+   },
+   "G5 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 5554
+   },
+   "G6 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 3274
+   },
+   "GMC Sierra Cabina Regular": {
+    "first_year": 2006,
+    "last_year": 2019,
+    "units": 7222
+   },
+   "GMC Sierra Doble Cabina": {
+    "first_year": 2007,
+    "last_year": 2019,
+    "units": 12687
+   },
+   "Grand Am 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 98
+   },
+   "Groove SUV": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 82941
+   },
+   "H2 Sut": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 539
+   },
+   "H2 Suv": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 1257
+   },
+   "H3 Suv": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 5415
+   },
+   "H3 T": {
+    "first_year": 2008,
+    "last_year": 2010,
+    "units": 1347
+   },
+   "HHR 5 PTAS": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 9585
+   },
+   "Hummer EV Pickup": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 170
+   },
+   "Hummer EV SUV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 208
+   },
+   "Impala": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 71
+   },
+   "Kodiak Chassis Cab Class 6 PBV23,900": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 945
+   },
+   "Kodiak Chassis Cab Class 7 PBV33,000": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 3485
+   },
+   "Kodiak Chassis Cab Class 8 PBV36,000": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 5393
+   },
+   "Lacrosse": {
+    "first_year": 2010,
+    "last_year": 2017,
+    "units": 1200
+   },
+   "Luv Cabina Regular": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 811
+   },
+   "Luv Chasis Cabina": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 1712
+   },
+   "Luv Doble Cabina": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 2626
+   },
+   "Lyriq SUV": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 179
+   },
+   "Malibu 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2023,
+    "units": 53452
+   },
+   "Matiz 5 Ptas": {
+    "first_year": 2005,
+    "last_year": 2018,
+    "units": 140385
+   },
+   "Meriva Monocab": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 17206
+   },
+   "Montana Crew Cab": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 9702
+   },
+   "Montana Sv6 Van": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 2177
+   },
+   "Onix": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 121745
+   },
+   "Optiq": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 196
+   },
+   "Optra": {
+    "first_year": 2006,
+    "last_year": 2012,
+    "units": 62568
+   },
+   "P-30 Fwd Control Chassis": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 216
+   },
+   "Palio 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 1010
+   },
+   "Palio 5 Ptas": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 104
+   },
+   "Palio Adventurer": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 2199
+   },
+   "Pontiac Torrent Suv": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 5860
+   },
+   "Regal": {
+    "first_year": 2012,
+    "last_year": 2019,
+    "units": 1137
+   },
+   "S10": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 73166
+   },
+   "S10 Max Cabina Regular": {
+    "first_year": 2022,
+    "last_year": 2024,
+    "units": 3445
+   },
+   "S10 Max Chassis": {
+    "first_year": 2022,
+    "last_year": 2024,
+    "units": 7344
+   },
+   "S10 Max Doble Cabina": {
+    "first_year": 2022,
+    "last_year": 2024,
+    "units": 19825
+   },
+   "SRX SUV-": {
+    "first_year": 2009,
+    "last_year": 2017,
+    "units": 3683
+   },
+   "Sierra Cabina Regular": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 6682
+   },
+   "Sierra Doble Cabina": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 15400
+   },
+   "Silverado 1500 Cabina Regular": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 3793
+   },
+   "Silverado 1500 Cabina Regular-": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 77696
+   },
+   "Silverado 2500 Cabina Extendida": {
+    "first_year": 2005,
+    "last_year": 2023,
+    "units": 26068
+   },
+   "Silverado 2500 Cabina Regular": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 24845
+   },
+   "Silverado 2500 Cabina Regular-": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 33854
+   },
+   "Silverado 2500 Cheyenne Crew Cab 4x4": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 6340
+   },
+   "Silverado 2500 Doble Cabina": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 2726
+   },
+   "Silverado 2500 Doble Cabina-": {
+    "first_year": 2007,
+    "last_year": 2020,
+    "units": 32906
+   },
+   "Silverado 3500 Chassis Cab": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 40392
+   },
+   "Silverado 3500 HD Chassis Cab Heavy Duty": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 5662
+   },
+   "Silverado Cabina Regular": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 18435
+   },
+   "Silverado Doble Cabina": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 26487
+   },
+   "Solstice 2 Ptas": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1609
+   },
+   "Sonic": {
+    "first_year": 2011,
+    "last_year": 2013,
+    "units": 21278
+   },
+   "Sonic 5 PTS": {
+    "first_year": 2014,
+    "last_year": 2018,
+    "units": 1541
+   },
+   "Sonic 5 PTS-": {
+    "first_year": 2015,
+    "last_year": 2020,
+    "units": 5994
+   },
+   "Sonic-": {
+    "first_year": 2012,
+    "last_year": 2022,
+    "units": 147419
+   },
+   "Sonora Suv": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 981
+   },
+   "Spark": {
+    "first_year": 2010,
+    "last_year": 2020,
+    "units": 246306
+   },
+   "Spark EUV 4 dr.": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 4303
+   },
+   "Spark EV 5 Ptas.": {
+    "first_year": 2015,
+    "last_year": 2016,
+    "units": 5
+   },
+   "Spark NG": {
+    "first_year": 2015,
+    "last_year": 2023,
+    "units": 58508
+   },
+   "Srx Suv": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 111
+   },
+   "Sts 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 242
+   },
+   "Suburban SUV-": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 14115
+   },
+   "Suburban Suv": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 41993
+   },
+   "Sunfire 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 118
+   },
+   "Sunfire GT 2 Ptas": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 502
+   },
+   "Tahoe": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 28540
+   },
+   "Terrain SUV-": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 17855
+   },
+   "Terrain Suv": {
+    "first_year": 2011,
+    "last_year": 2018,
+    "units": 11882
+   },
+   "Tornado Pickup": {
+    "first_year": 2005,
+    "last_year": 2022,
+    "units": 123361
+   },
+   "Tornado Van": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 78997
+   },
+   "Tracker": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 63608
+   },
+   "Tracker Suv": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 19196
+   },
+   "Trailblazer Suv": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 8440
+   },
+   "Traverse Suv": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 22110
+   },
+   "Trax": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 167055
+   },
+   "Uplander Van": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 17390
+   },
+   "Vectra 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 4321
+   },
+   "Venture Van": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 315
+   },
+   "Verano": {
+    "first_year": 2012,
+    "last_year": 2017,
+    "units": 1836
+   },
+   "Volt 4 Ptas.": {
+    "first_year": 2015,
+    "last_year": 2019,
+    "units": 137
+   },
+   "XT5 SUV": {
+    "first_year": 2016,
+    "last_year": 2026,
+    "units": 2386
+   },
+   "Xlr 2 Ptas": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 17
+   },
+   "Xt4 Suv": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 1702
+   },
+   "Yukon Suv": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 14175
+   },
+   "Yukon XL": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 3892
+   },
+   "Zafira Monocab": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 2735
+   }
+  },
+  "units": 4472723
+ },
+ "Great Wall Motor": {
+  "first_year": 2023,
+  "last_year": 2026,
+  "models": {
+   "GWM P300": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 104
+   },
+   "H7": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 202
+   },
+   "HAVAL H6": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 8095
+   },
+   "HAVAL Jolion": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 20045
+   },
+   "ORA 03": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 1396
+   },
+   "Ora 5": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 556
+   },
+   "POER": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 8479
+   },
+   "POER 500": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 13
+   },
+   "TANK 300": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 2194
+   },
+   "TANK 500": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 512
+   }
+  },
+  "units": 41596
+ },
+ "Honda": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Accord": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 23653
+   },
+   "Accord 2pts": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 4296
+   },
+   "Accord-": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 68237
+   },
+   "BR-V": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 45259
+   },
+   "CR-V": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 179222
+   },
+   "CR-V-": {
+    "first_year": 2007,
+    "last_year": 2017,
+    "units": 180023
+   },
+   "CR-Z": {
+    "first_year": 2013,
+    "last_year": 2015,
+    "units": 760
+   },
+   "Civic": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 138768
+   },
+   "Civic 2pts Ta": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 11452
+   },
+   "Civic 2pts Tm": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 8322
+   },
+   "Civic Ima": {
+    "first_year": 2006,
+    "last_year": 2015,
+    "units": 2374
+   },
+   "Civic Si": {
+    "first_year": 2006,
+    "last_year": 2015,
+    "units": 1969
+   },
+   "Crosstour": {
+    "first_year": 2009,
+    "last_year": 2015,
+    "units": 917
+   },
+   "Fit": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 30555
+   },
+   "Fit-": {
+    "first_year": 2014,
+    "last_year": 2021,
+    "units": 47485
+   },
+   "HR-V-": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 148733
+   },
+   "Honda City": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 153138
+   },
+   "Honda Pilot": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 41833
+   },
+   "Insight Hybrid": {
+    "first_year": 2018,
+    "last_year": 2022,
+    "units": 2343
+   },
+   "Odyssey": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 66851
+   },
+   "Prelude": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 66
+   },
+   "Ridgeline": {
+    "first_year": 2006,
+    "last_year": 2015,
+    "units": 4424
+   }
+  },
+  "units": 1160680
+ },
+ "Hyundai": {
+  "first_year": 2014,
+  "last_year": 2026,
+  "models": {
+   "Accent Hatchback": {
+    "first_year": 2017,
+    "last_year": 2022,
+    "units": 11058
+   },
+   "Accent Sedan": {
+    "first_year": 2017,
+    "last_year": 2022,
+    "units": 34331
+   },
+   "Creta": {
+    "first_year": 2016,
+    "last_year": 2026,
+    "units": 134507
+   },
+   "Elantra": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 33306
+   },
+   "Genesis": {
+    "first_year": 2014,
+    "last_year": 2016,
+    "units": 13
+   },
+   "Grand I10": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 86170
+   },
+   "Grand I10 Sed\u00e1n": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 101050
+   },
+   "HB20 HATCHBACK": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 3570
+   },
+   "HB20 SEDAN": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 17503
+   },
+   "IX35": {
+    "first_year": 2014,
+    "last_year": 2015,
+    "units": 7883
+   },
+   "Ioniq": {
+    "first_year": 2017,
+    "last_year": 2022,
+    "units": 3219
+   },
+   "Ioniq 5": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 123
+   },
+   "Palisade": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 2021
+   },
+   "Santa FE 7 P": {
+    "first_year": 2017,
+    "last_year": 2020,
+    "units": 1532
+   },
+   "Santa Fe": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 7813
+   },
+   "Sonata": {
+    "first_year": 2014,
+    "last_year": 2019,
+    "units": 4969
+   },
+   "Starex": {
+    "first_year": 2018,
+    "last_year": 2020,
+    "units": 2790
+   },
+   "Tucson": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 78163
+   },
+   "Veloster": {
+    "first_year": 2014,
+    "last_year": 2015,
+    "units": 27
+   },
+   "Venue": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 761
+   }
+  },
+  "units": 530809
+ },
+ "Infiniti": {
+  "first_year": 2011,
+  "last_year": 2026,
+  "models": {
+   "FX": {
+    "first_year": 2011,
+    "last_year": 2018,
+    "units": 1081
+   },
+   "G37 Coupe": {
+    "first_year": 2011,
+    "last_year": 2018,
+    "units": 290
+   },
+   "G37 Sedan": {
+    "first_year": 2011,
+    "last_year": 2018,
+    "units": 3754
+   },
+   "Infiniti Jx": {
+    "first_year": 2012,
+    "last_year": 2018,
+    "units": 3794
+   },
+   "M": {
+    "first_year": 2011,
+    "last_year": 2018,
+    "units": 620
+   },
+   "Q50": {
+    "first_year": 2018,
+    "last_year": 2021,
+    "units": 531
+   },
+   "Q60": {
+    "first_year": 2018,
+    "last_year": 2022,
+    "units": 119
+   },
+   "Q70": {
+    "first_year": 2018,
+    "last_year": 2020,
+    "units": 24
+   },
+   "QX": {
+    "first_year": 2011,
+    "last_year": 2018,
+    "units": 1087
+   },
+   "QX30": {
+    "first_year": 2016,
+    "last_year": 2020,
+    "units": 190
+   },
+   "QX50": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 1812
+   },
+   "QX55": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 811
+   },
+   "QX60": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 3793
+   },
+   "QX65": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 144
+   },
+   "QX70": {
+    "first_year": 2018,
+    "last_year": 2020,
+    "units": 126
+   },
+   "QX80": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 1449
+   }
+  },
+  "units": 19625
+ },
+ "Isuzu": {
+  "first_year": 2007,
+  "last_year": 2026,
+  "models": {
+   "D-MAX": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 249
+   },
+   "ELF 200": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 6813
+   },
+   "ELF 300": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 16071
+   },
+   "ELF 350": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 554
+   },
+   "ELF100": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 6373
+   }
+  },
+  "units": 30060
+ },
+ "JAC": {
+  "first_year": 2017,
+  "last_year": 2026,
+  "models": {
+   "E 10X": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 4471
+   },
+   "E 30x": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 437
+   },
+   "E Frison T8": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 86
+   },
+   "E J4": {
+    "first_year": 2020,
+    "last_year": 2020,
+    "units": 1
+   },
+   "E J7": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 581
+   },
+   "E SUNRAY": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 2134
+   },
+   "E Sei 1": {
+    "first_year": 2020,
+    "last_year": 2022,
+    "units": 87
+   },
+   "E Sei 2": {
+    "first_year": 2020,
+    "last_year": 2021,
+    "units": 50
+   },
+   "E Sei 4": {
+    "first_year": 2020,
+    "last_year": 2025,
+    "units": 139
+   },
+   "E Sunray City": {
+    "first_year": 2022,
+    "last_year": 2024,
+    "units": 29
+   },
+   "E X350": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 108
+   },
+   "ESei4 Pro": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 626
+   },
+   "EX450": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 332
+   },
+   "Frison": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 44023
+   },
+   "GML X150 EV": {
+    "first_year": 2017,
+    "last_year": 2022,
+    "units": 1074
+   },
+   "J4": {
+    "first_year": 2017,
+    "last_year": 2021,
+    "units": 775
+   },
+   "J7": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 4899
+   },
+   "JAC2": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 4662
+   },
+   "JAC4": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 6696
+   },
+   "JAC6": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1632
+   },
+   "JAC8": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 5321
+   },
+   "SEI7 PRO": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 2371
+   },
+   "SUNRAY": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 9546
+   },
+   "Sei2": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 12530
+   },
+   "Sei3": {
+    "first_year": 2017,
+    "last_year": 2024,
+    "units": 5879
+   },
+   "Sei4": {
+    "first_year": 2019,
+    "last_year": 2021,
+    "units": 1041
+   },
+   "Sei4 Pro": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 6038
+   },
+   "Sei6 Pro": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 1651
+   },
+   "Sei7": {
+    "first_year": 2018,
+    "last_year": 2024,
+    "units": 684
+   },
+   "Sunray City": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1080
+   },
+   "Traveler": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 445
+   },
+   "X 200": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 2973
+   },
+   "X250": {
+    "first_year": 2020,
+    "last_year": 2025,
+    "units": 336
+   },
+   "X350": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 3991
+   }
+  },
+  "units": 126728
+ },
+ "JETOUR": {
+  "first_year": 2023,
+  "last_year": 2025,
+  "models": {
+   "Dashing": {
+    "first_year": 2023,
+    "last_year": 2025,
+    "units": 1653
+   },
+   "T2": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 314
+   },
+   "X70": {
+    "first_year": 2023,
+    "last_year": 2025,
+    "units": 1691
+   },
+   "X70 Plus": {
+    "first_year": 2023,
+    "last_year": 2025,
+    "units": 1311
+   }
+  },
+  "units": 4969
+ },
+ "Jaguar": {
+  "first_year": 2005,
+  "last_year": 2025,
+  "models": {
+   "E-Pace": {
+    "first_year": 2018,
+    "last_year": 2022,
+    "units": 253
+   },
+   "F Type": {
+    "first_year": 2013,
+    "last_year": 2014,
+    "units": 67
+   },
+   "F-Pace": {
+    "first_year": 2016,
+    "last_year": 2025,
+    "units": 699
+   },
+   "F-Type": {
+    "first_year": 2015,
+    "last_year": 2024,
+    "units": 237
+   },
+   "I-Pace": {
+    "first_year": 2018,
+    "last_year": 2023,
+    "units": 41
+   },
+   "S Type 3.0l": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 241
+   },
+   "S Type 4.2l": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 87
+   },
+   "X Type 2.5l": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 46
+   },
+   "X Type 3.0l": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 506
+   },
+   "XE": {
+    "first_year": 2015,
+    "last_year": 2021,
+    "units": 372
+   },
+   "XF": {
+    "first_year": 2015,
+    "last_year": 2021,
+    "units": 128
+   },
+   "XF 4.2L": {
+    "first_year": 2008,
+    "last_year": 2010,
+    "units": 333
+   },
+   "XF 5.0L": {
+    "first_year": 2010,
+    "last_year": 2015,
+    "units": 410
+   },
+   "XJ": {
+    "first_year": 2015,
+    "last_year": 2017,
+    "units": 16
+   },
+   "XK": {
+    "first_year": 2015,
+    "last_year": 2015,
+    "units": 1
+   },
+   "Xj Sedan Series": {
+    "first_year": 2005,
+    "last_year": 2014,
+    "units": 142
+   },
+   "Xk Series": {
+    "first_year": 2005,
+    "last_year": 2014,
+    "units": 126
+   }
+  },
+  "units": 3705
+ },
+ "Jetour Soueast": {
+  "first_year": 2025,
+  "last_year": 2026,
+  "models": {
+   "Dashing": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1126
+   },
+   "F700 PHEV": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 61
+   },
+   "G700 PHEV": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 429
+   },
+   "S06 i-DM": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 531
+   },
+   "S07": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 314
+   },
+   "S08 i-DM": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 142
+   },
+   "S09": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 208
+   },
+   "T1": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 756
+   },
+   "T1 i-DM": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 819
+   },
+   "T2": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1237
+   },
+   "T2 i-DM": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1736
+   },
+   "T2 i-DM 4WD": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 278
+   },
+   "X70": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 264
+   },
+   "X70 Plus": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 176
+   }
+  },
+  "units": 8077
+ },
+ "KIA": {
+  "first_year": 2015,
+  "last_year": 2026,
+  "models": {
+   "EV3": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 267
+   },
+   "EV6": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 252
+   },
+   "Forte": {
+    "first_year": 2015,
+    "last_year": 2016,
+    "units": 6161
+   },
+   "Forte Hatchback": {
+    "first_year": 2016,
+    "last_year": 2025,
+    "units": 14100
+   },
+   "Forte-": {
+    "first_year": 2016,
+    "last_year": 2025,
+    "units": 113660
+   },
+   "K4 Hatchback": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 2078
+   },
+   "K4 Sed\u00e1n": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 26959
+   },
+   "KIA K3 Hatchback": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 28146
+   },
+   "KIA K3 Sed\u00e1n": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 136827
+   },
+   "KIA Niro": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 10668
+   },
+   "KIA R\u00edo Hatchback": {
+    "first_year": 2016,
+    "last_year": 2017,
+    "units": 5021
+   },
+   "KIA R\u00edo Sedan": {
+    "first_year": 2016,
+    "last_year": 2017,
+    "units": 11891
+   },
+   "KIA R\u00edo Sedan-": {
+    "first_year": 2017,
+    "last_year": 2024,
+    "units": 171150
+   },
+   "KIA \u00d3ptima": {
+    "first_year": 2016,
+    "last_year": 2021,
+    "units": 7634
+   },
+   "Kia R\u00edo Hatchback-": {
+    "first_year": 2017,
+    "last_year": 2024,
+    "units": 79291
+   },
+   "SPORTAGE": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 51083
+   },
+   "Sedona": {
+    "first_year": 2018,
+    "last_year": 2021,
+    "units": 6047
+   },
+   "Seltos": {
+    "first_year": 2020,
+    "last_year": 2024,
+    "units": 56310
+   },
+   "Seltos HEV": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 304
+   },
+   "Seltos-": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 53593
+   },
+   "Sonet": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 32927
+   },
+   "Sorento": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 48784
+   },
+   "Soul": {
+    "first_year": 2016,
+    "last_year": 2025,
+    "units": 49839
+   },
+   "Sportage": {
+    "first_year": 2015,
+    "last_year": 2019,
+    "units": 69376
+   },
+   "Sportage HEV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 6880
+   },
+   "Sportage-": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 368
+   },
+   "Stinger": {
+    "first_year": 2017,
+    "last_year": 2023,
+    "units": 1347
+   },
+   "Telluride": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 949
+   }
+  },
+  "units": 991912
+ },
+ "Land Rover": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Defender": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 3433
+   },
+   "Discovery": {
+    "first_year": 2005,
+    "last_year": 2022,
+    "units": 526
+   },
+   "Discovery Sport": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 1242
+   },
+   "Evoque": {
+    "first_year": 2012,
+    "last_year": 2014,
+    "units": 1668
+   },
+   "Freelander 2.5": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 475
+   },
+   "Lr2": {
+    "first_year": 2007,
+    "last_year": 2015,
+    "units": 1452
+   },
+   "Lr3/Lr4": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 1427
+   },
+   "Range Rover": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 1784
+   },
+   "Range Rover Evoque": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 3673
+   },
+   "Range Rover Sport": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 6917
+   },
+   "Range Rover Velar": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 1708
+   }
+  },
+  "units": 24305
+ },
+ "Leapmotor": {
+  "first_year": 2026,
+  "last_year": 2026,
+  "models": {
+   "B10": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 1698
+   },
+   "C10": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 1
+   }
+  },
+  "units": 1699
+ },
+ "Lexus": {
+  "first_year": 2021,
+  "last_year": 2026,
+  "models": {
+   "ES": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 1202
+   },
+   "GX": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 623
+   },
+   "IS": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 411
+   },
+   "LC": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 56
+   },
+   "LS": {
+    "first_year": 2021,
+    "last_year": 2025,
+    "units": 27
+   },
+   "LX": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 872
+   },
+   "NX": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 4442
+   },
+   "RX": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 2570
+   },
+   "TX": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 582
+   },
+   "UX": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 1587
+   }
+  },
+  "units": 12372
+ },
+ "Lincoln": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "AVIATOR": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 1218
+   },
+   "Aviator": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 572
+   },
+   "Aviator Grand Touring": {
+    "first_year": 2020,
+    "last_year": 2025,
+    "units": 262
+   },
+   "Corsair": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 8561
+   },
+   "Lincoln Continental": {
+    "first_year": 2017,
+    "last_year": 2020,
+    "units": 187
+   },
+   "Lincoln Ls": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 341
+   },
+   "MKC": {
+    "first_year": 2014,
+    "last_year": 2020,
+    "units": 3334
+   },
+   "MKZ": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 6185
+   },
+   "MKZ Hibrido": {
+    "first_year": 2017,
+    "last_year": 2020,
+    "units": 153
+   },
+   "MKZ-": {
+    "first_year": 2018,
+    "last_year": 2020,
+    "units": 158
+   },
+   "Mariner": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 5657
+   },
+   "Mark Lt": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 8805
+   },
+   "Milan": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 985
+   },
+   "Mks": {
+    "first_year": 2008,
+    "last_year": 2015,
+    "units": 1001
+   },
+   "Montego": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 464
+   },
+   "NAUTILUS": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 3911
+   },
+   "Navigator": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 9081
+   },
+   "Town Car": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 326
+   }
+  },
+  "units": 51201
+ },
+ "Lynk&Co": {
+  "first_year": 2026,
+  "last_year": 2026,
+  "models": {
+   "01": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 248
+   },
+   "02": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 229
+   },
+   "08": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 1096
+   },
+   "09": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 107
+   },
+   "900": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 17
+   }
+  },
+  "units": 1697
+ },
+ "MG Motor": {
+  "first_year": 2020,
+  "last_year": 2026,
+  "models": {
+   "CYBERSTER": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 120
+   },
+   "GT": {
+    "first_year": 2022,
+    "last_year": 2025,
+    "units": 20047
+   },
+   "HS": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 15467
+   },
+   "HS PHEV": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 507
+   },
+   "HSHEV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 1271
+   },
+   "IMLS7": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 457
+   },
+   "MG One": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 9721
+   },
+   "MG3": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 26523
+   },
+   "MG3HEV": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 2132
+   },
+   "MG4": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1168
+   },
+   "MG5": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 135460
+   },
+   "MG7": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 881
+   },
+   "P9": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 124
+   },
+   "RX5": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 12793
+   },
+   "RX8": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 4745
+   },
+   "RX9": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 942
+   },
+   "ZS": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 41397
+   },
+   "ZSEV": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 459
+   },
+   "ZSHEV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 3085
+   },
+   "eHS": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 1285
+   }
+  },
+  "units": 278584
+ },
+ "MG ROVER": {
+  "first_year": 2005,
+  "last_year": 2005,
+  "models": {
+   "Mg Tf": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 68
+   },
+   "Mg Zr": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 50
+   },
+   "Mg Zt": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 16
+   },
+   "R75": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 177
+   }
+  },
+  "units": 311
+ },
+ "MOTORNATION": {
+  "first_year": 2018,
+  "last_year": 2026,
+  "models": {
+   "BAIC BJ20": {
+    "first_year": 2018,
+    "last_year": 2021,
+    "units": 453
+   },
+   "BAIC BJ40": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 655
+   },
+   "BAIC D20": {
+    "first_year": 2018,
+    "last_year": 2024,
+    "units": 2350
+   },
+   "BAIC EU5": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 65
+   },
+   "BAIC M50S": {
+    "first_year": 2020,
+    "last_year": 2023,
+    "units": 488
+   },
+   "BAIC U5": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1105
+   },
+   "BAIC X25": {
+    "first_year": 2018,
+    "last_year": 2023,
+    "units": 2000
+   },
+   "BAIC X30": {
+    "first_year": 2020,
+    "last_year": 2022,
+    "units": 699
+   },
+   "BAIC X35": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 3547
+   },
+   "BAIC X55": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 478
+   },
+   "BAIC X65": {
+    "first_year": 2018,
+    "last_year": 2022,
+    "units": 483
+   },
+   "CHANGAN ALSVIN": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 6713
+   },
+   "CHANGAN CS35PLUS": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 6315
+   },
+   "CHANGAN CS55PLUS": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 4713
+   },
+   "CHANGAN HUNTER": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 724
+   },
+   "CHANGAN UNI-K": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 1680
+   },
+   "DFSK 500": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 135
+   },
+   "DFSK 600": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 218
+   },
+   "DFSK E5": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 462
+   },
+   "DFSK EC35": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 53
+   },
+   "JMC EV-BLACK": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 61
+   },
+   "JMC GRAND AVENUE": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1411
+   },
+   "JMC VIGUS": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 3125
+   },
+   "SERES 5 EV": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 6
+   },
+   "SERES 5 MAX": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 53
+   },
+   "STAR TRUCK": {
+    "first_year": 2024,
+    "last_year": 2024,
+    "units": 431
+   }
+  },
+  "units": 38423
+ },
+ "Mazda": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "BT-50": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 2545
+   },
+   "CX-3": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 78585
+   },
+   "CX-30": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 112627
+   },
+   "CX-5": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 179806
+   },
+   "CX-50": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 10132
+   },
+   "CX-70": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1606
+   },
+   "CX-9": {
+    "first_year": 2007,
+    "last_year": 2023,
+    "units": 28232
+   },
+   "CX-90": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 8203
+   },
+   "Cx-7": {
+    "first_year": 2006,
+    "last_year": 2013,
+    "units": 39116
+   },
+   "Mazda 2": {
+    "first_year": 2011,
+    "last_year": 2015,
+    "units": 9981
+   },
+   "Mazda 2 Hatchback": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 32038
+   },
+   "Mazda 2 Sed\u00e1n": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 91808
+   },
+   "Mazda 2-": {
+    "first_year": 2015,
+    "last_year": 2018,
+    "units": 14550
+   },
+   "Mazda 3 Hatchback": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 134048
+   },
+   "Mazda 3 Sed\u00e1n": {
+    "first_year": 2011,
+    "last_year": 2021,
+    "units": 90982
+   },
+   "Mazda 3 Sed\u00e1n-": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 128129
+   },
+   "Mazda 5": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 7367
+   },
+   "Mazda 6": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 33821
+   },
+   "Mx-5": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 14756
+   }
+  },
+  "units": 1018332
+ },
+ "Mercedes Benz": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "A 160": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 61
+   },
+   "A 190": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 272
+   },
+   "AMG GT": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 470
+   },
+   "B 200": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 2906
+   },
+   "C 200 K": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 3277
+   },
+   "C 230 K": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 1318
+   },
+   "C 280": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 10005
+   },
+   "C 320": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 109
+   },
+   "C 350": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1226
+   },
+   "C 55 Amg": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 40
+   },
+   "C 63 Amg": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 206
+   },
+   "CLA": {
+    "first_year": 2013,
+    "last_year": 2026,
+    "units": 18879
+   },
+   "CLE": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 500
+   },
+   "CLS": {
+    "first_year": 2011,
+    "last_year": 2024,
+    "units": 888
+   },
+   "Cab Chassis": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 3331
+   },
+   "Cargo Van": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 5996
+   },
+   "Cl 230 K": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 16
+   },
+   "Cl 500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 69
+   },
+   "Clase A Sedan": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 2229
+   },
+   "Clase A hatchback": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 7498
+   },
+   "Clase B": {
+    "first_year": 2011,
+    "last_year": 2017,
+    "units": 1341
+   },
+   "Clase C 250 Coupe": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 55
+   },
+   "Clase C 350 Coupe": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 23
+   },
+   "Clase C Sedan": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 33155
+   },
+   "Clase C coupe": {
+    "first_year": 2020,
+    "last_year": 2021,
+    "units": 196
+   },
+   "Clase E coupe": {
+    "first_year": 2020,
+    "last_year": 2023,
+    "units": 117
+   },
+   "Clase E sedan": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 7962
+   },
+   "Clase G": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 4972
+   },
+   "Clase GLE": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 31264
+   },
+   "Clase GLS": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 4206
+   },
+   "Clase S coupe": {
+    "first_year": 2020,
+    "last_year": 2020,
+    "units": 2
+   },
+   "Clase S sedan": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 1640
+   },
+   "Clase SL": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 243
+   },
+   "Clase V": {
+    "first_year": 2014,
+    "last_year": 2021,
+    "units": 2129
+   },
+   "Clk 280": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 96
+   },
+   "Clk 280 C": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 28
+   },
+   "Clk 320": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 28
+   },
+   "Clk 320 C": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 8
+   },
+   "Clk 350": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 117
+   },
+   "Clk 350 C": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 45
+   },
+   "Clk 500": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 34
+   },
+   "Clk 500 C": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 12
+   },
+   "Cls 350": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 19
+   },
+   "Cls 500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 610
+   },
+   "E 250 Coupe": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 103
+   },
+   "E 280": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 548
+   },
+   "E 350": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 2271
+   },
+   "E 350 Convertible": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 70
+   },
+   "E 350 Coupe": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 266
+   },
+   "E 500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 925
+   },
+   "E 500 Convertible": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 9
+   },
+   "E 500 Coupe": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 49
+   },
+   "E 55 Amg": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 82
+   },
+   "E 63 Amg": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 56
+   },
+   "E250": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 226
+   },
+   "EQA": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 416
+   },
+   "EQB": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 341
+   },
+   "EQC": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 193
+   },
+   "EQE": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 187
+   },
+   "EQE SUV": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 335
+   },
+   "EQS": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 140
+   },
+   "EQS SUV": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 157
+   },
+   "G 500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 179
+   },
+   "GLA": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 13207
+   },
+   "GLB": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 4828
+   },
+   "GLC": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 35525
+   },
+   "GLK 280": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 1562
+   },
+   "GLK 350": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 380
+   },
+   "Gl 450": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 864
+   },
+   "Gl 500": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 98
+   },
+   "Ml 350": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 2552
+   },
+   "Ml 500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1315
+   },
+   "Ml 63 Amg": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 72
+   },
+   "R 350": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 87
+   },
+   "R 500": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 233
+   },
+   "S 430": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 18
+   },
+   "S 500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 636
+   },
+   "SLC": {
+    "first_year": 2011,
+    "last_year": 2020,
+    "units": 1266
+   },
+   "Sl 500": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 96
+   },
+   "Sl 55 Amg": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 36
+   },
+   "Slk 200 K": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 1072
+   },
+   "Slk 350": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 443
+   },
+   "Sls Amg": {
+    "first_year": 2010,
+    "last_year": 2011,
+    "units": 59
+   },
+   "Sprinter": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 45161
+   },
+   "Vito": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 171
+   },
+   "Vito Carga": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 126
+   },
+   "Vito Pasaje": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 134
+   },
+   "Wagon": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 789
+   }
+  },
+  "units": 264881
+ },
+ "Mini": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Cooper": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 6137
+   },
+   "Cooper Conv": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 167
+   },
+   "Cooper S": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 6524
+   },
+   "Cooper S Clubman": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 153
+   },
+   "Cooper S Conv": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 981
+   },
+   "Cooper S Jcw": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 286
+   },
+   "Countryman S": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 427
+   },
+   "MINI 3 PTAS": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 38451
+   },
+   "MINI 5 PTAS": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 9323
+   },
+   "MINI Aceman": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 700
+   },
+   "MINI CLUBMAN": {
+    "first_year": 2012,
+    "last_year": 2025,
+    "units": 1515
+   },
+   "MINI CONVERTIBLE": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 2676
+   },
+   "MINI COUNTRYMAN": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 11838
+   },
+   "MINI COUPE": {
+    "first_year": 2012,
+    "last_year": 2016,
+    "units": 575
+   },
+   "MINI Countryman E": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 356
+   },
+   "MINI E": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 1491
+   },
+   "MINI PACEMAN": {
+    "first_year": 2013,
+    "last_year": 2017,
+    "units": 478
+   },
+   "MINI ROADSTER": {
+    "first_year": 2012,
+    "last_year": 2016,
+    "units": 242
+   }
+  },
+  "units": 82320
+ },
+ "Mitsubishi": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "ASX": {
+    "first_year": 2013,
+    "last_year": 2016,
+    "units": 6271
+   },
+   "Eclipse": {
+    "first_year": 2005,
+    "last_year": 2012,
+    "units": 2752
+   },
+   "Eclipse Conv": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 269
+   },
+   "Eclipse Cross": {
+    "first_year": 2019,
+    "last_year": 2021,
+    "units": 1221
+   },
+   "Endeavor": {
+    "first_year": 2005,
+    "last_year": 2012,
+    "units": 12540
+   },
+   "Galant": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 2980
+   },
+   "Grandis": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 1721
+   },
+   "L200": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 114058
+   },
+   "Lancer": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 46114
+   },
+   "Lancer Evolution": {
+    "first_year": 2006,
+    "last_year": 2008,
+    "units": 77
+   },
+   "Mirage": {
+    "first_year": 2014,
+    "last_year": 2023,
+    "units": 30798
+   },
+   "Mirage G4": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 26743
+   },
+   "Montero": {
+    "first_year": 2005,
+    "last_year": 2020,
+    "units": 4105
+   },
+   "Montero Limited": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 74
+   },
+   "Montero Sport": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 7535
+   },
+   "Outlander": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 52602
+   },
+   "Outlander PHEV": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 3098
+   },
+   "Outlander Sport": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 14911
+   },
+   "Space Star": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 58
+   },
+   "Xpander": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 26416
+   }
+  },
+  "units": 354343
+ },
+ "Nissan": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "350 Z": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 239
+   },
+   "370 Z": {
+    "first_year": 2009,
+    "last_year": 2022,
+    "units": 1097
+   },
+   "Almera 4 Pts": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 1340
+   },
+   "Almera Dep": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 455
+   },
+   "Altima": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "units": 66451
+   },
+   "Altima Coupe": {
+    "first_year": 2007,
+    "last_year": 2013,
+    "units": 1935
+   },
+   "Aprio": {
+    "first_year": 2007,
+    "last_year": 2012,
+    "units": 27192
+   },
+   "Armada": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 4074
+   },
+   "Cabstar Mediano": {
+    "first_year": 2007,
+    "last_year": 2019,
+    "units": 4532
+   },
+   "Cabstar Small": {
+    "first_year": 2008,
+    "last_year": 2015,
+    "units": 783
+   },
+   "Chasis Largo": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 281254
+   },
+   "Chasis Largo Diesel": {
+    "first_year": 2008,
+    "last_year": 2016,
+    "units": 17063
+   },
+   "Estacas Largo": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 54755
+   },
+   "Frontier Diesel": {
+    "first_year": 2008,
+    "last_year": 2008,
+    "units": 777
+   },
+   "Frontier L4": {
+    "first_year": 2010,
+    "last_year": 2017,
+    "units": 46505
+   },
+   "Frontier V4": {
+    "first_year": 2008,
+    "last_year": 2010,
+    "units": 2329
+   },
+   "Frontier V6": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 33986
+   },
+   "GT-R": {
+    "first_year": 2017,
+    "last_year": 2025,
+    "units": 77
+   },
+   "Infinity I35": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 3
+   },
+   "Infinity Q45-M45": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 32
+   },
+   "Juke": {
+    "first_year": 2011,
+    "last_year": 2019,
+    "units": 9880
+   },
+   "KAIT": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 2921
+   },
+   "Kicks": {
+    "first_year": 2016,
+    "last_year": 2026,
+    "units": 197493
+   },
+   "Leaf": {
+    "first_year": 2011,
+    "last_year": 2023,
+    "units": 718
+   },
+   "Magnite": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 42440
+   },
+   "March": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 580994
+   },
+   "Maxima": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 6581
+   },
+   "Micra": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 4305
+   },
+   "Murano": {
+    "first_year": 2005,
+    "last_year": 2020,
+    "units": 8169
+   },
+   "NP300": {
+    "first_year": 2016,
+    "last_year": 2026,
+    "units": 586632
+   },
+   "NV2500  V8 Toldo Alto": {
+    "first_year": 2013,
+    "last_year": 2015,
+    "units": 112
+   },
+   "NV2500 V6 Toldo Alto": {
+    "first_year": 2013,
+    "last_year": 2020,
+    "units": 672
+   },
+   "NV2500 V6 Toldo Bajo": {
+    "first_year": 2013,
+    "last_year": 2015,
+    "units": 17
+   },
+   "NV2500 V8 Toldo Bajo": {
+    "first_year": 2014,
+    "last_year": 2015,
+    "units": 10
+   },
+   "Note": {
+    "first_year": 2013,
+    "last_year": 2020,
+    "units": 11484
+   },
+   "Pathfinder": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 27261
+   },
+   "Pickup Doble Cabina": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 111075
+   },
+   "Pickup Doble Cabina Diesel": {
+    "first_year": 2010,
+    "last_year": 2016,
+    "units": 3447
+   },
+   "Pickup King Cab STD": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 2
+   },
+   "Pickup Largo": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 55404
+   },
+   "Pickup Largo Diesel": {
+    "first_year": 2008,
+    "last_year": 2016,
+    "units": 4669
+   },
+   "Platina 4 PTS": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 109675
+   },
+   "Quest": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 5188
+   },
+   "Rogue": {
+    "first_year": 2007,
+    "last_year": 2015,
+    "units": 30773
+   },
+   "Sentra": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 506204
+   },
+   "Sentra 4 PTS": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 64404
+   },
+   "Sentra SE R": {
+    "first_year": 2007,
+    "last_year": 2013,
+    "units": 2628
+   },
+   "Tiida 5 PTS": {
+    "first_year": 2006,
+    "last_year": 2014,
+    "units": 16596
+   },
+   "Tiida Sedan": {
+    "first_year": 2007,
+    "last_year": 2019,
+    "units": 287892
+   },
+   "Titan": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 7421
+   },
+   "Tsuru 4 PTS": {
+    "first_year": 2005,
+    "last_year": 2018,
+    "units": 686215
+   },
+   "Urvan Panel": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 123258
+   },
+   "Urvan Panel Diesel": {
+    "first_year": 2008,
+    "last_year": 2016,
+    "units": 3245
+   },
+   "Urvan Pasajeros": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 66081
+   },
+   "Urvan Pasajeros Diesel": {
+    "first_year": 2008,
+    "last_year": 2016,
+    "units": 981
+   },
+   "Versa": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 1112815
+   },
+   "Xterra": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 817
+   },
+   "Xtrail": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 288603
+   },
+   "Z": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 276
+   }
+  },
+  "units": 5512237
+ },
+ "Omoda": {
+  "first_year": 2022,
+  "last_year": 2025,
+  "models": {
+   "C5": {
+    "first_year": 2022,
+    "last_year": 2025,
+    "units": 14844
+   },
+   "Jaecoo 7": {
+    "first_year": 2024,
+    "last_year": 2025,
+    "units": 1194
+   },
+   "O5": {
+    "first_year": 2023,
+    "last_year": 2025,
+    "units": 4610
+   }
+  },
+  "units": 20648
+ },
+ "Peugeot": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "2008": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 19558
+   },
+   "206 3p": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 10386
+   },
+   "206 5p": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 14851
+   },
+   "206 Cc": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 2629
+   },
+   "206 Sw": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 1850
+   },
+   "207 3p": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 408
+   },
+   "207 CC": {
+    "first_year": 2007,
+    "last_year": 2014,
+    "units": 1364
+   },
+   "207 Compact": {
+    "first_year": 2008,
+    "last_year": 2008,
+    "units": 434
+   },
+   "207 Compact 3p": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 1381
+   },
+   "207 Compact 5p": {
+    "first_year": 2008,
+    "last_year": 2012,
+    "units": 4466
+   },
+   "207 Rc": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 342
+   },
+   "207 Sedan": {
+    "first_year": 2008,
+    "last_year": 2012,
+    "units": 3949
+   },
+   "208": {
+    "first_year": 2013,
+    "last_year": 2023,
+    "units": 8173
+   },
+   "3008": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 14217
+   },
+   "301": {
+    "first_year": 2013,
+    "last_year": 2025,
+    "units": 14512
+   },
+   "307 3p": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 1854
+   },
+   "307 4p": {
+    "first_year": 2006,
+    "last_year": 2011,
+    "units": 3891
+   },
+   "307 5p": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 3497
+   },
+   "307 Break": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 195
+   },
+   "307 Cc": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 1899
+   },
+   "307 Sw": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 909
+   },
+   "308": {
+    "first_year": 2008,
+    "last_year": 2022,
+    "units": 1395
+   },
+   "308 Cc": {
+    "first_year": 2009,
+    "last_year": 2016,
+    "units": 266
+   },
+   "406 Coupe": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 6
+   },
+   "406 St Aut": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 25
+   },
+   "406 Sv V6": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 10
+   },
+   "407": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 1618
+   },
+   "5008": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 2336
+   },
+   "508": {
+    "first_year": 2012,
+    "last_year": 2017,
+    "units": 264
+   },
+   "607 Pack": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 123
+   },
+   "E-Partner": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 518
+   },
+   "Expert Cargo Van": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 4667
+   },
+   "Expert Hdi": {
+    "first_year": 2008,
+    "last_year": 2011,
+    "units": 353
+   },
+   "Grand Raid": {
+    "first_year": 2006,
+    "last_year": 2012,
+    "units": 5907
+   },
+   "Grand Raid Hdi": {
+    "first_year": 2009,
+    "last_year": 2010,
+    "units": 107
+   },
+   "LANDTREK": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 2927
+   },
+   "Manager Hdi": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 9301
+   },
+   "Nuevo 207": {
+    "first_year": 2011,
+    "last_year": 2014,
+    "units": 5104
+   },
+   "Partner": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 57358
+   },
+   "Partner Rapid": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 9029
+   },
+   "Partner Tepee Outdoor": {
+    "first_year": 2013,
+    "last_year": 2019,
+    "units": 4415
+   },
+   "RIFTER": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 15800
+   },
+   "Rcz": {
+    "first_year": 2010,
+    "last_year": 2017,
+    "units": 219
+   }
+  },
+  "units": 232513
+ },
+ "Porsche": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "718 Boxster": {
+    "first_year": 2018,
+    "last_year": 2025,
+    "units": 423
+   },
+   "911 Carrera": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 638
+   },
+   "911 Carrera / Turbo / GT": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 5345
+   },
+   "911 Turbo": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 347
+   },
+   "Boxster": {
+    "first_year": 2005,
+    "last_year": 2018,
+    "units": 1161
+   },
+   "Cayenne": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 10495
+   },
+   "Cayman": {
+    "first_year": 2006,
+    "last_year": 2025,
+    "units": 1962
+   },
+   "Gt3 / Gt2 / Carrera Gt": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 113
+   },
+   "Macan": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 5810
+   },
+   "Panamera": {
+    "first_year": 2009,
+    "last_year": 2026,
+    "units": 891
+   },
+   "Taycan": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 453
+   }
+  },
+  "units": 27638
+ },
+ "Renault": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Arkana": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 5327
+   },
+   "Boreal": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 1620
+   },
+   "Captur": {
+    "first_year": 2017,
+    "last_year": 2023,
+    "units": 12388
+   },
+   "Clio": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 44224
+   },
+   "Clio RS": {
+    "first_year": 2014,
+    "last_year": 2017,
+    "units": 431
+   },
+   "Clio Renault Sport": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 439
+   },
+   "Duster": {
+    "first_year": 2012,
+    "last_year": 2026,
+    "units": 109937
+   },
+   "Euro Clio": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 1341
+   },
+   "Fluence": {
+    "first_year": 2010,
+    "last_year": 2017,
+    "units": 21974
+   },
+   "Kangoo": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 46698
+   },
+   "Kangoo 7 Plazas": {
+    "first_year": 2009,
+    "last_year": 2009,
+    "units": 198
+   },
+   "Kangoo Diesel": {
+    "first_year": 2008,
+    "last_year": 2009,
+    "units": 627
+   },
+   "Kangoo Vp": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 2295
+   },
+   "Kangoo ZE": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 468
+   },
+   "Kardian": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 5043
+   },
+   "Koleos": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 27539
+   },
+   "Kwid": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 116444
+   },
+   "Kwid e-Tech": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 799
+   },
+   "Laguna": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 373
+   },
+   "Logan": {
+    "first_year": 2014,
+    "last_year": 2025,
+    "units": 33504
+   },
+   "MEGANE E-TECH": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 92
+   },
+   "Master": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 1128
+   },
+   "Master E- Tech el\u00e9ctrico": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 202
+   },
+   "Megane II 3 Ptas": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 1067
+   },
+   "Megane II 3 Ptas Sport": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 825
+   },
+   "Megane II 5 Ptas": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 3007
+   },
+   "Megane II Gt 3 Ptas": {
+    "first_year": 2009,
+    "last_year": 2009,
+    "units": 186
+   },
+   "Megane II Gt 5 Ptas": {
+    "first_year": 2009,
+    "last_year": 2009,
+    "units": 252
+   },
+   "Megane II Sedan": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 14992
+   },
+   "Megane Ii Cc": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 745
+   },
+   "Nueva Koleos": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 2785
+   },
+   "Oroch": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 36198
+   },
+   "Safrane": {
+    "first_year": 2009,
+    "last_year": 2016,
+    "units": 2462
+   },
+   "Sandero": {
+    "first_year": 2010,
+    "last_year": 2019,
+    "units": 16356
+   },
+   "Sandero R.S. 2.0": {
+    "first_year": 2016,
+    "last_year": 2021,
+    "units": 544
+   },
+   "Scala": {
+    "first_year": 2010,
+    "last_year": 2014,
+    "units": 12417
+   },
+   "Scenic": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 102
+   },
+   "Scenic II": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 1870
+   },
+   "Stepway": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 44056
+   },
+   "Traffic Carga": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 754
+   },
+   "Traffic Pasajeros": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 864
+   },
+   "Traffic Vu L2h2": {
+    "first_year": 2009,
+    "last_year": 2015,
+    "units": 3020
+   },
+   "Twizy": {
+    "first_year": 2014,
+    "last_year": 2021,
+    "units": 210
+   },
+   "ZOE": {
+    "first_year": 2018,
+    "last_year": 2021,
+    "units": 14
+   }
+  },
+  "units": 575817
+ },
+ "SEAT": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Alhambra": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 246
+   },
+   "Altea": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 4617
+   },
+   "Arona": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 29231
+   },
+   "Ateca": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 13611
+   },
+   "CUPRA Formentor": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 18006
+   },
+   "CUPRA Terramar": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 4261
+   },
+   "Cordoba": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 24171
+   },
+   "Exeo": {
+    "first_year": 2011,
+    "last_year": 2013,
+    "units": 347
+   },
+   "Freetrack": {
+    "first_year": 2013,
+    "last_year": 2015,
+    "units": 447
+   },
+   "Ibiza": {
+    "first_year": 2018,
+    "last_year": 2018,
+    "units": 4494
+   },
+   "Ibiza 2 Ptas": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 45367
+   },
+   "Ibiza 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 202511
+   },
+   "Leon": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 45731
+   },
+   "Leon Cupra": {
+    "first_year": 2007,
+    "last_year": 2012,
+    "units": 573
+   },
+   "Leon ST": {
+    "first_year": 2015,
+    "last_year": 2019,
+    "units": 974
+   },
+   "Leon Sc 2p": {
+    "first_year": 2013,
+    "last_year": 2020,
+    "units": 5444
+   },
+   "Nuevo Toledo": {
+    "first_year": 2013,
+    "last_year": 2022,
+    "units": 29309
+   },
+   "Tarraco": {
+    "first_year": 2019,
+    "last_year": 2025,
+    "units": 3995
+   },
+   "Toledo": {
+    "first_year": 2005,
+    "last_year": 2018,
+    "units": 2869
+   }
+  },
+  "units": 436204
+ },
+ "Smart": {
+  "first_year": 2005,
+  "last_year": 2019,
+  "models": {
+   "FORTWO": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 12417
+   },
+   "Forfour": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 1358
+   },
+   "Roadster": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 88
+   }
+  },
+  "units": 13863
+ },
+ "Subaru": {
+  "first_year": 2006,
+  "last_year": 2026,
+  "models": {
+   "B9 Tribeca": {
+    "first_year": 2006,
+    "last_year": 2014,
+    "units": 834
+   },
+   "Crosstrek": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 5020
+   },
+   "Crosstrek MHEV": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 764
+   },
+   "Forester": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 15053
+   },
+   "Forester e-BOXER HEV": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 515
+   },
+   "Impreza": {
+    "first_year": 2006,
+    "last_year": 2018,
+    "units": 1836
+   },
+   "Impreza HB": {
+    "first_year": 2014,
+    "last_year": 2018,
+    "units": 197
+   },
+   "Legacy": {
+    "first_year": 2006,
+    "last_year": 2017,
+    "units": 407
+   },
+   "Legacy 2.0": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 117
+   },
+   "Legacy 2.5i": {
+    "first_year": 2006,
+    "last_year": 2017,
+    "units": 334
+   },
+   "Legacy 3.0": {
+    "first_year": 2007,
+    "last_year": 2010,
+    "units": 131
+   },
+   "Legacy 3.6": {
+    "first_year": 2014,
+    "last_year": 2018,
+    "units": 10
+   },
+   "Outback": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 1671
+   },
+   "Subaru BRZ": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 1210
+   },
+   "Trailseeker": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 24
+   },
+   "WRX": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 1488
+   },
+   "WRX STI": {
+    "first_year": 2013,
+    "last_year": 2022,
+    "units": 342
+   },
+   "XV": {
+    "first_year": 2013,
+    "last_year": 2023,
+    "units": 4331
+   }
+  },
+  "units": 34284
+ },
+ "Suzuki": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "ACROSS": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 737
+   },
+   "Aerio Ta": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 1305
+   },
+   "Aerio Tm": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 666
+   },
+   "Baleno": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 13424
+   },
+   "Ciaz": {
+    "first_year": 2015,
+    "last_year": 2026,
+    "units": 10908
+   },
+   "DZIRE": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 4198
+   },
+   "Ertiga": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 50026
+   },
+   "FRONX": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 10015
+   },
+   "Grand Vitara": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 29776
+   },
+   "Grand Vitara 4x4": {
+    "first_year": 2006,
+    "last_year": 2009,
+    "units": 393
+   },
+   "Ignis": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 52056
+   },
+   "JIMNY": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 34405
+   },
+   "Kizashi": {
+    "first_year": 2009,
+    "last_year": 2017,
+    "units": 2476
+   },
+   "S Cross": {
+    "first_year": 2013,
+    "last_year": 2026,
+    "units": 15420
+   },
+   "Swift": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 155012
+   },
+   "Sx4 Sedan Ta": {
+    "first_year": 2007,
+    "last_year": 2015,
+    "units": 2349
+   },
+   "Sx4 Sedan Tm": {
+    "first_year": 2007,
+    "last_year": 2015,
+    "units": 1424
+   },
+   "Sx4 X-Over Ta": {
+    "first_year": 2007,
+    "last_year": 2015,
+    "units": 5206
+   },
+   "Sx4 X-Over Tm": {
+    "first_year": 2007,
+    "last_year": 2015,
+    "units": 3402
+   },
+   "Vitara": {
+    "first_year": 2015,
+    "last_year": 2023,
+    "units": 34505
+   },
+   "XL7": {
+    "first_year": 2007,
+    "last_year": 2009,
+    "units": 477
+   }
+  },
+  "units": 428180
+ },
+ "Toyota": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "4Runner": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 3716
+   },
+   "4runner": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 3301
+   },
+   "Avanza": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 151728
+   },
+   "C-HR": {
+    "first_year": 2018,
+    "last_year": 2020,
+    "units": 7854
+   },
+   "Camry": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 83682
+   },
+   "Corolla": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 219681
+   },
+   "Corolla Cross": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 26612
+   },
+   "Fjcruiser": {
+    "first_year": 2007,
+    "last_year": 2015,
+    "units": 7778
+   },
+   "GR Corolla": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 125
+   },
+   "GR Supra": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 283
+   },
+   "GR Yaris": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 949
+   },
+   "Hiace P": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 46726
+   },
+   "Hiace V": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 44115
+   },
+   "Highlander": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 63138
+   },
+   "Hilux Cc": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 151
+   },
+   "Hilux Dc": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 258008
+   },
+   "Hilux Sc": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 863
+   },
+   "Lcruiser": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 1596
+   },
+   "Matrix": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 5098
+   },
+   "Mr2": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 267
+   },
+   "Prius": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 61885
+   },
+   "Prius-C": {
+    "first_year": 2018,
+    "last_year": 2021,
+    "units": 20042
+   },
+   "RAIZE": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 40719
+   },
+   "Rav4": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 229473
+   },
+   "Rush": {
+    "first_year": 2009,
+    "last_year": 2009,
+    "units": 649
+   },
+   "Sequoia": {
+    "first_year": 2008,
+    "last_year": 2026,
+    "units": 5739
+   },
+   "Sienna": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 133350
+   },
+   "Solara": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 213
+   },
+   "Tacoma": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 63130
+   },
+   "Tacoma-": {
+    "first_year": 2011,
+    "last_year": 2026,
+    "units": 48523
+   },
+   "Tundra": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 9255
+   },
+   "Yaris Hatchback": {
+    "first_year": 2006,
+    "last_year": 2026,
+    "units": 48191
+   },
+   "Yaris Sedan": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 186350
+   },
+   "Yaris-R": {
+    "first_year": 2015,
+    "last_year": 2020,
+    "units": 16582
+   }
+  },
+  "units": 1789772
+ },
+ "Volkswagen": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "Amarok": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 26284
+   },
+   "Beetle": {
+    "first_year": 2005,
+    "last_year": 2020,
+    "units": 47058
+   },
+   "Beetle Cabrio": {
+    "first_year": 2005,
+    "last_year": 2011,
+    "units": 634
+   },
+   "Bora": {
+    "first_year": 2005,
+    "last_year": 2012,
+    "units": 117393
+   },
+   "Bora TDI": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 4143
+   },
+   "Crafter": {
+    "first_year": 2007,
+    "last_year": 2026,
+    "units": 23134
+   },
+   "Crafter chasis": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 960
+   },
+   "Cross Sport": {
+    "first_year": 2020,
+    "last_year": 2024,
+    "units": 5702
+   },
+   "Crossfox": {
+    "first_year": 2006,
+    "last_year": 2018,
+    "units": 43000
+   },
+   "Derby": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 26812
+   },
+   "EOS": {
+    "first_year": 2009,
+    "last_year": 2011,
+    "units": 211
+   },
+   "Eurovan Carga": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 11796
+   },
+   "Eurovan Pasajeros": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 3856
+   },
+   "GTI": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 3718
+   },
+   "Gol": {
+    "first_year": 2008,
+    "last_year": 2021,
+    "units": 152786
+   },
+   "Gol Sedan": {
+    "first_year": 2008,
+    "last_year": 2020,
+    "units": 94983
+   },
+   "Golf": {
+    "first_year": 2005,
+    "last_year": 2020,
+    "units": 7025
+   },
+   "Golf Gti": {
+    "first_year": 2005,
+    "last_year": 2017,
+    "units": 4609
+   },
+   "Golf Variant-/Crossgolf": {
+    "first_year": 2016,
+    "last_year": 2019,
+    "units": 5028
+   },
+   "Golf-": {
+    "first_year": 2014,
+    "last_year": 2022,
+    "units": 31980
+   },
+   "ID.4": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 131
+   },
+   "Jetta": {
+    "first_year": 2010,
+    "last_year": 2021,
+    "units": 348362
+   },
+   "Jetta 4 PTAS": {
+    "first_year": 2005,
+    "last_year": 2015,
+    "units": 426382
+   },
+   "Jetta TDI": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 5746
+   },
+   "Lupo 2 Ptas": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 2635
+   },
+   "Lupo 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 16389
+   },
+   "Nivus": {
+    "first_year": 2021,
+    "last_year": 2026,
+    "units": 14509
+   },
+   "Nuevo Jetta": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 117431
+   },
+   "Nuevo Jetta TDI": {
+    "first_year": 2010,
+    "last_year": 2016,
+    "units": 3271
+   },
+   "Passat": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "units": 45737
+   },
+   "Passat Cc": {
+    "first_year": 2008,
+    "last_year": 2017,
+    "units": 8377
+   },
+   "Pointer 2 Ptas": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 16326
+   },
+   "Pointer 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 115513
+   },
+   "Pointer Pick Up": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 12896
+   },
+   "Pointer Wagon": {
+    "first_year": 2005,
+    "last_year": 2006,
+    "units": 2322
+   },
+   "Polo 4 Ptas": {
+    "first_year": 2005,
+    "last_year": 2026,
+    "units": 112452
+   },
+   "Polo 5 Ptas": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 604
+   },
+   "Polo GTI": {
+    "first_year": 2016,
+    "last_year": 2017,
+    "units": 1052
+   },
+   "Routan": {
+    "first_year": 2008,
+    "last_year": 2013,
+    "units": 2403
+   },
+   "Saveiro": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 146382
+   },
+   "Sedan": {
+    "first_year": 2005,
+    "last_year": 2005,
+    "units": 10
+   },
+   "Sharan": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 2774
+   },
+   "Sport Van": {
+    "first_year": 2006,
+    "last_year": 2010,
+    "units": 10414
+   },
+   "Sportwagen": {
+    "first_year": 2007,
+    "last_year": 2014,
+    "units": 3711
+   },
+   "T-Cross": {
+    "first_year": 2019,
+    "last_year": 2025,
+    "units": 26183
+   },
+   "Taigun": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 42391
+   },
+   "Taos": {
+    "first_year": 2020,
+    "last_year": 2026,
+    "units": 92455
+   },
+   "Teramont": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 19979
+   },
+   "Tiguan": {
+    "first_year": 2008,
+    "last_year": 2017,
+    "units": 28277
+   },
+   "Tiguan-": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 127912
+   },
+   "Touareg": {
+    "first_year": 2005,
+    "last_year": 2020,
+    "units": 7737
+   },
+   "Transporter Carga": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 31519
+   },
+   "Transporter Pasajeros": {
+    "first_year": 2010,
+    "last_year": 2026,
+    "units": 10870
+   },
+   "UP!": {
+    "first_year": 2016,
+    "last_year": 2019,
+    "units": 9425
+   },
+   "Vento": {
+    "first_year": 2013,
+    "last_year": 2023,
+    "units": 396229
+   },
+   "Virtus": {
+    "first_year": 2019,
+    "last_year": 2026,
+    "units": 122935
+   },
+   "Volkswagen Caddy": {
+    "first_year": 2014,
+    "last_year": 2026,
+    "units": 19874
+   },
+   "Volkswagen Tera": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 16087
+   },
+   "Vw Van": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 7114
+   },
+   "e-Crafter": {
+    "first_year": 2023,
+    "last_year": 2026,
+    "units": 489
+   }
+  },
+  "units": 2986417
+ },
+ "Volvo": {
+  "first_year": 2005,
+  "last_year": 2026,
+  "models": {
+   "C30 2.4i": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 514
+   },
+   "C30 T5": {
+    "first_year": 2007,
+    "last_year": 2014,
+    "units": 1154
+   },
+   "C40": {
+    "first_year": 2022,
+    "last_year": 2026,
+    "units": 1308
+   },
+   "C70 Cabrio": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 292
+   },
+   "C70 T5": {
+    "first_year": 2012,
+    "last_year": 2013,
+    "units": 3
+   },
+   "EX30": {
+    "first_year": 2024,
+    "last_year": 2026,
+    "units": 7964
+   },
+   "EX90": {
+    "first_year": 2025,
+    "last_year": 2026,
+    "units": 105
+   },
+   "S 60 1.6": {
+    "first_year": 2011,
+    "last_year": 2015,
+    "units": 869
+   },
+   "S40 2.0t": {
+    "first_year": 2011,
+    "last_year": 2011,
+    "units": 12
+   },
+   "S40 T5": {
+    "first_year": 2005,
+    "last_year": 2012,
+    "units": 5971
+   },
+   "S60": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 1707
+   },
+   "S60 2.5t": {
+    "first_year": 2005,
+    "last_year": 2009,
+    "units": 463
+   },
+   "S60 CC": {
+    "first_year": 2016,
+    "last_year": 2017,
+    "units": 42
+   },
+   "S60 II": {
+    "first_year": 2017,
+    "last_year": 2018,
+    "units": 34
+   },
+   "S60 III": {
+    "first_year": 2019,
+    "last_year": 2023,
+    "units": 1248
+   },
+   "S60 R": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 155
+   },
+   "S60 T6": {
+    "first_year": 2010,
+    "last_year": 2015,
+    "units": 212
+   },
+   "S80 2.5t": {
+    "first_year": 2005,
+    "last_year": 2013,
+    "units": 53
+   },
+   "S80 3.2": {
+    "first_year": 2008,
+    "last_year": 2010,
+    "units": 25
+   },
+   "S80 T6": {
+    "first_year": 2005,
+    "last_year": 2016,
+    "units": 237
+   },
+   "S80 V8": {
+    "first_year": 2007,
+    "last_year": 2011,
+    "units": 277
+   },
+   "S90": {
+    "first_year": 2016,
+    "last_year": 2019,
+    "units": 199
+   },
+   "V40": {
+    "first_year": 2014,
+    "last_year": 2019,
+    "units": 553
+   },
+   "V40 II": {
+    "first_year": 2017,
+    "last_year": 2018,
+    "units": 29
+   },
+   "V40 T4": {
+    "first_year": 2014,
+    "last_year": 2015,
+    "units": 67
+   },
+   "V40 T5": {
+    "first_year": 2014,
+    "last_year": 2015,
+    "units": 84
+   },
+   "V40cc": {
+    "first_year": 2013,
+    "last_year": 2018,
+    "units": 552
+   },
+   "V40cc T5 Awd": {
+    "first_year": 2013,
+    "last_year": 2015,
+    "units": 137
+   },
+   "V40cc T5 Fwd": {
+    "first_year": 2013,
+    "last_year": 2015,
+    "units": 257
+   },
+   "V50 T5": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 95
+   },
+   "V60": {
+    "first_year": 2012,
+    "last_year": 2016,
+    "units": 162
+   },
+   "V60 CC": {
+    "first_year": 2016,
+    "last_year": 2016,
+    "units": 14
+   },
+   "XC40": {
+    "first_year": 2018,
+    "last_year": 2026,
+    "units": 12226
+   },
+   "XC60": {
+    "first_year": 2009,
+    "last_year": 2019,
+    "units": 4658
+   },
+   "XC60 II": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 7096
+   },
+   "XC90 3.2": {
+    "first_year": 2007,
+    "last_year": 2010,
+    "units": 815
+   },
+   "XC90 II": {
+    "first_year": 2017,
+    "last_year": 2026,
+    "units": 4016
+   },
+   "XC90 V8": {
+    "first_year": 2005,
+    "last_year": 2010,
+    "units": 827
+   },
+   "Xc70 2.5t": {
+    "first_year": 2005,
+    "last_year": 2007,
+    "units": 31
+   },
+   "Xc90": {
+    "first_year": 2005,
+    "last_year": 2019,
+    "units": 3416
+   },
+   "Xc90 T6": {
+    "first_year": 2005,
+    "last_year": 2008,
+    "units": 612
+   }
+  },
+  "units": 58491
+ },
+ "Zeekr": {
+  "first_year": 2026,
+  "last_year": 2026,
+  "models": {
+   "001": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 259
+   },
+   "7X": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 984
+   },
+   "X": {
+    "first_year": 2026,
+    "last_year": 2026,
+    "units": 286
+   }
+  },
+  "units": 1529
+ }
+}
