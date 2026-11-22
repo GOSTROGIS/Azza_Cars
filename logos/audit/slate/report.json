@@ -10,7 +10,8 @@
   "agreement_max_outlier_pct": 0.01,
   "agreement_max_aspect_diff": 0.01,
   "max_flat_colors": 12,
-  "reversed_min_invisible_edge": 0.3
+  "reversed_min_invisible_edge": 0.3,
+  "color_note_max_delta_e": 2.0
  },
  "flags": [],
  "fidelity": {
@@ -59,8 +60,16 @@
  "color_audit": {
   "#535353": []
  },
+ "color_near_matches": {
+  "#535353": {
+   "nearest": "#f9f9f9",
+   "source": "reference render",
+   "delta_e_2000": 50.477
+  }
+ },
+ "notes": [],
  "result": "flagged",
  "reasons": [
-  "fill colours not found in an independent source: #535353"
+  "fill colours not confirmed by an independent source: #535353 (nearest dE00 50.48 to #f9f9f9)"
  ]
 }

@@ -10,7 +10,8 @@
   "agreement_max_outlier_pct": 0.01,
   "agreement_max_aspect_diff": 0.01,
   "max_flat_colors": 12,
-  "reversed_min_invisible_edge": 0.3
+  "reversed_min_invisible_edge": 0.3,
+  "color_note_max_delta_e": 2.0
  },
  "flags": [],
  "fidelity": {
@@ -58,8 +59,16 @@
  "color_audit": {
   "#11232f": []
  },
+ "color_near_matches": {
+  "#11232f": {
+   "nearest": "#1b1817",
+   "source": "brandfetch palette",
+   "delta_e_2000": 11.444
+  }
+ },
+ "notes": [],
  "result": "flagged",
  "reasons": [
-  "fill colours not found in an independent source: #11232f"
+  "fill colours not confirmed by an independent source: #11232f (nearest dE00 11.44 to #1b1817)"
  ]
 }

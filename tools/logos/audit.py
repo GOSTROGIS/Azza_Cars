@@ -24,13 +24,16 @@ import json
 import re
 import subprocess
 import sys
+from collections import Counter
 from pathlib import Path
+from xml.sax.saxutils import escape
 
 import defusedxml.ElementTree as ET
 import numpy as np
 import resvg_py
 from PIL import Image, ImageDraw
 
+from color_difference import delta_e_hex
 from common import RASTER, ROOT, SOURCES, independent, load_prov
 
 TOOLS = Path(__file__).resolve().parent
@@ -51,7 +54,9 @@ PASS = {                 # thresholds a rebuild must meet to ship
     "agreement_max_aspect_diff": 0.01,      # relative difference in width/height ratio
     "max_flat_colors": 12,                  # more painted colours than this means gradients or shading
     "reversed_min_invisible_edge": 0.3,     # if this share of the artwork's edge vanishes on white, it is a dark-background variant
+    "color_note_max_delta_e": 2.0,          # an unconfirmed colour within this CIEDE2000 distance of an independent one ships with a note
 }
+PASS_RESULT, FLAGGED, NOT_AUDITED = "pass", "flagged", "not audited"
 COLOR_ATTRS = ("fill", "stroke", "stop-color", "color", "flood-color", "lighting-color")
 HEX = re.compile(r"#[0-9a-fA-F]{6}\b|#[0-9a-fA-F]{3}\b")
 
@@ -426,6 +431,14 @@ def audit(row, palette):
                                                       ("brandfetch palette", "brandfetch/", report["brandfetch_palette"]))
              if src and independent(row["master"], src)]
     confirmed_by = report["color_audit"] = {c: [n for n, pool in pools if c in pool] for c in painted}
+    # nearest independent colour for anything not matched exactly (owner rule: slightly off ships with a note)
+    near = report["color_near_matches"] = {}
+    unconfirmed = [c for c, srcs in confirmed_by.items() if not srcs]
+    for c in unconfirmed:
+        candidates = [(delta_e_hex(c, o), o, n) for n, pool in pools for o in pool]
+        if candidates:
+            de, other, src = min(candidates)
+            near[c] = {"nearest": other, "source": src, "delta_e_2000": round(de, 3)}
 
     fails = []
     fid = report["fidelity"]
@@ -439,11 +452,20 @@ def audit(row, palette):
         fails.append("master is a reversed (light-on-dark) variant, not the primary logo")
     if len(painted) > PASS["max_flat_colors"]:
         fails.append("%d flat colours: gradient or shading, needs manual colour review" % len(painted))
-    unconfirmed = [c for c, srcs in confirmed_by.items() if not srcs]
-    if unconfirmed:
-        fails.append("fill colours not found in an independent source: " + ", ".join(unconfirmed))
+    slight = [c for c in unconfirmed if c in near and near[c]["delta_e_2000"] <= PASS["color_note_max_delta_e"]]
+    off = [c for c in unconfirmed if c not in slight]
+
+    def nearest(c):
+        return "dE00 %.2f to %s" % (near[c]["delta_e_2000"], near[c]["nearest"]) if c in near else "none"
+
+    if off:
+        fails.append("fill colours not confirmed by an independent source: "
+                     + ", ".join("%s (nearest %s)" % (c, nearest(c)) for c in off))
     fails += report["flags"]
-    report["result"] = "pass" if not fails else "flagged"
+    report["notes"] = [  # a pass can carry notes, which ship inside the SVG
+        "colour not 100%% verified: %s matches %s (%s) only to CIEDE2000 %.2f, not exactly"
+        % (c, near[c]["nearest"], near[c]["source"], near[c]["delta_e_2000"]) for c in slight]
+    report["result"] = FLAGGED if fails else PASS_RESULT
     report["reasons"] = fails
 
     lines = ["%s: %s" % (slug, report["result"].upper())] + ["- " + f for f in fails] + [
@@ -457,31 +479,39 @@ def audit(row, palette):
     sheet(slug, panels, lines, out_dir / "sheet.png")
     (out_dir / "report.json").write_text(json.dumps(report, indent=1))
     FINAL.mkdir(parents=True, exist_ok=True)
-    if report["result"] == "pass":
-        (FINAL / (slug + ".svg")).write_text(rebuilt, encoding="utf-8")
+    if report["result"] == PASS_RESULT:
+        (FINAL / (slug + ".svg")).write_text(with_notes(rebuilt, report["notes"]), encoding="utf-8")
     elif (FINAL / (slug + ".svg")).exists():
         (FINAL / (slug + ".svg")).unlink()
     return report
+
+
+def with_notes(svg_text, notes):
+    """Embed audit notes in the shipped SVG as <metadata>, so they travel with the file."""
+    if not notes:
+        return svg_text
+    body = escape("Azza Cars logo audit notes: %s. Evidence in logos/audit/." % "; ".join(notes))
+    tag = ROOT_TAG.search(svg_text).group(0)
+    return svg_text.replace(tag, tag + "<metadata>" + body + "</metadata>", 1)
 
 
 def write_status():
     """logos/STATUS.md: one line per register brand with its current audit outcome."""
     with open(ROOT / "register" / "brands.csv", encoding="utf-8") as f:
         brands = list(csv.DictReader(f))
-    lines, counts = [], {"pass": 0, "flagged": 0, "not audited": 0}
+    lines, counts = [], Counter()
     for b in brands:
         rp = AUDIT / b["slug"] / "report.json"
-        if rp.exists():
-            r = json.loads(rp.read_text())
-            res, why = r["result"], "; ".join(r["reasons"])
-        else:
-            res, why = "not audited", ""
-        counts[res] += 1
-        link = "[svg](svg/%s.svg)" % b["slug"] if res == "pass" else ""
-        lines.append("| %s | %s | %s | %s |" % (b["name"], res, link, why.replace("|", "/")))
+        r = json.loads(rp.read_text()) if rp.exists() else {"result": NOT_AUDITED, "reasons": []}
+        notes = r.get("notes", [])
+        shown = r["result"] + (", with note" if notes and r["result"] == PASS_RESULT else "")
+        counts[shown] += 1
+        link = "[svg](svg/%s.svg)" % b["slug"] if r["result"] == PASS_RESULT else ""
+        why = "; ".join(r["reasons"] + notes).replace("|", "/")
+        lines.append("| %s | %s | %s | %s |" % (b["name"], shown, link, why))
+    summary = ". ".join("%s: %d" % (k.capitalize(), v) for k, v in sorted(counts.items())) + "."
     head = ["# Logo status", "", "Generated by `tools/logos/audit.py`. Do not edit by hand.", "",
-            "Passed: %(pass)d. Flagged: %(flagged)d. Not audited yet: %(not audited)d." % counts, "",
-            "| Brand | Result | File | Reasons |", "|---|---|---|---|"]
+            summary, "", "| Brand | Result | File | Reasons and notes |", "|---|---|---|---|"]
     (ROOT / "logos" / "STATUS.md").write_text("\n".join(head + lines) + "\n", encoding="utf-8")
 
 
