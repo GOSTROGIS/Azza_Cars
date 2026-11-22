@@ -1,0 +1,63 @@
+{
+ "images": [
+  {
+   "slug": "ford-f150",
+   "vehicle_type": "pickup truck",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Ford_F-150_4x4_Pickup_Truck_(53149801149).jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ford_F-150_4x4_Pickup_Truck_%2853149801149%29.jpg",
+   "author": "Tony Webster",
+   "license": "CC BY 2.0",
+   "date_taken": "16 August 2023, 15:47",
+   "clear_passes": []
+  },
+  {
+   "slug": "honda-crv",
+   "vehicle_type": "SUV",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Honda_CRV_1.5_VX_AWD_2024_(9).jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Honda_CRV_1.5_VX_AWD_2024_%289%29.jpg",
+   "author": "Captainmorlypogi1959",
+   "license": "CC BY-SA 4.0",
+   "date_taken": "4 October 2023, 09:55:28",
+   "clear_passes": [
+    [
+     [
+      0,
+      0,
+      0.045,
+      0.62
+     ],
+     [
+      0,
+      0,
+      0.075,
+      0.2
+     ],
+     [
+      0.985,
+      0.6,
+      1,
+      1
+     ]
+    ],
+    [
+     [
+      0.962,
+      0.5,
+      1,
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "slug": "toyota-camry",
+   "vehicle_type": "sedan",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Toyota_Camry_2.5_V_HEV_Hybrid_2025_(32).jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Toyota_Camry_2.5_V_HEV_Hybrid_2025_%2832%29.jpg",
+   "author": "Captainmorlypogi1959",
+   "license": "CC BY-SA 4.0",
+   "date_taken": "8 April 2025, 17:51:56",
+   "clear_passes": []
+  }
+ ]
+}

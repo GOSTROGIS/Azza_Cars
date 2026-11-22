@@ -1,0 +1,57 @@
+{
+ "generated_utc": "2026-11-22T22:59:40Z",
+ "generator": "tools/hero/cutouts.py with tools/hero/cutouts.json",
+ "tools": {
+  "rembg": "2.0.87",
+  "model": "isnet-general-use",
+  "pillow": "12.3.0"
+ },
+ "licence_note": "Each cutout is an adaptation of its source photo. CC BY-SA sources are shared under the same licence. Credit is shown on the page where the images appear.",
+ "images": [
+  {
+   "slug": "ford-f150",
+   "vehicle_type": "pickup truck",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Ford_F-150_4x4_Pickup_Truck_(53149801149).jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ford_F-150_4x4_Pickup_Truck_%2853149801149%29.jpg",
+   "author": "Tony Webster",
+   "license": "CC BY 2.0",
+   "date_taken": "16 August 2023, 15:47",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ford_F-150_4x4_Pickup_Truck_%2853149801149%29.jpg/1920px-Ford_F-150_4x4_Pickup_Truck_%2853149801149%29.jpg",
+   "retrieved_utc": null,
+   "note": "downloaded by an earlier session on 2026-11-22, retrieval time not recorded",
+   "sha256": "3721ea9db5a4edd57b53f5b82f5313d2dc54a401e2ba2c5960e69e418438a845",
+   "bytes": 719626,
+   "file": "ford-f150.webp"
+  },
+  {
+   "slug": "honda-crv",
+   "vehicle_type": "SUV",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Honda_CRV_1.5_VX_AWD_2024_(9).jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Honda_CRV_1.5_VX_AWD_2024_%289%29.jpg",
+   "author": "Captainmorlypogi1959",
+   "license": "CC BY-SA 4.0",
+   "date_taken": "4 October 2023, 09:55:28",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Honda_CRV_1.5_VX_AWD_2024_%289%29.jpg",
+   "retrieved_utc": null,
+   "note": "downloaded by an earlier session on 2026-11-22, retrieval time not recorded",
+   "sha256": "2cc5bd511ce6e5af1453995e521c231f3a394e0ac4998dfa93ca62c9389281a2",
+   "bytes": 3101439,
+   "file": "honda-crv.webp"
+  },
+  {
+   "slug": "toyota-camry",
+   "vehicle_type": "sedan",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Toyota_Camry_2.5_V_HEV_Hybrid_2025_(32).jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Toyota_Camry_2.5_V_HEV_Hybrid_2025_%2832%29.jpg",
+   "author": "Captainmorlypogi1959",
+   "license": "CC BY-SA 4.0",
+   "date_taken": "8 April 2025, 17:51:56",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Toyota_Camry_2.5_V_HEV_Hybrid_2025_%2832%29.jpg/1920px-Toyota_Camry_2.5_V_HEV_Hybrid_2025_%2832%29.jpg",
+   "retrieved_utc": null,
+   "note": "downloaded by an earlier session on 2026-11-22, retrieval time not recorded",
+   "sha256": "92e4b2ac602ae387fc4338da4ed5371fdf7d7f5ea4b1dd385d6ee3c143d5664b",
+   "bytes": 446043,
+   "file": "toyota-camry.webp"
+  }
+ ]
+}
