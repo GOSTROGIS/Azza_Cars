@@ -1,0 +1,1072 @@
+{
+ "confidenceThreshold": 0.5,
+ "siteRadiusM": 60,
+ "recordsRead": {
+  "overture": 1613,
+  "alltheplaces": 195
+ },
+ "insideRegion": 1678,
+ "afterDedupe": 1505,
+ "mergedDuplicates": 173,
+ "crossSourceMatches": 114,
+ "countedByCategory": {
+  "car_rental": 163,
+  "car_dealer": 765,
+  "truck_dealer": 40,
+  "used_dealer": 160,
+  "carshare": 6,
+  "truck_rental": 149,
+  "rv_rental": 10,
+  "car_leasing": 8
+ },
+ "allByCategory": {
+  "car_rental": 192,
+  "car_dealer": 894,
+  "truck_dealer": 45,
+  "used_dealer": 185,
+  "carshare": 6,
+  "truck_rental": 153,
+  "rv_rental": 19,
+  "car_leasing": 11
+ },
+ "rentalLocations": 318,
+ "rentalSites": 279,
+ "rentalsOutsideMembers": 2,
+ "metroPopulation2021": 2632013,
+ "metroRentalsPer10k": 1.2,
+ "rentalBrands": [
+  [
+   "U-Haul",
+   127
+  ],
+  [
+   "unbranded",
+   59
+  ],
+  [
+   "Alamo",
+   24
+  ],
+  [
+   "Enterprise",
+   23
+  ],
+  [
+   "Hertz",
+   22
+  ],
+  [
+   "Avis",
+   12
+  ],
+  [
+   "Budget",
+   10
+  ],
+  [
+   "National",
+   7
+  ],
+  [
+   "Penske",
+   6
+  ],
+  [
+   "Discount",
+   6
+  ],
+  [
+   "Thrifty",
+   5
+  ],
+  [
+   "Sixt",
+   3
+  ],
+  [
+   "Dollar",
+   3
+  ],
+  [
+   "Evo",
+   2
+  ],
+  [
+   "Routes",
+   2
+  ],
+  [
+   "Mr. Rent-A-Car",
+   2
+  ],
+  [
+   "Zipcar",
+   2
+  ],
+  [
+   "Ryder",
+   1
+  ],
+  [
+   "Modo",
+   1
+  ],
+  [
+   "Car2Go",
+   1
+  ]
+ ],
+ "rentalBrandsByCategory": {
+  "car_rental": [
+   [
+    "unbranded",
+    47
+   ],
+   [
+    "Alamo",
+    24
+   ],
+   [
+    "Enterprise",
+    23
+   ],
+   [
+    "Hertz",
+    22
+   ],
+   [
+    "Avis",
+    12
+   ],
+   [
+    "Budget",
+    10
+   ],
+   [
+    "National",
+    7
+   ],
+   [
+    "Thrifty",
+    5
+   ],
+   [
+    "Sixt",
+    3
+   ],
+   [
+    "Dollar",
+    3
+   ],
+   [
+    "Discount",
+    3
+   ],
+   [
+    "Routes",
+    2
+   ],
+   [
+    "Mr. Rent-A-Car",
+    2
+   ]
+  ],
+  "truck_rental": [
+   [
+    "U-Haul",
+    127
+   ],
+   [
+    "unbranded",
+    12
+   ],
+   [
+    "Penske",
+    6
+   ],
+   [
+    "Discount",
+    3
+   ],
+   [
+    "Ryder",
+    1
+   ]
+  ],
+  "carshare": [
+   [
+    "Evo",
+    2
+   ],
+   [
+    "Zipcar",
+    2
+   ],
+   [
+    "Modo",
+    1
+   ],
+   [
+    "Car2Go",
+    1
+   ]
+  ]
+ },
+ "anchors": {
+  "Vancouver International Airport": {
+   "id": "dc079b87-18ff-45e6-b91a-bf60eeb90272",
+   "conf": 0.999781988799572,
+   "lonlat": [
+    -123.180406,
+    49.193736
+   ],
+   "rentals_3km": 18,
+   "brands_3km": [
+    [
+     "Alamo",
+     3
+    ],
+    [
+     "Avis",
+     2
+    ],
+    [
+     "Budget",
+     2
+    ],
+    [
+     "Enterprise",
+     2
+    ],
+    [
+     "Hertz",
+     4
+    ],
+    [
+     "National",
+     2
+    ],
+    [
+     "Sixt",
+     1
+    ],
+    [
+     "Thrifty",
+     1
+    ],
+    [
+     "unbranded",
+     1
+    ]
+   ],
+   "categories_3km": {
+    "car_rental": 18
+   }
+  },
+  "Port of Vancouver Cruise Ship Terminal": {
+   "id": "28680e2d-34d2-4255-8e5d-9465494f8ddd",
+   "conf": 0.7851095199584961,
+   "lonlat": [
+    -123.121282,
+    49.287895
+   ],
+   "rentals_3km": 39,
+   "brands_3km": [
+    [
+     "Alamo",
+     5
+    ],
+    [
+     "Avis",
+     3
+    ],
+    [
+     "Budget",
+     1
+    ],
+    [
+     "Car2Go",
+     1
+    ],
+    [
+     "Discount",
+     1
+    ],
+    [
+     "Enterprise",
+     4
+    ],
+    [
+     "Evo",
+     1
+    ],
+    [
+     "Hertz",
+     3
+    ],
+    [
+     "Modo",
+     1
+    ],
+    [
+     "National",
+     2
+    ],
+    [
+     "Penske",
+     2
+    ],
+    [
+     "Sixt",
+     2
+    ],
+    [
+     "Thrifty",
+     2
+    ],
+    [
+     "U-Haul",
+     3
+    ],
+    [
+     "Zipcar",
+     1
+    ],
+    [
+     "unbranded",
+     7
+    ]
+   ],
+   "categories_3km": {
+    "car_rental": 30,
+    "carshare": 4,
+    "truck_rental": 5
+   }
+  }
+ },
+ "stationsTotal": 64,
+ "stationsNoRental1km": 13,
+ "stationsNoRental2km": [
+  [
+   "Pitt Meadows Station",
+   "pitt-meadows",
+   2351
+  ],
+  [
+   "Production Way-University Station",
+   "burnaby",
+   2192
+  ],
+  [
+   "Burquitlam Station",
+   "coquitlam",
+   2028
+  ]
+ ],
+ "municipalities": [
+  {
+   "slug": "vancouver",
+   "name": "City of Vancouver",
+   "csduid": "5915022",
+   "population_2021": 662248,
+   "households_2021": 305336,
+   "land_area_km2": 115.18,
+   "rental_locations": 83,
+   "car_rental": 47,
+   "truck_rental": 31,
+   "carshare": 5,
+   "rentals_per_10k": 1.25,
+   "dealerships": 150,
+   "dealers_per_10k": 2.27,
+   "rapid_transit_stations": 21,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 76,
+   "bc_4412": 23,
+   "bc_441": 130,
+   "bc_5321": 30,
+   "bc_532": 124,
+   "bc_5324": 53,
+   "bc_484": 115,
+   "bc_493": 36,
+   "bc_4885": 74,
+   "bc_48-49": 464,
+   "bc_23": 2185,
+   "bc_721": 169,
+   "bc_1": 36879,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 13.27
+  },
+  {
+   "slug": "surrey",
+   "name": "City of Surrey",
+   "csduid": "5915004",
+   "population_2021": 568322,
+   "households_2021": 185671,
+   "land_area_km2": 316.11,
+   "rental_locations": 57,
+   "car_rental": 20,
+   "truck_rental": 37,
+   "carshare": 0,
+   "rentals_per_10k": 1.0,
+   "dealerships": 269,
+   "dealers_per_10k": 4.73,
+   "rapid_transit_stations": 4,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 108,
+   "bc_4412": 10,
+   "bc_441": 182,
+   "bc_5321": 26,
+   "bc_532": 79,
+   "bc_5324": 33,
+   "bc_484": 1418,
+   "bc_493": 59,
+   "bc_4885": 71,
+   "bc_48-49": 1906,
+   "bc_23": 4648,
+   "bc_721": 60,
+   "bc_1": 24332,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 6.04
+  },
+  {
+   "slug": "burnaby",
+   "name": "City of Burnaby",
+   "csduid": "5915025",
+   "population_2021": 249125,
+   "households_2021": 101136,
+   "land_area_km2": 90.57,
+   "rental_locations": 30,
+   "car_rental": 15,
+   "truck_rental": 14,
+   "carshare": 1,
+   "rentals_per_10k": 1.2,
+   "dealerships": 82,
+   "dealers_per_10k": 3.29,
+   "rapid_transit_stations": 11,
+   "stations_no_rental_2km": 1,
+   "bc_4411": 31,
+   "bc_4412": 7,
+   "bc_441": 58,
+   "bc_5321": 12,
+   "bc_532": 62,
+   "bc_5324": 36,
+   "bc_484": 83,
+   "bc_493": 30,
+   "bc_4885": 34,
+   "bc_48-49": 226,
+   "bc_23": 1123,
+   "bc_721": 31,
+   "bc_1": 10242,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 11.33
+  },
+  {
+   "slug": "richmond",
+   "name": "City of Richmond",
+   "csduid": "5915015",
+   "population_2021": 209937,
+   "households_2021": 81080,
+   "land_area_km2": 128.87,
+   "rental_locations": 57,
+   "car_rental": 48,
+   "truck_rental": 9,
+   "carshare": 0,
+   "rentals_per_10k": 2.72,
+   "dealerships": 118,
+   "dealers_per_10k": 5.62,
+   "rapid_transit_stations": 8,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 57,
+   "bc_4412": 9,
+   "bc_441": 108,
+   "bc_5321": 35,
+   "bc_532": 62,
+   "bc_5324": 22,
+   "bc_484": 140,
+   "bc_493": 60,
+   "bc_4885": 138,
+   "bc_48-49": 527,
+   "bc_23": 854,
+   "bc_721": 45,
+   "bc_1": 10978,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 8.54
+  },
+  {
+   "slug": "coquitlam",
+   "name": "City of Coquitlam",
+   "csduid": "5915034",
+   "population_2021": 148625,
+   "households_2021": 55949,
+   "land_area_km2": 122.15,
+   "rental_locations": 13,
+   "car_rental": 6,
+   "truck_rental": 7,
+   "carshare": 0,
+   "rentals_per_10k": 0.87,
+   "dealerships": 47,
+   "dealers_per_10k": 3.16,
+   "rapid_transit_stations": 6,
+   "stations_no_rental_2km": 1,
+   "bc_4411": 20,
+   "bc_4412": 1,
+   "bc_441": 40,
+   "bc_5321": 4,
+   "bc_532": 23,
+   "bc_5324": 17,
+   "bc_484": 45,
+   "bc_493": 10,
+   "bc_4885": 19,
+   "bc_48-49": 121,
+   "bc_23": 635,
+   "bc_721": 13,
+   "bc_1": 4954,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 10.14
+  },
+  {
+   "slug": "langley-district",
+   "name": "The Corporation of the Township of Langley",
+   "csduid": "5915001",
+   "population_2021": 132603,
+   "households_2021": 46928,
+   "land_area_km2": 307.22,
+   "rental_locations": 11,
+   "car_rental": 1,
+   "truck_rental": 10,
+   "carshare": 0,
+   "rentals_per_10k": 0.83,
+   "dealerships": 38,
+   "dealers_per_10k": 2.87,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 10,
+   "bc_4412": 11,
+   "bc_441": 41,
+   "bc_5321": 9,
+   "bc_532": 33,
+   "bc_5324": 18,
+   "bc_484": 222,
+   "bc_493": 16,
+   "bc_4885": 16,
+   "bc_48-49": 346,
+   "bc_23": 1036,
+   "bc_721": 23,
+   "bc_1": 6542,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 7.85
+  },
+  {
+   "slug": "delta",
+   "name": "City of Delta",
+   "csduid": "5915011",
+   "population_2021": 108455,
+   "households_2021": 38058,
+   "land_area_km2": 179.66,
+   "rental_locations": 14,
+   "car_rental": 3,
+   "truck_rental": 11,
+   "carshare": 0,
+   "rentals_per_10k": 1.29,
+   "dealerships": 12,
+   "dealers_per_10k": 1.11,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 7,
+   "bc_4412": 3,
+   "bc_441": 25,
+   "bc_5321": 13,
+   "bc_532": 26,
+   "bc_5324": 12,
+   "bc_484": 204,
+   "bc_493": 46,
+   "bc_4885": 21,
+   "bc_48-49": 350,
+   "bc_23": 731,
+   "bc_721": 9,
+   "bc_1": 4673,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 11.21
+  },
+  {
+   "slug": "maple-ridge",
+   "name": "City of Maple Ridge",
+   "csduid": "5915075",
+   "population_2021": 90990,
+   "households_2021": 33103,
+   "land_area_km2": 267.82,
+   "rental_locations": 9,
+   "car_rental": 3,
+   "truck_rental": 6,
+   "carshare": 0,
+   "rentals_per_10k": 0.99,
+   "dealerships": 27,
+   "dealers_per_10k": 2.97,
+   "rapid_transit_stations": 2,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 14,
+   "bc_4412": 1,
+   "bc_441": 28,
+   "bc_5321": 2,
+   "bc_532": 8,
+   "bc_5324": 4,
+   "bc_484": 51,
+   "bc_493": 4,
+   "bc_4885": 4,
+   "bc_48-49": 87,
+   "bc_23": 557,
+   "bc_721": 7,
+   "bc_1": 2898,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 9.8
+  },
+  {
+   "slug": "north-vancouver-district",
+   "name": "The Corporation of the District of North Vancouver",
+   "csduid": "5915046",
+   "population_2021": 88168,
+   "households_2021": 32700,
+   "land_area_km2": 160.66,
+   "rental_locations": 4,
+   "car_rental": 2,
+   "truck_rental": 2,
+   "carshare": 0,
+   "rentals_per_10k": 0.45,
+   "dealerships": 23,
+   "dealers_per_10k": 2.61,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 11,
+   "bc_4412": 4,
+   "bc_441": 24,
+   "bc_5321": 4,
+   "bc_532": 20,
+   "bc_5324": 8,
+   "bc_484": 21,
+   "bc_493": 5,
+   "bc_4885": 8,
+   "bc_48-49": 67,
+   "bc_23": 455,
+   "bc_721": 17,
+   "bc_1": 4400,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 4.16
+  },
+  {
+   "slug": "new-westminster",
+   "name": "City of New Westminster",
+   "csduid": "5915029",
+   "population_2021": 78916,
+   "households_2021": 36099,
+   "land_area_km2": 15.62,
+   "rental_locations": 9,
+   "car_rental": 2,
+   "truck_rental": 7,
+   "carshare": 0,
+   "rentals_per_10k": 1.14,
+   "dealerships": 46,
+   "dealers_per_10k": 5.83,
+   "rapid_transit_stations": 5,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 15,
+   "bc_4412": null,
+   "bc_441": 20,
+   "bc_5321": 6,
+   "bc_532": 11,
+   "bc_5324": 4,
+   "bc_484": 51,
+   "bc_493": 21,
+   "bc_4885": 2,
+   "bc_48-49": 108,
+   "bc_23": 234,
+   "bc_721": 6,
+   "bc_1": 2555,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 22.88
+  },
+  {
+   "slug": "port-coquitlam",
+   "name": "City of Port Coquitlam",
+   "csduid": "5915039",
+   "population_2021": 61498,
+   "households_2021": 22884,
+   "land_area_km2": 29.16,
+   "rental_locations": 4,
+   "car_rental": 1,
+   "truck_rental": 3,
+   "carshare": 0,
+   "rentals_per_10k": 0.65,
+   "dealerships": 27,
+   "dealers_per_10k": 4.39,
+   "rapid_transit_stations": 1,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 8,
+   "bc_4412": 3,
+   "bc_441": 24,
+   "bc_5321": 1,
+   "bc_532": 11,
+   "bc_5324": 6,
+   "bc_484": 30,
+   "bc_493": 13,
+   "bc_4885": 9,
+   "bc_48-49": 75,
+   "bc_23": 411,
+   "bc_721": 5,
+   "bc_1": 2394,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 6.61
+  },
+  {
+   "slug": "north-vancouver-city",
+   "name": "City of North Vancouver",
+   "csduid": "5915051",
+   "population_2021": 58120,
+   "households_2021": 27293,
+   "land_area_km2": 11.83,
+   "rental_locations": 7,
+   "car_rental": 4,
+   "truck_rental": 3,
+   "carshare": 0,
+   "rentals_per_10k": 1.2,
+   "dealerships": 32,
+   "dealers_per_10k": 5.51,
+   "rapid_transit_stations": 1,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 15,
+   "bc_4412": 2,
+   "bc_441": 24,
+   "bc_5321": 3,
+   "bc_532": 8,
+   "bc_5324": 4,
+   "bc_484": 12,
+   "bc_493": 3,
+   "bc_4885": 4,
+   "bc_48-49": 37,
+   "bc_23": 260,
+   "bc_721": 6,
+   "bc_1": 2675,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 10.91
+  },
+  {
+   "slug": "west-vancouver",
+   "name": "District Municipality of West Vancouver",
+   "csduid": "5915055",
+   "population_2021": 44122,
+   "households_2021": 17690,
+   "land_area_km2": 87.18,
+   "rental_locations": 1,
+   "car_rental": 1,
+   "truck_rental": 0,
+   "carshare": 0,
+   "rentals_per_10k": 0.23,
+   "dealerships": 4,
+   "dealers_per_10k": 0.91,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 5,
+   "bc_4412": 1,
+   "bc_441": 7,
+   "bc_5321": 2,
+   "bc_532": 4,
+   "bc_5324": 1,
+   "bc_484": 2,
+   "bc_493": 5,
+   "bc_4885": 6,
+   "bc_48-49": 29,
+   "bc_23": 185,
+   "bc_721": 18,
+   "bc_1": 2491,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 0.0
+  },
+  {
+   "slug": "port-moody",
+   "name": "City of Port Moody",
+   "csduid": "5915043",
+   "population_2021": 33535,
+   "households_2021": 13109,
+   "land_area_km2": 25.85,
+   "rental_locations": 0,
+   "car_rental": 0,
+   "truck_rental": 0,
+   "carshare": 0,
+   "rentals_per_10k": 0.0,
+   "dealerships": 9,
+   "dealers_per_10k": 2.68,
+   "rapid_transit_stations": 4,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 8,
+   "bc_4412": 2,
+   "bc_441": 11,
+   "bc_5321": 1,
+   "bc_532": 3,
+   "bc_5324": 1,
+   "bc_484": 8,
+   "bc_493": 3,
+   "bc_4885": null,
+   "bc_48-49": 20,
+   "bc_23": 132,
+   "bc_721": 3,
+   "bc_1": 1266,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 0.0
+  },
+  {
+   "slug": "langley-city",
+   "name": "City of Langley",
+   "csduid": "5915002",
+   "population_2021": 28963,
+   "households_2021": 12598,
+   "land_area_km2": 10.18,
+   "rental_locations": 12,
+   "car_rental": 8,
+   "truck_rental": 4,
+   "carshare": 0,
+   "rentals_per_10k": 4.14,
+   "dealerships": 74,
+   "dealers_per_10k": 25.55,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 17,
+   "bc_4412": 3,
+   "bc_441": 36,
+   "bc_5321": 5,
+   "bc_532": 12,
+   "bc_5324": 5,
+   "bc_484": 20,
+   "bc_493": 2,
+   "bc_4885": 1,
+   "bc_48-49": 39,
+   "bc_23": 149,
+   "bc_721": 5,
+   "bc_1": 1233,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 23.39
+  },
+  {
+   "slug": "white-rock",
+   "name": "City of White Rock",
+   "csduid": "5915007",
+   "population_2021": 21939,
+   "households_2021": 10735,
+   "land_area_km2": 5.17,
+   "rental_locations": 0,
+   "car_rental": 0,
+   "truck_rental": 0,
+   "carshare": 0,
+   "rentals_per_10k": 0.0,
+   "dealerships": 0,
+   "dealers_per_10k": 0.0,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 1,
+   "bc_4412": null,
+   "bc_441": 1,
+   "bc_5321": null,
+   "bc_532": null,
+   "bc_5324": null,
+   "bc_484": 9,
+   "bc_493": 1,
+   "bc_4885": 2,
+   "bc_48-49": 14,
+   "bc_23": 83,
+   "bc_721": 2,
+   "bc_1": 754,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 0.0
+  },
+  {
+   "slug": "pitt-meadows",
+   "name": "City of Pitt Meadows",
+   "csduid": "5915070",
+   "population_2021": 19146,
+   "households_2021": 7404,
+   "land_area_km2": 86.34,
+   "rental_locations": 4,
+   "car_rental": 0,
+   "truck_rental": 4,
+   "carshare": 0,
+   "rentals_per_10k": 2.09,
+   "dealerships": 7,
+   "dealers_per_10k": 3.66,
+   "rapid_transit_stations": 1,
+   "stations_no_rental_2km": 1,
+   "bc_4411": 5,
+   "bc_4412": null,
+   "bc_441": 7,
+   "bc_5321": null,
+   "bc_532": 2,
+   "bc_5324": 1,
+   "bc_484": 16,
+   "bc_493": 4,
+   "bc_4885": 1,
+   "bc_48-49": 38,
+   "bc_23": 96,
+   "bc_721": 1,
+   "bc_1": 670,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 34.48
+  },
+  {
+   "slug": "mvrd-ea-a",
+   "name": "MVRD Electoral Area A",
+   "csduid": "5915020",
+   "population_2021": 18612,
+   "households_2021": 7682,
+   "land_area_km2": 815.21,
+   "rental_locations": 1,
+   "car_rental": 0,
+   "truck_rental": 1,
+   "carshare": 0,
+   "rentals_per_10k": 0.54,
+   "dealerships": 0,
+   "dealers_per_10k": 0.0,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": null,
+   "bc_4412": null,
+   "bc_441": 1,
+   "bc_5321": null,
+   "bc_532": null,
+   "bc_5324": null,
+   "bc_484": null,
+   "bc_493": null,
+   "bc_4885": null,
+   "bc_48-49": 3,
+   "bc_23": 6,
+   "bc_721": 1,
+   "bc_1": 425,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 166.67
+  },
+  {
+   "slug": "bowen-island",
+   "name": "Bowen Island Municipality",
+   "csduid": "5915062",
+   "population_2021": 4256,
+   "households_2021": 1724,
+   "land_area_km2": 50.12,
+   "rental_locations": 0,
+   "car_rental": 0,
+   "truck_rental": 0,
+   "carshare": 0,
+   "rentals_per_10k": 0.0,
+   "dealerships": 0,
+   "dealers_per_10k": 0.0,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": null,
+   "bc_4412": null,
+   "bc_441": null,
+   "bc_5321": null,
+   "bc_532": 1,
+   "bc_5324": null,
+   "bc_484": 3,
+   "bc_493": null,
+   "bc_4885": null,
+   "bc_48-49": 6,
+   "bc_23": 55,
+   "bc_721": 2,
+   "bc_1": 232,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 0.0
+  },
+  {
+   "slug": "anmore",
+   "name": "Village of Anmore",
+   "csduid": "5915038",
+   "population_2021": 2356,
+   "households_2021": 744,
+   "land_area_km2": 27.53,
+   "rental_locations": 0,
+   "car_rental": 0,
+   "truck_rental": 0,
+   "carshare": 0,
+   "rentals_per_10k": 0.0,
+   "dealerships": 0,
+   "dealers_per_10k": 0.0,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": 1,
+   "bc_4412": null,
+   "bc_441": 1,
+   "bc_5321": null,
+   "bc_532": 1,
+   "bc_5324": 1,
+   "bc_484": 1,
+   "bc_493": null,
+   "bc_4885": null,
+   "bc_48-49": 2,
+   "bc_23": 20,
+   "bc_721": null,
+   "bc_1": 107,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 0.0
+  },
+  {
+   "slug": "lions-bay",
+   "name": "Village of Lions Bay",
+   "csduid": "5915065",
+   "population_2021": 1390,
+   "households_2021": 506,
+   "land_area_km2": 2.53,
+   "rental_locations": 0,
+   "car_rental": 0,
+   "truck_rental": 0,
+   "carshare": 0,
+   "rentals_per_10k": 0.0,
+   "dealerships": 0,
+   "dealers_per_10k": 0.0,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": null,
+   "bc_4412": null,
+   "bc_441": null,
+   "bc_5321": null,
+   "bc_532": null,
+   "bc_5324": null,
+   "bc_484": null,
+   "bc_493": null,
+   "bc_4885": null,
+   "bc_48-49": null,
+   "bc_23": 6,
+   "bc_721": null,
+   "bc_1": 54,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 0.0
+  },
+  {
+   "slug": "belcarra",
+   "name": "Village of Belcarra",
+   "csduid": "5915036",
+   "population_2021": 687,
+   "households_2021": 262,
+   "land_area_km2": 5.5,
+   "rental_locations": 0,
+   "car_rental": 0,
+   "truck_rental": 0,
+   "carshare": 0,
+   "rentals_per_10k": 0.0,
+   "dealerships": 0,
+   "dealers_per_10k": 0.0,
+   "rapid_transit_stations": 0,
+   "stations_no_rental_2km": 0,
+   "bc_4411": null,
+   "bc_4412": 1,
+   "bc_441": 1,
+   "bc_5321": null,
+   "bc_532": null,
+   "bc_5324": null,
+   "bc_484": null,
+   "bc_493": null,
+   "bc_4885": null,
+   "bc_48-49": null,
+   "bc_23": 1,
+   "bc_721": null,
+   "bc_1": 20,
+   "bc_ref_date": "2026-01",
+   "truck_rental_per_1k_trade_firms": 0.0
+  }
+ ]
+}

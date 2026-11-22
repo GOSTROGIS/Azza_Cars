@@ -1,0 +1,1534 @@
+ref_date,dguid,csduid,geo,employment_size,naics,value,status,symbol,vector
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees","Total, all industries [1]",6542,,,v1919351253
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Construction [23],1036,,,v1919351286
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Transportation and warehousing [48-49],346,,,v1919351453
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Motor vehicle and parts dealers [441],41,,,v1919351421
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Truck transportation [484],222,,,v1919351457
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Transit and ground passenger transportation [485],7,,,v1919351460
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Warehousing and storage [493],16,,,v1919351479
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Rental and leasing services [532],33,,,v1919351515
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Accommodation services [721],23,,,v1919351592
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Automobile dealers [4411],10,,,v1919351422
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Other motor vehicle dealers [4412],11,,,v1919351423
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Taxi and limousine service [4853],6,,,v1919351461
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Freight transportation arrangement [4885],16,,,v1919351472
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Automotive equipment rental and leasing [5321],9,,,v1919351516
+2026-01,2021A00055915001,5915001,Langley,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],18,,,v1919351518
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,"Total, all industries [1]",3646,,,v1919349865
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Construction [23],569,,,v1919349892
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Transportation and warehousing [48-49],206,,,v1919350018
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Motor vehicle and parts dealers [441],19,,,v1919349987
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Truck transportation [484],149,,,v1919350021
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Transit and ground passenger transportation [485],7,,,v1919350024
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Warehousing and storage [493],3,,,v1919350041
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Rental and leasing services [532],21,,,v1919350075
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Accommodation services [721],6,,,v1919350138
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Automobile dealers [4411],7,,,v1919349988
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Other motor vehicle dealers [4412],5,,,v1919349989
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Taxi and limousine service [4853],6,,,v1919350025
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Freight transportation arrangement [4885],8,,,v1919350034
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Automotive equipment rental and leasing [5321],6,,,v1919350076
+2026-01,2021A00055915001,5915001,Langley,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],11,,,v1919350078
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,"Total, all industries [1]",1182,,,v1919350164
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Construction [23],212,,,v1919350187
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Transportation and warehousing [48-49],43,,,v1919350313
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Motor vehicle and parts dealers [441],7,,,v1919350284
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Truck transportation [484],26,,,v1919350316
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Warehousing and storage [493],3,,,v1919350324
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Rental and leasing services [532],6,,,v1919350355
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Accommodation services [721],3,,,v1919350411
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Automobile dealers [4411],1,,,v1919350285
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Other motor vehicle dealers [4412],1,,,v1919350286
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Freight transportation arrangement [4885],3,,,v1919350322
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Automotive equipment rental and leasing [5321],1,,,v1919350356
+2026-01,2021A00055915001,5915001,Langley,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],3,,,v1919350358
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,"Total, all industries [1]",859,,,v1919350436
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Construction [23],136,,,v1919350453
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Transportation and warehousing [48-49],46,,,v1919350563
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Motor vehicle and parts dealers [441],7,,,v1919350535
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Truck transportation [484],27,,,v1919350567
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Warehousing and storage [493],2,,,v1919350578
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Rental and leasing services [532],4,,,v1919350602
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Accommodation services [721],5,,,v1919350656
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Other motor vehicle dealers [4412],2,,,v1919350536
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Freight transportation arrangement [4885],3,,,v1919350574
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Automotive equipment rental and leasing [5321],1,,,v1919350603
+2026-01,2021A00055915001,5915001,Langley,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],3,,,v1919350604
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,"Total, all industries [1]",556,,,v1919350681
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Construction [23],75,,,v1919350696
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Transportation and warehousing [48-49],28,,,v1919350815
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Motor vehicle and parts dealers [441],8,,,v1919350790
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Truck transportation [484],15,,,v1919350818
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Warehousing and storage [493],2,,,v1919350829
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Rental and leasing services [532],2,,,v1919350848
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Accommodation services [721],6,,,v1919350899
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Automobile dealers [4411],2,,,v1919350791
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Other motor vehicle dealers [4412],3,,,v1919350792
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Freight transportation arrangement [4885],1,,,v1919350826
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Automotive equipment rental and leasing [5321],1,,,v1919350849
+2026-01,2021A00055915001,5915001,Langley,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919350850
+2026-01,2021A00055915001,5915001,Langley,50 to 99 employees,"Total, all industries [1]",188,,,v1919350918
+2026-01,2021A00055915001,5915001,Langley,50 to 99 employees,Construction [23],30,,,v1919350927
+2026-01,2021A00055915001,5915001,Langley,50 to 99 employees,Transportation and warehousing [48-49],14,,,v1919350996
+2026-01,2021A00055915001,5915001,Langley,50 to 99 employees,Truck transportation [484],3,,,v1919350997
+2026-01,2021A00055915001,5915001,Langley,50 to 99 employees,Warehousing and storage [493],4,,,v1919351007
+2026-01,2021A00055915001,5915001,Langley,50 to 99 employees,Accommodation services [721],2,,,v1919351060
+2026-01,2021A00055915001,5915001,Langley,50 to 99 employees,Freight transportation arrangement [4885],1,,,v1919351003
+2026-01,2021A00055915001,5915001,Langley,100 to 199 employees,"Total, all industries [1]",71,,,v1919351077
+2026-01,2021A00055915001,5915001,Langley,100 to 199 employees,Construction [23],10,,,v1919351082
+2026-01,2021A00055915001,5915001,Langley,100 to 199 employees,Transportation and warehousing [48-49],2,,,v1919351132
+2026-01,2021A00055915001,5915001,Langley,100 to 199 employees,Truck transportation [484],1,,,v1919351133
+2026-01,2021A00055915001,5915001,Langley,200 to 499 employees,"Total, all industries [1]",33,,,v1919351175
+2026-01,2021A00055915001,5915001,Langley,200 to 499 employees,Construction [23],4,,,v1919351179
+2026-01,2021A00055915001,5915001,Langley,200 to 499 employees,Transportation and warehousing [48-49],6,,,v1919351207
+2026-01,2021A00055915001,5915001,Langley,200 to 499 employees,Truck transportation [484],1,,,v1919351208
+2026-01,2021A00055915001,5915001,Langley,200 to 499 employees,Warehousing and storage [493],2,,,v1919351212
+2026-01,2021A00055915001,5915001,Langley,200 to 499 employees,Accommodation services [721],1,,,v1919351230
+2026-01,2021A00055915001,5915001,Langley,500 plus employees,"Total, all industries [1]",7,,,v1919351232
+2026-01,2021A00055915001,5915001,Langley,500 plus employees,Transportation and warehousing [48-49],1,,,v1919351237
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees","Total, all industries [1]",1233,,,v1919352363
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Construction [23],149,,,v1919352375
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Transportation and warehousing [48-49],39,,,v1919352495
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Motor vehicle and parts dealers [441],36,,,v1919352465
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Truck transportation [484],20,,,v1919352496
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Transit and ground passenger transportation [485],6,,,v1919352499
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Warehousing and storage [493],2,,,v1919352509
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Rental and leasing services [532],12,,,v1919352538
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Accommodation services [721],5,,,v1919352598
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Automobile dealers [4411],17,,,v1919352466
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Other motor vehicle dealers [4412],3,,,v1919352467
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Taxi and limousine service [4853],6,,,v1919352500
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Freight transportation arrangement [4885],1,,,v1919352505
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Automotive equipment rental and leasing [5321],5,,,v1919352539
+2026-01,2021A00055915002,5915002,Langley,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],5,,,v1919352541
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,"Total, all industries [1]",630,,,v1919351629
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Construction [23],77,,,v1919351641
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Transportation and warehousing [48-49],27,,,v1919351737
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Motor vehicle and parts dealers [441],11,,,v1919351710
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Truck transportation [484],15,,,v1919351738
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Transit and ground passenger transportation [485],5,,,v1919351741
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Rental and leasing services [532],3,,,v1919351774
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Accommodation services [721],1,,,v1919351826
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Automobile dealers [4411],5,,,v1919351711
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Other motor vehicle dealers [4412],1,,,v1919351712
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Taxi and limousine service [4853],5,,,v1919351742
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Automotive equipment rental and leasing [5321],1,,,v1919351775
+2026-01,2021A00055915002,5915002,Langley,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919351776
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,"Total, all industries [1]",250,,,v1919351848
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Construction [23],31,,,v1919351850
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Transportation and warehousing [48-49],7,,,v1919351926
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Motor vehicle and parts dealers [441],5,,,v1919351904
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Truck transportation [484],2,,,v1919351927
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Transit and ground passenger transportation [485],1,,,v1919351930
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Warehousing and storage [493],1,,,v1919351935
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Rental and leasing services [532],4,,,v1919351946
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Automobile dealers [4411],1,,,v1919351905
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Taxi and limousine service [4853],1,,,v1919351931
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Freight transportation arrangement [4885],1,,,v1919351934
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Automotive equipment rental and leasing [5321],1,,,v1919351947
+2026-01,2021A00055915002,5915002,Langley,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919351949
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,"Total, all industries [1]",174,,,v1919352001
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Construction [23],23,,,v1919352003
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Transportation and warehousing [48-49],3,,,v1919352064
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Motor vehicle and parts dealers [441],8,,,v1919352041
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Truck transportation [484],2,,,v1919352065
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Warehousing and storage [493],1,,,v1919352068
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Rental and leasing services [532],4,,,v1919352079
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Accommodation services [721],2,,,v1919352121
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Automobile dealers [4411],3,,,v1919352042
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Other motor vehicle dealers [4412],1,,,v1919352043
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Automotive equipment rental and leasing [5321],3,,,v1919352080
+2026-01,2021A00055915002,5915002,Langley,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919352081
+2026-01,2021A00055915002,5915002,Langley,20 to 49 employees,"Total, all industries [1]",130,,,v1919352139
+2026-01,2021A00055915002,5915002,Langley,20 to 49 employees,Construction [23],14,,,v1919352141
+2026-01,2021A00055915002,5915002,Langley,20 to 49 employees,Transportation and warehousing [48-49],1,,,v1919352199
+2026-01,2021A00055915002,5915002,Langley,20 to 49 employees,Motor vehicle and parts dealers [441],6,,,v1919352178
+2026-01,2021A00055915002,5915002,Langley,20 to 49 employees,Truck transportation [484],1,,,v1919352200
+2026-01,2021A00055915002,5915002,Langley,20 to 49 employees,Accommodation services [721],1,,,v1919352248
+2026-01,2021A00055915002,5915002,Langley,20 to 49 employees,Automobile dealers [4411],3,,,v1919352179
+2026-01,2021A00055915002,5915002,Langley,50 to 99 employees,"Total, all industries [1]",32,,,v1919352260
+2026-01,2021A00055915002,5915002,Langley,50 to 99 employees,Construction [23],3,,,v1919352261
+2026-01,2021A00055915002,5915002,Langley,50 to 99 employees,Motor vehicle and parts dealers [441],2,,,v1919352276
+2026-01,2021A00055915002,5915002,Langley,50 to 99 employees,Rental and leasing services [532],1,,,v1919352295
+2026-01,2021A00055915002,5915002,Langley,50 to 99 employees,Accommodation services [721],1,,,v1919352316
+2026-01,2021A00055915002,5915002,Langley,50 to 99 employees,Automobile dealers [4411],2,,,v1919352277
+2026-01,2021A00055915002,5915002,Langley,50 to 99 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919352296
+2026-01,2021A00055915002,5915002,Langley,100 to 199 employees,"Total, all industries [1]",13,,,v1919352320
+2026-01,2021A00055915002,5915002,Langley,100 to 199 employees,Construction [23],1,,,v1919352321
+2026-01,2021A00055915002,5915002,Langley,100 to 199 employees,Transportation and warehousing [48-49],1,,,v1919352337
+2026-01,2021A00055915002,5915002,Langley,100 to 199 employees,Motor vehicle and parts dealers [441],4,,,v1919352332
+2026-01,2021A00055915002,5915002,Langley,100 to 199 employees,Automobile dealers [4411],3,,,v1919352333
+2026-01,2021A00055915002,5915002,Langley,100 to 199 employees,Other motor vehicle dealers [4412],1,,,v1919352334
+2026-01,2021A00055915002,5915002,Langley,200 to 499 employees,"Total, all industries [1]",4,,,v1919352349
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees","Total, all industries [1]",24332,,,v1919354407
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Construction [23],4648,,,v1919354439
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Transportation and warehousing [48-49],1906,,,v1919354621
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Motor vehicle and parts dealers [441],182,,,v1919354588
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Truck transportation [484],1418,,,v1919354629
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Transit and ground passenger transportation [485],105,,,v1919354632
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Warehousing and storage [493],59,,,v1919354651
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Rental and leasing services [532],79,,,v1919354690
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Accommodation services [721],60,,,v1919354770
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Automobile dealers [4411],108,,,v1919354589
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Other motor vehicle dealers [4412],10,,,v1919354590
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Taxi and limousine service [4853],90,,,v1919354634
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Freight transportation arrangement [4885],71,,,v1919354644
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Automotive equipment rental and leasing [5321],26,,,v1919354691
+2026-01,2021A00055915004,5915004,Surrey,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],33,,,v1919354694
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,"Total, all industries [1]",14943,,,v1919352627
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Construction [23],3002,,,v1919352655
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Transportation and warehousing [48-49],1371,,,v1919352821
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Motor vehicle and parts dealers [441],71,,,v1919352791
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Truck transportation [484],1072,,,v1919352824
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Transit and ground passenger transportation [485],93,,,v1919352827
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Warehousing and storage [493],20,,,v1919352843
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Rental and leasing services [532],38,,,v1919352882
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Accommodation services [721],25,,,v1919352954
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Automobile dealers [4411],44,,,v1919352792
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Other motor vehicle dealers [4412],6,,,v1919352793
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Taxi and limousine service [4853],85,,,v1919352828
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Freight transportation arrangement [4885],38,,,v1919352836
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Automotive equipment rental and leasing [5321],12,,,v1919352883
+2026-01,2021A00055915004,5915004,Surrey,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],14,,,v1919352886
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,"Total, all industries [1]",4550,,,v1919352986
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Construction [23],964,,,v1919353010
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Transportation and warehousing [48-49],214,,,v1919353158
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Motor vehicle and parts dealers [441],40,,,v1919353127
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Truck transportation [484],136,,,v1919353161
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Transit and ground passenger transportation [485],4,,,v1919353164
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Warehousing and storage [493],12,,,v1919353178
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Rental and leasing services [532],15,,,v1919353213
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Accommodation services [721],11,,,v1919353280
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Automobile dealers [4411],17,,,v1919353128
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Other motor vehicle dealers [4412],4,,,v1919353129
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Taxi and limousine service [4853],3,,,v1919353165
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Freight transportation arrangement [4885],13,,,v1919353171
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Automotive equipment rental and leasing [5321],8,,,v1919353214
+2026-01,2021A00055915004,5915004,Surrey,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],5,,,v1919353216
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,"Total, all industries [1]",2591,,,v1919353306
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Construction [23],411,,,v1919353326
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Transportation and warehousing [48-49],165,,,v1919353465
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Motor vehicle and parts dealers [441],25,,,v1919353437
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Truck transportation [484],116,,,v1919353468
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Transit and ground passenger transportation [485],2,,,v1919353471
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Warehousing and storage [493],10,,,v1919353481
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Rental and leasing services [532],14,,,v1919353511
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Accommodation services [721],10,,,v1919353578
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Automobile dealers [4411],10,,,v1919353438
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Taxi and limousine service [4853],2,,,v1919353472
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Freight transportation arrangement [4885],11,,,v1919353476
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Automotive equipment rental and leasing [5321],1,,,v1919353512
+2026-01,2021A00055915004,5915004,Surrey,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],10,,,v1919353514
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,"Total, all industries [1]",1521,,,v1919353607
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Construction [23],202,,,v1919353626
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Transportation and warehousing [48-49],100,,,v1919353761
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Motor vehicle and parts dealers [441],28,,,v1919353731
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Truck transportation [484],64,,,v1919353762
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Transit and ground passenger transportation [485],3,,,v1919353765
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Warehousing and storage [493],8,,,v1919353777
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Rental and leasing services [532],10,,,v1919353808
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Accommodation services [721],10,,,v1919353872
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Automobile dealers [4411],19,,,v1919353732
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Freight transportation arrangement [4885],8,,,v1919353772
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Automotive equipment rental and leasing [5321],5,,,v1919353809
+2026-01,2021A00055915004,5915004,Surrey,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],3,,,v1919353811
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,"Total, all industries [1]",477,,,v1919353894
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Construction [23],42,,,v1919353906
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Transportation and warehousing [48-49],41,,,v1919354002
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Motor vehicle and parts dealers [441],16,,,v1919353982
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Truck transportation [484],26,,,v1919354003
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Warehousing and storage [493],6,,,v1919354012
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Rental and leasing services [532],2,,,v1919354035
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Accommodation services [721],2,,,v1919354088
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Automobile dealers [4411],16,,,v1919353983
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Freight transportation arrangement [4885],1,,,v1919354008
+2026-01,2021A00055915004,5915004,Surrey,50 to 99 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919354037
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,"Total, all industries [1]",154,,,v1919354109
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,Construction [23],19,,,v1919354117
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,Transportation and warehousing [48-49],6,,,v1919354177
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,Motor vehicle and parts dealers [441],2,,,v1919354171
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,Truck transportation [484],4,,,v1919354178
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,Warehousing and storage [493],1,,,v1919354182
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,Accommodation services [721],1,,,v1919354239
+2026-01,2021A00055915004,5915004,Surrey,100 to 199 employees,Automobile dealers [4411],2,,,v1919354172
+2026-01,2021A00055915004,5915004,Surrey,200 to 499 employees,"Total, all industries [1]",67,,,v1919354253
+2026-01,2021A00055915004,5915004,Surrey,200 to 499 employees,Construction [23],7,,,v1919354257
+2026-01,2021A00055915004,5915004,Surrey,200 to 499 employees,Transportation and warehousing [48-49],5,,,v1919354288
+2026-01,2021A00055915004,5915004,Surrey,200 to 499 employees,Transit and ground passenger transportation [485],1,,,v1919354289
+2026-01,2021A00055915004,5915004,Surrey,200 to 499 employees,Warehousing and storage [493],1,,,v1919354295
+2026-01,2021A00055915004,5915004,Surrey,200 to 499 employees,Accommodation services [721],1,,,v1919354332
+2026-01,2021A00055915004,5915004,Surrey,500 plus employees,"Total, all industries [1]",29,,,v1919354347
+2026-01,2021A00055915004,5915004,Surrey,500 plus employees,Construction [23],1,,,v1919354351
+2026-01,2021A00055915004,5915004,Surrey,500 plus employees,Transportation and warehousing [48-49],4,,,v1919354366
+2026-01,2021A00055915004,5915004,Surrey,500 plus employees,Transit and ground passenger transportation [485],2,,,v1919354369
+2026-01,2021A00055915004,5915004,Surrey,500 plus employees,Warehousing and storage [493],1,,,v1919354371
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees","Total, all industries [1]",754,,,v1919355238
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Construction [23],83,,,v1919355248
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Transportation and warehousing [48-49],14,,,v1919355322
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Motor vehicle and parts dealers [441],1,,,v1919355299
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Truck transportation [484],9,,,v1919355323
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Transit and ground passenger transportation [485],1,,,v1919355326
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Warehousing and storage [493],1,,,v1919355331
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Accommodation services [721],2,,,v1919355411
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Automobile dealers [4411],1,,,v1919355300
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Taxi and limousine service [4853],1,,,v1919355327
+2026-01,2021A00055915007,5915007,White Rock,"Total, with employees",Freight transportation arrangement [4885],2,,,v1919355329
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,"Total, all industries [1]",509,,,v1919354809
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Construction [23],57,,,v1919354819
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Transportation and warehousing [48-49],10,,,v1919354881
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Motor vehicle and parts dealers [441],1,,,v1919354860
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Truck transportation [484],7,,,v1919354882
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Transit and ground passenger transportation [485],1,,,v1919354885
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Warehousing and storage [493],1,,,v1919354889
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Accommodation services [721],1,,,v1919354957
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Automobile dealers [4411],1,,,v1919354861
+2026-01,2021A00055915007,5915007,White Rock,1 to 4 employees,Taxi and limousine service [4853],1,,,v1919354886
+2026-01,2021A00055915007,5915007,White Rock,5 to 9 employees,"Total, all industries [1]",128,,,v1919354976
+2026-01,2021A00055915007,5915007,White Rock,5 to 9 employees,Construction [23],19,,,v1919354981
+2026-01,2021A00055915007,5915007,White Rock,5 to 9 employees,Transportation and warehousing [48-49],1,,,v1919355022
+2026-01,2021A00055915007,5915007,White Rock,5 to 9 employees,Truck transportation [484],1,,,v1919355023
+2026-01,2021A00055915007,5915007,White Rock,10 to 19 employees,"Total, all industries [1]",67,,,v1919355077
+2026-01,2021A00055915007,5915007,White Rock,10 to 19 employees,Construction [23],4,,,v1919355079
+2026-01,2021A00055915007,5915007,White Rock,10 to 19 employees,Transportation and warehousing [48-49],1,,,v1919355104
+2026-01,2021A00055915007,5915007,White Rock,10 to 19 employees,Truck transportation [484],1,,,v1919355105
+2026-01,2021A00055915007,5915007,White Rock,20 to 49 employees,"Total, all industries [1]",33,,,v1919355152
+2026-01,2021A00055915007,5915007,White Rock,20 to 49 employees,Construction [23],2,,,v1919355154
+2026-01,2021A00055915007,5915007,White Rock,20 to 49 employees,Transportation and warehousing [48-49],2,,,v1919355167
+2026-01,2021A00055915007,5915007,White Rock,20 to 49 employees,Accommodation services [721],1,,,v1919355187
+2026-01,2021A00055915007,5915007,White Rock,20 to 49 employees,Freight transportation arrangement [4885],2,,,v1919355169
+2026-01,2021A00055915007,5915007,White Rock,50 to 99 employees,"Total, all industries [1]",14,,,v1919355197
+2026-01,2021A00055915007,5915007,White Rock,50 to 99 employees,Construction [23],1,,,v1919355198
+2026-01,2021A00055915007,5915007,White Rock,200 to 499 employees,"Total, all industries [1]",2,,,v1919355225
+2026-01,2021A00055915007,5915007,White Rock,500 plus employees,"Total, all industries [1]",1,,,v1919355233
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees","Total, all industries [1]",4673,,,v1919356686
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Construction [23],731,,,v1919356717
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Transportation and warehousing [48-49],350,,,v1919356881
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Motor vehicle and parts dealers [441],25,,,v1919356849
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Truck transportation [484],204,,,v1919356887
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Transit and ground passenger transportation [485],16,,,v1919356890
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Warehousing and storage [493],46,,,v1919356905
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Rental and leasing services [532],26,,,v1919356936
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Accommodation services [721],9,,,v1919357007
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Automobile dealers [4411],7,,,v1919356850
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Other motor vehicle dealers [4412],3,,,v1919356851
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Taxi and limousine service [4853],13,,,v1919356891
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Freight transportation arrangement [4885],21,,,v1919356898
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Automotive equipment rental and leasing [5321],13,,,v1919356937
+2026-01,2021A00055915011,5915011,Delta,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],12,,,v1919356939
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,"Total, all industries [1]",2663,,,v1919355439
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Construction [23],458,,,v1919355466
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Transportation and warehousing [48-49],185,,,v1919355590
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Motor vehicle and parts dealers [441],12,,,v1919355561
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Truck transportation [484],118,,,v1919355595
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Transit and ground passenger transportation [485],16,,,v1919355598
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Warehousing and storage [493],12,,,v1919355613
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Rental and leasing services [532],11,,,v1919355643
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Accommodation services [721],5,,,v1919355708
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Automobile dealers [4411],5,,,v1919355562
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Other motor vehicle dealers [4412],1,,,v1919355563
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Taxi and limousine service [4853],13,,,v1919355599
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Freight transportation arrangement [4885],4,,,v1919355606
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Automotive equipment rental and leasing [5321],3,,,v1919355644
+2026-01,2021A00055915011,5915011,Delta,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],8,,,v1919355645
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,"Total, all industries [1]",809,,,v1919355732
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Construction [23],139,,,v1919355749
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Transportation and warehousing [48-49],59,,,v1919355859
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Motor vehicle and parts dealers [441],4,,,v1919355830
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Truck transportation [484],30,,,v1919355860
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Warehousing and storage [493],14,,,v1919355874
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Rental and leasing services [532],4,,,v1919355894
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Automobile dealers [4411],1,,,v1919355831
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Freight transportation arrangement [4885],6,,,v1919355867
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Automotive equipment rental and leasing [5321],3,,,v1919355895
+2026-01,2021A00055915011,5915011,Delta,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919355896
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,"Total, all industries [1]",567,,,v1919355968
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Construction [23],66,,,v1919355986
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Transportation and warehousing [48-49],38,,,v1919356086
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Motor vehicle and parts dealers [441],5,,,v1919356063
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Truck transportation [484],23,,,v1919356087
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Warehousing and storage [493],4,,,v1919356098
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Rental and leasing services [532],5,,,v1919356114
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Accommodation services [721],2,,,v1919356167
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Automobile dealers [4411],1,,,v1919356064
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Other motor vehicle dealers [4412],1,,,v1919356065
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Freight transportation arrangement [4885],6,,,v1919356093
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Automotive equipment rental and leasing [5321],2,,,v1919356115
+2026-01,2021A00055915011,5915011,Delta,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919356117
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,"Total, all industries [1]",407,,,v1919356191
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Construction [23],43,,,v1919356203
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Transportation and warehousing [48-49],39,,,v1919356312
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Motor vehicle and parts dealers [441],3,,,v1919356292
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Truck transportation [484],22,,,v1919356313
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Warehousing and storage [493],8,,,v1919356323
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Rental and leasing services [532],4,,,v1919356337
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Accommodation services [721],2,,,v1919356384
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Freight transportation arrangement [4885],2,,,v1919356319
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Automotive equipment rental and leasing [5321],3,,,v1919356338
+2026-01,2021A00055915011,5915011,Delta,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919356339
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,"Total, all industries [1]",140,,,v1919356403
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Construction [23],19,,,v1919356412
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Transportation and warehousing [48-49],16,,,v1919356474
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Motor vehicle and parts dealers [441],1,,,v1919356464
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Truck transportation [484],9,,,v1919356477
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Warehousing and storage [493],3,,,v1919356483
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Rental and leasing services [532],2,,,v1919356491
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Other motor vehicle dealers [4412],1,,,v1919356465
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Freight transportation arrangement [4885],2,,,v1919356482
+2026-01,2021A00055915011,5915011,Delta,50 to 99 employees,Automotive equipment rental and leasing [5321],2,,,v1919356492
+2026-01,2021A00055915011,5915011,Delta,100 to 199 employees,"Total, all industries [1]",54,,,v1919356533
+2026-01,2021A00055915011,5915011,Delta,100 to 199 employees,Construction [23],5,,,v1919356537
+2026-01,2021A00055915011,5915011,Delta,100 to 199 employees,Transportation and warehousing [48-49],5,,,v1919356580
+2026-01,2021A00055915011,5915011,Delta,100 to 199 employees,Truck transportation [484],2,,,v1919356583
+2026-01,2021A00055915011,5915011,Delta,100 to 199 employees,Warehousing and storage [493],2,,,v1919356585
+2026-01,2021A00055915011,5915011,Delta,200 to 499 employees,"Total, all industries [1]",21,,,v1919356611
+2026-01,2021A00055915011,5915011,Delta,200 to 499 employees,Construction [23],1,,,v1919356616
+2026-01,2021A00055915011,5915011,Delta,200 to 499 employees,Transportation and warehousing [48-49],4,,,v1919356638
+2026-01,2021A00055915011,5915011,Delta,200 to 499 employees,Warehousing and storage [493],1,,,v1919356644
+2026-01,2021A00055915011,5915011,Delta,200 to 499 employees,Freight transportation arrangement [4885],1,,,v1919356641
+2026-01,2021A00055915011,5915011,Delta,500 plus employees,"Total, all industries [1]",12,,,v1919356655
+2026-01,2021A00055915011,5915011,Delta,500 plus employees,Transportation and warehousing [48-49],4,,,v1919356667
+2026-01,2021A00055915011,5915011,Delta,500 plus employees,Warehousing and storage [493],2,,,v1919356672
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees","Total, all industries [1]",10978,,,v1919358660
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Construction [23],854,,,v1919358691
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Transportation and warehousing [48-49],527,,,v1919358863
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Motor vehicle and parts dealers [441],108,,,v1919358831
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Truck transportation [484],140,,,v1919358871
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Transit and ground passenger transportation [485],26,,,v1919358874
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Warehousing and storage [493],60,,,v1919358895
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Rental and leasing services [532],62,,,v1919358932
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Accommodation services [721],45,,,v1919359010
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Automobile dealers [4411],57,,,v1919358832
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Other motor vehicle dealers [4412],9,,,v1919358833
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Taxi and limousine service [4853],10,,,v1919358876
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Freight transportation arrangement [4885],138,,,v1919358888
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Automotive equipment rental and leasing [5321],35,,,v1919358933
+2026-01,2021A00055915015,5915015,Richmond,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],22,,,v1919358935
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,"Total, all industries [1]",6205,,,v1919357036
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Construction [23],579,,,v1919357066
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Transportation and warehousing [48-49],217,,,v1919357215
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Motor vehicle and parts dealers [441],42,,,v1919357184
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Truck transportation [484],75,,,v1919357221
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Transit and ground passenger transportation [485],9,,,v1919357224
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Warehousing and storage [493],16,,,v1919357239
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Rental and leasing services [532],25,,,v1919357276
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Accommodation services [721],16,,,v1919357345
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Automobile dealers [4411],22,,,v1919357185
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Other motor vehicle dealers [4412],3,,,v1919357186
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Taxi and limousine service [4853],6,,,v1919357225
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Freight transportation arrangement [4885],55,,,v1919357232
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Automotive equipment rental and leasing [5321],17,,,v1919357277
+2026-01,2021A00055915015,5915015,Richmond,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],8,,,v1919357278
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,"Total, all industries [1]",2037,,,v1919357376
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Construction [23],135,,,v1919357398
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Transportation and warehousing [48-49],92,,,v1919357536
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Motor vehicle and parts dealers [441],27,,,v1919357505
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Truck transportation [484],23,,,v1919357543
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Transit and ground passenger transportation [485],2,,,v1919357546
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Warehousing and storage [493],15,,,v1919357558
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Rental and leasing services [532],17,,,v1919357588
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Accommodation services [721],1,,,v1919357652
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Automobile dealers [4411],9,,,v1919357506
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Other motor vehicle dealers [4412],3,,,v1919357507
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Taxi and limousine service [4853],1,,,v1919357547
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Freight transportation arrangement [4885],30,,,v1919357553
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Automotive equipment rental and leasing [5321],9,,,v1919357589
+2026-01,2021A00055915015,5915015,Richmond,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],4,,,v1919357591
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,"Total, all industries [1]",1373,,,v1919357675
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Construction [23],71,,,v1919357691
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Transportation and warehousing [48-49],83,,,v1919357813
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Motor vehicle and parts dealers [441],17,,,v1919357783
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Truck transportation [484],22,,,v1919357818
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Transit and ground passenger transportation [485],7,,,v1919357821
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Warehousing and storage [493],10,,,v1919357832
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Rental and leasing services [532],9,,,v1919357860
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Accommodation services [721],1,,,v1919357920
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Automobile dealers [4411],9,,,v1919357784
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Other motor vehicle dealers [4412],3,,,v1919357785
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Taxi and limousine service [4853],2,,,v1919357822
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Freight transportation arrangement [4885],20,,,v1919357828
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Automotive equipment rental and leasing [5321],5,,,v1919357861
+2026-01,2021A00055915015,5915015,Richmond,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],4,,,v1919357862
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,"Total, all industries [1]",856,,,v1919357943
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Construction [23],42,,,v1919357956
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Transportation and warehousing [48-49],75,,,v1919358077
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Motor vehicle and parts dealers [441],11,,,v1919358049
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Truck transportation [484],13,,,v1919358083
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Transit and ground passenger transportation [485],5,,,v1919358086
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Warehousing and storage [493],12,,,v1919358100
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Rental and leasing services [532],5,,,v1919358125
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Accommodation services [721],9,,,v1919358187
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Automobile dealers [4411],6,,,v1919358050
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Freight transportation arrangement [4885],21,,,v1919358097
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Automotive equipment rental and leasing [5321],2,,,v1919358126
+2026-01,2021A00055915015,5915015,Richmond,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919358128
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,"Total, all industries [1]",301,,,v1919358208
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Construction [23],14,,,v1919358216
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Transportation and warehousing [48-49],33,,,v1919358309
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Motor vehicle and parts dealers [441],9,,,v1919358286
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Truck transportation [484],6,,,v1919358313
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Transit and ground passenger transportation [485],1,,,v1919358316
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Warehousing and storage [493],2,,,v1919358325
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Rental and leasing services [532],5,,,v1919358345
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Accommodation services [721],9,,,v1919358392
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Automobile dealers [4411],9,,,v1919358287
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Taxi and limousine service [4853],1,,,v1919358317
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Freight transportation arrangement [4885],10,,,v1919358320
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Automotive equipment rental and leasing [5321],1,,,v1919358346
+2026-01,2021A00055915015,5915015,Richmond,50 to 99 employees,Commercial and industrial machinery and equipment rental and leasing [5324],4,,,v1919358347
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,"Total, all industries [1]",140,,,v1919358406
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Construction [23],9,,,v1919358408
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Transportation and warehousing [48-49],13,,,v1919358475
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Motor vehicle and parts dealers [441],2,,,v1919358464
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Truck transportation [484],1,,,v1919358478
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Transit and ground passenger transportation [485],1,,,v1919358480
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Warehousing and storage [493],4,,,v1919358486
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Accommodation services [721],6,,,v1919358533
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Automobile dealers [4411],2,,,v1919358465
+2026-01,2021A00055915015,5915015,Richmond,100 to 199 employees,Freight transportation arrangement [4885],2,,,v1919358485
+2026-01,2021A00055915015,5915015,Richmond,200 to 499 employees,"Total, all industries [1]",44,,,v1919358547
+2026-01,2021A00055915015,5915015,Richmond,200 to 499 employees,Construction [23],3,,,v1919358548
+2026-01,2021A00055915015,5915015,Richmond,200 to 499 employees,Transportation and warehousing [48-49],5,,,v1919358589
+2026-01,2021A00055915015,5915015,Richmond,200 to 499 employees,Warehousing and storage [493],1,,,v1919358596
+2026-01,2021A00055915015,5915015,Richmond,200 to 499 employees,Rental and leasing services [532],1,,,v1919358602
+2026-01,2021A00055915015,5915015,Richmond,200 to 499 employees,Accommodation services [721],3,,,v1919358618
+2026-01,2021A00055915015,5915015,Richmond,200 to 499 employees,Automotive equipment rental and leasing [5321],1,,,v1919358603
+2026-01,2021A00055915015,5915015,Richmond,500 plus employees,"Total, all industries [1]",22,,,v1919358622
+2026-01,2021A00055915015,5915015,Richmond,500 plus employees,Construction [23],1,,,v1919358623
+2026-01,2021A00055915015,5915015,Richmond,500 plus employees,Transportation and warehousing [48-49],9,,,v1919358632
+2026-01,2021A00055915015,5915015,Richmond,500 plus employees,Transit and ground passenger transportation [485],1,,,v1919358635
+2026-01,2021A00055915020,5915020,Metro Vancouver A,"Total, with employees","Total, all industries [1]",425,,,v1919359393
+2026-01,2021A00055915020,5915020,Metro Vancouver A,"Total, with employees",Construction [23],6,,,v1919359401
+2026-01,2021A00055915020,5915020,Metro Vancouver A,"Total, with employees",Transportation and warehousing [48-49],3,,,v1919359455
+2026-01,2021A00055915020,5915020,Metro Vancouver A,"Total, with employees",Motor vehicle and parts dealers [441],1,,,v1919359439
+2026-01,2021A00055915020,5915020,Metro Vancouver A,"Total, with employees",Accommodation services [721],1,,,v1919359531
+2026-01,2021A00055915020,5915020,Metro Vancouver A,1 to 4 employees,"Total, all industries [1]",269,,,v1919359044
+2026-01,2021A00055915020,5915020,Metro Vancouver A,1 to 4 employees,Construction [23],4,,,v1919359049
+2026-01,2021A00055915020,5915020,Metro Vancouver A,1 to 4 employees,Transportation and warehousing [48-49],2,,,v1919359086
+2026-01,2021A00055915020,5915020,Metro Vancouver A,1 to 4 employees,Motor vehicle and parts dealers [441],1,,,v1919359073
+2026-01,2021A00055915020,5915020,Metro Vancouver A,5 to 9 employees,"Total, all industries [1]",49,,,v1919359157
+2026-01,2021A00055915020,5915020,Metro Vancouver A,5 to 9 employees,Transportation and warehousing [48-49],1,,,v1919359178
+2026-01,2021A00055915020,5915020,Metro Vancouver A,10 to 19 employees,"Total, all industries [1]",47,,,v1919359216
+2026-01,2021A00055915020,5915020,Metro Vancouver A,20 to 49 employees,"Total, all industries [1]",39,,,v1919359276
+2026-01,2021A00055915020,5915020,Metro Vancouver A,20 to 49 employees,Construction [23],1,,,v1919359278
+2026-01,2021A00055915020,5915020,Metro Vancouver A,20 to 49 employees,Accommodation services [721],1,,,v1919359325
+2026-01,2021A00055915020,5915020,Metro Vancouver A,50 to 99 employees,"Total, all industries [1]",11,,,v1919359334
+2026-01,2021A00055915020,5915020,Metro Vancouver A,50 to 99 employees,Construction [23],1,,,v1919359335
+2026-01,2021A00055915020,5915020,Metro Vancouver A,100 to 199 employees,"Total, all industries [1]",4,,,v1919359360
+2026-01,2021A00055915020,5915020,Metro Vancouver A,200 to 499 employees,"Total, all industries [1]",2,,,v1919359374
+2026-01,2021A00055915020,5915020,Metro Vancouver A,500 plus employees,"Total, all industries [1]",4,,,v1919359380
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees","Total, all industries [1]",36879,,,v1919361677
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Construction [23],2185,,,v1919361717
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Transportation and warehousing [48-49],464,,,v1919361898
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Motor vehicle and parts dealers [441],130,,,v1919361865
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Truck transportation [484],115,,,v1919361907
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Transit and ground passenger transportation [485],42,,,v1919361910
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Warehousing and storage [493],36,,,v1919361931
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Rental and leasing services [532],124,,,v1919361972
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Accommodation services [721],169,,,v1919362052
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Automobile dealers [4411],76,,,v1919361866
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Other motor vehicle dealers [4412],23,,,v1919361867
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Taxi and limousine service [4853],28,,,v1919361913
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Freight transportation arrangement [4885],74,,,v1919361924
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Automotive equipment rental and leasing [5321],30,,,v1919361973
+2026-01,2021A00055915022,5915022,Vancouver,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],53,,,v1919361976
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,"Total, all industries [1]",21788,,,v1919359553
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Construction [23],1446,,,v1919359589
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Transportation and warehousing [48-49],217,,,v1919359758
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Motor vehicle and parts dealers [441],46,,,v1919359727
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Truck transportation [484],73,,,v1919359765
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Transit and ground passenger transportation [485],22,,,v1919359768
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Warehousing and storage [493],14,,,v1919359785
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Rental and leasing services [532],59,,,v1919359823
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Accommodation services [721],46,,,v1919359897
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Automobile dealers [4411],21,,,v1919359728
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Other motor vehicle dealers [4412],11,,,v1919359729
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Taxi and limousine service [4853],20,,,v1919359769
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Freight transportation arrangement [4885],29,,,v1919359778
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Automotive equipment rental and leasing [5321],12,,,v1919359824
+2026-01,2021A00055915022,5915022,Vancouver,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],30,,,v1919359827
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,"Total, all industries [1]",5991,,,v1919359938
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Construction [23],347,,,v1919359967
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Transportation and warehousing [48-49],74,,,v1919360112
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Motor vehicle and parts dealers [441],13,,,v1919360080
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Truck transportation [484],23,,,v1919360120
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Transit and ground passenger transportation [485],5,,,v1919360123
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Warehousing and storage [493],9,,,v1919360140
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Rental and leasing services [532],25,,,v1919360179
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Accommodation services [721],21,,,v1919360254
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Automobile dealers [4411],5,,,v1919360081
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Other motor vehicle dealers [4412],3,,,v1919360082
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Taxi and limousine service [4853],1,,,v1919360124
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Freight transportation arrangement [4885],8,,,v1919360134
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Automotive equipment rental and leasing [5321],15,,,v1919360180
+2026-01,2021A00055915022,5915022,Vancouver,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919360183
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,"Total, all industries [1]",4143,,,v1919360284
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Construction [23],159,,,v1919360311
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Transportation and warehousing [48-49],67,,,v1919360446
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Motor vehicle and parts dealers [441],21,,,v1919360415
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Truck transportation [484],11,,,v1919360453
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Transit and ground passenger transportation [485],3,,,v1919360456
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Warehousing and storage [493],3,,,v1919360473
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Rental and leasing services [532],23,,,v1919360512
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Accommodation services [721],16,,,v1919360585
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Automobile dealers [4411],6,,,v1919360416
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Other motor vehicle dealers [4412],7,,,v1919360417
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Taxi and limousine service [4853],1,,,v1919360458
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Freight transportation arrangement [4885],17,,,v1919360468
+2026-01,2021A00055915022,5915022,Vancouver,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],14,,,v1919360514
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,"Total, all industries [1]",2987,,,v1919360619
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Construction [23],134,,,v1919360642
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Transportation and warehousing [48-49],57,,,v1919360775
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Motor vehicle and parts dealers [441],26,,,v1919360743
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Truck transportation [484],5,,,v1919360781
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Transit and ground passenger transportation [485],9,,,v1919360784
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Warehousing and storage [493],4,,,v1919360799
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Rental and leasing services [532],11,,,v1919360837
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Accommodation services [721],37,,,v1919360909
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Automobile dealers [4411],20,,,v1919360744
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Other motor vehicle dealers [4412],2,,,v1919360745
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Taxi and limousine service [4853],5,,,v1919360786
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Freight transportation arrangement [4885],15,,,v1919360795
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Automotive equipment rental and leasing [5321],3,,,v1919360838
+2026-01,2021A00055915022,5915022,Vancouver,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],6,,,v1919360840
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,"Total, all industries [1]",1049,,,v1919360945
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Construction [23],62,,,v1919360963
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Transportation and warehousing [48-49],26,,,v1919361054
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Motor vehicle and parts dealers [441],17,,,v1919361029
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Truck transportation [484],3,,,v1919361060
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Transit and ground passenger transportation [485],2,,,v1919361063
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Warehousing and storage [493],4,,,v1919361077
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Rental and leasing services [532],5,,,v1919361113
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Accommodation services [721],27,,,v1919361176
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Automobile dealers [4411],17,,,v1919361030
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Taxi and limousine service [4853],1,,,v1919361064
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Freight transportation arrangement [4885],3,,,v1919361071
+2026-01,2021A00055915022,5915022,Vancouver,50 to 99 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919361115
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,"Total, all industries [1]",542,,,v1919361201
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Construction [23],17,,,v1919361216
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Transportation and warehousing [48-49],13,,,v1919361277
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Motor vehicle and parts dealers [441],7,,,v1919361262
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Warehousing and storage [493],1,,,v1919361288
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Rental and leasing services [532],1,,,v1919361317
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Accommodation services [721],14,,,v1919361381
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Automobile dealers [4411],7,,,v1919361263
+2026-01,2021A00055915022,5915022,Vancouver,100 to 199 employees,Freight transportation arrangement [4885],1,,,v1919361287
+2026-01,2021A00055915022,5915022,Vancouver,200 to 499 employees,"Total, all industries [1]",262,,,v1919361400
+2026-01,2021A00055915022,5915022,Vancouver,200 to 499 employees,Construction [23],14,,,v1919361413
+2026-01,2021A00055915022,5915022,Vancouver,200 to 499 employees,Transportation and warehousing [48-49],7,,,v1919361455
+2026-01,2021A00055915022,5915022,Vancouver,200 to 499 employees,Warehousing and storage [493],1,,,v1919361464
+2026-01,2021A00055915022,5915022,Vancouver,200 to 499 employees,Accommodation services [721],4,,,v1919361543
+2026-01,2021A00055915022,5915022,Vancouver,200 to 499 employees,Freight transportation arrangement [4885],1,,,v1919361460
+2026-01,2021A00055915022,5915022,Vancouver,500 plus employees,"Total, all industries [1]",117,,,v1919361561
+2026-01,2021A00055915022,5915022,Vancouver,500 plus employees,Construction [23],6,,,v1919361569
+2026-01,2021A00055915022,5915022,Vancouver,500 plus employees,Transportation and warehousing [48-49],3,,,v1919361590
+2026-01,2021A00055915022,5915022,Vancouver,500 plus employees,Transit and ground passenger transportation [485],1,,,v1919361591
+2026-01,2021A00055915022,5915022,Vancouver,500 plus employees,Accommodation services [721],4,,,v1919361655
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees","Total, all industries [1]",10242,,,v1919363713
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Construction [23],1123,,,v1919363737
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Transportation and warehousing [48-49],226,,,v1919363911
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Motor vehicle and parts dealers [441],58,,,v1919363878
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Truck transportation [484],83,,,v1919363916
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Transit and ground passenger transportation [485],7,,,v1919363919
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Warehousing and storage [493],30,,,v1919363937
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Rental and leasing services [532],62,,,v1919363975
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Accommodation services [721],31,,,v1919364053
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Automobile dealers [4411],31,,,v1919363879
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Other motor vehicle dealers [4412],7,,,v1919363880
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Taxi and limousine service [4853],3,,,v1919363921
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Freight transportation arrangement [4885],34,,,v1919363930
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Automotive equipment rental and leasing [5321],12,,,v1919363976
+2026-01,2021A00055915025,5915025,Burnaby,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],36,,,v1919363979
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,"Total, all industries [1]",5599,,,v1919362095
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Construction [23],659,,,v1919362115
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Transportation and warehousing [48-49],130,,,v1919362254
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Motor vehicle and parts dealers [441],26,,,v1919362224
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Truck transportation [484],58,,,v1919362257
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Transit and ground passenger transportation [485],3,,,v1919362260
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Warehousing and storage [493],17,,,v1919362276
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Rental and leasing services [532],24,,,v1919362311
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Accommodation services [721],4,,,v1919362381
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Automobile dealers [4411],15,,,v1919362225
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Other motor vehicle dealers [4412],3,,,v1919362226
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Taxi and limousine service [4853],2,,,v1919362261
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Freight transportation arrangement [4885],14,,,v1919362269
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Automotive equipment rental and leasing [5321],2,,,v1919362312
+2026-01,2021A00055915025,5915025,Burnaby,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],15,,,v1919362315
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,"Total, all industries [1]",1823,,,v1919362407
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Construction [23],180,,,v1919362420
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Transportation and warehousing [48-49],37,,,v1919362552
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Motor vehicle and parts dealers [441],11,,,v1919362522
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Truck transportation [484],12,,,v1919362555
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Warehousing and storage [493],6,,,v1919362566
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Rental and leasing services [532],12,,,v1919362598
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Accommodation services [721],5,,,v1919362664
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Automobile dealers [4411],5,,,v1919362523
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Other motor vehicle dealers [4412],2,,,v1919362524
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Freight transportation arrangement [4885],11,,,v1919362561
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Automotive equipment rental and leasing [5321],4,,,v1919362599
+2026-01,2021A00055915025,5915025,Burnaby,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],6,,,v1919362602
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,"Total, all industries [1]",1366,,,v1919362692
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Construction [23],125,,,v1919362700
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Transportation and warehousing [48-49],28,,,v1919362822
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Motor vehicle and parts dealers [441],5,,,v1919362794
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Truck transportation [484],5,,,v1919362825
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Transit and ground passenger transportation [485],2,,,v1919362828
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Warehousing and storage [493],2,,,v1919362838
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Rental and leasing services [532],12,,,v1919362870
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Accommodation services [721],10,,,v1919362932
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Other motor vehicle dealers [4412],1,,,v1919362795
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Taxi and limousine service [4853],1,,,v1919362829
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Freight transportation arrangement [4885],6,,,v1919362834
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Automotive equipment rental and leasing [5321],2,,,v1919362871
+2026-01,2021A00055915025,5915025,Burnaby,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],9,,,v1919362873
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,"Total, all industries [1]",864,,,v1919362961
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Construction [23],88,,,v1919362976
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Transportation and warehousing [48-49],13,,,v1919363091
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Motor vehicle and parts dealers [441],9,,,v1919363064
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Truck transportation [484],4,,,v1919363092
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Transit and ground passenger transportation [485],1,,,v1919363095
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Warehousing and storage [493],2,,,v1919363104
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Rental and leasing services [532],11,,,v1919363134
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Accommodation services [721],9,,,v1919363194
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Automobile dealers [4411],4,,,v1919363065
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Other motor vehicle dealers [4412],1,,,v1919363066
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Freight transportation arrangement [4885],2,,,v1919363100
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Automotive equipment rental and leasing [5321],3,,,v1919363135
+2026-01,2021A00055915025,5915025,Burnaby,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],5,,,v1919363137
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,"Total, all industries [1]",320,,,v1919363218
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Construction [23],42,,,v1919363223
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Transportation and warehousing [48-49],9,,,v1919363305
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Motor vehicle and parts dealers [441],4,,,v1919363290
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Truck transportation [484],3,,,v1919363308
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Warehousing and storage [493],1,,,v1919363315
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Rental and leasing services [532],1,,,v1919363336
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Accommodation services [721],1,,,v1919363386
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Automobile dealers [4411],4,,,v1919363291
+2026-01,2021A00055915025,5915025,Burnaby,50 to 99 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919363337
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,"Total, all industries [1]",131,,,v1919363406
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Construction [23],16,,,v1919363408
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Transportation and warehousing [48-49],3,,,v1919363465
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Motor vehicle and parts dealers [441],3,,,v1919363454
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Truck transportation [484],1,,,v1919363466
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Rental and leasing services [532],2,,,v1919363488
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Accommodation services [721],2,,,v1919363525
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Automobile dealers [4411],3,,,v1919363455
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Freight transportation arrangement [4885],1,,,v1919363469
+2026-01,2021A00055915025,5915025,Burnaby,100 to 199 employees,Automotive equipment rental and leasing [5321],1,,,v1919363489
+2026-01,2021A00055915025,5915025,Burnaby,200 to 499 employees,"Total, all industries [1]",100,,,v1919363538
+2026-01,2021A00055915025,5915025,Burnaby,200 to 499 employees,Construction [23],12,,,v1919363542
+2026-01,2021A00055915025,5915025,Burnaby,200 to 499 employees,Transportation and warehousing [48-49],4,,,v1919363590
+2026-01,2021A00055915025,5915025,Burnaby,200 to 499 employees,Warehousing and storage [493],1,,,v1919363595
+2026-01,2021A00055915025,5915025,Burnaby,500 plus employees,"Total, all industries [1]",39,,,v1919363647
+2026-01,2021A00055915025,5915025,Burnaby,500 plus employees,Construction [23],1,,,v1919363649
+2026-01,2021A00055915025,5915025,Burnaby,500 plus employees,Transportation and warehousing [48-49],2,,,v1919363663
+2026-01,2021A00055915025,5915025,Burnaby,500 plus employees,Transit and ground passenger transportation [485],1,,,v1919363664
+2026-01,2021A00055915025,5915025,Burnaby,500 plus employees,Warehousing and storage [493],1,,,v1919363666
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees","Total, all industries [1]",2555,,,v1919365013
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Construction [23],234,,,v1919365033
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Transportation and warehousing [48-49],108,,,v1919365154
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Motor vehicle and parts dealers [441],20,,,v1919365124
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Truck transportation [484],51,,,v1919365160
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Transit and ground passenger transportation [485],10,,,v1919365163
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Warehousing and storage [493],21,,,v1919365178
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Rental and leasing services [532],11,,,v1919365211
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Accommodation services [721],6,,,v1919365284
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Automobile dealers [4411],15,,,v1919365125
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Taxi and limousine service [4853],5,,,v1919365165
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Freight transportation arrangement [4885],2,,,v1919365173
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Automotive equipment rental and leasing [5321],6,,,v1919365212
+2026-01,2021A00055915029,5915029,New Westminster,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],4,,,v1919365214
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,"Total, all industries [1]",1511,,,v1919364087
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Construction [23],154,,,v1919364102
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Transportation and warehousing [48-49],55,,,v1919364199
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Motor vehicle and parts dealers [441],10,,,v1919364170
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Truck transportation [484],35,,,v1919364202
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Transit and ground passenger transportation [485],6,,,v1919364205
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Warehousing and storage [493],6,,,v1919364216
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Rental and leasing services [532],8,,,v1919364240
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Accommodation services [721],3,,,v1919364300
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Automobile dealers [4411],9,,,v1919364171
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Taxi and limousine service [4853],4,,,v1919364206
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Automotive equipment rental and leasing [5321],6,,,v1919364241
+2026-01,2021A00055915029,5915029,New Westminster,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919364243
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,"Total, all industries [1]",415,,,v1919364329
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Construction [23],39,,,v1919364339
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Transportation and warehousing [48-49],12,,,v1919364411
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Motor vehicle and parts dealers [441],6,,,v1919364391
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Truck transportation [484],5,,,v1919364412
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Transit and ground passenger transportation [485],2,,,v1919364415
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Warehousing and storage [493],2,,,v1919364422
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Rental and leasing services [532],1,,,v1919364442
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Accommodation services [721],1,,,v1919364486
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Automobile dealers [4411],4,,,v1919364392
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Freight transportation arrangement [4885],1,,,v1919364419
+2026-01,2021A00055915029,5915029,New Westminster,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919364443
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,"Total, all industries [1]",323,,,v1919364507
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Construction [23],27,,,v1919364512
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Transportation and warehousing [48-49],14,,,v1919364570
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Motor vehicle and parts dealers [441],1,,,v1919364551
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Truck transportation [484],5,,,v1919364575
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Transit and ground passenger transportation [485],1,,,v1919364578
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Warehousing and storage [493],2,,,v1919364585
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Accommodation services [721],1,,,v1919364646
+2026-01,2021A00055915029,5915029,New Westminster,10 to 19 employees,Taxi and limousine service [4853],1,,,v1919364579
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,"Total, all industries [1]",187,,,v1919364665
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,Construction [23],7,,,v1919364670
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,Transportation and warehousing [48-49],12,,,v1919364725
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,Motor vehicle and parts dealers [441],1,,,v1919364709
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,Truck transportation [484],3,,,v1919364726
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,Warehousing and storage [493],4,,,v1919364733
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,Accommodation services [721],1,,,v1919364795
+2026-01,2021A00055915029,5915029,New Westminster,20 to 49 employees,Freight transportation arrangement [4885],1,,,v1919364731
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,"Total, all industries [1]",61,,,v1919364811
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Construction [23],5,,,v1919364813
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Transportation and warehousing [48-49],6,,,v1919364840
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Motor vehicle and parts dealers [441],1,,,v1919364834
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Truck transportation [484],1,,,v1919364843
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Warehousing and storage [493],3,,,v1919364847
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Rental and leasing services [532],2,,,v1919364853
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Automobile dealers [4411],1,,,v1919364835
+2026-01,2021A00055915029,5915029,New Westminster,50 to 99 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919364854
+2026-01,2021A00055915029,5915029,New Westminster,100 to 199 employees,"Total, all industries [1]",35,,,v1919364890
+2026-01,2021A00055915029,5915029,New Westminster,100 to 199 employees,Construction [23],1,,,v1919364891
+2026-01,2021A00055915029,5915029,New Westminster,100 to 199 employees,Transportation and warehousing [48-49],7,,,v1919364912
+2026-01,2021A00055915029,5915029,New Westminster,100 to 199 employees,Motor vehicle and parts dealers [441],1,,,v1919364908
+2026-01,2021A00055915029,5915029,New Westminster,100 to 199 employees,Truck transportation [484],2,,,v1919364915
+2026-01,2021A00055915029,5915029,New Westminster,100 to 199 employees,Warehousing and storage [493],3,,,v1919364919
+2026-01,2021A00055915029,5915029,New Westminster,100 to 199 employees,Automobile dealers [4411],1,,,v1919364909
+2026-01,2021A00055915029,5915029,New Westminster,200 to 499 employees,"Total, all industries [1]",15,,,v1919364955
+2026-01,2021A00055915029,5915029,New Westminster,200 to 499 employees,Construction [23],1,,,v1919364956
+2026-01,2021A00055915029,5915029,New Westminster,500 plus employees,"Total, all industries [1]",8,,,v1919364994
+2026-01,2021A00055915029,5915029,New Westminster,500 plus employees,Transportation and warehousing [48-49],2,,,v1919364996
+2026-01,2021A00055915029,5915029,New Westminster,500 plus employees,Transit and ground passenger transportation [485],1,,,v1919364997
+2026-01,2021A00055915029,5915029,New Westminster,500 plus employees,Warehousing and storage [493],1,,,v1919364999
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees","Total, all industries [1]",4954,,,v1919366411
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Construction [23],635,,,v1919366430
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Transportation and warehousing [48-49],121,,,v1919366577
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Motor vehicle and parts dealers [441],40,,,v1919366545
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Truck transportation [484],45,,,v1919366578
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Transit and ground passenger transportation [485],12,,,v1919366581
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Warehousing and storage [493],10,,,v1919366597
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Rental and leasing services [532],23,,,v1919366633
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Accommodation services [721],13,,,v1919366708
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Automobile dealers [4411],20,,,v1919366546
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Other motor vehicle dealers [4412],1,,,v1919366547
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Taxi and limousine service [4853],7,,,v1919366582
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Freight transportation arrangement [4885],19,,,v1919366591
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Automotive equipment rental and leasing [5321],4,,,v1919366634
+2026-01,2021A00055915034,5915034,Coquitlam,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],17,,,v1919366637
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,"Total, all industries [1]",3048,,,v1919365316
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Construction [23],412,,,v1919365333
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Transportation and warehousing [48-49],83,,,v1919365453
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Motor vehicle and parts dealers [441],15,,,v1919365422
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Truck transportation [484],32,,,v1919365454
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Transit and ground passenger transportation [485],9,,,v1919365457
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Warehousing and storage [493],5,,,v1919365471
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Rental and leasing services [532],12,,,v1919365506
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Accommodation services [721],9,,,v1919365571
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Automobile dealers [4411],11,,,v1919365423
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Other motor vehicle dealers [4412],1,,,v1919365424
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Taxi and limousine service [4853],5,,,v1919365458
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Freight transportation arrangement [4885],12,,,v1919365465
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Automotive equipment rental and leasing [5321],3,,,v1919365507
+2026-01,2021A00055915034,5915034,Coquitlam,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],8,,,v1919365509
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,"Total, all industries [1]",780,,,v1919365596
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Construction [23],96,,,v1919365603
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Transportation and warehousing [48-49],15,,,v1919365702
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Motor vehicle and parts dealers [441],7,,,v1919365673
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Truck transportation [484],6,,,v1919365703
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Transit and ground passenger transportation [485],3,,,v1919365706
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Warehousing and storage [493],1,,,v1919365715
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Rental and leasing services [532],1,,,v1919365736
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Accommodation services [721],2,,,v1919365789
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Automobile dealers [4411],3,,,v1919365674
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Taxi and limousine service [4853],2,,,v1919365707
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Freight transportation arrangement [4885],3,,,v1919365712
+2026-01,2021A00055915034,5915034,Coquitlam,5 to 9 employees,Automotive equipment rental and leasing [5321],1,,,v1919365737
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,"Total, all industries [1]",606,,,v1919365810
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Construction [23],59,,,v1919365815
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Transportation and warehousing [48-49],9,,,v1919365906
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Motor vehicle and parts dealers [441],8,,,v1919365878
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Truck transportation [484],3,,,v1919365907
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Rental and leasing services [532],5,,,v1919365935
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Automobile dealers [4411],2,,,v1919365879
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Freight transportation arrangement [4885],4,,,v1919365913
+2026-01,2021A00055915034,5915034,Coquitlam,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],5,,,v1919365936
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,"Total, all industries [1]",375,,,v1919366006
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Construction [23],54,,,v1919366011
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Transportation and warehousing [48-49],10,,,v1919366101
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Motor vehicle and parts dealers [441],9,,,v1919366075
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Truck transportation [484],2,,,v1919366102
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Warehousing and storage [493],3,,,v1919366111
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Rental and leasing services [532],5,,,v1919366131
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Accommodation services [721],1,,,v1919366180
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Automobile dealers [4411],3,,,v1919366076
+2026-01,2021A00055915034,5915034,Coquitlam,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],4,,,v1919366133
+2026-01,2021A00055915034,5915034,Coquitlam,50 to 99 employees,"Total, all industries [1]",89,,,v1919366196
+2026-01,2021A00055915034,5915034,Coquitlam,50 to 99 employees,Construction [23],8,,,v1919366198
+2026-01,2021A00055915034,5915034,Coquitlam,50 to 99 employees,Transportation and warehousing [48-49],3,,,v1919366253
+2026-01,2021A00055915034,5915034,Coquitlam,50 to 99 employees,Motor vehicle and parts dealers [441],1,,,v1919366235
+2026-01,2021A00055915034,5915034,Coquitlam,50 to 99 employees,Truck transportation [484],1,,,v1919366254
+2026-01,2021A00055915034,5915034,Coquitlam,50 to 99 employees,Warehousing and storage [493],1,,,v1919366258
+2026-01,2021A00055915034,5915034,Coquitlam,50 to 99 employees,Automobile dealers [4411],1,,,v1919366236
+2026-01,2021A00055915034,5915034,Coquitlam,100 to 199 employees,"Total, all industries [1]",35,,,v1919366308
+2026-01,2021A00055915034,5915034,Coquitlam,100 to 199 employees,Construction [23],3,,,v1919366309
+2026-01,2021A00055915034,5915034,Coquitlam,100 to 199 employees,Transportation and warehousing [48-49],1,,,v1919366334
+2026-01,2021A00055915034,5915034,Coquitlam,100 to 199 employees,Truck transportation [484],1,,,v1919366335
+2026-01,2021A00055915034,5915034,Coquitlam,100 to 199 employees,Accommodation services [721],1,,,v1919366360
+2026-01,2021A00055915034,5915034,Coquitlam,200 to 499 employees,"Total, all industries [1]",16,,,v1919366364
+2026-01,2021A00055915034,5915034,Coquitlam,200 to 499 employees,Construction [23],3,,,v1919366365
+2026-01,2021A00055915034,5915034,Coquitlam,500 plus employees,"Total, all industries [1]",5,,,v1919366397
+2026-01,2021A00055915036,5915036,Belcarra,"Total, with employees","Total, all industries [1]",20,,,v1919366785
+2026-01,2021A00055915036,5915036,Belcarra,"Total, with employees",Construction [23],1,,,v1919366787
+2026-01,2021A00055915036,5915036,Belcarra,"Total, with employees",Motor vehicle and parts dealers [441],1,,,v1919366792
+2026-01,2021A00055915036,5915036,Belcarra,"Total, with employees",Other motor vehicle dealers [4412],1,,,v1919366793
+2026-01,2021A00055915036,5915036,Belcarra,1 to 4 employees,"Total, all industries [1]",14,,,v1919366743
+2026-01,2021A00055915036,5915036,Belcarra,1 to 4 employees,Construction [23],1,,,v1919366745
+2026-01,2021A00055915036,5915036,Belcarra,1 to 4 employees,Motor vehicle and parts dealers [441],1,,,v1919366750
+2026-01,2021A00055915036,5915036,Belcarra,1 to 4 employees,Other motor vehicle dealers [4412],1,,,v1919366751
+2026-01,2021A00055915036,5915036,Belcarra,5 to 9 employees,"Total, all industries [1]",1,,,v1919366764
+2026-01,2021A00055915036,5915036,Belcarra,10 to 19 employees,"Total, all industries [1]",4,,,v1919366769
+2026-01,2021A00055915036,5915036,Belcarra,20 to 49 employees,"Total, all industries [1]",1,,,v1919366780
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees","Total, all industries [1]",107,,,v1919366958
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees",Construction [23],20,,,v1919366960
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees",Transportation and warehousing [48-49],2,,,v1919366997
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees",Motor vehicle and parts dealers [441],1,,,v1919366984
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees",Truck transportation [484],1,,,v1919366998
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees",Rental and leasing services [532],1,,,v1919367010
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees",Automobile dealers [4411],1,,,v1919366985
+2026-01,2021A00055915038,5915038,Anmore,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919367011
+2026-01,2021A00055915038,5915038,Anmore,1 to 4 employees,"Total, all industries [1]",79,,,v1919366814
+2026-01,2021A00055915038,5915038,Anmore,1 to 4 employees,Construction [23],12,,,v1919366816
+2026-01,2021A00055915038,5915038,Anmore,1 to 4 employees,Transportation and warehousing [48-49],1,,,v1919366841
+2026-01,2021A00055915038,5915038,Anmore,1 to 4 employees,Truck transportation [484],1,,,v1919366842
+2026-01,2021A00055915038,5915038,Anmore,1 to 4 employees,Rental and leasing services [532],1,,,v1919366852
+2026-01,2021A00055915038,5915038,Anmore,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919366853
+2026-01,2021A00055915038,5915038,Anmore,5 to 9 employees,"Total, all industries [1]",15,,,v1919366891
+2026-01,2021A00055915038,5915038,Anmore,5 to 9 employees,Construction [23],6,,,v1919366893
+2026-01,2021A00055915038,5915038,Anmore,10 to 19 employees,"Total, all industries [1]",11,,,v1919366920
+2026-01,2021A00055915038,5915038,Anmore,10 to 19 employees,Construction [23],2,,,v1919366922
+2026-01,2021A00055915038,5915038,Anmore,10 to 19 employees,Transportation and warehousing [48-49],1,,,v1919366931
+2026-01,2021A00055915038,5915038,Anmore,10 to 19 employees,Motor vehicle and parts dealers [441],1,,,v1919366929
+2026-01,2021A00055915038,5915038,Anmore,10 to 19 employees,Automobile dealers [4411],1,,,v1919366930
+2026-01,2021A00055915038,5915038,Anmore,20 to 49 employees,"Total, all industries [1]",1,,,v1919366948
+2026-01,2021A00055915038,5915038,Anmore,50 to 99 employees,"Total, all industries [1]",1,,,v1919366953
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees","Total, all industries [1]",2394,,,v1919368033
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Construction [23],411,,,v1919368054
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Transportation and warehousing [48-49],75,,,v1919368193
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Motor vehicle and parts dealers [441],24,,,v1919368161
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Truck transportation [484],30,,,v1919368197
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Transit and ground passenger transportation [485],3,,,v1919368200
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Warehousing and storage [493],13,,,v1919368213
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Rental and leasing services [532],11,,,v1919368245
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Accommodation services [721],5,,,v1919368311
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Automobile dealers [4411],8,,,v1919368162
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Other motor vehicle dealers [4412],3,,,v1919368163
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Taxi and limousine service [4853],1,,,v1919368202
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Freight transportation arrangement [4885],9,,,v1919368208
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Automotive equipment rental and leasing [5321],1,,,v1919368246
+2026-01,2021A00055915039,5915039,Port Coquitlam,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],6,,,v1919368249
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,"Total, all industries [1]",1265,,,v1919367058
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Construction [23],217,,,v1919367074
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Transportation and warehousing [48-49],42,,,v1919367187
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Motor vehicle and parts dealers [441],7,,,v1919367163
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Truck transportation [484],21,,,v1919367190
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Transit and ground passenger transportation [485],2,,,v1919367193
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Warehousing and storage [493],5,,,v1919367203
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Rental and leasing services [532],1,,,v1919367226
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Accommodation services [721],2,,,v1919367282
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Automobile dealers [4411],1,,,v1919367164
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Taxi and limousine service [4853],1,,,v1919367194
+2026-01,2021A00055915039,5915039,Port Coquitlam,1 to 4 employees,Freight transportation arrangement [4885],3,,,v1919367198
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,"Total, all industries [1]",455,,,v1919367307
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Construction [23],66,,,v1919367317
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Transportation and warehousing [48-49],12,,,v1919367416
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Motor vehicle and parts dealers [441],6,,,v1919367388
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Truck transportation [484],5,,,v1919367417
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Warehousing and storage [493],3,,,v1919367426
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Rental and leasing services [532],2,,,v1919367448
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Other motor vehicle dealers [4412],1,,,v1919367389
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Freight transportation arrangement [4885],1,,,v1919367422
+2026-01,2021A00055915039,5915039,Port Coquitlam,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919367449
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,"Total, all industries [1]",344,,,v1919367510
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Construction [23],59,,,v1919367515
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Transportation and warehousing [48-49],7,,,v1919367605
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Motor vehicle and parts dealers [441],2,,,v1919367582
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Truck transportation [484],1,,,v1919367608
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Warehousing and storage [493],1,,,v1919367613
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Rental and leasing services [532],6,,,v1919367627
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Accommodation services [721],1,,,v1919367675
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Automobile dealers [4411],1,,,v1919367583
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Other motor vehicle dealers [4412],1,,,v1919367584
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Freight transportation arrangement [4885],3,,,v1919367612
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Automotive equipment rental and leasing [5321],1,,,v1919367628
+2026-01,2021A00055915039,5915039,Port Coquitlam,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],3,,,v1919367631
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,"Total, all industries [1]",214,,,v1919367695
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Construction [23],43,,,v1919367702
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Transportation and warehousing [48-49],7,,,v1919367778
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Motor vehicle and parts dealers [441],6,,,v1919367757
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Truck transportation [484],3,,,v1919367779
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Warehousing and storage [493],2,,,v1919367785
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Rental and leasing services [532],1,,,v1919367801
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Accommodation services [721],1,,,v1919367838
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Automobile dealers [4411],3,,,v1919367758
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Other motor vehicle dealers [4412],1,,,v1919367759
+2026-01,2021A00055915039,5915039,Port Coquitlam,20 to 49 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919367802
+2026-01,2021A00055915039,5915039,Port Coquitlam,50 to 99 employees,"Total, all industries [1]",76,,,v1919367854
+2026-01,2021A00055915039,5915039,Port Coquitlam,50 to 99 employees,Construction [23],21,,,v1919367856
+2026-01,2021A00055915039,5915039,Port Coquitlam,50 to 99 employees,Transportation and warehousing [48-49],2,,,v1919367903
+2026-01,2021A00055915039,5915039,Port Coquitlam,50 to 99 employees,Motor vehicle and parts dealers [441],3,,,v1919367891
+2026-01,2021A00055915039,5915039,Port Coquitlam,50 to 99 employees,Warehousing and storage [493],2,,,v1919367904
+2026-01,2021A00055915039,5915039,Port Coquitlam,50 to 99 employees,Rental and leasing services [532],1,,,v1919367910
+2026-01,2021A00055915039,5915039,Port Coquitlam,50 to 99 employees,Automobile dealers [4411],3,,,v1919367892
+2026-01,2021A00055915039,5915039,Port Coquitlam,100 to 199 employees,"Total, all industries [1]",22,,,v1919367941
+2026-01,2021A00055915039,5915039,Port Coquitlam,100 to 199 employees,Construction [23],2,,,v1919367943
+2026-01,2021A00055915039,5915039,Port Coquitlam,100 to 199 employees,Transportation and warehousing [48-49],3,,,v1919367964
+2026-01,2021A00055915039,5915039,Port Coquitlam,100 to 199 employees,Accommodation services [721],1,,,v1919367982
+2026-01,2021A00055915039,5915039,Port Coquitlam,100 to 199 employees,Freight transportation arrangement [4885],2,,,v1919367968
+2026-01,2021A00055915039,5915039,Port Coquitlam,200 to 499 employees,"Total, all industries [1]",12,,,v1919367986
+2026-01,2021A00055915039,5915039,Port Coquitlam,200 to 499 employees,Transportation and warehousing [48-49],1,,,v1919368002
+2026-01,2021A00055915039,5915039,Port Coquitlam,500 plus employees,"Total, all industries [1]",6,,,v1919368019
+2026-01,2021A00055915039,5915039,Port Coquitlam,500 plus employees,Construction [23],3,,,v1919368020
+2026-01,2021A00055915039,5915039,Port Coquitlam,500 plus employees,Transportation and warehousing [48-49],1,,,v1919368027
+2026-01,2021A00055915039,5915039,Port Coquitlam,500 plus employees,Transit and ground passenger transportation [485],1,,,v1919368028
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees","Total, all industries [1]",1266,,,v1919368913
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Construction [23],132,,,v1919368918
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Transportation and warehousing [48-49],20,,,v1919369005
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Motor vehicle and parts dealers [441],11,,,v1919368979
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Truck transportation [484],8,,,v1919369008
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Transit and ground passenger transportation [485],2,,,v1919369011
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Warehousing and storage [493],3,,,v1919369019
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Rental and leasing services [532],3,,,v1919369050
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Accommodation services [721],3,,,v1919369114
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Automobile dealers [4411],8,,,v1919368980
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Other motor vehicle dealers [4412],2,,,v1919368981
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Automotive equipment rental and leasing [5321],1,,,v1919369051
+2026-01,2021A00055915043,5915043,Port Moody,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919369053
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,"Total, all industries [1]",843,,,v1919368343
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Construction [23],90,,,v1919368345
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Transportation and warehousing [48-49],13,,,v1919368415
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Motor vehicle and parts dealers [441],5,,,v1919368394
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Truck transportation [484],7,,,v1919368416
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Transit and ground passenger transportation [485],1,,,v1919368419
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Warehousing and storage [493],1,,,v1919368427
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Rental and leasing services [532],1,,,v1919368457
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Accommodation services [721],1,,,v1919368507
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Automobile dealers [4411],3,,,v1919368395
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Other motor vehicle dealers [4412],1,,,v1919368396
+2026-01,2021A00055915043,5915043,Port Moody,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919368458
+2026-01,2021A00055915043,5915043,Port Moody,5 to 9 employees,"Total, all industries [1]",185,,,v1919368529
+2026-01,2021A00055915043,5915043,Port Moody,5 to 9 employees,Construction [23],20,,,v1919368531
+2026-01,2021A00055915043,5915043,Port Moody,5 to 9 employees,Transportation and warehousing [48-49],3,,,v1919368578
+2026-01,2021A00055915043,5915043,Port Moody,5 to 9 employees,Transit and ground passenger transportation [485],1,,,v1919368579
+2026-01,2021A00055915043,5915043,Port Moody,5 to 9 employees,Warehousing and storage [493],1,,,v1919368583
+2026-01,2021A00055915043,5915043,Port Moody,5 to 9 employees,Accommodation services [721],1,,,v1919368636
+2026-01,2021A00055915043,5915043,Port Moody,10 to 19 employees,"Total, all industries [1]",118,,,v1919368653
+2026-01,2021A00055915043,5915043,Port Moody,10 to 19 employees,Construction [23],13,,,v1919368658
+2026-01,2021A00055915043,5915043,Port Moody,10 to 19 employees,Transportation and warehousing [48-49],1,,,v1919368696
+2026-01,2021A00055915043,5915043,Port Moody,10 to 19 employees,Truck transportation [484],1,,,v1919368697
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,"Total, all industries [1]",91,,,v1919368750
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Construction [23],6,,,v1919368752
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Transportation and warehousing [48-49],2,,,v1919368786
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Motor vehicle and parts dealers [441],3,,,v1919368775
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Rental and leasing services [532],2,,,v1919368799
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Accommodation services [721],1,,,v1919368834
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Automobile dealers [4411],2,,,v1919368776
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Other motor vehicle dealers [4412],1,,,v1919368777
+2026-01,2021A00055915043,5915043,Port Moody,20 to 49 employees,Automotive equipment rental and leasing [5321],1,,,v1919368800
+2026-01,2021A00055915043,5915043,Port Moody,50 to 99 employees,"Total, all industries [1]",15,,,v1919368850
+2026-01,2021A00055915043,5915043,Port Moody,50 to 99 employees,Construction [23],2,,,v1919368851
+2026-01,2021A00055915043,5915043,Port Moody,50 to 99 employees,Motor vehicle and parts dealers [441],3,,,v1919368861
+2026-01,2021A00055915043,5915043,Port Moody,50 to 99 employees,Automobile dealers [4411],3,,,v1919368862
+2026-01,2021A00055915043,5915043,Port Moody,100 to 199 employees,"Total, all industries [1]",8,,,v1919368876
+2026-01,2021A00055915043,5915043,Port Moody,100 to 199 employees,Transportation and warehousing [48-49],1,,,v1919368882
+2026-01,2021A00055915043,5915043,Port Moody,100 to 199 employees,Warehousing and storage [493],1,,,v1919368883
+2026-01,2021A00055915043,5915043,Port Moody,200 to 499 employees,"Total, all industries [1]",4,,,v1919368892
+2026-01,2021A00055915043,5915043,Port Moody,200 to 499 employees,Construction [23],1,,,v1919368893
+2026-01,2021A00055915043,5915043,Port Moody,500 plus employees,"Total, all industries [1]",2,,,v1919368905
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees","Total, all industries [1]",4400,,,v1919370150
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Construction [23],455,,,v1919370176
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Transportation and warehousing [48-49],67,,,v1919370321
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Motor vehicle and parts dealers [441],24,,,v1919370289
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Truck transportation [484],21,,,v1919370324
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Transit and ground passenger transportation [485],6,,,v1919370327
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Warehousing and storage [493],5,,,v1919370344
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Rental and leasing services [532],20,,,v1919370380
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Accommodation services [721],17,,,v1919370454
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Automobile dealers [4411],11,,,v1919370290
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Other motor vehicle dealers [4412],4,,,v1919370291
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Taxi and limousine service [4853],6,,,v1919370328
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Freight transportation arrangement [4885],8,,,v1919370339
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Automotive equipment rental and leasing [5321],4,,,v1919370381
+2026-01,2021A00055915046,5915046,North Vancouver,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],8,,,v1919370384
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,"Total, all industries [1]",2959,,,v1919369142
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Construction [23],288,,,v1919369158
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Transportation and warehousing [48-49],37,,,v1919369280
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Motor vehicle and parts dealers [441],8,,,v1919369252
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Truck transportation [484],14,,,v1919369281
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Transit and ground passenger transportation [485],3,,,v1919369284
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Warehousing and storage [493],3,,,v1919369297
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Rental and leasing services [532],8,,,v1919369332
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Accommodation services [721],10,,,v1919369395
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Automobile dealers [4411],6,,,v1919369253
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Other motor vehicle dealers [4412],2,,,v1919369254
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Taxi and limousine service [4853],3,,,v1919369285
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Freight transportation arrangement [4885],4,,,v1919369292
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Automotive equipment rental and leasing [5321],1,,,v1919369333
+2026-01,2021A00055915046,5915046,North Vancouver,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],6,,,v1919369335
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,"Total, all industries [1]",648,,,v1919369420
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Construction [23],92,,,v1919369433
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Transportation and warehousing [48-49],8,,,v1919369520
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Motor vehicle and parts dealers [441],4,,,v1919369492
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Truck transportation [484],2,,,v1919369521
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Transit and ground passenger transportation [485],2,,,v1919369523
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Rental and leasing services [532],6,,,v1919369552
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Accommodation services [721],1,,,v1919369605
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Taxi and limousine service [4853],2,,,v1919369524
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Freight transportation arrangement [4885],1,,,v1919369529
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Automotive equipment rental and leasing [5321],2,,,v1919369553
+2026-01,2021A00055915046,5915046,North Vancouver,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919369555
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,"Total, all industries [1]",419,,,v1919369626
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Construction [23],39,,,v1919369636
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Transportation and warehousing [48-49],11,,,v1919369723
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Motor vehicle and parts dealers [441],5,,,v1919369695
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Truck transportation [484],3,,,v1919369724
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Warehousing and storage [493],2,,,v1919369730
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Rental and leasing services [532],5,,,v1919369750
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Accommodation services [721],2,,,v1919369793
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Automobile dealers [4411],1,,,v1919369696
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Other motor vehicle dealers [4412],2,,,v1919369697
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Freight transportation arrangement [4885],3,,,v1919369729
+2026-01,2021A00055915046,5915046,North Vancouver,10 to 19 employees,Automotive equipment rental and leasing [5321],1,,,v1919369751
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,"Total, all industries [1]",254,,,v1919369812
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Construction [23],28,,,v1919369814
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Transportation and warehousing [48-49],7,,,v1919369875
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Motor vehicle and parts dealers [441],6,,,v1919369854
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Truck transportation [484],2,,,v1919369876
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Transit and ground passenger transportation [485],1,,,v1919369878
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Accommodation services [721],2,,,v1919369949
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Automobile dealers [4411],3,,,v1919369855
+2026-01,2021A00055915046,5915046,North Vancouver,20 to 49 employees,Taxi and limousine service [4853],1,,,v1919369879
+2026-01,2021A00055915046,5915046,North Vancouver,50 to 99 employees,"Total, all industries [1]",72,,,v1919369967
+2026-01,2021A00055915046,5915046,North Vancouver,50 to 99 employees,Construction [23],6,,,v1919369975
+2026-01,2021A00055915046,5915046,North Vancouver,50 to 99 employees,Transportation and warehousing [48-49],2,,,v1919370018
+2026-01,2021A00055915046,5915046,North Vancouver,50 to 99 employees,Motor vehicle and parts dealers [441],1,,,v1919370005
+2026-01,2021A00055915046,5915046,North Vancouver,50 to 99 employees,Accommodation services [721],2,,,v1919370047
+2026-01,2021A00055915046,5915046,North Vancouver,50 to 99 employees,Automobile dealers [4411],1,,,v1919370006
+2026-01,2021A00055915046,5915046,North Vancouver,100 to 199 employees,"Total, all industries [1]",32,,,v1919370057
+2026-01,2021A00055915046,5915046,North Vancouver,100 to 199 employees,Transportation and warehousing [48-49],1,,,v1919370070
+2026-01,2021A00055915046,5915046,North Vancouver,100 to 199 employees,Rental and leasing services [532],1,,,v1919370077
+2026-01,2021A00055915046,5915046,North Vancouver,200 to 499 employees,"Total, all industries [1]",9,,,v1919370107
+2026-01,2021A00055915046,5915046,North Vancouver,200 to 499 employees,Construction [23],2,,,v1919370108
+2026-01,2021A00055915046,5915046,North Vancouver,500 plus employees,"Total, all industries [1]",7,,,v1919370130
+2026-01,2021A00055915046,5915046,North Vancouver,500 plus employees,Transportation and warehousing [48-49],1,,,v1919370135
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees","Total, all industries [1]",2675,,,v1919371343
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Construction [23],260,,,v1919371367
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Transportation and warehousing [48-49],37,,,v1919371481
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Motor vehicle and parts dealers [441],24,,,v1919371450
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Truck transportation [484],12,,,v1919371485
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Transit and ground passenger transportation [485],4,,,v1919371488
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Warehousing and storage [493],3,,,v1919371503
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Rental and leasing services [532],8,,,v1919371537
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Accommodation services [721],6,,,v1919371611
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Automobile dealers [4411],15,,,v1919371451
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Other motor vehicle dealers [4412],2,,,v1919371452
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Taxi and limousine service [4853],3,,,v1919371489
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Freight transportation arrangement [4885],4,,,v1919371497
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Automotive equipment rental and leasing [5321],3,,,v1919371538
+2026-01,2021A00055915051,5915051,North Vancouver,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],4,,,v1919371540
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,"Total, all industries [1]",1685,,,v1919370486
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Construction [23],186,,,v1919370501
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Transportation and warehousing [48-49],24,,,v1919370592
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Motor vehicle and parts dealers [441],5,,,v1919370566
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Truck transportation [484],12,,,v1919370593
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Transit and ground passenger transportation [485],3,,,v1919370596
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Warehousing and storage [493],2,,,v1919370610
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Rental and leasing services [532],4,,,v1919370638
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Accommodation services [721],1,,,v1919370700
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Automobile dealers [4411],3,,,v1919370567
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Other motor vehicle dealers [4412],2,,,v1919370568
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Taxi and limousine service [4853],2,,,v1919370597
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Freight transportation arrangement [4885],1,,,v1919370604
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Automotive equipment rental and leasing [5321],1,,,v1919370639
+2026-01,2021A00055915051,5915051,North Vancouver,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919370641
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,"Total, all industries [1]",453,,,v1919370722
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Construction [23],41,,,v1919370739
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Transportation and warehousing [48-49],5,,,v1919370819
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Motor vehicle and parts dealers [441],3,,,v1919370795
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Transit and ground passenger transportation [485],1,,,v1919370822
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Rental and leasing services [532],2,,,v1919370855
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Taxi and limousine service [4853],1,,,v1919370823
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Freight transportation arrangement [4885],1,,,v1919370826
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Automotive equipment rental and leasing [5321],1,,,v1919370856
+2026-01,2021A00055915051,5915051,North Vancouver,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919370857
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,"Total, all industries [1]",279,,,v1919370923
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Construction [23],17,,,v1919370929
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Transportation and warehousing [48-49],1,,,v1919370987
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Motor vehicle and parts dealers [441],4,,,v1919370965
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Rental and leasing services [532],2,,,v1919371004
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Accommodation services [721],2,,,v1919371051
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Automobile dealers [4411],1,,,v1919370966
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Freight transportation arrangement [4885],1,,,v1919370989
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Automotive equipment rental and leasing [5321],1,,,v1919371005
+2026-01,2021A00055915051,5915051,North Vancouver,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919371006
+2026-01,2021A00055915051,5915051,North Vancouver,20 to 49 employees,"Total, all industries [1]",162,,,v1919371068
+2026-01,2021A00055915051,5915051,North Vancouver,20 to 49 employees,Construction [23],12,,,v1919371073
+2026-01,2021A00055915051,5915051,North Vancouver,20 to 49 employees,Transportation and warehousing [48-49],2,,,v1919371113
+2026-01,2021A00055915051,5915051,North Vancouver,20 to 49 employees,Motor vehicle and parts dealers [441],6,,,v1919371101
+2026-01,2021A00055915051,5915051,North Vancouver,20 to 49 employees,Automobile dealers [4411],5,,,v1919371102
+2026-01,2021A00055915051,5915051,North Vancouver,20 to 49 employees,Freight transportation arrangement [4885],1,,,v1919371117
+2026-01,2021A00055915051,5915051,North Vancouver,50 to 99 employees,"Total, all industries [1]",62,,,v1919371187
+2026-01,2021A00055915051,5915051,North Vancouver,50 to 99 employees,Construction [23],3,,,v1919371189
+2026-01,2021A00055915051,5915051,North Vancouver,50 to 99 employees,Motor vehicle and parts dealers [441],6,,,v1919371208
+2026-01,2021A00055915051,5915051,North Vancouver,50 to 99 employees,Accommodation services [721],3,,,v1919371256
+2026-01,2021A00055915051,5915051,North Vancouver,50 to 99 employees,Automobile dealers [4411],6,,,v1919371209
+2026-01,2021A00055915051,5915051,North Vancouver,100 to 199 employees,"Total, all industries [1]",20,,,v1919371264
+2026-01,2021A00055915051,5915051,North Vancouver,100 to 199 employees,Transportation and warehousing [48-49],4,,,v1919371274
+2026-01,2021A00055915051,5915051,North Vancouver,100 to 199 employees,Warehousing and storage [493],1,,,v1919371279
+2026-01,2021A00055915051,5915051,North Vancouver,200 to 499 employees,"Total, all industries [1]",8,,,v1919371307
+2026-01,2021A00055915051,5915051,North Vancouver,200 to 499 employees,Construction [23],1,,,v1919371308
+2026-01,2021A00055915051,5915051,North Vancouver,200 to 499 employees,Transportation and warehousing [48-49],1,,,v1919371312
+2026-01,2021A00055915051,5915051,North Vancouver,500 plus employees,"Total, all industries [1]",6,,,v1919371325
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees","Total, all industries [1]",2491,,,v1919372346
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Construction [23],185,,,v1919372368
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Transportation and warehousing [48-49],29,,,v1919372476
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Motor vehicle and parts dealers [441],7,,,v1919372445
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Truck transportation [484],2,,,v1919372477
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Transit and ground passenger transportation [485],3,,,v1919372479
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Warehousing and storage [493],5,,,v1919372492
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Rental and leasing services [532],4,,,v1919372529
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Accommodation services [721],18,,,v1919372586
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Automobile dealers [4411],5,,,v1919372446
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Other motor vehicle dealers [4412],1,,,v1919372447
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Taxi and limousine service [4853],2,,,v1919372480
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Freight transportation arrangement [4885],6,,,v1919372488
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Automotive equipment rental and leasing [5321],2,,,v1919372530
+2026-01,2021A00055915055,5915055,West Vancouver,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919372532
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,"Total, all industries [1]",1852,,,v1919371641
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Construction [23],133,,,v1919371659
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Transportation and warehousing [48-49],19,,,v1919371757
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Motor vehicle and parts dealers [441],7,,,v1919371729
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Truck transportation [484],1,,,v1919371758
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Transit and ground passenger transportation [485],2,,,v1919371760
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Warehousing and storage [493],2,,,v1919371771
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Rental and leasing services [532],3,,,v1919371807
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Accommodation services [721],4,,,v1919371858
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Automobile dealers [4411],5,,,v1919371730
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Other motor vehicle dealers [4412],1,,,v1919371731
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Taxi and limousine service [4853],2,,,v1919371761
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Freight transportation arrangement [4885],5,,,v1919371767
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Automotive equipment rental and leasing [5321],2,,,v1919371808
+2026-01,2021A00055915055,5915055,West Vancouver,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919371809
+2026-01,2021A00055915055,5915055,West Vancouver,5 to 9 employees,"Total, all industries [1]",327,,,v1919371881
+2026-01,2021A00055915055,5915055,West Vancouver,5 to 9 employees,Construction [23],32,,,v1919371889
+2026-01,2021A00055915055,5915055,West Vancouver,5 to 9 employees,Transportation and warehousing [48-49],2,,,v1919371945
+2026-01,2021A00055915055,5915055,West Vancouver,5 to 9 employees,Accommodation services [721],3,,,v1919372013
+2026-01,2021A00055915055,5915055,West Vancouver,5 to 9 employees,Freight transportation arrangement [4885],1,,,v1919371947
+2026-01,2021A00055915055,5915055,West Vancouver,10 to 19 employees,"Total, all industries [1]",163,,,v1919372032
+2026-01,2021A00055915055,5915055,West Vancouver,10 to 19 employees,Construction [23],15,,,v1919372037
+2026-01,2021A00055915055,5915055,West Vancouver,10 to 19 employees,Transportation and warehousing [48-49],3,,,v1919372085
+2026-01,2021A00055915055,5915055,West Vancouver,10 to 19 employees,Transit and ground passenger transportation [485],1,,,v1919372086
+2026-01,2021A00055915055,5915055,West Vancouver,10 to 19 employees,Warehousing and storage [493],1,,,v1919372090
+2026-01,2021A00055915055,5915055,West Vancouver,10 to 19 employees,Accommodation services [721],4,,,v1919372133
+2026-01,2021A00055915055,5915055,West Vancouver,20 to 49 employees,"Total, all industries [1]",104,,,v1919372147
+2026-01,2021A00055915055,5915055,West Vancouver,20 to 49 employees,Construction [23],3,,,v1919372152
+2026-01,2021A00055915055,5915055,West Vancouver,20 to 49 employees,Transportation and warehousing [48-49],2,,,v1919372185
+2026-01,2021A00055915055,5915055,West Vancouver,20 to 49 employees,Warehousing and storage [493],2,,,v1919372186
+2026-01,2021A00055915055,5915055,West Vancouver,20 to 49 employees,Rental and leasing services [532],1,,,v1919372200
+2026-01,2021A00055915055,5915055,West Vancouver,20 to 49 employees,Accommodation services [721],6,,,v1919372233
+2026-01,2021A00055915055,5915055,West Vancouver,50 to 99 employees,"Total, all industries [1]",24,,,v1919372243
+2026-01,2021A00055915055,5915055,West Vancouver,50 to 99 employees,Construction [23],2,,,v1919372244
+2026-01,2021A00055915055,5915055,West Vancouver,50 to 99 employees,Transportation and warehousing [48-49],3,,,v1919372258
+2026-01,2021A00055915055,5915055,West Vancouver,50 to 99 employees,Truck transportation [484],1,,,v1919372259
+2026-01,2021A00055915055,5915055,West Vancouver,100 to 199 employees,"Total, all industries [1]",12,,,v1919372290
+2026-01,2021A00055915055,5915055,West Vancouver,100 to 199 employees,Accommodation services [721],1,,,v1919372311
+2026-01,2021A00055915055,5915055,West Vancouver,200 to 499 employees,"Total, all industries [1]",5,,,v1919372315
+2026-01,2021A00055915055,5915055,West Vancouver,500 plus employees,"Total, all industries [1]",4,,,v1919372332
+2026-01,2021A00055915062,5915062,Bowen Island,"Total, with employees","Total, all industries [1]",232,,,v1919372859
+2026-01,2021A00055915062,5915062,Bowen Island,"Total, with employees",Construction [23],55,,,v1919372872
+2026-01,2021A00055915062,5915062,Bowen Island,"Total, with employees",Transportation and warehousing [48-49],6,,,v1919372922
+2026-01,2021A00055915062,5915062,Bowen Island,"Total, with employees",Truck transportation [484],3,,,v1919372926
+2026-01,2021A00055915062,5915062,Bowen Island,"Total, with employees",Rental and leasing services [532],1,,,v1919372947
+2026-01,2021A00055915062,5915062,Bowen Island,"Total, with employees",Accommodation services [721],2,,,v1919372985
+2026-01,2021A00055915062,5915062,Bowen Island,1 to 4 employees,"Total, all industries [1]",156,,,v1919372615
+2026-01,2021A00055915062,5915062,Bowen Island,1 to 4 employees,Construction [23],37,,,v1919372625
+2026-01,2021A00055915062,5915062,Bowen Island,1 to 4 employees,Transportation and warehousing [48-49],4,,,v1919372662
+2026-01,2021A00055915062,5915062,Bowen Island,1 to 4 employees,Truck transportation [484],3,,,v1919372665
+2026-01,2021A00055915062,5915062,Bowen Island,1 to 4 employees,Accommodation services [721],1,,,v1919372712
+2026-01,2021A00055915062,5915062,Bowen Island,5 to 9 employees,"Total, all industries [1]",32,,,v1919372722
+2026-01,2021A00055915062,5915062,Bowen Island,5 to 9 employees,Construction [23],9,,,v1919372727
+2026-01,2021A00055915062,5915062,Bowen Island,10 to 19 employees,"Total, all industries [1]",29,,,v1919372772
+2026-01,2021A00055915062,5915062,Bowen Island,10 to 19 employees,Construction [23],8,,,v1919372774
+2026-01,2021A00055915062,5915062,Bowen Island,10 to 19 employees,Transportation and warehousing [48-49],2,,,v1919372794
+2026-01,2021A00055915062,5915062,Bowen Island,10 to 19 employees,Rental and leasing services [532],1,,,v1919372802
+2026-01,2021A00055915062,5915062,Bowen Island,10 to 19 employees,Accommodation services [721],1,,,v1919372812
+2026-01,2021A00055915062,5915062,Bowen Island,20 to 49 employees,"Total, all industries [1]",13,,,v1919372822
+2026-01,2021A00055915062,5915062,Bowen Island,20 to 49 employees,Construction [23],1,,,v1919372824
+2026-01,2021A00055915062,5915062,Bowen Island,50 to 99 employees,"Total, all industries [1]",2,,,v1919372851
+2026-01,2021A00055915065,5915065,Lions Bay,"Total, with employees","Total, all industries [1]",54,,,v1919373088
+2026-01,2021A00055915065,5915065,Lions Bay,"Total, with employees",Construction [23],6,,,v1919373090
+2026-01,2021A00055915065,5915065,Lions Bay,1 to 4 employees,"Total, all industries [1]",37,,,v1919373002
+2026-01,2021A00055915065,5915065,Lions Bay,1 to 4 employees,Construction [23],4,,,v1919373004
+2026-01,2021A00055915065,5915065,Lions Bay,5 to 9 employees,"Total, all industries [1]",4,,,v1919373047
+2026-01,2021A00055915065,5915065,Lions Bay,5 to 9 employees,Construction [23],1,,,v1919373049
+2026-01,2021A00055915065,5915065,Lions Bay,10 to 19 employees,"Total, all industries [1]",8,,,v1919373059
+2026-01,2021A00055915065,5915065,Lions Bay,10 to 19 employees,Construction [23],1,,,v1919373061
+2026-01,2021A00055915065,5915065,Lions Bay,20 to 49 employees,"Total, all industries [1]",5,,,v1919373080
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees","Total, all industries [1]",670,,,v1919373714
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Construction [23],96,,,v1919373734
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Transportation and warehousing [48-49],38,,,v1919373836
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Motor vehicle and parts dealers [441],7,,,v1919373809
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Truck transportation [484],16,,,v1919373841
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Warehousing and storage [493],4,,,v1919373851
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Rental and leasing services [532],2,,,v1919373874
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Accommodation services [721],1,,,v1919373931
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Automobile dealers [4411],5,,,v1919373810
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Freight transportation arrangement [4885],1,,,v1919373848
+2026-01,2021A00055915070,5915070,Pitt Meadows,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919373876
+2026-01,2021A00055915070,5915070,Pitt Meadows,1 to 4 employees,"Total, all industries [1]",361,,,v1919373147
+2026-01,2021A00055915070,5915070,Pitt Meadows,1 to 4 employees,Construction [23],51,,,v1919373161
+2026-01,2021A00055915070,5915070,Pitt Meadows,1 to 4 employees,Transportation and warehousing [48-49],21,,,v1919373221
+2026-01,2021A00055915070,5915070,Pitt Meadows,1 to 4 employees,Truck transportation [484],12,,,v1919373224
+2026-01,2021A00055915070,5915070,Pitt Meadows,1 to 4 employees,Warehousing and storage [493],2,,,v1919373233
+2026-01,2021A00055915070,5915070,Pitt Meadows,1 to 4 employees,Freight transportation arrangement [4885],1,,,v1919373230
+2026-01,2021A00055915070,5915070,Pitt Meadows,5 to 9 employees,"Total, all industries [1]",110,,,v1919373308
+2026-01,2021A00055915070,5915070,Pitt Meadows,5 to 9 employees,Construction [23],22,,,v1919373319
+2026-01,2021A00055915070,5915070,Pitt Meadows,5 to 9 employees,Transportation and warehousing [48-49],6,,,v1919373361
+2026-01,2021A00055915070,5915070,Pitt Meadows,5 to 9 employees,Truck transportation [484],1,,,v1919373362
+2026-01,2021A00055915070,5915070,Pitt Meadows,5 to 9 employees,Warehousing and storage [493],1,,,v1919373367
+2026-01,2021A00055915070,5915070,Pitt Meadows,5 to 9 employees,Rental and leasing services [532],1,,,v1919373381
+2026-01,2021A00055915070,5915070,Pitt Meadows,5 to 9 employees,Accommodation services [721],1,,,v1919373412
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,"Total, all industries [1]",98,,,v1919373422
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,Construction [23],12,,,v1919373431
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,Transportation and warehousing [48-49],6,,,v1919373489
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,Motor vehicle and parts dealers [441],1,,,v1919373472
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,Truck transportation [484],2,,,v1919373494
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,Warehousing and storage [493],1,,,v1919373498
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,Rental and leasing services [532],1,,,v1919373506
+2026-01,2021A00055915070,5915070,Pitt Meadows,10 to 19 employees,Commercial and industrial machinery and equipment rental and leasing [5324],1,,,v1919373507
+2026-01,2021A00055915070,5915070,Pitt Meadows,20 to 49 employees,"Total, all industries [1]",67,,,v1919373541
+2026-01,2021A00055915070,5915070,Pitt Meadows,20 to 49 employees,Construction [23],9,,,v1919373549
+2026-01,2021A00055915070,5915070,Pitt Meadows,20 to 49 employees,Transportation and warehousing [48-49],4,,,v1919373592
+2026-01,2021A00055915070,5915070,Pitt Meadows,20 to 49 employees,Motor vehicle and parts dealers [441],3,,,v1919373577
+2026-01,2021A00055915070,5915070,Pitt Meadows,20 to 49 employees,Truck transportation [484],1,,,v1919373593
+2026-01,2021A00055915070,5915070,Pitt Meadows,20 to 49 employees,Automobile dealers [4411],2,,,v1919373578
+2026-01,2021A00055915070,5915070,Pitt Meadows,50 to 99 employees,"Total, all industries [1]",27,,,v1919373632
+2026-01,2021A00055915070,5915070,Pitt Meadows,50 to 99 employees,Construction [23],1,,,v1919373639
+2026-01,2021A00055915070,5915070,Pitt Meadows,50 to 99 employees,Transportation and warehousing [48-49],1,,,v1919373664
+2026-01,2021A00055915070,5915070,Pitt Meadows,50 to 99 employees,Motor vehicle and parts dealers [441],3,,,v1919373660
+2026-01,2021A00055915070,5915070,Pitt Meadows,50 to 99 employees,Automobile dealers [4411],3,,,v1919373661
+2026-01,2021A00055915070,5915070,Pitt Meadows,100 to 199 employees,"Total, all industries [1]",6,,,v1919373689
+2026-01,2021A00055915070,5915070,Pitt Meadows,100 to 199 employees,Construction [23],1,,,v1919373693
+2026-01,2021A00055915070,5915070,Pitt Meadows,200 to 499 employees,"Total, all industries [1]",1,,,v1919373709
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees","Total, all industries [1]",2898,,,v1919374880
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Construction [23],557,,,v1919374910
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Transportation and warehousing [48-49],87,,,v1919375049
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Motor vehicle and parts dealers [441],28,,,v1919375017
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Truck transportation [484],51,,,v1919375052
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Transit and ground passenger transportation [485],4,,,v1919375055
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Warehousing and storage [493],4,,,v1919375066
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Rental and leasing services [532],8,,,v1919375100
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Accommodation services [721],7,,,v1919375174
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Automobile dealers [4411],14,,,v1919375018
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Other motor vehicle dealers [4412],1,,,v1919375019
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Taxi and limousine service [4853],4,,,v1919375056
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Freight transportation arrangement [4885],4,,,v1919375061
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Automotive equipment rental and leasing [5321],2,,,v1919375101
+2026-01,2021A00055915075,5915075,Maple Ridge,"Total, with employees",Commercial and industrial machinery and equipment rental and leasing [5324],4,,,v1919375104
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,"Total, all industries [1]",1709,,,v1919373955
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Construction [23],333,,,v1919373982
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Transportation and warehousing [48-49],60,,,v1919374091
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Motor vehicle and parts dealers [441],12,,,v1919374065
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Truck transportation [484],39,,,v1919374094
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Transit and ground passenger transportation [485],4,,,v1919374097
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Warehousing and storage [493],1,,,v1919374107
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Rental and leasing services [532],5,,,v1919374139
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Accommodation services [721],3,,,v1919374201
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Automobile dealers [4411],7,,,v1919374066
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Taxi and limousine service [4853],4,,,v1919374098
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Freight transportation arrangement [4885],2,,,v1919374103
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Automotive equipment rental and leasing [5321],1,,,v1919374140
+2026-01,2021A00055915075,5915075,Maple Ridge,1 to 4 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919374143
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,"Total, all industries [1]",533,,,v1919374229
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Construction [23],121,,,v1919374245
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Transportation and warehousing [48-49],8,,,v1919374332
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Motor vehicle and parts dealers [441],5,,,v1919374305
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Truck transportation [484],5,,,v1919374333
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Warehousing and storage [493],1,,,v1919374340
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Rental and leasing services [532],3,,,v1919374360
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Automobile dealers [4411],1,,,v1919374306
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Other motor vehicle dealers [4412],1,,,v1919374307
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Automotive equipment rental and leasing [5321],1,,,v1919374361
+2026-01,2021A00055915075,5915075,Maple Ridge,5 to 9 employees,Commercial and industrial machinery and equipment rental and leasing [5324],2,,,v1919374362
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,"Total, all industries [1]",356,,,v1919374424
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Construction [23],60,,,v1919374432
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Transportation and warehousing [48-49],13,,,v1919374514
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Motor vehicle and parts dealers [441],4,,,v1919374490
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Truck transportation [484],6,,,v1919374515
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Warehousing and storage [493],1,,,v1919374522
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Accommodation services [721],1,,,v1919374586
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Automobile dealers [4411],1,,,v1919374491
+2026-01,2021A00055915075,5915075,Maple Ridge,10 to 19 employees,Freight transportation arrangement [4885],2,,,v1919374520
+2026-01,2021A00055915075,5915075,Maple Ridge,20 to 49 employees,"Total, all industries [1]",218,,,v1919374611
+2026-01,2021A00055915075,5915075,Maple Ridge,20 to 49 employees,Construction [23],34,,,v1919374622
+2026-01,2021A00055915075,5915075,Maple Ridge,20 to 49 employees,Transportation and warehousing [48-49],5,,,v1919374678
+2026-01,2021A00055915075,5915075,Maple Ridge,20 to 49 employees,Motor vehicle and parts dealers [441],3,,,v1919374663
+2026-01,2021A00055915075,5915075,Maple Ridge,20 to 49 employees,Truck transportation [484],1,,,v1919374679
+2026-01,2021A00055915075,5915075,Maple Ridge,20 to 49 employees,Warehousing and storage [493],1,,,v1919374683
+2026-01,2021A00055915075,5915075,Maple Ridge,20 to 49 employees,Automobile dealers [4411],1,,,v1919374664
+2026-01,2021A00055915075,5915075,Maple Ridge,50 to 99 employees,"Total, all industries [1]",59,,,v1919374751
+2026-01,2021A00055915075,5915075,Maple Ridge,50 to 99 employees,Construction [23],7,,,v1919374758
+2026-01,2021A00055915075,5915075,Maple Ridge,50 to 99 employees,Transportation and warehousing [48-49],1,,,v1919374795
+2026-01,2021A00055915075,5915075,Maple Ridge,50 to 99 employees,Motor vehicle and parts dealers [441],4,,,v1919374781
+2026-01,2021A00055915075,5915075,Maple Ridge,50 to 99 employees,Accommodation services [721],3,,,v1919374815
+2026-01,2021A00055915075,5915075,Maple Ridge,50 to 99 employees,Automobile dealers [4411],4,,,v1919374782
+2026-01,2021A00055915075,5915075,Maple Ridge,100 to 199 employees,"Total, all industries [1]",14,,,v1919374824
+2026-01,2021A00055915075,5915075,Maple Ridge,100 to 199 employees,Construction [23],1,,,v1919374825
+2026-01,2021A00055915075,5915075,Maple Ridge,200 to 499 employees,"Total, all industries [1]",5,,,v1919374852
+2026-01,2021A00055915075,5915075,Maple Ridge,200 to 499 employees,Construction [23],1,,,v1919374853
+2026-01,2021A00055915075,5915075,Maple Ridge,500 plus employees,"Total, all industries [1]",4,,,v1919374867
+2026-01,2021A00055915801,5915801,Semiahmoo,"Total, with employees","Total, all industries [1]",3,,,v1919375223
+2026-01,2021A00055915801,5915801,Semiahmoo,1 to 4 employees,"Total, all industries [1]",1,,,v1919375208
+2026-01,2021A00055915801,5915801,Semiahmoo,5 to 9 employees,"Total, all industries [1]",1,,,v1919375213
+2026-01,2021A00055915801,5915801,Semiahmoo,10 to 19 employees,"Total, all industries [1]",1,,,v1919375218
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees","Total, all industries [1]",230,,,v1919375455
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Construction [23],15,,,v1919375457
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Transportation and warehousing [48-49],9,,,v1919375495
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Motor vehicle and parts dealers [441],3,,,v1919375471
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Truck transportation [484],1,,,v1919375498
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Transit and ground passenger transportation [485],1,,,v1919375500
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Warehousing and storage [493],2,,,v1919375507
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Rental and leasing services [532],1,,,v1919375518
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Other motor vehicle dealers [4412],1,,,v1919375472
+2026-01,2021A00055915802,5915802,Tsawwassen,"Total, with employees",Automotive equipment rental and leasing [5321],1,,,v1919375519
+2026-01,2021A00055915802,5915802,Tsawwassen,1 to 4 employees,"Total, all industries [1]",72,,,v1919375234
+2026-01,2021A00055915802,5915802,Tsawwassen,1 to 4 employees,Construction [23],11,,,v1919375236
+2026-01,2021A00055915802,5915802,Tsawwassen,1 to 4 employees,Transportation and warehousing [48-49],3,,,v1919375252
+2026-01,2021A00055915802,5915802,Tsawwassen,1 to 4 employees,Motor vehicle and parts dealers [441],1,,,v1919375245
+2026-01,2021A00055915802,5915802,Tsawwassen,1 to 4 employees,Truck transportation [484],1,,,v1919375253
+2026-01,2021A00055915802,5915802,Tsawwassen,1 to 4 employees,Rental and leasing services [532],1,,,v1919375266
+2026-01,2021A00055915802,5915802,Tsawwassen,1 to 4 employees,Automotive equipment rental and leasing [5321],1,,,v1919375267
+2026-01,2021A00055915802,5915802,Tsawwassen,5 to 9 employees,"Total, all industries [1]",60,,,v1919375298
+2026-01,2021A00055915802,5915802,Tsawwassen,5 to 9 employees,Construction [23],2,,,v1919375299
+2026-01,2021A00055915802,5915802,Tsawwassen,10 to 19 employees,"Total, all industries [1]",56,,,v1919375353
+2026-01,2021A00055915802,5915802,Tsawwassen,10 to 19 employees,Construction [23],2,,,v1919375354
+2026-01,2021A00055915802,5915802,Tsawwassen,10 to 19 employees,Motor vehicle and parts dealers [441],2,,,v1919375361
+2026-01,2021A00055915802,5915802,Tsawwassen,10 to 19 employees,Other motor vehicle dealers [4412],1,,,v1919375362
+2026-01,2021A00055915802,5915802,Tsawwassen,20 to 49 employees,"Total, all industries [1]",30,,,v1919375390
+2026-01,2021A00055915802,5915802,Tsawwassen,20 to 49 employees,Transportation and warehousing [48-49],2,,,v1919375406
+2026-01,2021A00055915802,5915802,Tsawwassen,20 to 49 employees,Transit and ground passenger transportation [485],1,,,v1919375407
+2026-01,2021A00055915802,5915802,Tsawwassen,20 to 49 employees,Warehousing and storage [493],1,,,v1919375409
+2026-01,2021A00055915802,5915802,Tsawwassen,50 to 99 employees,"Total, all industries [1]",8,,,v1919375420
+2026-01,2021A00055915802,5915802,Tsawwassen,50 to 99 employees,Transportation and warehousing [48-49],2,,,v1919375430
+2026-01,2021A00055915802,5915802,Tsawwassen,100 to 199 employees,"Total, all industries [1]",2,,,v1919375437
+2026-01,2021A00055915802,5915802,Tsawwassen,100 to 199 employees,Transportation and warehousing [48-49],1,,,v1919375442
+2026-01,2021A00055915802,5915802,Tsawwassen,200 to 499 employees,"Total, all industries [1]",1,,,v1919375445
+2026-01,2021A00055915802,5915802,Tsawwassen,500 plus employees,"Total, all industries [1]",1,,,v1919375450
+2026-01,2021A00055915802,5915802,Tsawwassen,500 plus employees,Transportation and warehousing [48-49],1,,,v1919375452
+2026-01,2021A00055915802,5915802,Tsawwassen,500 plus employees,Warehousing and storage [493],1,,,v1919375453
+2026-01,2021A00055915803,5915803,Musqueam 2,"Total, with employees","Total, all industries [1]",52,,,v1919375651
+2026-01,2021A00055915803,5915803,Musqueam 2,"Total, with employees",Construction [23],7,,,v1919375656
+2026-01,2021A00055915803,5915803,Musqueam 2,"Total, with employees",Motor vehicle and parts dealers [441],1,,,v1919375664
+2026-01,2021A00055915803,5915803,Musqueam 2,"Total, with employees",Other motor vehicle dealers [4412],1,,,v1919375665
+2026-01,2021A00055915803,5915803,Musqueam 2,1 to 4 employees,"Total, all industries [1]",36,,,v1919375562
+2026-01,2021A00055915803,5915803,Musqueam 2,1 to 4 employees,Construction [23],6,,,v1919375567
+2026-01,2021A00055915803,5915803,Musqueam 2,1 to 4 employees,Motor vehicle and parts dealers [441],1,,,v1919375573
+2026-01,2021A00055915803,5915803,Musqueam 2,1 to 4 employees,Other motor vehicle dealers [4412],1,,,v1919375574
+2026-01,2021A00055915803,5915803,Musqueam 2,5 to 9 employees,"Total, all industries [1]",9,,,v1919375605
+2026-01,2021A00055915803,5915803,Musqueam 2,20 to 49 employees,"Total, all industries [1]",3,,,v1919375624
+2026-01,2021A00055915803,5915803,Musqueam 2,20 to 49 employees,Construction [23],1,,,v1919375625
+2026-01,2021A00055915803,5915803,Musqueam 2,50 to 99 employees,"Total, all industries [1]",2,,,v1919375635
+2026-01,2021A00055915803,5915803,Musqueam 2,100 to 199 employees,"Total, all industries [1]",2,,,v1919375643
+2026-01,2021A00055915804,5915804,Coquitlam 2,"Total, with employees","Total, all industries [1]",3,,,v1919375720
+2026-01,2021A00055915804,5915804,Coquitlam 2,"Total, with employees",Construction [23],1,,,v1919375722
+2026-01,2021A00055915804,5915804,Coquitlam 2,1 to 4 employees,"Total, all industries [1]",1,,,v1919375712
+2026-01,2021A00055915804,5915804,Coquitlam 2,5 to 9 employees,"Total, all industries [1]",2,,,v1919375714
+2026-01,2021A00055915804,5915804,Coquitlam 2,5 to 9 employees,Construction [23],1,,,v1919375716
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,"Total, with employees","Total, all industries [1]",64,,,v1919375852
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,"Total, with employees",Construction [23],7,,,v1919375857
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,"Total, with employees",Transportation and warehousing [48-49],1,,,v1919375882
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,"Total, with employees",Accommodation services [721],1,,,v1919375921
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,1 to 4 employees,"Total, all industries [1]",47,,,v1919375726
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,1 to 4 employees,Construction [23],5,,,v1919375731
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,1 to 4 employees,Transportation and warehousing [48-49],1,,,v1919375755
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,5 to 9 employees,"Total, all industries [1]",6,,,v1919375798
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,10 to 19 employees,"Total, all industries [1]",4,,,v1919375816
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,20 to 49 employees,"Total, all industries [1]",5,,,v1919375828
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,20 to 49 employees,Construction [23],2,,,v1919375829
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,20 to 49 employees,Accommodation services [721],1,,,v1919375838
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,50 to 99 employees,"Total, all industries [1]",1,,,v1919375842
+2026-01,2021A00055915806,5915806,Burrard Inlet 3,200 to 499 employees,"Total, all industries [1]",1,,,v1919375847
+2026-01,2021A00055915807,5915807,Mission 1,"Total, with employees","Total, all industries [1]",21,,,v1919375984
+2026-01,2021A00055915807,5915807,Mission 1,"Total, with employees",Construction [23],1,,,v1919375986
+2026-01,2021A00055915807,5915807,Mission 1,1 to 4 employees,"Total, all industries [1]",16,,,v1919375937
+2026-01,2021A00055915807,5915807,Mission 1,5 to 9 employees,"Total, all industries [1]",2,,,v1919375963
+2026-01,2021A00055915807,5915807,Mission 1,5 to 9 employees,Construction [23],1,,,v1919375965
+2026-01,2021A00055915807,5915807,Mission 1,10 to 19 employees,"Total, all industries [1]",1,,,v1919375969
+2026-01,2021A00055915807,5915807,Mission 1,20 to 49 employees,"Total, all industries [1]",1,,,v1919375974
+2026-01,2021A00055915807,5915807,Mission 1,50 to 99 employees,"Total, all industries [1]",1,,,v1919375979
+2026-01,2021A00055915808,5915808,Capilano 5,"Total, with employees","Total, all industries [1]",226,,,v1919376301
+2026-01,2021A00055915808,5915808,Capilano 5,"Total, with employees",Construction [23],14,,,v1919376303
+2026-01,2021A00055915808,5915808,Capilano 5,"Total, with employees",Transportation and warehousing [48-49],4,,,v1919376353
+2026-01,2021A00055915808,5915808,Capilano 5,"Total, with employees",Motor vehicle and parts dealers [441],4,,,v1919376329
+2026-01,2021A00055915808,5915808,Capilano 5,"Total, with employees",Truck transportation [484],1,,,v1919376354
+2026-01,2021A00055915808,5915808,Capilano 5,"Total, with employees",Automobile dealers [4411],3,,,v1919376330
+2026-01,2021A00055915808,5915808,Capilano 5,1 to 4 employees,"Total, all industries [1]",82,,,v1919376016
+2026-01,2021A00055915808,5915808,Capilano 5,1 to 4 employees,Construction [23],7,,,v1919376018
+2026-01,2021A00055915808,5915808,Capilano 5,1 to 4 employees,Motor vehicle and parts dealers [441],1,,,v1919376041
+2026-01,2021A00055915808,5915808,Capilano 5,1 to 4 employees,Automobile dealers [4411],1,,,v1919376042
+2026-01,2021A00055915808,5915808,Capilano 5,5 to 9 employees,"Total, all industries [1]",47,,,v1919376099
+2026-01,2021A00055915808,5915808,Capilano 5,5 to 9 employees,Construction [23],3,,,v1919376101
+2026-01,2021A00055915808,5915808,Capilano 5,5 to 9 employees,Transportation and warehousing [48-49],1,,,v1919376129
+2026-01,2021A00055915808,5915808,Capilano 5,5 to 9 employees,Motor vehicle and parts dealers [441],2,,,v1919376111
+2026-01,2021A00055915808,5915808,Capilano 5,5 to 9 employees,Truck transportation [484],1,,,v1919376130
+2026-01,2021A00055915808,5915808,Capilano 5,5 to 9 employees,Automobile dealers [4411],1,,,v1919376112
+2026-01,2021A00055915808,5915808,Capilano 5,10 to 19 employees,"Total, all industries [1]",42,,,v1919376157
+2026-01,2021A00055915808,5915808,Capilano 5,10 to 19 employees,Construction [23],1,,,v1919376159
+2026-01,2021A00055915808,5915808,Capilano 5,10 to 19 employees,Motor vehicle and parts dealers [441],1,,,v1919376164
+2026-01,2021A00055915808,5915808,Capilano 5,10 to 19 employees,Automobile dealers [4411],1,,,v1919376165
+2026-01,2021A00055915808,5915808,Capilano 5,20 to 49 employees,"Total, all industries [1]",31,,,v1919376196
+2026-01,2021A00055915808,5915808,Capilano 5,20 to 49 employees,Construction [23],2,,,v1919376198
+2026-01,2021A00055915808,5915808,Capilano 5,20 to 49 employees,Transportation and warehousing [48-49],1,,,v1919376214
+2026-01,2021A00055915808,5915808,Capilano 5,50 to 99 employees,"Total, all industries [1]",15,,,v1919376245
+2026-01,2021A00055915808,5915808,Capilano 5,50 to 99 employees,Construction [23],1,,,v1919376246
+2026-01,2021A00055915808,5915808,Capilano 5,50 to 99 employees,Transportation and warehousing [48-49],2,,,v1919376259
+2026-01,2021A00055915808,5915808,Capilano 5,100 to 199 employees,"Total, all industries [1]",7,,,v1919376277
+2026-01,2021A00055915808,5915808,Capilano 5,200 to 499 employees,"Total, all industries [1]",1,,,v1919376291
+2026-01,2021A00055915808,5915808,Capilano 5,500 plus employees,"Total, all industries [1]",1,,,v1919376296
+2026-01,2021A00055915811,5915811,Seymour Creek 2,"Total, with employees","Total, all industries [1]",41,,,v1919376533
+2026-01,2021A00055915811,5915811,Seymour Creek 2,"Total, with employees",Construction [23],3,,,v1919376538
+2026-01,2021A00055915811,5915811,Seymour Creek 2,"Total, with employees",Transportation and warehousing [48-49],2,,,v1919376561
+2026-01,2021A00055915811,5915811,Seymour Creek 2,"Total, with employees",Motor vehicle and parts dealers [441],2,,,v1919376557
+2026-01,2021A00055915811,5915811,Seymour Creek 2,"Total, with employees",Accommodation services [721],1,,,v1919376581
+2026-01,2021A00055915811,5915811,Seymour Creek 2,"Total, with employees",Other motor vehicle dealers [4412],2,,,v1919376558
+2026-01,2021A00055915811,5915811,Seymour Creek 2,1 to 4 employees,"Total, all industries [1]",9,,,v1919376436
+2026-01,2021A00055915811,5915811,Seymour Creek 2,5 to 9 employees,"Total, all industries [1]",14,,,v1919376453
+2026-01,2021A00055915811,5915811,Seymour Creek 2,5 to 9 employees,Construction [23],1,,,v1919376455
+2026-01,2021A00055915811,5915811,Seymour Creek 2,5 to 9 employees,Motor vehicle and parts dealers [441],2,,,v1919376468
+2026-01,2021A00055915811,5915811,Seymour Creek 2,5 to 9 employees,Other motor vehicle dealers [4412],2,,,v1919376469
+2026-01,2021A00055915811,5915811,Seymour Creek 2,10 to 19 employees,"Total, all industries [1]",5,,,v1919376477
+2026-01,2021A00055915811,5915811,Seymour Creek 2,10 to 19 employees,Transportation and warehousing [48-49],1,,,v1919376480
+2026-01,2021A00055915811,5915811,Seymour Creek 2,20 to 49 employees,"Total, all industries [1]",9,,,v1919376491
+2026-01,2021A00055915811,5915811,Seymour Creek 2,20 to 49 employees,Construction [23],1,,,v1919376496
+2026-01,2021A00055915811,5915811,Seymour Creek 2,20 to 49 employees,Transportation and warehousing [48-49],1,,,v1919376503
+2026-01,2021A00055915811,5915811,Seymour Creek 2,20 to 49 employees,Accommodation services [721],1,,,v1919376513
+2026-01,2021A00055915811,5915811,Seymour Creek 2,50 to 99 employees,"Total, all industries [1]",2,,,v1919376515
+2026-01,2021A00055915811,5915811,Seymour Creek 2,50 to 99 employees,Construction [23],1,,,v1919376516
+2026-01,2021A00055915811,5915811,Seymour Creek 2,200 to 499 employees,"Total, all industries [1]",1,,,v1919376523
+2026-01,2021A00055915811,5915811,Seymour Creek 2,500 plus employees,"Total, all industries [1]",1,,,v1919376528
+2026-01,2021A00055915816,5915816,McMillan Island 6,"Total, with employees","Total, all industries [1]",3,,,v1919376606
+2026-01,2021A00055915816,5915816,McMillan Island 6,"Total, with employees",Construction [23],1,,,v1919376607
+2026-01,2021A00055915816,5915816,McMillan Island 6,1 to 4 employees,"Total, all industries [1]",2,,,v1919376593
+2026-01,2021A00055915816,5915816,McMillan Island 6,1 to 4 employees,Construction [23],1,,,v1919376594
+2026-01,2021A00055915816,5915816,McMillan Island 6,5 to 9 employees,"Total, all industries [1]",1,,,v1919376601
+2026-01,2021A00055915830,5915830,Katzie 1,"Total, with employees","Total, all industries [1]",5,,,v1919376640
+2026-01,2021A00055915830,5915830,Katzie 1,"Total, with employees",Transportation and warehousing [48-49],1,,,v1919376645
+2026-01,2021A00055915830,5915830,Katzie 1,"Total, with employees",Transit and ground passenger transportation [485],1,,,v1919376646
+2026-01,2021A00055915830,5915830,Katzie 1,1 to 4 employees,"Total, all industries [1]",2,,,v1919376617
+2026-01,2021A00055915830,5915830,Katzie 1,1 to 4 employees,Transportation and warehousing [48-49],1,,,v1919376619
+2026-01,2021A00055915830,5915830,Katzie 1,1 to 4 employees,Transit and ground passenger transportation [485],1,,,v1919376620
+2026-01,2021A00055915830,5915830,Katzie 1,5 to 9 employees,"Total, all industries [1]",1,,,v1919376625
+2026-01,2021A00055915830,5915830,Katzie 1,20 to 49 employees,"Total, all industries [1]",1,,,v1919376630
+2026-01,2021A00055915830,5915830,Katzie 1,50 to 99 employees,"Total, all industries [1]",1,,,v1919376635
+2026-01,2021A00055915840,5915840,Whonnock 1,"Total, with employees","Total, all industries [1]",1,,,v1919376662
+2026-01,2021A00055915840,5915840,Whonnock 1,5 to 9 employees,"Total, all industries [1]",1,,,v1919376657

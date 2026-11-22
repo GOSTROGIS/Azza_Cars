@@ -1,0 +1,59 @@
+Source: https://www.yvr.ca/-/media/yvr/documents/facts-sheets/2025/11---november/traffic-update-nov25.pdf
+Retrieved: 2026-11-22T22:47:36+00:00
+Raw SHA-256: 1183224b117dd8c7c0363ff6d97f8ae4307b81c8240cb65c19901da98dd7ee81
+Extract: text near the quoted phrases ['Total (All Sectors)', 'November 2025']
+
+November 2025
+Vancouver Airport Authority Aviation Activity and Market Highlights
+Traffic Update
+November
+2025 2024 2025 2024Enplaned & Deplaned Passengers: Change Change
+Year To Date
+981,778 1.6% 12,256,302 11,779,356 4.0%997,041- ScheduledDomestic
+0 0.0% 10,091 4,908 105.6%1,860- Charter
+981,778 1.7% 12,266,393 11,784,264 4.1%998,901Sub Total
+450,216 -13.3% 5,727,422 6,125,008 -6.5%390,214Transborder - ScheduledInt'l
+321 42.4% 2,385 2,478 -3.8%457- Charter
+450,537 -13.3% 5,729,807 6,127,486 -6.5%390,671Sub Total
+302,548 20.9% 4,052,378 3,507,133 15.5%365,919Asia Pacific - Scheduled
+0 0.0% 0 0 0.0%0- Charter
+302,548 20.9% 4,052,378 3,507,133 15.5%365,919Sub Total
+91,273 -1.5% 1,683,790 1,574,670 6.9%89,914Europe - Scheduled
+0 0.0% 0 0 0.0%0- Charter
+91,273 -1.5% 1,683,790 1,574,670 6.9%89,914Sub Total
+111,378 10.9% 959,820 945,733 1.5%123,566Misc. - Scheduled
+11,377 -100.0% 33,384 81,288 -58.9%0- Charter
+122,755 0.7% 993,204 1,027,021 -3.3%123,566Sub Total
+955,415 1.5% 12,423,410 12,152,544 2.2%969,613Total Int'l - Scheduled
+11,698 -96.1% 35,769 83,766 -57.3%457(incl. Transborder) - Charter
+967,113 0.3% 12,459,179 12,236,310 1.8%970,070Sub Total
+1,937,193 1.5% 24,679,712 23,931,900 3.1%1,966,654- ScheduledTotal (All Sectors)
+11,698 -80.2% 45,860 88,674 -48.3%2,317- Charter
+1,948,891 1.0% 24,725,572 24,020,574 2.9%1,968,971Total
+Miscellaneous Passenger Data:
+315,651 3.9% 3,746,678 3,827,942 -2.1%327,890Regionals - DTB & ITB
+12,447 -16.4% 159,190 176,269 -9.7%10,407Regionals - STB
+226,285 -12.2% 2,878,209 3,034,977 -5.2%198,596Transborder Precleared
+427 -44.5% 5,707 764 647.0%237Same Plane Transit
+Air Cargo [Tonnes]:
+12,382 5.4% 125,058 124,568 0.4%13,055Integrator/Courier Airlines
+17,467 21.2% 200,936 182,298 10.2%21,169Other Airlines
+29,849 14.7% 325,994 306,865 6.2%34,224Total
+Aircraft Movements:
+13,146 -1.4% 165,498 156,072 6.0%12,965Runway - Jets
+5,713 11.9% 74,340 76,962 -3.4%6,394- Turbo-Prop
+277 -14.8% 3,424 3,504 -2.3%236- Piston
+9 -44.4% 73 209 -65.1%5- Unknown Engine
+19,145 2.4% 243,335 236,747 2.8%19,600Sub Total
+433 29.1% 7,524 6,026 24.9%559Non-Runway - Helicopters/Others
+1,375 4.4% 24,066 24,068 0.0%1,436- Float Planes
+1,808 10.3% 31,590 30,094 5.0%1,995Sub Total
+20,953 3.1% 274,925 266,841 3.0%21,595Total Arrivals & Departures
+0 0.0% 0 0 0.0%0Through Control Zone
+0 0.0% 0 0 0.0%0Total Tonnes on Runway
+0 0.0% 0 0 0.0%0Percentage IFR % % % %
+Notes: 1. Information provided is preliminary and subject to change without notice.
+2. Sector definitions differ from those used by Statistics Canada.
+3. Passenger volumes include all passengers handled at terminals, whether revenue or non-revenue.
+4. Air cargo includes both scheduled and chartered mail and freight.
+Jan 05, 2026 09:21

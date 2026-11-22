@@ -1,0 +1,365 @@
+{
+ "tam": {
+  "year": "2024",
+  "canada_musd": 10697.9,
+  "bc_musd": 1320.2,
+  "bc_share_of_canada_pct": 12.3,
+  "bc_margin_pct": 10.7,
+  "canada_margin_pct": 13.0,
+  "bc_series": {
+   "2015": 774.6,
+   "2016": 867.1,
+   "2017": 979.3,
+   "2018": 1056.1,
+   "2019": 1108.2,
+   "2020": 868.1,
+   "2021": 1016.1,
+   "2022": 1180.2,
+   "2023": 1271.9,
+   "2024": 1320.2
+  },
+  "canada_client_mix_pct": {
+   "Total sales to all clients": 100.0,
+   "Sales to businesses": 57.3,
+   "Sales to individuals and households": 39.0,
+   "Sales to governments, not-for-profit organizations and public institutions": 2.4,
+   "Sales outside Canada (exports)": 1.3
+  },
+  "naics": "Automotive equipment rental and leasing [5321]",
+  "source": {
+   "table": "21100012",
+   "title": "Automotive equipment rental and leasing, summary statistics",
+   "page": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2110001201",
+   "wds": "https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/21100012/en",
+   "download": "https://www150.statcan.gc.ca/n1/tbl/csv/21100012-eng.zip",
+   "retrievedAt": "2026-11-22T22:47:36+00:00",
+   "rawSha256": "7af77519d55b37891074d02f5c573dfdd941e9e489708224787b4b733316f789",
+   "rawBytes": 7278,
+   "licence": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+   "extract": {
+    "path": "market/sources/statcan/21100012-canada-bc.csv",
+    "sha256": "b01d22967df3160f39bded3fca9f405f4aa04db6440a117170b43991977b5b5a",
+    "bytes": 14350
+   },
+   "metadata": {
+    "path": "market/sources/statcan/21100012-metadata.csv",
+    "sha256": "c4545cb4b5ae4447c724c55ff306e65f2f9c890f5ec0c2efd9ca6fa294db6fb7",
+    "bytes": 4684
+   }
+  },
+  "clientSource": {
+   "table": "21100014",
+   "title": "Automotive equipment rental and leasing, sales by type of client",
+   "page": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2110001401",
+   "wds": "https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/21100014/en",
+   "download": "https://www150.statcan.gc.ca/n1/tbl/csv/21100014-eng.zip",
+   "retrievedAt": "2026-11-22T22:47:36+00:00",
+   "rawSha256": "683d793dfae743e6f657e3eca5059c42ca70c58f578bcee9eb45f30b8747bc3a",
+   "rawBytes": 2537,
+   "licence": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+   "extract": {
+    "path": "market/sources/statcan/21100014-canada-bc.csv",
+    "sha256": "74b821f496881632b47aa07ce2224df323db6fff3591ef4a74c127cb650fba53",
+    "bytes": 9742
+   },
+   "metadata": {
+    "path": "market/sources/statcan/21100014-metadata.csv",
+    "sha256": "ba02e7d442210d842b0539ab6e668022c760abed8a39dd47dd689dd47a73df47",
+    "bytes": 3122
+   }
+  },
+  "six_digit_split": "not found. Table 21-10-0012 publishes NAICS 5321 only. 532111, 532112 and 532120 are not published separately in any current StatCan table listed by the WDS cube list (checked getAllCubesListLite for rental and leasing titles)."
+ },
+ "sam": {
+  "drivers": [
+   {
+    "method": "Population, 2021 Census",
+    "mv": 2642825.0,
+    "bc": 5000879.0,
+    "share": 0.5284720946057683,
+    "source": "market/sources/census/csd-profile-2021-metro-vancouver.csv and census/bc-totals-2021.csv (Statistics Canada 2021 Census Profile)",
+    "sam_musd": 697.7,
+    "share_pct": 52.8
+   },
+   {
+    "method": "Private households, 2021 Census",
+    "mv": 1043319.0,
+    "bc": 2041834.0,
+    "share": 0.5109715089473483,
+    "source": "same as above, private dwellings occupied by usual residents",
+    "sam_musd": 674.6,
+    "share_pct": 51.1
+   },
+   {
+    "method": "Business locations with employees in NAICS 5321, June 2026 edition",
+    "mv": 154,
+    "bc": 296.0,
+    "share": 0.5202702702702703,
+    "source": "market/sources/business-counts/ (Statistics Canada table 33-10-1176, REF_DATE 2026-01). BC denominator is the sum of published census subdivision values, so suppressed small places are missing from it.",
+    "sam_musd": 686.9,
+    "share_pct": 52.0
+   },
+   {
+    "method": "Tourism gross spending, Vancouver Coast and Mountains region, 2024",
+    "mv": null,
+    "bc": null,
+    "share": 0.49,
+    "source": "market/sources/web/destination-bc-vcm-profile-2026.txt (Destination BC regional profile, citing BC Stats). The region is larger than Metro Vancouver, so this is an upper bound.",
+    "sam_musd": 646.9,
+    "share_pct": 49.0
+   },
+   {
+    "method": "YVR passenger volume",
+    "mv": null,
+    "bc": null,
+    "share": null,
+    "source": "not found. A BC-wide airport passenger total to divide by was not sourced, so YVR volume is reported as context only.",
+    "sam_musd": null,
+    "share_pct": null
+   }
+  ],
+  "low_musd": 646.9,
+  "high_musd": 697.7,
+  "consumer_slice_pct": 39.0,
+  "consumer_low_musd": 252.3,
+  "consumer_high_musd": 272.1,
+  "leasing_exclusion": "not possible from the data. NAICS 5321 revenue includes passenger car leasing and is not split by product in a current published table."
+ },
+ "som": {
+  "inputs": {
+   "_note": "Owner inputs for the SOM. Every value marked owner_input_required is a placeholder to be replaced by the owner, not a sourced fact. Utilisation 0.81 in the high case is the cited Hertz full year 2025 figure.",
+   "currency": "CAD",
+   "scenarios": {
+    "low": {
+     "fleet_by_year": [
+      15,
+      25,
+      35
+     ],
+     "utilisation": 0.6,
+     "adr_cad": 60,
+     "status": {
+      "fleet_by_year": "owner_input_required",
+      "utilisation": "owner_input_required",
+      "adr_cad": "owner_input_required"
+     }
+    },
+    "base": {
+     "fleet_by_year": [
+      25,
+      45,
+      70
+     ],
+     "utilisation": 0.7,
+     "adr_cad": 75,
+     "status": {
+      "fleet_by_year": "owner_input_required",
+      "utilisation": "owner_input_required",
+      "adr_cad": "owner_input_required"
+     }
+    },
+    "high": {
+     "fleet_by_year": [
+      40,
+      80,
+      120
+     ],
+     "utilisation": 0.81,
+     "adr_cad": 90,
+     "status": {
+      "fleet_by_year": "owner_input_required",
+      "utilisation": "cited: Hertz Global full year 2025 company-wide utilisation, market/sources/web/hertz-q4-2025-results.txt",
+      "adr_cad": "owner_input_required"
+     }
+    }
+   },
+   "sensitivity": {
+    "utilisation": [
+     0.5,
+     0.6,
+     0.7,
+     0.81
+    ],
+    "adr_cad": [
+     50,
+     60,
+     75,
+     90,
+     110
+    ]
+   }
+  },
+  "utilisation_benchmark": {
+   "value": 0.81,
+   "what": "Hertz Global, company-wide vehicle utilisation, full year 2025",
+   "source": "market/sources/web/hertz-q4-2025-results.txt"
+  },
+  "scenarios": {
+   "low": {
+    "fleet_by_year": [
+     15,
+     25,
+     35
+    ],
+    "utilisation": 0.6,
+    "adr_cad": 60,
+    "status": {
+     "fleet_by_year": "owner_input_required",
+     "utilisation": "owner_input_required",
+     "adr_cad": "owner_input_required"
+    },
+    "years": [
+     {
+      "year": 1,
+      "fleet": 15,
+      "vehicle_days": 3285,
+      "revenue_cad": 197100,
+      "share_of_sam_low_pct": 0.028,
+      "share_of_sam_high_pct": 0.03
+     },
+     {
+      "year": 2,
+      "fleet": 25,
+      "vehicle_days": 5475,
+      "revenue_cad": 328500,
+      "share_of_sam_low_pct": 0.047,
+      "share_of_sam_high_pct": 0.051
+     },
+     {
+      "year": 3,
+      "fleet": 35,
+      "vehicle_days": 7665,
+      "revenue_cad": 459900,
+      "share_of_sam_low_pct": 0.066,
+      "share_of_sam_high_pct": 0.071
+     }
+    ]
+   },
+   "base": {
+    "fleet_by_year": [
+     25,
+     45,
+     70
+    ],
+    "utilisation": 0.7,
+    "adr_cad": 75,
+    "status": {
+     "fleet_by_year": "owner_input_required",
+     "utilisation": "owner_input_required",
+     "adr_cad": "owner_input_required"
+    },
+    "years": [
+     {
+      "year": 1,
+      "fleet": 25,
+      "vehicle_days": 6388,
+      "revenue_cad": 479062,
+      "share_of_sam_low_pct": 0.069,
+      "share_of_sam_high_pct": 0.074
+     },
+     {
+      "year": 2,
+      "fleet": 45,
+      "vehicle_days": 11498,
+      "revenue_cad": 862312,
+      "share_of_sam_low_pct": 0.124,
+      "share_of_sam_high_pct": 0.133
+     },
+     {
+      "year": 3,
+      "fleet": 70,
+      "vehicle_days": 17885,
+      "revenue_cad": 1341375,
+      "share_of_sam_low_pct": 0.192,
+      "share_of_sam_high_pct": 0.207
+     }
+    ]
+   },
+   "high": {
+    "fleet_by_year": [
+     40,
+     80,
+     120
+    ],
+    "utilisation": 0.81,
+    "adr_cad": 90,
+    "status": {
+     "fleet_by_year": "owner_input_required",
+     "utilisation": "cited: Hertz Global full year 2025 company-wide utilisation, market/sources/web/hertz-q4-2025-results.txt",
+     "adr_cad": "owner_input_required"
+    },
+    "years": [
+     {
+      "year": 1,
+      "fleet": 40,
+      "vehicle_days": 11826,
+      "revenue_cad": 1064340,
+      "share_of_sam_low_pct": 0.153,
+      "share_of_sam_high_pct": 0.165
+     },
+     {
+      "year": 2,
+      "fleet": 80,
+      "vehicle_days": 23652,
+      "revenue_cad": 2128680,
+      "share_of_sam_low_pct": 0.305,
+      "share_of_sam_high_pct": 0.329
+     },
+     {
+      "year": 3,
+      "fleet": 120,
+      "vehicle_days": 35478,
+      "revenue_cad": 3193020,
+      "share_of_sam_low_pct": 0.458,
+      "share_of_sam_high_pct": 0.494
+     }
+    ]
+   }
+  },
+  "sensitivity": {
+   "utilisation": [
+    0.5,
+    0.6,
+    0.7,
+    0.81
+   ],
+   "adr_cad": [
+    50,
+    60,
+    75,
+    90,
+    110
+   ],
+   "revenue_per_vehicle_year_cad": [
+    [
+     9125,
+     10950,
+     13688,
+     16425,
+     20075
+    ],
+    [
+     10950,
+     13140,
+     16425,
+     19710,
+     24090
+    ],
+    [
+     12775,
+     15330,
+     19162,
+     22995,
+     28105
+    ],
+    [
+     14783,
+     17739,
+     22174,
+     26609,
+     32522
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,10 @@
+Source: https://www.avisbudgetgroup.com/home/news-and-media/press-release/avis-budget-group-reports-fourth-quarter-and-full-year-results
+Retrieved: 2026-11-22T22:47:40+00:00
+Raw SHA-256: d862e6e67fd7e78fd3562602092c6d0b312ce4eb3013487ff5ab3e07e7a30db7
+Extract: text near the quoted phrases ['revenue per day, excluding exchange rate effects, down 2%']
+
+6, we’ve repositioned the business and turned a challenging fourth quarter into a catalyst for meaningful change,” said Brian Choi, Avis Budget Group CEO. “We are tightening fleet discipline, strengthening our balance sheet, and raising the bar on customer experience to drive sustainable earnings growth.”</p>\r\n<p>Q4 OPERATIONAL HIGHLIGHTS</p>\r\n<ul>\r\n<li>Revenues were $2.7&nbsp;billion, with revenue per day, excluding exchange rate effects, down 2%, and rental days, down 1%, as compared to fourth quarter 2024.</li>\r\n<li>Adjusted EBITDA in the Americas was $1&nbsp;million compared to a loss of $63&nbsp;million in the same period last year, driven by lower fleet costs, partially offset by a decrease in revenue per day.</li>\r\n<li>Adjusted EBITDA in International was $21&nbsp;million compared to a loss of $11&nbsp;million in the same period
+
+...
+
+with this change. “As we enter 2026, we’ve repositioned the business and turned a challenging fourth quarter into a catalyst for meaningful change,” said Brian Choi, Avis Budget Group CEO. “We are tightening fleet discipline, strengthening our balance sheet, and raising the bar on customer experience to drive sustainable earnings growth.” Q4 OPERATIONAL HIGHLIGHTS Revenues were $2.7 billion, with revenue per day, excluding exchange rate effects, down 2%, and rental days, down 1%, as compared to fourth quarter 2024. Adjusted EBITDA in the Americas was $1 million compared to a loss of $63 million in the same period last year, driven by lower fleet costs, partially offset by a decrease in revenue per day. Adjusted EBITDA in International was $21 million compared to a loss of $11 million in the same period last year, driven by stronger revenue per d

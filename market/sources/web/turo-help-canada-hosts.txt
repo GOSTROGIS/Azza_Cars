@@ -1,0 +1,26 @@
+Source: https://help.turo.com/en_us/sharing-your-car-canada-hosts-S1uY7_OIc.md
+Retrieved: 2026-11-22T22:47:38+00:00
+Raw SHA-256: 7ad86a6746f291494ed4622fd950f08d4192bd21ccb652cde4be908634bd6340
+Extract: text near the quoted phrases ['British Columbia', 'Permits policyholders to list their vehicles on Turo']
+
+# Sharing your car | Canada hosts > To participate in our marketplace you must Be located in Alberta British Columbia New Brunswick Newfoundland and Labrador Nova Scotia Ontario Source: https://help.turo.com/en_us/sharing-your-car-canada-hosts-S1uY7_OIc Last updated: 2026-04-28T23:14:11.264Z ## Eligibility To participate in our marketplace, Canada hosts must: * Be located in Alberta, British Columbia, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, or the Yukon. * Ge
+
+...
+
+# Sharing your car | Canada hosts > To participate in our marketplace you must Be located in Alberta British Columbia New Brunswick Newfoundland and Labrador Nova Scotia Ontario Source: https://help.turo.com/en_us/sharing-your-car-canada-hosts-S1uY7_OIc Last updated: 2026-04-28T23:14:11.264Z ## Eligibility To participate in our marketplace, Canada hosts must: * Be located in Alberta, British Columbia, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, or the Yukon. * Get insurer approval to list your vehicle; if you don’t, they may void your policy, and you’ll be unable to get a new one * Check the terms of the contract with the lienholder if sharing a vehicle with a lien against it to ensure listing on Turo doesn’t violate the contract terms **Note:
+
+...
+
+eir vehicles on Turo, provided that they first notify their insurer. * **Industrial Alliance Auto and Home Insurance** (“IAAH”)**:** Permits policyholders — except for those who have a telematics device (Mobiliz program) — to list and share their vehicle on Turo, as long as they first notify IAAH at 1-800-463-4382. Read [more information](https://ia.ca/car-insurance). * **Insurance Corporation of British Columbia (ICBC):** Permits policyholders to list their vehicles on Turo. Since Turo has Basic Blanket Insurance with ICBC, you don’t need to visit your broker until your next renewal date. At this time, you may be asked if you are renting your vehicle via a peer-to-peer platform so it can be declared on the policy. Read [more information](https://www.icbc.com/insurance/commercial/Pages/peer-to-peer-vehicl
+
+...
+
+ their vehicles on Turo, provided that they first notify their insurer. * **The Personal****:** Permits its policyholders to list their vehicles on Turo, provided that they first notify their insurer. * **Wawanesa:** Permits its policyholders in Ontario and New Brunswick to list their vehicles on Turo, provided that they first notify their insurer. ## Additional insurance information for hosts in British Columbia * You can list your vehicle without contacting your insurance broker; Turo has both Basic and Optional Blanket coverage through ICBC * When you renew, your broker may ask if you’re sharing your vehicle on Turo to declare it on your policy, but your insurance premiums shouldn’t go up * If your personal auto insurance policy offers more than $2,000,000 in liability coverage, talk to your broker abo
+
+...
+
+nt to the host’s personal policy authorizing the use of Turo by the vehicle host. A fee and certain conditions apply. * **belairdirect:** Permits policyholders to list and share their vehicles on Turo, provided they notify belairdirect by calling 1-844-308-8237. More information [here](http://www.belairdirect.com/en/partnerships/turo.html). * **Beneva (previously La Capitale and SSQ Insurance):** Permits policyholders to list their vehicles on Turo as long as they notify them. The agent will add an endorsement to the host’s personal policy authorizing the use of Turo by the vehicle host, at no additional cost for the host. Read [more information](https://www.beneva.ca/en). * **Desjardins Insurance:** Desjardins Insurance direct network and Desjardins Insurance Agent network permit policyholders to list their vehicles on Turo, provided they 
+
+...
+
+ded that they first notify their insurer. * **Industrial Alliance Auto and Home Insurance** (“IAAH”)**:** Permits policyholders — except for those who have a telematics device (Mobiliz program) — to list and share their vehicle on Turo, as long as they first notify IAAH at 1-800-463-4382. Read [more information](https://ia.ca/car-insurance). * **Insurance Corporation of British Columbia (ICBC):** Permits policyholders to list their vehicles on Turo. Since Turo has Basic Blanket Insurance with ICBC, you don’t need to visit your broker until your next renewal date. At this time, you may be asked if you are renting your vehicle via a peer-to-peer platform so it can be declared on the policy. Read [more information](https://www.icbc.com/insurance/commercial/Pages/peer-to-peer-vehicle-rental.aspx). * **Intact Insurance, Jevco (Ontario):** Permit

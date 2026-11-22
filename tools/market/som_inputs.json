@@ -1,0 +1,10 @@
+{
+ "_note": "Owner inputs for the SOM. Every value marked owner_input_required is a placeholder to be replaced by the owner, not a sourced fact. Utilisation 0.81 in the high case is the cited Hertz full year 2025 figure.",
+ "currency": "CAD",
+ "scenarios": {
+  "low": {"fleet_by_year": [15, 25, 35], "utilisation": 0.60, "adr_cad": 60, "status": {"fleet_by_year": "owner_input_required", "utilisation": "owner_input_required", "adr_cad": "owner_input_required"}},
+  "base": {"fleet_by_year": [25, 45, 70], "utilisation": 0.70, "adr_cad": 75, "status": {"fleet_by_year": "owner_input_required", "utilisation": "owner_input_required", "adr_cad": "owner_input_required"}},
+  "high": {"fleet_by_year": [40, 80, 120], "utilisation": 0.81, "adr_cad": 90, "status": {"fleet_by_year": "owner_input_required", "utilisation": "cited: Hertz Global full year 2025 company-wide utilisation, market/sources/web/hertz-q4-2025-results.txt", "adr_cad": "owner_input_required"}}
+ },
+ "sensitivity": {"utilisation": [0.5, 0.6, 0.7, 0.81], "adr_cad": [50, 60, 75, 90, 110]}
+}

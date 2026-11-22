@@ -1,0 +1,10 @@
+Source: https://newsroom.hertz.com/press-releases/press-release-details/hertz-transformation-drives-structural-revenue-gains-and-builds-sustainable-momentum/
+Retrieved: 2026-11-22T22:47:40+00:00
+Raw SHA-256: 96a69c8dfec0dc3c2d5538901033a7b619474c1a9007c2e59b9720b8d828c335
+Extract: text near the quoted phrases ['averaged 81% for the full year', 'Depreciation per Unit per Month (DPU) was $330 in Q4 and $300 for the full year']
+
+TDA for Q4 was $(205) million, an improvement of approximately $150 million year-over-year. This includes more than $100 million impact from several transitory headwinds. Full year Adjusted Corporate EBITDA was $(339) million, an improvement of more than $1 billion year over year as revenue optimization, utilization gains, and cost controls took hold. Utilization was 78% in the fourth quarter and averaged 81% for the full year, a year-over-year improvement of 200 basis points, driving improved RPU. Depreciation per Unit per Month (DPU) was $330 in Q4 and $300 for the full year, representing a year-over-year improvement of 44%, supported by disciplined fleet rotation. Depreciation was weighed down by an approximately $60 million non-cash charge driven by a revised third party forecast of residual values. Q4 adjusted Dir
+
+...
+
+s more than $100 million impact from several transitory headwinds. Full year Adjusted Corporate EBITDA was $(339) million, an improvement of more than $1 billion year over year as revenue optimization, utilization gains, and cost controls took hold. Utilization was 78% in the fourth quarter and averaged 81% for the full year, a year-over-year improvement of 200 basis points, driving improved RPU. Depreciation per Unit per Month (DPU) was $330 in Q4 and $300 for the full year, representing a year-over-year improvement of 44%, supported by disciplined fleet rotation. Depreciation was weighed down by an approximately $60 million non-cash charge driven by a revised third party forecast of residual values. Q4 adjusted Direct Operating Expense (DOE) per transaction day improved by 6% year over year through rigorous cost control and operational discipline. DOE declined 3% y

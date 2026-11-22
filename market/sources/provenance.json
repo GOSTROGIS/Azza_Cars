@@ -1,0 +1,463 @@
+{
+ "generatedAt": "2026-11-22T22:47:26+00:00",
+ "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+ "web": [
+  {
+   "id": "yvr-traffic-2025-11",
+   "url": "https://www.yvr.ca/-/media/yvr/documents/facts-sheets/2025/11---november/traffic-update-nov25.pdf",
+   "retrievedAt": "2026-11-22T22:47:36+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "1183224b117dd8c7c0363ff6d97f8ae4307b81c8240cb65c19901da98dd7ee81",
+   "rawBytes": 136010,
+   "phrases": [
+    "Total (All Sectors)",
+    "November 2025"
+   ],
+   "extract": {
+    "path": "market/sources/web/yvr-traffic-2025-11.txt",
+    "sha256": "7328f75b201f1898426b023d4295192de28a2500b534590654ac98d0b3d40c52",
+    "bytes": 3035
+   }
+  },
+  {
+   "id": "dailyhive-yvr-2025",
+   "url": "https://dailyhive.com/vancouver/vancouver-international-airport-yvr-all-time-passenger-record-2025-statistics",
+   "retrievedAt": "2026-11-22T22:47:36+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "d7af8a6ee6adbdcd6eaa4b1731c9e8925f0dc0a19460ee490be2284f9e3c96fc",
+   "rawBytes": 81230,
+   "phrases": [
+    "26.914 million passengers",
+    "73,736 passengers"
+   ],
+   "extract": {
+    "path": "market/sources/web/dailyhive-yvr-2025.txt",
+    "sha256": "f136258931ff8184d27c5954d5e1cc5a6fddec65f0007166da88217444309083",
+    "bytes": 1987
+   }
+  },
+  {
+   "id": "dailyhive-cruise-2025",
+   "url": "https://dailyhive.com/vancouver/vancouver-cruise-ship-season-2025-statistics",
+   "retrievedAt": "2026-11-22T22:47:37+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "3d2263630452e52c16032c1f10e0f78c9bcfcaf9a4b22c671ac4460452502270",
+   "rawBytes": 73095,
+   "phrases": [
+    "1.2 million passengers on 301 cruise ship visits"
+   ],
+   "extract": {
+    "path": "market/sources/web/dailyhive-cruise-2025.txt",
+    "sha256": "7e4c3bd9d799f47c7be6b54edd6e50d20e0ad1ac72d34c84fd16b8370042bc35",
+    "bytes": 1141
+   }
+  },
+  {
+   "id": "destination-vancouver-fast-facts",
+   "url": "https://www.destinationvancouver.com/vancouver/fast-facts/",
+   "retrievedAt": "2026-11-22T22:47:37+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "173c959c81e6e41e37dd17360c59e7888082517de8a9ec8d474e03ff2b5be3c3",
+   "rawBytes": 1341669,
+   "phrases": [
+    "11.3M Overnight visitors 2025"
+   ],
+   "extract": {
+    "path": "market/sources/web/destination-vancouver-fast-facts.txt",
+    "sha256": "a6ae7222d63d00e02deec90dc9a71e255bd8741b94acf9cc9193ede8127e6713",
+    "bytes": 1085
+   }
+  },
+  {
+   "id": "dailyhive-modo-1000",
+   "url": "https://dailyhive.com/vancouver/modo-carshare-fleet-size",
+   "retrievedAt": "2026-11-22T22:47:38+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "60a39f2ab87855092daa02e22aa72faec819a2a4617f0eeb9639e020808491a4",
+   "rawBytes": 51679,
+   "phrases": [
+    "fleet size of 1,000 vehicles",
+    "roughly 2,300 vehicles"
+   ],
+   "extract": {
+    "path": "market/sources/web/dailyhive-modo-1000.txt",
+    "sha256": "55056a3c00e7106e3b564cd0c2ae45baa83d7f21f0f806c1f654e40a2e707636",
+    "bytes": 1881
+   }
+  },
+  {
+   "id": "modo-impact",
+   "url": "https://www.modo.coop/our-impact",
+   "retrievedAt": "2026-11-22T22:47:38+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "b797c24c876225fd1320580a57e1795f31b0988b180f1056eb6e2d2b2b5eb746",
+   "rawBytes": 24788,
+   "phrases": [
+    "1 in 5 vehicles are electric"
+   ],
+   "extract": {
+    "path": "market/sources/web/modo-impact.txt",
+    "sha256": "27cf762ee84bdf92833ba32ee14684b2483eb19b295bd9a5d57e6423110474b0",
+    "bytes": 1057
+   }
+  },
+  {
+   "id": "turo-help-canada-hosts",
+   "url": "https://help.turo.com/en_us/sharing-your-car-canada-hosts-S1uY7_OIc.md",
+   "retrievedAt": "2026-11-22T22:47:38+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "7ad86a6746f291494ed4622fd950f08d4192bd21ccb652cde4be908634bd6340",
+   "rawBytes": 7358,
+   "phrases": [
+    "British Columbia",
+    "Permits policyholders to list their vehicles on Turo"
+   ],
+   "extract": {
+    "path": "market/sources/web/turo-help-canada-hosts.txt",
+    "sha256": "eb53195fb1f38ef47bf5e3534def03d1a5dd4b4fc644227e684ee61cae66b6a7",
+    "bytes": 5036
+   }
+  },
+  {
+   "id": "destination-bc-vcm-profile-2026",
+   "url": "https://www.destinationbc.ca/content/uploads/2026/08/DBC-Regional-Profile-VCM-2026.pdf",
+   "retrievedAt": "2026-11-22T22:47:38+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "12e10feefadd315bae8805d31e8610eec230c3f5f53f06a9729b2d00b27dffc4",
+   "rawBytes": 1843688,
+   "phrases": [
+    "49% of BC",
+    "62.5%"
+   ],
+   "extract": {
+    "path": "market/sources/web/destination-bc-vcm-profile-2026.txt",
+    "sha256": "f0269d4bd0e3b2254dee87f7faaf56d3790056e2bd1930e91834e83929006503",
+    "bytes": 14542
+   }
+  },
+  {
+   "id": "hertz-q4-2025-results",
+   "url": "https://newsroom.hertz.com/press-releases/press-release-details/hertz-transformation-drives-structural-revenue-gains-and-builds-sustainable-momentum/",
+   "retrievedAt": "2026-11-22T22:47:40+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "96a69c8dfec0dc3c2d5538901033a7b619474c1a9007c2e59b9720b8d828c335",
+   "rawBytes": 238918,
+   "phrases": [
+    "averaged 81% for the full year",
+    "Depreciation per Unit per Month (DPU) was $330 in Q4 and $300 for the full year"
+   ],
+   "extract": {
+    "path": "market/sources/web/hertz-q4-2025-results.txt",
+    "sha256": "2534f66e13274753ce5c90801d6c5ea3e911bbedaacf52ccdeb4648d4583ba30",
+    "bytes": 2147
+   }
+  },
+  {
+   "id": "avis-budget-q4-2025-results",
+   "url": "https://www.avisbudgetgroup.com/home/news-and-media/press-release/avis-budget-group-reports-fourth-quarter-and-full-year-results",
+   "retrievedAt": "2026-11-22T22:47:40+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "retrieved",
+   "rawSha256": "d862e6e67fd7e78fd3562602092c6d0b312ce4eb3013487ff5ab3e07e7a30db7",
+   "rawBytes": 70601,
+   "phrases": [
+    "revenue per day, excluding exchange rate effects, down 2%"
+   ],
+   "extract": {
+    "path": "market/sources/web/avis-budget-q4-2025-results.txt",
+    "sha256": "d9c0cec3382bb0fd6ac23521126d9336b00d9e2805987c80340a15e84808cd4f",
+    "bytes": 2093
+   }
+  },
+  {
+   "id": "vancouver-transportation-snapshot-2025",
+   "url": "https://vancouver.ca/files/cov/2025-transportation-snapshot.pdf",
+   "retrievedAt": "2026-11-22T22:47:40+00:00",
+   "userAgent": "Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)",
+   "status": "not retrieved",
+   "error": "HTTP Error 403: Forbidden"
+  }
+ ],
+ "boundaries": {
+  "from": "/home/user/consulting/data/ca/bc/metro-vancouver/boundaries/members.geojson",
+  "sha256": "2a10ac9a40ee05488a82e8f8a639c2377e293d8f812b9febff6804acfc9897d3",
+  "extract": {
+   "path": "market/sources/boundaries/members.geojson",
+   "sha256": "2a10ac9a40ee05488a82e8f8a639c2377e293d8f812b9febff6804acfc9897d3",
+   "bytes": 1600157
+  },
+  "region": {
+   "path": "market/sources/boundaries/region.geojson",
+   "sha256": "08d095f0c1fd00c7317ca1aa3c7bb1f7589282bdc7ff31f5eaf12c38fe85f3a1",
+   "bytes": 80826
+  },
+  "upstreamLicence": {
+   "name": "Open Government Licence - British Columbia",
+   "url": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+  },
+  "upstreamSources": 23,
+  "upstreamFirstCapture": "2026-10-26T08:22:38.785229+00:00",
+  "upstreamLastCapture": "2026-10-26T12:02:43.686820+00:00",
+  "upstreamExample": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37165&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+  "provenance": {
+   "path": "market/sources/boundaries/provenance.json",
+   "sha256": "423cd8d0abc0447ab0584d2f78368cc2782a9842a5c85769da4ccb9a09399502",
+   "bytes": 16278
+  }
+ },
+ "census": {
+  "from": "/home/user/consulting/data/ca/census/csd-profile-2021-bc-ab.geojson",
+  "sha256": "1458ba509f748e0e75e9252f8f22f6036ab79b8a4ce446b2c813e14caaa16c24",
+  "metadataSha256": "6b7c131806bb006d3d42f857a2b6d269a04ffecd0dcab1ed6435b96fa3dff54d",
+  "upstreamRetrievedAt": "2026-10-27T13:34:54+00:00",
+  "upstream": "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.{CSD codes}.1..1?format=csv",
+  "licence": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+  "labels": {
+   "population_2021": "Population, 2021",
+   "population_2016": "Population, 2016",
+   "private_dwellings": "Total private dwellings",
+   "occupied_private_dwellings": "Private dwellings occupied by usual residents",
+   "land_area_km2": "Land area in square kilometres",
+   "median_household_income_2020": "Median total income of household in 2020 ($)",
+   "households_by_tenure_total": "Total - Private households by tenure - 25% sample data",
+   "renter_households": "Renter",
+   "commute_mode_total": "Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data",
+   "commute_public_transit": "Public transit"
+  },
+  "extract": {
+   "path": "market/sources/census/csd-profile-2021-metro-vancouver.csv",
+   "sha256": "dd6b88d97e138a8bb3394401f2abc650f8c66071b9cfb82e989501a7f4b76376",
+   "bytes": 3355
+  },
+  "bcTotals": {
+   "path": "market/sources/census/bc-totals-2021.csv",
+   "sha256": "1fa3d5dd57a7daffe91e4245dd700d5eef06c5924871549135f4ef2b94ffdf18",
+   "bytes": 342
+  }
+ },
+ "businessCounts": {
+  "from": "/home/user/consulting/data/ca/census/business-counts-bc-ab/business-counts-2026-06.csv.gz",
+  "sha256": "b3119eb9cb06178d2ea1837c2ac609bc014672e2cb2745fdb4806f30c075d586",
+  "upstreamTable": 33101176,
+  "upstreamDownload": "https://www150.statcan.gc.ca/n1/tbl/csv/33101176-eng.zip",
+  "upstreamSha256": "10940a0fb569fd5c02ac7e16290101b9c28b27b5eda08515c9b505a5cf701ca7",
+  "upstreamRetrievedAt": "2026-10-27T13:34:54+00:00",
+  "title": "Canadian Business Counts, with employees, census metropolitan areas and census subdivisions, June 2026",
+  "refDate": "2026-01 as published in REF_DATE",
+  "codes": [
+   "1",
+   "23",
+   "441",
+   "4411",
+   "4412",
+   "48-49",
+   "484",
+   "485",
+   "4853",
+   "4885",
+   "493",
+   "532",
+   "5321",
+   "5324",
+   "721"
+  ],
+  "licence": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+  "note": "Six-digit NAICS (532111, 532112, 532120) are not published at census subdivision level in this table, the finest rental code is 5321.",
+  "extract": {
+   "path": "market/sources/business-counts/business-counts-2026-metro-vancouver.csv",
+   "sha256": "5c77844b81f58f5b906301c5262dbedd6b396581db1c5ea1c705e130d3d86bcf",
+   "bytes": 176507
+  },
+  "bcSums": {
+   "path": "market/sources/business-counts/business-counts-2026-bc-sums.csv",
+   "sha256": "c35f4558bd5f43d74b2c54334523d7be2981b85400d6248dd7e2e0fb3f3dc1ab",
+   "bytes": 172
+  }
+ },
+ "alltheplaces": {
+  "from": "/home/user/consulting/data/intl/alltheplaces/chains/chains-bc.csv.gz",
+  "sha256": "806354ef419a003ed487e24b67e118181483c894f72cbd0e1895c4d540803847",
+  "runId": "2026-11-14-13-32-33",
+  "runUrl": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33",
+  "manifestCheckedAt": "2026-11-22T03:21:22+00:00",
+  "licence": "CC0-1.0 (AllThePlaces output), brand locator data",
+  "filter": "amenity car_rental, truck_rental or car_sharing, or shop car or truck, inside the search window",
+  "rows": 195,
+  "extract": {
+   "path": "market/sources/alltheplaces/chains-bc-vehicle-metro-vancouver.csv",
+   "sha256": "cbe2b5676597339ccd5f904628ae586fc5a8dc0997bac2f9613b9747349f9eb6",
+   "bytes": 87528
+  },
+  "spiderOutputs": [
+   {
+    "spider": "uhaul",
+    "url": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33/output/uhaul.geojson",
+    "retrievedAt": "2026-11-22T22:47:26+00:00",
+    "rawSha256": "82efbf9e876478a3d51803d7e0b2750bd7a862b34cead4bc6ea80f77a10d601e",
+    "features": 9096,
+    "canadianInWindow": 0
+   },
+   {
+    "spider": "avis",
+    "url": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33/output/avis.geojson",
+    "retrievedAt": "2026-11-22T22:47:27+00:00",
+    "rawSha256": "33066cb9de8b615c462795b5dca4ae392cc377e16ab3e8c869d8513e170cc48f",
+    "features": 2277,
+    "canadianInWindow": 0
+   },
+   {
+    "spider": "penske",
+    "url": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33/output/penske.geojson",
+    "retrievedAt": "2026-11-22T22:47:27+00:00",
+    "rawSha256": "20b45195d03679dbf2ec4ce751f1a84d5a54d6741ca27191501561f39a84b8e2",
+    "features": 1740,
+    "canadianInWindow": 0
+   },
+   {
+    "spider": "budget",
+    "url": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33/output/budget.geojson",
+    "retrievedAt": "2026-11-22T22:47:27+00:00",
+    "status": "HTTP Error 404: Not Found"
+   },
+   {
+    "spider": "thrifty",
+    "url": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33/output/thrifty.geojson",
+    "retrievedAt": "2026-11-22T22:47:28+00:00",
+    "status": "HTTP Error 404: Not Found"
+   },
+   {
+    "spider": "dollar",
+    "url": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33/output/dollar.geojson",
+    "retrievedAt": "2026-11-22T22:47:28+00:00",
+    "status": "HTTP Error 404: Not Found"
+   },
+   {
+    "spider": "zipcar",
+    "url": "https://alltheplaces-data.openaddresses.io/runs/2026-11-14-13-32-33/output/zipcar.geojson",
+    "retrievedAt": "2026-11-22T22:47:28+00:00",
+    "status": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ "overture": {
+  "release": "2026-11-18.0",
+  "stacCatalog": "https://stac.overturemaps.org/catalog.json",
+  "itemIndex": "https://stac.overturemaps.org/2026-11-18.0/collections.parquet",
+  "itemIndexSha256": "1291c9621e79c3fa65a029621ce2474fb235dbcc10aa18e7a7f323dff3f10b1c",
+  "retrievedAt": "2026-11-22T22:47:29+00:00",
+  "files": [
+   {
+    "id": "00002",
+    "url": "https://overturemaps-us-west-2.s3.us-west-2.amazonaws.com/release/2026-11-18.0/theme=places/type=place/part-00002-5783d80c-d44a-5845-9057-3a39013540b0-c000.zstd.parquet",
+    "bytes": 836166912,
+    "etag": "\"4deda9314cbe9252124f6c0967072f1a-13\"",
+    "lastModified": "Wed, 18 Nov 2026 17:01:59 GMT"
+   }
+  ],
+  "bbox": [
+   -123.45,
+   48.98,
+   -122.2,
+   49.6
+  ],
+  "categories": [
+   "auto_dealer",
+   "auto_leasing",
+   "car_rental_service",
+   "car_sharing",
+   "commercial_vehicle_dealer",
+   "rental_service",
+   "rv_rental_service",
+   "trailer_rental_service",
+   "truck_dealer",
+   "truck_rental_service",
+   "used_auto_dealer"
+  ],
+  "anchors": [
+   [
+    "Vancouver International Airport",
+    "airport"
+   ],
+   [
+    "Port of Vancouver Cruise Ship Terminal",
+    "travel_and_transportation"
+   ]
+  ],
+  "licence": "CDLA-Permissive-2.0 (https://cdla.dev/permissive-2-0/), per-source licences in the sources field",
+  "note": "The source GeoParquet file is read by HTTP range requests and never downloaded whole, so it is identified by its S3 ETag and size. The SHA-256 is of the archived extract.",
+  "extract": {
+   "path": "market/sources/overture/places-2026-11-18.0-metro-vancouver.geojson",
+   "sha256": "daf6c4f8ae6abe7469367102acff1d8e532cc465118cbeff22f37eb7a2bbfe72",
+   "bytes": 975246
+  },
+  "features": 1787
+ },
+ "translink": {
+  "url": "https://gtfs-static.translink.ca/gtfs/google_transit.zip",
+  "retrievedAt": "2026-11-22T22:47:33+00:00",
+  "rawSha256": "57ed32faf8941ad5ae5a62daf70c0402ffb7387b235186ceccbce2027177b3a2",
+  "rawBytes": 16194078,
+  "feedInfo": "feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version\r\nTransLink,https://www.translink.ca,en,20260907,20270103,26SEP_20261120",
+  "licence": "TransLink Open Data terms (https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs/gtfs-data)",
+  "filter": "stops served by route_type 1 (SkyTrain), 2 (West Coast Express) or 4 (SeaBus), rolled up to parent stations",
+  "extract": {
+   "path": "market/sources/translink/rapid-transit-stations.csv",
+   "sha256": "525595be04c92f05dc0f2bbacdd30e0ba1f1a41ff96eff90eb2a303501a95046",
+   "bytes": 4404
+  },
+  "stations": 65
+ },
+ "statcan": [
+  {
+   "table": "21100012",
+   "title": "Automotive equipment rental and leasing, summary statistics",
+   "page": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2110001201",
+   "wds": "https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/21100012/en",
+   "download": "https://www150.statcan.gc.ca/n1/tbl/csv/21100012-eng.zip",
+   "retrievedAt": "2026-11-22T22:47:36+00:00",
+   "rawSha256": "7af77519d55b37891074d02f5c573dfdd941e9e489708224787b4b733316f789",
+   "rawBytes": 7278,
+   "licence": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+   "extract": {
+    "path": "market/sources/statcan/21100012-canada-bc.csv",
+    "sha256": "b01d22967df3160f39bded3fca9f405f4aa04db6440a117170b43991977b5b5a",
+    "bytes": 14350
+   },
+   "metadata": {
+    "path": "market/sources/statcan/21100012-metadata.csv",
+    "sha256": "c4545cb4b5ae4447c724c55ff306e65f2f9c890f5ec0c2efd9ca6fa294db6fb7",
+    "bytes": 4684
+   }
+  },
+  {
+   "table": "21100014",
+   "title": "Automotive equipment rental and leasing, sales by type of client",
+   "page": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2110001401",
+   "wds": "https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/21100014/en",
+   "download": "https://www150.statcan.gc.ca/n1/tbl/csv/21100014-eng.zip",
+   "retrievedAt": "2026-11-22T22:47:36+00:00",
+   "rawSha256": "683d793dfae743e6f657e3eca5059c42ca70c58f578bcee9eb45f30b8747bc3a",
+   "rawBytes": 2537,
+   "licence": "https://www.statcan.gc.ca/en/terms-conditions/open-licence",
+   "extract": {
+    "path": "market/sources/statcan/21100014-canada-bc.csv",
+    "sha256": "74b821f496881632b47aa07ce2224df323db6fff3591ef4a74c127cb650fba53",
+    "bytes": 9742
+   },
+   "metadata": {
+    "path": "market/sources/statcan/21100014-metadata.csv",
+    "sha256": "ba02e7d442210d842b0539ab6e668022c760abed8a39dd47dd689dd47a73df47",
+    "bytes": 3122
+   }
+  }
+ ]
+}

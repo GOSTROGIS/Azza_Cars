@@ -1,0 +1,289 @@
+{
+ "sources": [
+  {
+   "layer": "regional-districts",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/regional-districts/34569-native.geojson.gz",
+   "sha256": "bc41e4f9562cd3a047334c4af1040ccf3ce63df26d08dfb30db6b2437ec05cb6",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_REGIONAL_DISTRICTS_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_REGIONAL_DISTRICTS_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D34569&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:25:30.058871+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37165-native.geojson.gz",
+   "sha256": "82c2b46fc8662c0a671840029d730436f63d2f451191fa7a86ea159fda5f9da9",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37165&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:22:38.785229+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37166-native.geojson.gz",
+   "sha256": "29db9b3e39bf96e37a55cbc31dde091150170152c0ecae84196d3e61982106f4",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37166&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:23:42.684267+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37167-native.geojson.gz",
+   "sha256": "8fb2f334502815c0b5ed6dc9fb7544ff491c12bf2fd9a016d116ecb5f78d1c3a",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37167&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:23:44.637662+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37168-native.geojson.gz",
+   "sha256": "2fb532c79501f67c260e367f8613126069f942a3093c087d4b425b3fdcd2db8f",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37168&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:23:46.879147+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37169-native.geojson.gz",
+   "sha256": "feae58763bcc1e00fe83fa86136e1de34b583e478bbbaa4663065e38873b5012",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37169&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:25:34.512652+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37170-native.geojson.gz",
+   "sha256": "3b833341d3691815159ca7c8d9ad018fed81b5e7dfc30b2731813fc5d873b538",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37170&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:25:37.006793+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37171-native.geojson.gz",
+   "sha256": "34b8d7e9e38fc8c06c2d6aab35e8001640fc00156b1e75ec34c7c5086ee0e9d5",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37171&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:25:39.685806+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37172-native.geojson.gz",
+   "sha256": "1b3697164fb26f209b78bea2fd012af8de5558b60cc6dee94b7373e33632868f",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37172&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:26:49.907633+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37173-native.geojson.gz",
+   "sha256": "46f133d3834a0490e0ee0876c972343101cda0787fb53098b4f482083149eb0f",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37173&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:26:52.476415+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37174-native.geojson.gz",
+   "sha256": "74ffac68b5eaec868bae2d5bd269a68a3a690b1ad2803d0241b4f85236d0ef10",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37174&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:26:54.999822+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37175-native.geojson.gz",
+   "sha256": "af52ca00cd561371a809fafab0f5e23c068bcaf4495de5cc9e5197b02d4903b4",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37175&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:26:57.307191+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37176-native.geojson.gz",
+   "sha256": "0df0906f565a705099950713a72b21e30ebf22a8314cefb6bdf4ab07e6de45c0",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37176&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:26:59.892524+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37177-native.geojson.gz",
+   "sha256": "b59ca4ea42511f22126c4734a5f8865cbd2cbfe86b18f05f78eb1955da0dd247",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37177&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:27:02.493975+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37178-native.geojson.gz",
+   "sha256": "fc0eca0c420a19ee3708dd08ec4fcb52e10747fa8f20e06dc1324f6acc101750",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37178&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T08:27:04.910907+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37270-native.geojson.gz",
+   "sha256": "b582b97d4ac28114b0c87de7d1ebdf6d31da723e3af048a035c9ebc3e0e5f9a5",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37270&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:17:51.042658+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37271-native.geojson.gz",
+   "sha256": "0313c091e5ce8610383506fa9967dd8ba6618b7a91cdcbb19b047342c6cfd1bd",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37271&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:17:53.680931+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37272-native.geojson.gz",
+   "sha256": "534d16ed19e567a93c1ad2b8f6432c3aecbb50796c1d43c0276b170684f61202",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37272&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:17:56.129116+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37273-native.geojson.gz",
+   "sha256": "c96fb828008608aa4e4c8f5a5df3d191ac17a2917306afc7b933b3c1693e175a",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37273&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:17:58.682779+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37274-native.geojson.gz",
+   "sha256": "ba448bdb93e7ec57b558868d52d9817379df40fba17f3e04bb9efc79be947094",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37274&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:20:31.170049+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37275-native.geojson.gz",
+   "sha256": "433bc0db27793f9714e5cec3327fd4311f9edc01a463804ee0c2e6d37b27b559",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37275&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:20:33.997385+00:00"
+  },
+  {
+   "layer": "municipalities",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/municipalities/37276-native.geojson.gz",
+   "sha256": "6a505774440d5a17efd49d82de640c94d6caa97c724b6caabc39ad93fca56215",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_MUNICIPALITIES_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D37276&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T09:20:36.798013+00:00"
+  },
+  {
+   "layer": "electoral-areas",
+   "path": "data/ca/bc/authority-boundaries/generations/d461a8de593ffa3c1e2a7ac2/electoral-areas/43670-native.geojson.gz",
+   "sha256": "13e6ee535f5badf76351feebecebfbd00e2e063db0d85cfc52235f63838c82e8",
+   "url": "https://openmaps.gov.bc.ca/geo/pub/WHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_ELECTORAL_AREAS_SP/ows?service=WFS&version=2.0.0&typeNames=pub%3AWHSE_LEGAL_ADMIN_BOUNDARIES.ABMS_ELECTORAL_AREAS_SP&request=GetFeature&count=2&CQL_FILTER=OBJECTID%3D43670&srsName=EPSG%3A3005&outputFormat=application%2Fjson",
+   "capturedAt": "2026-10-26T12:02:43.686820+00:00"
+  }
+ ],
+ "licence": {
+  "name": "Open Government Licence - British Columbia",
+  "url": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61"
+ },
+ "crs": {
+  "native": "EPSG:3005",
+  "outputs": [
+   "EPSG:4326",
+   "EPSG:3157"
+  ]
+ },
+ "memberCount": 22,
+ "members": [
+  {
+   "name": "Bowen Island Municipality",
+   "slug": "bowen-island",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Burnaby",
+   "slug": "burnaby",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Coquitlam",
+   "slug": "coquitlam",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Delta",
+   "slug": "delta",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Langley",
+   "slug": "langley-city",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Maple Ridge",
+   "slug": "maple-ridge",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of New Westminster",
+   "slug": "new-westminster",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of North Vancouver",
+   "slug": "north-vancouver-city",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Pitt Meadows",
+   "slug": "pitt-meadows",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Port Coquitlam",
+   "slug": "port-coquitlam",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Port Moody",
+   "slug": "port-moody",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Richmond",
+   "slug": "richmond",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Surrey",
+   "slug": "surrey",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of Vancouver",
+   "slug": "vancouver",
+   "layer": "municipalities"
+  },
+  {
+   "name": "City of White Rock",
+   "slug": "white-rock",
+   "layer": "municipalities"
+  },
+  {
+   "name": "District Municipality of West Vancouver",
+   "slug": "west-vancouver",
+   "layer": "municipalities"
+  },
+  {
+   "name": "MVRD Electoral Area A",
+   "slug": "mvrd-ea-a",
+   "layer": "electoral-areas"
+  },
+  {
+   "name": "The Corporation of the District of North Vancouver",
+   "slug": "north-vancouver-district",
+   "layer": "municipalities"
+  },
+  {
+   "name": "The Corporation of the Township of Langley",
+   "slug": "langley-district",
+   "layer": "municipalities"
+  },
+  {
+   "name": "Village of Anmore",
+   "slug": "anmore",
+   "layer": "municipalities"
+  },
+  {
+   "name": "Village of Belcarra",
+   "slug": "belcarra",
+   "layer": "municipalities"
+  },
+  {
+   "name": "Village of Lions Bay",
+   "slug": "lions-bay",
+   "layer": "municipalities"
+  }
+ ]
+}

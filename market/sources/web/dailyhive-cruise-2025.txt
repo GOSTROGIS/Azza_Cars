@@ -1,0 +1,6 @@
+Source: https://dailyhive.com/vancouver/vancouver-cruise-ship-season-2025-statistics
+Retrieved: 2026-11-22T22:47:37+00:00
+Raw SHA-256: 3d2263630452e52c16032c1f10e0f78c9bcfcaf9a4b22c671ac4460452502270
+Extract: text near the quoted phrases ['1.2 million passengers on 301 cruise ship visits']
+
+van News Venture Transportation Urbanized Vancouver ends 2025 cruise ship season with 1.2 million passengers Kenneth Chan | Oct 20 2025 , 6:30 pm Discovery Princess cruise ship departing Vancouver's Canada Place. (Kenneth Chan) It was another strong cruise ship season at Canada Place in downtown Vancouver, with the Vancouver Fraser Port Authority announcing today its cruise ship terminal welcomed 1.2 million passengers on 301 cruise ship visits. The 2025 cruise ship season officially began on March 5 with the arrival of the Disney Wonder, and it will conclude tomorrow, Oct. 21, with the departure of the Coral Princess. Just below the tallies of 1.25 million recorded in 2023 and 1.32 million in 2024 and above the 1.1 million in 2019, the figure for 2025 is exceptionally strong, especially when considering a myriad of headwind factors suc

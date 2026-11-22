@@ -1,0 +1,10 @@
+Source: https://dailyhive.com/vancouver/vancouver-international-airport-yvr-all-time-passenger-record-2025-statistics
+Retrieved: 2026-11-22T22:47:36+00:00
+Raw SHA-256: d7af8a6ee6adbdcd6eaa4b1731c9e8925f0dc0a19460ee490be2284f9e3c96fc
+Extract: text near the quoted phrases ['26.914 million passengers', '73,736 passengers']
+
+ at Vancouver International Airport. (Kenneth Chan) Vancouver International Airport (YVR) reached all-time historic annual highs in both passenger traffic and freight cargo volumes in 2025, cementing its position as Canada’s second-busiest airport and its role as a key gateway between North America and Asia. Even with the climate of economic uncertainty and lower immigration, the airport welcomed 26.914 million passengers last year, representing a 2.7 per cent increase from 26.205 million passengers in 2024 and the highest total in YVR’s 94-year history. The previous record of 26.38 million passengers was set in pre-pandemic 2019. YVR was only about 86,400 passengers away from reaching 27 million passengers in 2024 — equivalent to roughly a single day’s worth of passengers. Throughout the year, the airport saw an 
+
+...
+
+ representing a 2.7 per cent increase from 26.205 million passengers in 2024 and the highest total in YVR’s 94-year history. The previous record of 26.38 million passengers was set in pre-pandemic 2019. YVR was only about 86,400 passengers away from reaching 27 million passengers in 2024 — equivalent to roughly a single day’s worth of passengers. Throughout the year, the airport saw an average of 73,736 passengers stream through its terminal facilities on a daily basis. You might also like: Inside the global competition to bring new airlines and routes to Vancouver International Airport How air cargo is driving Vancouver International Airport's evolution and growth beyond passenger travel Vancouver International Airport sees resurgence in passenger volumes from Mainland China market AI-powered cameras to t

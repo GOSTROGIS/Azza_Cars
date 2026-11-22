@@ -1,0 +1,10 @@
+Source: https://dailyhive.com/vancouver/modo-carshare-fleet-size
+Retrieved: 2026-11-22T22:47:38+00:00
+Raw SHA-256: 60a39f2ab87855092daa02e22aa72faec819a2a4617f0eeb9639e020808491a4
+Extract: text near the quoted phrases ['fleet size of 1,000 vehicles', 'roughly 2,300 vehicles']
+
+ Modo carshare fleet size reaches 1,000 vehicles | Daily Hive | Urbanized Urbanized SUBSCRIBE van News Transportation Urbanized Modo carshare fleet size reaches 1,000 vehicles Kenneth Chan | Aug 22 2023 , 9:54 pm Modo carshare (Modo) Over a quarter century since it first launched, Modo is now marking its major milestone of reaching a carshare fleet size of 1,000 vehicles. This week, the 1,000th car on the Modo fleet will be placed at the Deloitte Summit office tower at 410 West Georgia Street, in partnership with building owner and developer Westbank. You might also like: Evo Car Share is increasing its rates because of growing costs Evo Car Share now offering more service in an "amazing" part of Metro Vancouver Some Evo drivers are hogging shared cars by parking
+
+...
+
+erator. Modo is typically the carshare operator of choice for buildings seeking to provide its tenants and occupants with a carshare service. Unlike Evo, which is a free-floating carshare service, Modo is a fixed-point, two-way station carshare service that requires users to pick up and return a vehicle at a designated station. In contrast, Evo Car Share, owned and operated by BCAA, currently has roughly 2,300 vehicles, and it recently expanded into providing e-bike share services. You might also like: Evo Car Share is increasing its rates because of growing costs Evo Car Share now offering more service in an "amazing" part of Metro Vancouver Some Evo drivers are hogging shared cars by parking in private garages Vancouver's Mobi bike share is expanding to the UBC campus with e-bikes Opinion: TransLink should la

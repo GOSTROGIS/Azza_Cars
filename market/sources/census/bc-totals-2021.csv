@@ -1,0 +1,4 @@
+measure,value,method
+csds,751,sum over BC census subdivisions (CSDUID 59xxxxx) in csd-profile-2021-bc-ab.geojson
+population_2021,5000879,sum over BC census subdivisions (CSDUID 59xxxxx) in csd-profile-2021-bc-ab.geojson
+occupied_private_dwellings,2041834,sum over BC census subdivisions (CSDUID 59xxxxx) in csd-profile-2021-bc-ab.geojson
