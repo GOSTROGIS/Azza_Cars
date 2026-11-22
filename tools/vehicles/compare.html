@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Recreation review</title>
+<!--
+  Review page: renders a vehicle GLB from the same four angles as its reference photos and shows the
+  photos beside each render. Serve the repo root (python3 -m http.server) and open
+  /tools/vehicles/compare.html?slug=<slug>. three.js is loaded from site/node_modules.
+-->
+<script type="importmap">
+{"imports": {"three": "../../site/node_modules/three/build/three.module.js",
+             "three/addons/": "../../site/node_modules/three/examples/jsm/"}}
+</script>
+<style>
+  body { margin: 0; background: #111112; color: #eee8dc; font: 14px/1.4 system-ui, sans-serif; }
+  h1 { font-size: 18px; margin: 16px; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; padding: 0 16px 16px; }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; background: #1b1b1e; padding: 8px; border-radius: 8px; }
+  .pair img, .pair canvas { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #f4f1ea; border-radius: 4px; }
+  .cap { grid-column: 1 / -1; font-size: 12px; color: #b9b2a3; }
+  .note { margin: 0 16px 12px; color: #ff8a66; }
+</style>
+</head>
+<body>
+<h1 id="title"></h1>
+<p class="note">Left: reference photo. Right: the recreation from the matching angle. A recreation from photos, not factory CAD.</p>
+<div class="grid" id="grid"></div>
+<script type="module">
+import * as THREE from "three";
+import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+
+const slug = new URLSearchParams(location.search).get("slug");
+const [refs, gltf] = await Promise.all([
+  fetch(`../../vehicles/references/${slug}/references.json`).then((r) => r.json()),
+  new GLTFLoader().loadAsync(`../../vehicles/${slug}/${slug}.glb`),
+]);
+document.getElementById("title").textContent = `${slug}: reference photos and recreation`;
+const model = gltf.scene;
+const box = new THREE.Box3().setFromObject(model);
+const size = box.getSize(new THREE.Vector3());
+const centre = box.getCenter(new THREE.Vector3());
+
+// Camera directions match the photo views: front toward +X, the car's right side toward +Z.
+const ANGLES = {
+  side: [0, 0.12, 1], front: [1, 0.12, 0], rear: [-1, 0.12, 0], top: [0, 1, 0.0001], three_quarter: [0.8, 0.35, 0.75],
+};
+const views = refs.images.map((im) => im.view).filter((v) => ANGLES[v]);
+if (!views.includes("three_quarter")) views.push("three_quarter");
+
+for (const view of views) {
+  const im = refs.images.find((i) => i.view === view);
+  const pair = document.createElement("div");
+  pair.className = "pair";
+  pair.innerHTML = `${im ? `<img src="../../vehicles/references/${slug}/${im.file}" alt="${view} reference">` : "<div></div>"}
+    <canvas width="800" height="600"></canvas><div class="cap">${view}</div>`;
+  document.getElementById("grid").append(pair);
+  const canvas = pair.querySelector("canvas");
+  const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, preserveDrawingBuffer: true });
+  renderer.toneMapping = THREE.ACESFilmicToneMapping;
+  renderer.setClearColor(0xf4f1ea);
+  const scene = new THREE.Scene();
+  scene.add(new THREE.HemisphereLight(0xffffff, 0x444444, 1.6));
+  const sun = new THREE.DirectionalLight(0xffffff, 2.2);
+  sun.position.set(4, 8, 6);
+  scene.add(sun);
+  const fill = new THREE.DirectionalLight(0xffffff, 0.8);
+  fill.position.set(-5, 3, -4);
+  scene.add(fill);
+  scene.add(model.clone(true));
+  const dist = Math.max(size.x, size.y, size.z) * 1.6;
+  const cam = new THREE.PerspectiveCamera(35, 4 / 3, 0.1, 100);
+  const d = new THREE.Vector3(...ANGLES[view]).normalize();
+  cam.position.copy(centre).addScaledVector(d, dist);
+  cam.lookAt(centre);
+  renderer.render(scene, cam);
+}
+document.body.dataset.ready = "1";
+</script>
+</body>
+</html>
