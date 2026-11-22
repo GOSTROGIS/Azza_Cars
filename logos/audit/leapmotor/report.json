@@ -1,0 +1,78 @@
+{
+ "slug": "leapmotor",
+ "master": "brandfetch/logo-dark.svg",
+ "reference": "website/logo-1.png",
+ "note": "reviewed: closest pair, sources disagree, see audit sheet",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_invisible_edge": 0.3,
+  "color_note_max_delta_e": 2.0
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 0,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 7.938,
+  "aspect_b": 7.938,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 16,
+  "pixels_changed_pct": 0.0008,
+  "reversed_master": false,
+  "colors_master": {
+   "#000000": 0.9646
+  },
+  "colors_rebuilt": {
+   "#000000": 0.9646
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#000000",
+  "#ffffff"
+ ],
+ "brandfetch_palette": [
+  "#000000",
+  "#10500f",
+  "#ffffff"
+ ],
+ "agreement": {
+  "max_deviation_px": ">12",
+  "pixels_beyond_tolerance_pct": 29.1134,
+  "tolerance_px": 12,
+  "iou": 0.3552,
+  "aspect_a": 8.0235,
+  "aspect_b": 9.4815,
+  "aspect_diff": 0.1538,
+  "shape_basis": "appearance on white",
+  "tolerance_frac_of_width": 0.00586,
+  "reference_native_width_px": 256,
+  "aspect_tolerance": 0.0614,
+  "colors_reference": {
+   "#010100": 0.3625
+  }
+ },
+ "color_audit": {
+  "#000000": []
+ },
+ "color_near_matches": {
+  "#000000": {
+   "nearest": "#010100",
+   "source": "reference render",
+   "delta_e_2000": 0.452
+  }
+ },
+ "notes": [
+  "colour not 100% verified: #000000 matches #010100 (reference render) only to CIEDE2000 0.45, not exactly"
+ ],
+ "result": "flagged",
+ "reasons": [
+  "shape disagrees with reference: 29.113% of artwork beyond 0.59% of width",
+  "aspect ratio disagrees with reference (15.38%, tolerance 6.14%)"
+ ]
+}

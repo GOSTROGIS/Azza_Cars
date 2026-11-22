@@ -33,8 +33,10 @@ function collect() {
   ];
   const seen = new Set();
   const out = [];
+  // display and visibility are copied too: sites keep alternate artwork in the same <svg>, hidden by CSS,
+  // and with the attribute written the renderer skips it and svgo removes it (inherited overrides included)
   const PAINT = ['fill', 'stroke', 'stop-color', 'stop-opacity', 'fill-opacity', 'stroke-opacity',
-    'stroke-width', 'opacity', 'fill-rule', 'clip-rule'];
+    'stroke-width', 'opacity', 'fill-rule', 'clip-rule', 'display', 'visibility'];
   // Copy each element's computed paint onto its twin. Runs before any structural change,
   // so the original and the clone still line up element for element.
   const copyPaint = (orig, copy) => {

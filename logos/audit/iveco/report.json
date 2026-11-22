@@ -1,0 +1,89 @@
+{
+ "slug": "iveco",
+ "master": "brandfetch/logo-dark.svg",
+ "reference": "website/logo-1.svg",
+ "note": "reviewed: website file has a baked-in white background rectangle so it is the reference not the master",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_invisible_edge": 0.3,
+  "color_note_max_delta_e": 2.0
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 0,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 6.1502,
+  "aspect_b": 6.1502,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 0,
+  "pixels_changed_pct": 0.0,
+  "reversed_master": false,
+  "colors_master": {
+   "#000000": 0.9381,
+   "#1554ff": 0.0499
+  },
+  "colors_rebuilt": {
+   "#000000": 0.9381,
+   "#1554ff": 0.0499
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#000000",
+  "#1554ff"
+ ],
+ "brandfetch_palette": [
+  "#011321",
+  "#1554ff",
+  "#ffffff"
+ ],
+ "agreement": {
+  "max_deviation_px": 1,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 4,
+  "iou": 0.9891,
+  "aspect_a": 6.1813,
+  "aspect_b": 6.1502,
+  "aspect_diff": 0.0051,
+  "shape_basis": "appearance on white",
+  "tolerance_frac_of_width": 0.0015,
+  "reference_native_width_px": null,
+  "aspect_tolerance": 0.01,
+  "colors_reference": {
+   "#000000": 0.9013,
+   "#010101": 0.0029,
+   "#020202": 0.0046,
+   "#030303": 0.0073,
+   "#0d0d0d": 0.0024,
+   "#1554ff": 0.0446,
+   "#2c2c2c": 0.0024,
+   "#b0b0b0": 0.0024,
+   "#b2b2b2": 0.0029,
+   "#bfbfbf": 0.0029,
+   "#c9c9c9": 0.0024,
+   "#fbfbfb": 0.0042,
+   "#fcfcfc": 0.0045,
+   "#fdfdfd": 0.0023,
+   "#fefefe": 0.0028,
+   "#ffffff": 0.9754
+  }
+ },
+ "color_audit": {
+  "#000000": [
+   "reference render"
+  ],
+  "#1554ff": [
+   "reference render"
+  ]
+ },
+ "color_near_matches": {},
+ "notes": [],
+ "result": "pass",
+ "reasons": []
+}

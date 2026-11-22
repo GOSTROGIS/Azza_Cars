@@ -57,6 +57,7 @@
   "shape_basis": "appearance on white",
   "tolerance_frac_of_width": 0.00789,
   "reference_native_width_px": 190,
+  "aspect_tolerance": 0.0158,
   "colors_reference": {
    "#0066b2": 0.006,
    "#0067b2": 0.0111,

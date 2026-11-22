@@ -5050,9 +5050,7 @@
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.png",
-    "problems": [
-     "aspect ratio disagrees with reference (2.24%)"
-    ],
+    "problems": [],
     "full_logo": true,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0224
@@ -5061,7 +5059,7 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-3.png",
     "problems": [
-     "aspect ratio disagrees with reference (406.72%)"
+     "aspect ratio disagrees with reference (406.72%, tolerance 12.29%)"
     ],
     "full_logo": true,
     "beyond_pct": 0.0,
@@ -5072,15 +5070,22 @@
     "reference": "website/logo-2.png",
     "problems": [
      "shape disagrees with reference: 8.767% of artwork beyond 6.25% of width",
-     "aspect ratio disagrees with reference (473.13%)"
+     "aspect ratio disagrees with reference (473.13%, tolerance 12.50%)"
     ],
     "full_logo": true,
     "beyond_pct": 8.7665,
     "aspect_diff": 4.7313
    }
   ],
-  "proposal": null,
-  "status": "no agreeing pair"
+  "proposal": {
+   "master": "brandfetch/logo-dark.svg",
+   "reference": "website/logo-1.png",
+   "problems": [],
+   "full_logo": true,
+   "beyond_pct": 0.0,
+   "aspect_diff": 0.0224
+  },
+  "status": "agreeing pair"
  },
  "mg": {
   "candidates": [
@@ -5431,7 +5436,7 @@
     "reference": "website/logo-1.svg",
     "problems": [
      "shape disagrees with reference: 44.703% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (14.17%)"
+     "aspect ratio disagrees with reference (14.17%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 44.7032,
@@ -5442,7 +5447,7 @@
     "reference": "website/logo-1.svg",
     "problems": [
      "shape disagrees with reference: 47.632% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (68.28%)"
+     "aspect ratio disagrees with reference (68.28%, tolerance 1.00%)"
     ],
     "full_logo": false,
     "beyond_pct": 47.6318,
@@ -5515,7 +5520,7 @@
     "reference": "website/logo-1.svg",
     "problems": [
      "shape disagrees with reference: 2.425% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (3.57%)"
+     "aspect ratio disagrees with reference (3.57%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 2.4255,
@@ -5526,7 +5531,7 @@
     "reference": "website/logo-2.svg",
     "problems": [
      "shape disagrees with reference: 81.263% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (610.19%)"
+     "aspect ratio disagrees with reference (610.19%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 81.2634,
@@ -5537,7 +5542,7 @@
     "reference": "website/logo-3.svg",
     "problems": [
      "shape disagrees with reference: 81.263% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (610.19%)"
+     "aspect ratio disagrees with reference (610.19%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 81.2634,
@@ -5548,7 +5553,7 @@
     "reference": "website/logo-4.svg",
     "problems": [
      "shape disagrees with reference: 81.263% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (610.19%)"
+     "aspect ratio disagrees with reference (610.19%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 81.2634,
@@ -5559,7 +5564,7 @@
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
      "shape disagrees with reference: 84.688% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (85.92%)"
+     "aspect ratio disagrees with reference (85.92%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 84.6881,
@@ -5570,7 +5575,7 @@
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
      "shape disagrees with reference: 84.688% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (85.92%)"
+     "aspect ratio disagrees with reference (85.92%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 84.6881,
@@ -5581,7 +5586,7 @@
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
      "shape disagrees with reference: 84.688% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (85.92%)"
+     "aspect ratio disagrees with reference (85.92%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 84.6881,
@@ -5592,7 +5597,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 84.693% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (85.94%)"
+     "aspect ratio disagrees with reference (85.94%, tolerance 1.50%)"
     ],
     "full_logo": true,
     "beyond_pct": 84.6933,
@@ -5603,7 +5608,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 84.693% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (85.94%)"
+     "aspect ratio disagrees with reference (85.94%, tolerance 1.50%)"
     ],
     "full_logo": true,
     "beyond_pct": 84.6933,
@@ -5614,7 +5619,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 84.693% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (85.94%)"
+     "aspect ratio disagrees with reference (85.94%, tolerance 1.50%)"
     ],
     "full_logo": true,
     "beyond_pct": 84.6933,
@@ -5705,7 +5710,7 @@
     "reference": "website/logo-1.png",
     "problems": [
      "shape disagrees with reference: 25.830% of artwork beyond 0.59% of width",
-     "aspect ratio disagrees with reference (15.62%)"
+     "aspect ratio disagrees with reference (15.62%, tolerance 6.14%)"
     ],
     "full_logo": true,
     "beyond_pct": 25.8301,
@@ -5716,7 +5721,7 @@
     "reference": "website/logo-2.png",
     "problems": [
      "shape disagrees with reference: 67.819% of artwork beyond 0.20% of width",
-     "aspect ratio disagrees with reference (901.04%)"
+     "aspect ratio disagrees with reference (901.04%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 67.8193,
@@ -5727,7 +5732,7 @@
     "reference": "website/logo-3.png",
     "problems": [
      "shape disagrees with reference: 68.218% of artwork beyond 0.20% of width",
-     "aspect ratio disagrees with reference (433.33%)"
+     "aspect ratio disagrees with reference (433.33%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 68.2178,
@@ -5738,7 +5743,7 @@
     "reference": "website/logo-4.png",
     "problems": [
      "shape disagrees with reference: 68.512% of artwork beyond 0.20% of width",
-     "aspect ratio disagrees with reference (901.04%)"
+     "aspect ratio disagrees with reference (901.04%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 68.5124,
@@ -6568,8 +6573,7 @@
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 1.117% of artwork beyond 0.99% of width",
-     "aspect ratio disagrees with reference (1.22%)"
+     "shape disagrees with reference: 1.117% of artwork beyond 0.99% of width"
     ],
     "full_logo": true,
     "beyond_pct": 1.1174,
@@ -6580,7 +6584,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 56.757% of artwork beyond 0.99% of width",
-     "aspect ratio disagrees with reference (5.21%)"
+     "aspect ratio disagrees with reference (5.21%, tolerance 1.92%)"
     ],
     "full_logo": true,
     "beyond_pct": 56.7574,
@@ -6591,7 +6595,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 74.802% of artwork beyond 0.99% of width",
-     "aspect ratio disagrees with reference (5.21%)"
+     "aspect ratio disagrees with reference (5.21%, tolerance 1.92%)"
     ],
     "full_logo": true,
     "beyond_pct": 74.8025,
@@ -7055,8 +7059,7 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.png",
     "problems": [
-     "shape disagrees with reference: 9.197% of artwork beyond 1.01% of width",
-     "aspect ratio disagrees with reference (3.56%)"
+     "shape disagrees with reference: 9.197% of artwork beyond 1.01% of width"
     ],
     "full_logo": true,
     "beyond_pct": 9.1968,
@@ -7370,7 +7373,7 @@
     "master": "website/logo-4.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "aspect ratio disagrees with reference (1.17%)"
+     "aspect ratio disagrees with reference (1.17%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 0.0,
@@ -7380,7 +7383,7 @@
     "master": "website/logo-4.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "aspect ratio disagrees with reference (1.69%)"
+     "aspect ratio disagrees with reference (1.69%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 0.0,
@@ -7390,7 +7393,7 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-4.svg",
     "problems": [
-     "aspect ratio disagrees with reference (1.66%)"
+     "aspect ratio disagrees with reference (1.66%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 0.0,
@@ -7401,7 +7404,7 @@
     "reference": "website/logo-1.svg",
     "problems": [
      "shape disagrees with reference: 40.924% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (288.78%)"
+     "aspect ratio disagrees with reference (288.78%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 40.9242,
@@ -7412,7 +7415,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 42.443% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (74.41%)"
+     "aspect ratio disagrees with reference (74.41%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 42.443,
@@ -7423,7 +7426,7 @@
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
      "shape disagrees with reference: 42.511% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (74.28%)"
+     "aspect ratio disagrees with reference (74.28%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 42.5115,
@@ -7434,7 +7437,7 @@
     "reference": "website/logo-2.svg",
     "problems": [
      "shape disagrees with reference: 58.265% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (291.84%)"
+     "aspect ratio disagrees with reference (291.84%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 58.2648,
@@ -7445,7 +7448,7 @@
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
      "shape disagrees with reference: 61.181% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (74.48%)"
+     "aspect ratio disagrees with reference (74.48%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 61.1808,
@@ -7456,7 +7459,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 61.205% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (74.61%)"
+     "aspect ratio disagrees with reference (74.61%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 61.2045,
@@ -7467,7 +7470,7 @@
     "reference": "website/logo-3.svg",
     "problems": [
      "shape disagrees with reference: 62.693% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (254.59%)"
+     "aspect ratio disagrees with reference (254.59%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 62.6929,
@@ -7478,7 +7481,7 @@
     "reference": "brandfetch/logo-dark.png",
     "problems": [
      "shape disagrees with reference: 65.073% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (71.94%)"
+     "aspect ratio disagrees with reference (71.94%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 65.0727,
@@ -7489,7 +7492,7 @@
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
      "shape disagrees with reference: 65.163% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (71.80%)"
+     "aspect ratio disagrees with reference (71.80%, tolerance 1.00%)"
     ],
     "full_logo": true,
     "beyond_pct": 65.1629,
@@ -7531,40 +7534,38 @@
   ],
   "pairs": [
    {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 33.644% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (33.06%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 33.6438,
-    "aspect_diff": 0.3306
-   },
-   {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 35.044% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (24.24%)"
-    ],
+    "problems": [],
     "full_logo": true,
-    "beyond_pct": 35.0444,
-    "aspect_diff": 0.2424
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
    },
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 35.597% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (24.85%)"
-    ],
+    "problems": [],
     "full_logo": true,
-    "beyond_pct": 35.5971,
-    "aspect_diff": 0.2485
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.008
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0081
    }
   ],
-  "proposal": null,
-  "status": "no agreeing pair"
+  "proposal": {
+   "master": "website/logo-1.svg",
+   "reference": "brandfetch/logo-dark.svg",
+   "problems": [],
+   "full_logo": true,
+   "beyond_pct": 0.0,
+   "aspect_diff": 0.008
+  },
+  "status": "agreeing pair"
  }
 }
