@@ -28,6 +28,8 @@ Azza_Cars/
 │   └── sources/           Raw vPIC, EPA, NRCan, INEGI, Wikidata and sales-release files with hashes
 ├── design/                Design system: tokens, components, specimen (see design/README.md)
 ├── vehicles/              3D pipeline output: references, traced outlines, GLB, provenance (see vehicles/README.md)
+├── market/                Metro Vancouver gap analysis, TAM/SAM/SOM, map and GIS layers (see market/README.md)
+├── plan/                  Business plan, rendered as plan.html on the website (plan/BUSINESS_PLAN.md)
 ├── brand/                 Naming and marketing research, with sources (see brand/README.md)
 ├── site/                  Website and dashboard, Vite + React + three.js (see site/README.md)
 └── tools/                 Scripts, grouped by workstream
