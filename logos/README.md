@@ -54,8 +54,16 @@ Its shape and every painted hex value were matched by a second copy collected se
 from a different origin than the master. The website and Brandfetch both ultimately come
 from the brand's own site, so their agreement confirms that the capture is faithful to
 what the brand publishes. It is not an outside opinion of what the logo should be.
-Colours that only one origin shows, or that two origins disagree on, keep the logo out
-of `svg/` until a brand guide or media kit settles them.
+Colours that only one origin shows, or that two origins clearly disagree on, keep the logo
+out of `svg/` until a brand guide or media kit settles them.
+
+**Colour note (owner's rule, 2026-11-22).** When a painted colour has no exact independent
+match but is within CIEDE2000 2.0 of one (about the smallest difference a trained eye can
+see side by side), the logo still ships. It passes with a note, shown as `pass, with note` in `STATUS.md`, and the
+note is embedded in the SVG as a `<metadata>` element, for example: "colour not 100%
+verified: #6f6f6f matches #707070 ... only to CIEDE2000 0.39". The colour difference code
+(`tools/logos/color_difference.py`) reproduces the published reference values of Sharma,
+Wu and Dalal (2005).
 
 ## How a logo is rebuilt and audited
 

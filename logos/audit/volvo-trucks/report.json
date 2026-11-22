@@ -10,7 +10,8 @@
   "agreement_max_outlier_pct": 0.01,
   "agreement_max_aspect_diff": 0.01,
   "max_flat_colors": 12,
-  "reversed_min_invisible_edge": 0.3
+  "reversed_min_invisible_edge": 0.3,
+  "color_note_max_delta_e": 2.0
  },
  "flags": [],
  "fidelity": {
@@ -59,6 +60,8 @@
    "reference render"
   ]
  },
+ "color_near_matches": {},
+ "notes": [],
  "result": "pass",
  "reasons": []
 }
