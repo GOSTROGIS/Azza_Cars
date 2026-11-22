@@ -1,14 +1,190 @@
 <!doctype html>
-<html lang="en" data-theme="carbon">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Azza Cars: car and truck rental. Browse every brand and model with cited data and 3D vehicles." />
-    <meta name="theme-color" content="#0a0a0b" />
-    <title>Azza Cars</title>
-  </head>
-  <body class="az-root">
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Van, Truck &amp; Car Rental in Surrey, BC | Ember Rent</title>
+  <meta name="description" content="Cargo vans, pickups, moving trucks and cars for Surrey and the south of the Fraser. All-in prices with no counter add-ons, and monthly invoicing for business accounts." />
+  <meta name="theme-color" content="#111112" />
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <!-- OWNER INPUT: set the canonical URL once the domain is live, for example https://emberrent.ca/ -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Ember Rent: vans, trucks and cars south of the Fraser" />
+  <meta property="og:description" content="All-in prices, neighbourhood pickup and business accounts with monthly invoicing." />
+  <meta property="og:image" content="./hero/ford-f150.webp" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "AutoRental",
+    "name": "Ember Rent",
+    "description": "Cargo van, pickup, moving truck and car rental for Surrey and the south of the Fraser.",
+    "areaServed": ["Surrey", "Delta", "White Rock", "City of Langley", "Township of Langley"],
+    "logo": "./favicon.svg"
+  }
+  </script>
+  <!-- OWNER INPUT: add "address", "telephone", "url" and "openingHoursSpecification" to the block above
+       exactly as they appear on the Google Business Profile and on the signage. They are left out until real. -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": "Is the price really all in?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every fee we charge is included in the price you book. Charges set by government, such as BC's passenger vehicle rental tax, are shown on their own line."}},
+      {"@type": "Question", "name": "Where do I pick up?", "acceptedAnswer": {"@type": "Answer", "text": "At our Surrey location. The address is published at launch."}},
+      {"@type": "Question", "name": "Can my business rent on account?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Business accounts get monthly invoicing and several drivers on one account. Ask us about one."}}
+    ]
+  }
+  </script>
+  <script type="module" src="/src/landing.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="top">
+    <a class="brand" href="./" aria-label="Ember Rent home">
+      <svg viewBox="0 0 120 120" width="36" height="36" aria-hidden="true"><path d="M60 22 A 38 38 0 1 0 98 60" stroke="currentColor" stroke-width="10" stroke-linecap="round" fill="none"/><path d="M60 40 A 20 20 0 1 0 80 60" stroke="currentColor" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.55"/><circle cx="96" cy="24" r="13" fill="#ff4b1f"/><circle cx="60" cy="60" r="6" fill="#ff4b1f"/></svg>
+      <span class="brand__word">EMBER</span><span class="brand__tag">RENT</span>
+    </a>
+    <nav aria-label="Main">
+      <a href="#fleet">Fleet</a>
+      <a href="#business">Business accounts</a>
+      <a href="#where">Surrey</a>
+      <a href="#faq">FAQ</a>
+    </nav>
+    <a class="btn btn--primary" href="#book">Check availability</a>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__fleet" aria-hidden="true">
+        <img class="hero__car hero__car--a" src="./hero/ford-f150.webp" fetchpriority="high" decoding="async" alt="" width="1200" height="410" />
+        <img class="hero__car hero__car--b" src="./hero/honda-crv.webp" loading="lazy" decoding="async" alt="" width="1200" height="470" />
+        <img class="hero__car hero__car--c" src="./hero/toyota-camry.webp" loading="lazy" decoding="async" alt="" width="1200" height="423" />
+      </div>
+      <div class="hero__copy">
+        <p class="eyebrow">Surrey · Delta · White Rock · Langley</p>
+        <h1 id="hero-title">Vans, trucks and cars, <span>ready when the job is.</span></h1>
+        <p class="lede">Neighbourhood rental for Surrey and the south of the Fraser. The price you see is the price you pay, with no add-ons at the counter.</p>
+        <div class="hero__ctas">
+          <a class="btn btn--primary btn--lg" href="#book">Check availability</a>
+          <a class="btn btn--ghost btn--lg" href="#business">Open a business account</a>
+        </div>
+        <ul class="proof" aria-label="What you get">
+          <li>All-in prices</li>
+          <li>Cargo vans, pickups and moving trucks</li>
+          <li>Monthly invoicing for business</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="fleet" class="section" aria-labelledby="fleet-title">
+      <p class="eyebrow">The fleet</p>
+      <h2 id="fleet-title">Pick the vehicle for the job</h2>
+      <div class="cards">
+        <article class="card">
+          <h3>Cargo van</h3>
+          <p>For trades, deliveries and small moves. Load, lock and go.</p>
+          <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
+        </article>
+        <article class="card">
+          <h3>Pickup truck</h3>
+          <p>For materials, equipment and anything with a hitch.</p>
+          <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
+        </article>
+        <article class="card">
+          <h3>Moving truck</h3>
+          <p>For apartment and house moves across Metro Vancouver.</p>
+          <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
+        </article>
+        <article class="card">
+          <h3>Car or SUV</h3>
+          <p>For the week the family car is in the shop, or the trip it can't make.</p>
+          <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section why" aria-labelledby="why-title">
+      <p class="eyebrow">Why Ember</p>
+      <h2 id="why-title">Rental without the counter surprises</h2>
+      <!-- OWNER CONFIRM: the promises in this section and in Business accounts are draft copy from the
+           marketing plan. Keep only the ones the operation will deliver from day one. -->
+      <div class="pillars">
+        <div>
+          <h3>One price, all in</h3>
+          <p>Every fee we charge is in the price you book. Charges set by government are the only thing shown on their own line.</p>
+        </div>
+        <div>
+          <h3>Close to the work</h3>
+          <p>We start south of the Fraser, where the trades and the moves are, not in an airport parkade.</p>
+        </div>
+        <div>
+          <h3>Fast handover</h3>
+          <p>Book online, show your licence, take the keys. Return it and we text you a receipt.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="business" class="section business" aria-labelledby="business-title">
+      <div>
+        <p class="eyebrow">Business accounts</p>
+        <h2 id="business-title">Vans and trucks on account</h2>
+        <p>For trades, logistics, production and property management. One account for your crew, monthly invoicing and a person who answers the phone.</p>
+        <a class="btn btn--primary" href="#book">Ask about an account</a>
+      </div>
+      <ul class="ticks">
+        <li>Monthly invoicing</li>
+        <li>Several drivers on one account</li>
+        <li>Short notice for repeat bookings</li>
+        <li>Long-term rates by the month</li>
+      </ul>
+    </section>
+
+    <section id="where" class="section where" aria-labelledby="where-title">
+      <p class="eyebrow">Where we are</p>
+      <h2 id="where-title">Surrey first</h2>
+      <p>Our first pickup location is in Surrey, serving Delta, White Rock and the Langleys.</p>
+      <p class="pending"><!-- OWNER INPUT: street address, hours and phone, matching the Google Business Profile -->Address and hours are announced at launch.</p>
+    </section>
+
+    <section id="book" class="section book" aria-labelledby="book-title">
+      <h2 id="book-title">Booking opens at launch</h2>
+      <p>Online booking goes live with our first location.</p>
+      <!-- OWNER INPUT: replace this section with the booking engine link or widget. -->
+    </section>
+
+    <section id="faq" class="section faq" aria-labelledby="faq-title">
+      <p class="eyebrow">Questions</p>
+      <h2 id="faq-title">Before you book</h2>
+      <details>
+        <summary>Is the price really all in?</summary>
+        <p>Yes. Every fee we charge is included in the price you book. Charges set by government, such as BC's passenger vehicle rental tax, are shown on their own line.</p>
+      </details>
+      <details>
+        <summary>Where do I pick up?</summary>
+        <p>At our Surrey location. The address is published at launch.</p>
+      </details>
+      <details>
+        <summary>Can my business rent on account?</summary>
+        <p>Yes. Business accounts get monthly invoicing and several drivers on one account. Ask us about one.</p>
+      </details>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="foot__brand">
+      <span class="brand__word">EMBER</span><span class="brand__tag">RENT</span>
+      <p>Van, truck and car rental south of the Fraser.</p>
+    </div>
+    <div class="foot__credits">
+      <p><strong>Photo credits.</strong> Vehicle images are cut-out adaptations of photos from Wikimedia Commons:
+        Ford F-150 by <a href="https://commons.wikimedia.org/wiki/File:Ford_F-150_4x4_Pickup_Truck_(53149801149).jpg">Tony Webster</a>, CC BY 2.0.
+        Honda SUV by <a href="https://commons.wikimedia.org/wiki/File:Honda_CRV_1.5_VX_AWD_2024_(9).jpg">Captainmorlypogi1959</a>, CC BY-SA 4.0.
+        Toyota Camry by <a href="https://commons.wikimedia.org/wiki/File:Toyota_Camry_2.5_V_HEV_Hybrid_2025_(32).jpg">Captainmorlypogi1959</a>, CC BY-SA 4.0.
+        The CC BY-SA adaptations are shared under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+        Vehicles shown illustrate types of vehicle and do not imply any manufacturer's endorsement.</p>
+      <p><a href="./explorer.html">Model explorer</a></p>
+    </div>
+  </footer>
+</body>
 </html>

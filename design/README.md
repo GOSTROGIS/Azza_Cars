@@ -1,6 +1,6 @@
 # Design system
 
-Tokens and components for the Azza Cars website and dashboard: bone white, carbon black and a vivid
+Tokens and components for the Ember Rent website and dashboard: bone white, carbon black and a vivid
 blood orange, with real depth (layered surfaces, bevel highlights, stacked shadows).
 
 | File | What it is |

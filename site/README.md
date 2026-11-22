@@ -1,6 +1,6 @@
 # Website and dashboard
 
-The public Azza Cars website, which is also the internal dashboard: brand selector, model search,
+The public Ember Rent website, which is also the internal dashboard: brand selector, model search,
 filters and a 3D viewer. It is a static site, so it can be hosted anywhere (no server code).
 
 ## Stack and why
@@ -41,3 +41,11 @@ npm run build    # copies data, writes dist/
 - Every control is a real button with `aria-pressed` state. Focus rings are always visible.
 - Result counts are announced to screen readers. The 3D canvas has a text label.
 - Layout works from 320 px phones (single column, detail as a full-screen sheet) to wide desktops (three columns).
+
+## Ember Rent landing page
+
+`index.html` is the Ember Rent landing page: plain HTML and CSS (`src/landing.js`, `src/landing.css`) so it loads fast and is easy for search engines to read. The model explorer React app moved to `explorer.html`, unchanged apart from the name in its header.
+
+The page follows the marketing plan in `brand/MARKETING_REVIEW.md`: vans and trucks first, Surrey first, all-in prices, business accounts, local business and FAQ structured data, and photo credits for the hero images.
+
+Nothing on the page is invented. Every fact only the owner can supply is marked in the HTML with `OWNER INPUT` (rates, address, hours, phone, canonical URL, booking link). Promises that depend on how the business will operate are marked `OWNER CONFIRM`. Search the file for both before launch.

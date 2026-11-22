@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-label="Ember Rent">
+<!-- Wordmark set in Archivo (SIL OFL) at width 125, weight 900. Convert the text to outlines before print use. -->
+<rect width="520" height="140" fill="#111112"/>
+<g transform="translate(18 10)"><path d="M60 22 A 38 38 0 1 0 98 60" stroke="#eee8dc" stroke-width="10" stroke-linecap="round" fill="none"/><path d="M60 40 A 20 20 0 1 0 80 60" stroke="#eee8dc" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.55"/><circle cx="96" cy="24" r="13" fill="#ff4b1f"/><circle cx="60" cy="60" r="6" fill="#ff4b1f"/></g>
+<text x="158" y="92" font-family="Archivo, 'Arial Narrow', sans-serif" font-stretch="125%" font-weight="900" font-size="64" letter-spacing="-1" fill="#f7f4ee">EMBER</text>
+<text x="400" y="92" font-family="Archivo, sans-serif" font-weight="600" font-size="20" letter-spacing="6" fill="#ff4b1f">RENT</text>
+</svg>

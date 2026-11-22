@@ -8,5 +8,9 @@ export default defineConfig({
   plugins: [react()],
   resolve: { alias: { "@design": path.resolve(__dirname, "../design") } },
   server: { fs: { allow: [".."] } },
-  build: { chunkSizeWarningLimit: 1200 },
+  build: {
+    chunkSizeWarningLimit: 1200,
+    // The landing page is plain HTML for speed and search. The model explorer stays a React app.
+    rollupOptions: { input: { index: path.resolve(__dirname, "index.html"), explorer: path.resolve(__dirname, "explorer.html") } },
+  },
 });

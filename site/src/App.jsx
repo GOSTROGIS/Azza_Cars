@@ -423,7 +423,7 @@ export default function App() {
       <a className="skip" href="#results">Skip to results</a>
       <header className="topbar">
         <div className="shell topbar__inner">
-          <a className="wordmark" href="./" aria-label="Azza Cars home">AZZA<span>CARS</span></a>
+          <a className="wordmark" href="./" aria-label="Ember Rent home">EMBER<span>RENT</span></a>
           <nav className="topbar__nav" aria-label="Main">
             <a href="#h-brands">Brands</a>
             <a href="#results">Models</a>
@@ -492,7 +492,7 @@ export default function App() {
 
       <footer className="shell footer az-muted small">
         <p>Data: NHTSA vPIC, EPA fueleconomy.gov, NRCan Fuel Consumption Ratings, INEGI RAIAVL, Wikidata. Each model lists its sources. Latest model year in the data: {report.latest_model_year}.</p>
-        <p>Logos appear only after passing the Azza Cars logo audit. Brand logos are trademarks of their owners and do not imply sponsorship or endorsement.</p>
+        <p>Logos appear only after passing the Ember Rent logo audit. Brand logos are trademarks of their owners and do not imply sponsorship or endorsement.</p>
       </footer>
     </>
   );

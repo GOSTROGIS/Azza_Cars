@@ -1,5 +1,5 @@
 /*
-  Azza Cars design tokens.
+  Ember Rent design tokens.
   Three brand colours: bone white, carbon black, blood orange.
   Primitives are raw values. Semantic tokens point at primitives and change with the theme.
   Contrast ratios for every text pairing are checked by tools/design/contrast.py (see design/contrast.md).

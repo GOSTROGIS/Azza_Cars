@@ -1,0 +1,195 @@
+/* Ember Rent landing page. Colours, type and spacing come from the shared design tokens. */
+@import "@design/tokens.css";
+
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--carbon-900);
+  color: var(--bone-200);
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--orange-300); }
+a:hover { color: var(--bone-50); }
+:focus-visible { outline: 3px solid var(--orange-300); outline-offset: 3px; }
+
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 16px; top: 16px; z-index: 10; background: var(--bone-50); color: var(--carbon-900); padding: 8px 12px; }
+
+h1, h2, h3 { font-family: var(--font-display); color: var(--bone-50); margin: 0; }
+h2 { font-size: clamp(1.9rem, 3.6vw, 2.8rem); font-stretch: 112%; font-weight: 800; line-height: 1.08; }
+h3 { font-size: 1.25rem; font-weight: 700; }
+
+.eyebrow {
+  margin: 0 0 10px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--orange-300);
+}
+
+/* ---- Header ---- */
+.top {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-sticky);
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 14px clamp(16px, 4vw, 48px);
+  background: rgba(17, 17, 18, 0.86);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--carbon-700);
+}
+.brand { display: flex; align-items: center; gap: 10px; color: var(--bone-200); text-decoration: none; }
+.brand__word { font-family: var(--font-display); font-stretch: 125%; font-weight: 900; font-size: 1.45rem; letter-spacing: -0.01em; color: var(--bone-50); }
+.brand__tag { font-family: var(--font-display); font-weight: 600; font-size: 0.72rem; letter-spacing: 0.3em; color: var(--orange-500); margin-left: 6px; }
+.top nav { display: flex; gap: 22px; margin-left: auto; }
+.top nav a { color: var(--bone-200); text-decoration: none; font-weight: 500; font-size: 0.95rem; }
+.top nav a:hover { color: var(--orange-300); }
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 20px;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  transition: transform var(--dur-fast) ease, background-color var(--dur-fast) ease;
+}
+.btn:hover { transform: translateY(-1px); }
+.btn--primary { background: var(--orange-500); color: var(--on-accent); box-shadow: var(--bevel); }
+.btn--primary:hover { background: var(--orange-300); color: var(--on-accent); }
+.btn--ghost { color: var(--bone-50); border-color: var(--carbon-500); }
+.btn--ghost:hover { border-color: var(--bone-200); color: var(--bone-50); }
+.btn--lg { min-height: 52px; padding: 0 26px; font-size: 0.95rem; }
+
+/* ---- Hero: vehicles fade into the page behind the copy ---- */
+.hero {
+  position: relative;
+  min-height: min(88vh, 860px);
+  display: flex;
+  align-items: center;
+  padding: 64px clamp(16px, 5vw, 72px);
+  overflow: hidden;
+  background:
+    radial-gradient(60% 50% at 78% 62%, rgba(255, 75, 31, 0.22), transparent 70%),
+    radial-gradient(40% 40% at 10% 10%, rgba(238, 232, 220, 0.06), transparent 70%),
+    var(--carbon-900);
+}
+.hero__fleet { position: absolute; inset: 0; pointer-events: none; }
+.hero__car {
+  position: absolute;
+  height: auto;
+  filter: saturate(0.85) contrast(1.05);
+  /* Fade each vehicle out toward the copy and the page below. */
+  --fade: linear-gradient(to right, transparent 0%, #000 38%, #000 82%, transparent 100%), linear-gradient(to bottom, #000 55%, transparent 100%);
+  -webkit-mask-image: var(--fade);
+  -webkit-mask-composite: source-in;
+  mask-image: var(--fade);
+  mask-composite: intersect;
+  animation: drift 18s ease-in-out infinite alternate;
+}
+.hero__car--a { width: min(62vw, 900px); right: -6vw; bottom: 6%; opacity: 0.95; z-index: 2; }
+.hero__car--b { width: min(46vw, 660px); right: 24vw; bottom: 30%; opacity: 0.32; z-index: 1; animation-duration: 24s; }
+.hero__car--c { width: min(40vw, 560px); right: 2vw; bottom: 48%; opacity: 0.18; z-index: 0; animation-duration: 30s; }
+@keyframes drift { from { transform: translateX(0); } to { transform: translateX(-2.5vw); } }
+
+.hero__copy { position: relative; z-index: 3; max-width: 640px; }
+.hero h1 {
+  font-size: clamp(2.6rem, 6.2vw, 5rem);
+  font-stretch: 125%;
+  font-weight: 900;
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+}
+.hero h1 span { display: block; color: var(--orange-500); }
+.lede { font-size: 1.2rem; max-width: 34em; color: var(--bone-200); margin: 22px 0 28px; }
+.hero__ctas { display: flex; flex-wrap: wrap; gap: 12px; }
+.proof { display: flex; flex-wrap: wrap; gap: 8px 22px; margin: 28px 0 0; padding: 0; list-style: none; font-size: 0.95rem; color: var(--bone-200); }
+.proof li::before { content: ""; display: inline-block; width: 8px; height: 8px; margin-right: 8px; border-radius: 50%; background: var(--orange-500); vertical-align: middle; }
+
+/* ---- Sections ---- */
+.section { padding: var(--space-8) var(--gutter); max-width: var(--page-max); margin: 0 auto; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 18px; margin-top: 34px; }
+.card {
+  padding: 26px;
+  border-radius: var(--radius-lg);
+  background: var(--sheen), var(--carbon-800);
+  border: 1px solid var(--carbon-700);
+  box-shadow: var(--bevel), var(--shadow-2);
+}
+.card p { margin: 10px 0 0; color: var(--bone-200); }
+.card .price { margin-top: 18px; font-family: var(--font-display); font-weight: 700; color: var(--orange-300); }
+
+.pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 28px; margin-top: 30px; }
+.pillars h3 { color: var(--bone-50); border-top: 3px solid var(--orange-500); padding-top: 14px; }
+.pillars p { margin: 8px 0 0; }
+
+.business {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+  align-items: center;
+  border-radius: var(--radius-xl);
+  background: var(--bone-200);
+  color: var(--carbon-900);
+  margin: 40px auto;
+}
+.business h2 { color: var(--carbon-950); }
+.business .eyebrow { color: var(--orange-800); }
+.business p { color: var(--carbon-800); }
+.ticks { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; font-weight: 600; }
+.ticks li { padding: 14px 18px; border-radius: 12px; background: var(--bone-50); }
+.ticks li::before { content: "✓"; color: var(--orange-800); margin-right: 10px; font-weight: 800; }
+
+.pending, .book p { color: var(--carbon-300); }
+.book { text-align: center; }
+
+.faq details { border-bottom: 1px solid var(--carbon-700); padding: 18px 0; max-width: 820px; }
+.faq summary { cursor: pointer; font-family: var(--font-display); font-weight: 700; font-size: 1.15rem; color: var(--bone-50); }
+.faq details p { margin: 10px 0 0; }
+
+.foot {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 32px;
+  padding: 48px clamp(16px, 5vw, 72px);
+  border-top: 1px solid var(--carbon-700);
+  font-size: 0.88rem;
+  color: var(--carbon-300);
+}
+.foot__brand p { margin: 8px 0 0; }
+
+@media (max-width: 820px) {
+  .top nav { display: none; }
+  .top { gap: 12px; }
+  .top .btn { margin-left: auto; min-height: 40px; padding: 0 14px; font-size: 0.72rem; }
+  .brand__word { font-size: 1.2rem; }
+  .top .brand__tag { display: none; }
+  .hero { align-items: flex-start; padding-top: 48px; min-height: 720px; }
+  .hero__car--a { width: 118vw; right: -30vw; bottom: 2%; }
+  .hero__car--b, .hero__car--c { display: none; }
+  .top { backdrop-filter: none; background: var(--carbon-900); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero__car { animation: none; }
+  .btn { transition: none; }
+}

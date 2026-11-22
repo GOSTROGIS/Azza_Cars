@@ -1,5 +1,5 @@
 /*
-  Azza Cars components. Depends on tokens.css.
+  Ember Rent components. Depends on tokens.css.
   Class prefix az- keeps them from clashing with anything else on a page.
   Depth model: page background < surface-1 panels < surface-2 cards < surface-3 controls.
   Each raised level adds a bevel highlight, a sheen and a larger shadow.
