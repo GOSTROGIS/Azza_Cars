@@ -1,0 +1,106 @@
+[
+ {
+  "file": "models_00.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "1e00aa47c19a6d7ef23da2359cd036a65e8c0360dc8e0329f752b2eaac7ed9e7",
+  "bytes": 74019,
+  "retrieved_utc": "2026-11-22T21:41:21Z"
+ },
+ {
+  "file": "models_01.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "bdb374b522db86231e4ca976edfdd3bf1d50757ece6806785d7c5ddf6238ae12",
+  "bytes": 47523,
+  "retrieved_utc": "2026-11-22T21:41:22Z"
+ },
+ {
+  "file": "models_02.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "2d6a629b4edf5cc6fb02d8654bde76203f249694e00a62260a9cbb434f02aa5b",
+  "bytes": 23422,
+  "retrieved_utc": "2026-11-22T21:41:25Z"
+ },
+ {
+  "file": "models_03.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "1745633d7af3672d5c330ad17287a401b79e914a78bd6a0a7592f97242a2b5e6",
+  "bytes": 197480,
+  "retrieved_utc": "2026-11-22T21:41:28Z"
+ },
+ {
+  "file": "models_04.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "dcea9efcdb6440cf95754dfad10fd3cc29a16f320c6848b9d5856ce22483044e",
+  "bytes": 236093,
+  "retrieved_utc": "2026-11-22T21:41:32Z"
+ },
+ {
+  "file": "models_05.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "526d36513632361cd8e24844718a02279f1c0b18fde1a5a7ba271c0d517f08e0",
+  "bytes": 362748,
+  "retrieved_utc": "2026-11-22T21:41:33Z"
+ },
+ {
+  "file": "models_06.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "590629f535485446039c495dc05d3fecc5cda41e21a87154dd20fb52361ba96a",
+  "bytes": 531486,
+  "retrieved_utc": "2026-11-22T21:41:35Z"
+ },
+ {
+  "file": "models_07.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "b9f21de6bc01083facf5794d684b5f4af255c758f5ddee499fe6328f42f726c9",
+  "bytes": 212149,
+  "retrieved_utc": "2026-11-22T21:41:36Z"
+ },
+ {
+  "file": "models_08.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "ec6aa2c6b88c3e585ac57f565cd6141edb751872a70da0b229c0f528b8871092",
+  "bytes": 303973,
+  "retrieved_utc": "2026-11-22T21:41:37Z"
+ },
+ {
+  "file": "models_09.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "243cdf4df90e0b06a45cdc681361f615204b49fe4398e5856b6dd868aaedf0e5",
+  "bytes": 526867,
+  "retrieved_utc": "2026-11-22T21:41:40Z"
+ },
+ {
+  "file": "models_10.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "23469d0f19a4ac634c5cf748a297be318fd25fac6d311504adb55e2879824e56",
+  "bytes": 545273,
+  "retrieved_utc": "2026-11-22T21:41:42Z"
+ },
+ {
+  "file": "models_11.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "25cd0121748070e1de5cdf263f69af576cc4658d882288e5f31606a3515a8e02",
+  "bytes": 175263,
+  "retrieved_utc": "2026-11-22T21:41:46Z"
+ },
+ {
+  "file": "models_12.json",
+  "committed": true,
+  "url": "https://query.wikidata.org/sparql (POST, query saved alongside as .rq)",
+  "sha256": "232a51162ee1f91bcd7a1fb8ed29e3cc883fddeff5871e9b99327fd98424bc7b",
+  "bytes": 131780,
+  "retrieved_utc": "2026-11-22T21:41:46Z"
+ }
+]

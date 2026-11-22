@@ -1,0 +1,930 @@
+{
+  "head" : {
+    "vars" : [ "brand", "model", "modelLabel", "inception", "start", "end", "discontinued", "bodyLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1514963"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q535957"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SSC Tuatara"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q632358"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Roadster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1724639"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q540529"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastretta MXT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q632358"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Roadster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1514963"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848954"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SSC Aero"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q849607"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren F1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q834494"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Fortwo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1328950"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Forfour"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1130427"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren MP4-12C"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420893"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420902"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fisker Karma"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1361906"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1369208"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saleen S7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1328950"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Forfour"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3321341"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart electric drive"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502806"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3241863"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Geo/Chevrolet Prizm"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1359036"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3695595"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Th!nk City"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3353470"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren F1 LM"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4049638"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q4049638"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3962967"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Fortwo (W450)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3962969"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Fortwo (W451)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4347988"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Formore"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502806"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5533947"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Geo Storm"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1361906"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6135119"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saleen S281"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6407533"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren P1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1724639"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6785611"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastretta Unidiseño"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11893910"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Crossblade"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165708"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12072238"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ram ProMaster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165708"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12072238"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ram ProMaster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15770155"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 650S"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165708"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16688852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ram ProMaster City"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165708"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16688852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ram ProMaster City"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1361906"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16961109"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saleen 302 Series"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19759816"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 570S"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21028625"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 540C"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21208869"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Forfour (W454)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23979212"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 675LT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24195994"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart Forfour (W453)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23979212"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 675LT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28913682"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q28913682"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45304944"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren Senna"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55455356"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 600LT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55455356"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 600LT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1361906"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56063090"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saleen S1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54850424"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 570GT"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q77961963"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 620R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q75234729"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren Elva"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63968564"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren GT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90145158"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart 453 Fortwo ED 4/EQ"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57831546"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren Speedtail"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420724"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90021331"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Freightliner Classic"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86975679"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren 765LT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420893"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96472452"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fisker Ocean"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420893"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96472561"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fisker Alaska"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17006727"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99438545"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kandi K10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17006727"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99438700"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kandi K12"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17006727"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99462962"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kandi K27"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17006727"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99463127"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kandi K23"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102562479"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren Artura"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110916004"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart #1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q113579330"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren Solus GT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115436340"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart #3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420893"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120736962"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fisker Pear"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156490"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126681324"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Smart #5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165708"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126697848"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ram 1200"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351854"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130375472"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "McLaren W1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165708"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142235542"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q142235542"
+      }
+    } ]
+  }
+}

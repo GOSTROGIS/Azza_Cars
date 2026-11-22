@@ -1,0 +1,1311 @@
+[
+ {
+  "slug": "acura",
+  "name": "Acura",
+  "segment": "light",
+  "models": 37,
+  "logo": "logos/svg/acura.svg",
+  "register_sources": 3
+ },
+ {
+  "slug": "alfa-romeo",
+  "name": "Alfa Romeo",
+  "segment": "light",
+  "models": 119,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "aston-martin",
+  "name": "Aston Martin",
+  "segment": "light",
+  "models": 66,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "audi",
+  "name": "Audi",
+  "segment": "light",
+  "models": 266,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "bentley",
+  "name": "Bentley",
+  "segment": "light",
+  "models": 42,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "bmw",
+  "name": "BMW",
+  "segment": "light",
+  "models": 366,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "bugatti",
+  "name": "Bugatti",
+  "segment": "light",
+  "models": 18,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "buick",
+  "name": "Buick",
+  "segment": "light",
+  "models": 73,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "cadillac",
+  "name": "Cadillac",
+  "segment": "light",
+  "models": 125,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "chevrolet",
+  "name": "Chevrolet",
+  "segment": "light",
+  "models": 338,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "chrysler",
+  "name": "Chrysler",
+  "segment": "light",
+  "models": 131,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "dodge",
+  "name": "Dodge",
+  "segment": "light",
+  "models": 177,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "ferrari",
+  "name": "Ferrari",
+  "segment": "light",
+  "models": 215,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "fiat",
+  "name": "Fiat",
+  "segment": "light",
+  "models": 363,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "ford",
+  "name": "Ford",
+  "segment": "light",
+  "models": 476,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "genesis",
+  "name": "Genesis",
+  "segment": "light",
+  "models": 10,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "gmc",
+  "name": "GMC",
+  "segment": "light",
+  "models": 111,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "honda",
+  "name": "Honda",
+  "segment": "light",
+  "models": 155,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "hyundai",
+  "name": "Hyundai",
+  "segment": "light",
+  "models": 125,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "infiniti",
+  "name": "Infiniti",
+  "segment": "light",
+  "models": 53,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "ineos",
+  "name": "Ineos Automotive",
+  "segment": "light",
+  "models": 3,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "jaguar",
+  "name": "Jaguar",
+  "segment": "light",
+  "models": 76,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "jeep",
+  "name": "Jeep",
+  "segment": "light",
+  "models": 46,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "kia",
+  "name": "Kia",
+  "segment": "light",
+  "models": 88,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "koenigsegg",
+  "name": "Koenigsegg",
+  "segment": "light",
+  "models": 7,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "lamborghini",
+  "name": "Lamborghini",
+  "segment": "light",
+  "models": 57,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "land-rover",
+  "name": "Land Rover",
+  "segment": "light",
+  "models": 52,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "lexus",
+  "name": "Lexus",
+  "segment": "light",
+  "models": 73,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "lincoln",
+  "name": "Lincoln",
+  "segment": "light",
+  "models": 41,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "lotus",
+  "name": "Lotus",
+  "segment": "light",
+  "models": 69,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "lucid",
+  "name": "Lucid",
+  "segment": "light",
+  "models": 23,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "maserati",
+  "name": "Maserati",
+  "segment": "light",
+  "models": 85,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "mazda",
+  "name": "Mazda",
+  "segment": "light",
+  "models": 134,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "mclaren",
+  "name": "McLaren",
+  "segment": "light",
+  "models": 34,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "mercedes-benz",
+  "name": "Mercedes-Benz",
+  "segment": "light",
+  "models": 588,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "maybach",
+  "name": "Maybach",
+  "segment": "light",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "mini",
+  "name": "Mini",
+  "segment": "light",
+  "models": 29,
+  "logo": "logos/svg/mini.svg",
+  "register_sources": 3
+ },
+ {
+  "slug": "mitsubishi",
+  "name": "Mitsubishi Motors",
+  "segment": "light",
+  "models": 141,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "morgan",
+  "name": "Morgan",
+  "segment": "light",
+  "models": 16,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "nissan",
+  "name": "Nissan",
+  "segment": "light",
+  "models": 249,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "pagani",
+  "name": "Pagani",
+  "segment": "light",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "polestar",
+  "name": "Polestar",
+  "segment": "light",
+  "models": 19,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "porsche",
+  "name": "Porsche",
+  "segment": "light",
+  "models": 128,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "ram",
+  "name": "Ram",
+  "segment": "light",
+  "models": 16,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "rimac",
+  "name": "Rimac",
+  "segment": "light",
+  "models": 3,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "rivian",
+  "name": "Rivian",
+  "segment": "light",
+  "models": 75,
+  "logo": "logos/svg/rivian.svg",
+  "register_sources": 2
+ },
+ {
+  "slug": "rolls-royce",
+  "name": "Rolls-Royce",
+  "segment": "light",
+  "models": 62,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "subaru",
+  "name": "Subaru",
+  "segment": "light",
+  "models": 117,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "tesla",
+  "name": "Tesla",
+  "segment": "light",
+  "models": 30,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "toyota",
+  "name": "Toyota",
+  "segment": "light",
+  "models": 349,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "vinfast",
+  "name": "VinFast",
+  "segment": "light",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "volkswagen",
+  "name": "Volkswagen",
+  "segment": "light",
+  "models": 229,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "volvo",
+  "name": "Volvo Cars",
+  "segment": "light",
+  "models": 211,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "scout",
+  "name": "Scout Motors",
+  "segment": "light",
+  "models": 4,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "slate",
+  "name": "Slate Auto",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "czinger",
+  "name": "Czinger",
+  "segment": "light",
+  "models": 1,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "saleen",
+  "name": "Saleen",
+  "segment": "light",
+  "models": 9,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "ssc",
+  "name": "SSC North America",
+  "segment": "light",
+  "models": 5,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "glickenhaus",
+  "name": "Glickenhaus",
+  "segment": "light",
+  "models": 9,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "mahindra",
+  "name": "Mahindra",
+  "segment": "light",
+  "models": 24,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "zeekr",
+  "name": "Zeekr",
+  "segment": "light",
+  "models": 8,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "byd",
+  "name": "BYD",
+  "segment": "light",
+  "models": 87,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "kandi",
+  "name": "Kandi",
+  "segment": "light",
+  "models": 21,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "karma",
+  "name": "Karma",
+  "segment": "light",
+  "models": 12,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "fisker",
+  "name": "Fisker",
+  "segment": "light",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "canoo",
+  "name": "Canoo",
+  "segment": "light",
+  "models": 8,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "lordstown",
+  "name": "Lordstown Motors",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "brightdrop",
+  "name": "BrightDrop",
+  "segment": "light",
+  "models": 1,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "seat",
+  "name": "SEAT",
+  "segment": "light",
+  "models": 100,
+  "logo": "logos/svg/seat.svg",
+  "register_sources": 2
+ },
+ {
+  "slug": "cupra",
+  "name": "Cupra",
+  "segment": "light",
+  "models": 4,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "peugeot",
+  "name": "Peugeot",
+  "segment": "light",
+  "models": 259,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "renault",
+  "name": "Renault",
+  "segment": "light",
+  "models": 354,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "suzuki",
+  "name": "Suzuki",
+  "segment": "light",
+  "models": 93,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "isuzu",
+  "name": "Isuzu",
+  "segment": "light",
+  "models": 76,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "mg",
+  "name": "MG",
+  "segment": "light",
+  "models": 27,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "chirey",
+  "name": "Chirey (Chery)",
+  "segment": "light",
+  "models": 75,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "omoda",
+  "name": "Omoda",
+  "segment": "light",
+  "models": 5,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "jaecoo",
+  "name": "Jaecoo",
+  "segment": "light",
+  "models": 0,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "jac",
+  "name": "JAC",
+  "segment": "light",
+  "models": 69,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "gwm",
+  "name": "GWM (Great Wall Motor)",
+  "segment": "light",
+  "models": 54,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "haval",
+  "name": "Haval",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "tank",
+  "name": "Tank",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "ora",
+  "name": "Ora",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "changan",
+  "name": "Changan",
+  "segment": "light",
+  "models": 54,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "deepal",
+  "name": "Deepal",
+  "segment": "light",
+  "models": 5,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "geely",
+  "name": "Geely",
+  "segment": "light",
+  "models": 43,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "lynk-co",
+  "name": "Lynk & Co",
+  "segment": "light",
+  "models": 10,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "leapmotor",
+  "name": "Leapmotor",
+  "segment": "light",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "gac",
+  "name": "GAC",
+  "segment": "light",
+  "models": 10,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "jetour",
+  "name": "Jetour",
+  "segment": "light",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "soueast",
+  "name": "Soueast",
+  "segment": "light",
+  "models": 15,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "baic",
+  "name": "BAIC",
+  "segment": "light",
+  "models": 15,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "dfsk",
+  "name": "DFSK",
+  "segment": "light",
+  "models": 14,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "jmc",
+  "name": "JMC",
+  "segment": "light",
+  "models": 13,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "seres",
+  "name": "Seres",
+  "segment": "light",
+  "models": 3,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "foton",
+  "name": "Foton",
+  "segment": "light",
+  "models": 19,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "amc",
+  "name": "AMC (American Motors)",
+  "segment": "light",
+  "models": 23,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "eagle",
+  "name": "Eagle",
+  "segment": "light",
+  "models": 10,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "plymouth",
+  "name": "Plymouth",
+  "segment": "light",
+  "models": 52,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "oldsmobile",
+  "name": "Oldsmobile",
+  "segment": "light",
+  "models": 68,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "pontiac",
+  "name": "Pontiac",
+  "segment": "light",
+  "models": 45,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "saturn",
+  "name": "Saturn",
+  "segment": "light",
+  "models": 31,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "mercury",
+  "name": "Mercury",
+  "segment": "light",
+  "models": 44,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "hummer",
+  "name": "Hummer",
+  "segment": "light",
+  "models": 4,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "geo",
+  "name": "Geo",
+  "segment": "light",
+  "models": 7,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "scion",
+  "name": "Scion",
+  "segment": "light",
+  "models": 8,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "saab",
+  "name": "Saab",
+  "segment": "light",
+  "models": 28,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "daewoo",
+  "name": "Daewoo",
+  "segment": "light",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "merkur",
+  "name": "Merkur",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "sterling-cars",
+  "name": "Sterling (cars)",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "yugo",
+  "name": "Yugo",
+  "segment": "light",
+  "models": 7,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "datsun",
+  "name": "Datsun",
+  "segment": "light",
+  "models": 42,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "daihatsu",
+  "name": "Daihatsu",
+  "segment": "light",
+  "models": 86,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "smart",
+  "name": "Smart",
+  "segment": "light",
+  "models": 13,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "asuna",
+  "name": "Asüna",
+  "segment": "light",
+  "models": 1,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "passport",
+  "name": "Passport",
+  "segment": "light",
+  "models": 0,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "lada",
+  "name": "Lada",
+  "segment": "light",
+  "models": 14,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "delorean",
+  "name": "DeLorean",
+  "segment": "light",
+  "models": 1,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "avanti",
+  "name": "Avanti",
+  "segment": "light",
+  "models": 1,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "checker",
+  "name": "Checker",
+  "segment": "light",
+  "models": 6,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "lancia",
+  "name": "Lancia",
+  "segment": "light",
+  "models": 62,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "triumph",
+  "name": "Triumph",
+  "segment": "light",
+  "models": 37,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "rover",
+  "name": "Rover",
+  "segment": "light",
+  "models": 27,
+  "logo": null,
+  "register_sources": 3
+ },
+ {
+  "slug": "opel",
+  "name": "Opel",
+  "segment": "light",
+  "models": 143,
+  "logo": "logos/svg/opel.svg",
+  "register_sources": 2
+ },
+ {
+  "slug": "holden",
+  "name": "Holden",
+  "segment": "light",
+  "models": 48,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "srt",
+  "name": "SRT",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "coda",
+  "name": "Coda",
+  "segment": "light",
+  "models": 1,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "think",
+  "name": "Th!nk",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "panoz",
+  "name": "Panoz",
+  "segment": "light",
+  "models": 4,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "mosler",
+  "name": "Mosler",
+  "segment": "light",
+  "models": 4,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "vector",
+  "name": "Vector",
+  "segment": "light",
+  "models": 8,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "shelby",
+  "name": "Shelby American",
+  "segment": "light",
+  "models": 6,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "spyker",
+  "name": "Spyker",
+  "segment": "light",
+  "models": 9,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "vam",
+  "name": "VAM",
+  "segment": "light",
+  "models": 1,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "mastretta",
+  "name": "Mastretta",
+  "segment": "light",
+  "models": 2,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "freightliner",
+  "name": "Freightliner",
+  "segment": "truck",
+  "models": 129,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "western-star",
+  "name": "Western Star",
+  "segment": "truck",
+  "models": 18,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "peterbilt",
+  "name": "Peterbilt",
+  "segment": "truck",
+  "models": 47,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "kenworth",
+  "name": "Kenworth",
+  "segment": "truck",
+  "models": 44,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "mack",
+  "name": "Mack",
+  "segment": "truck",
+  "models": 59,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "volvo-trucks",
+  "name": "Volvo Trucks",
+  "segment": "truck",
+  "models": 46,
+  "logo": "logos/svg/volvo-trucks.svg",
+  "register_sources": 2
+ },
+ {
+  "slug": "international",
+  "name": "International (Navistar)",
+  "segment": "truck",
+  "models": 346,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "hino",
+  "name": "Hino",
+  "segment": "truck",
+  "models": 31,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "fuso",
+  "name": "Mitsubishi Fuso",
+  "segment": "truck",
+  "models": 48,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "ud-trucks",
+  "name": "UD Trucks",
+  "segment": "truck",
+  "models": 27,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "sterling-trucks",
+  "name": "Sterling Trucks",
+  "segment": "truck",
+  "models": 33,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "autocar",
+  "name": "Autocar",
+  "segment": "truck",
+  "models": 20,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "white",
+  "name": "White",
+  "segment": "truck",
+  "models": 11,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "whitegmc",
+  "name": "WhiteGMC",
+  "segment": "truck",
+  "models": 26,
+  "logo": null,
+  "register_sources": 1
+ },
+ {
+  "slug": "diamond-reo",
+  "name": "Diamond Reo",
+  "segment": "truck",
+  "models": 10,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "marmon",
+  "name": "Marmon",
+  "segment": "truck",
+  "models": 1,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "oshkosh",
+  "name": "Oshkosh",
+  "segment": "truck",
+  "models": 64,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "workhorse",
+  "name": "Workhorse",
+  "segment": "truck",
+  "models": 32,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "nikola",
+  "name": "Nikola",
+  "segment": "truck",
+  "models": 3,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "xos",
+  "name": "Xos",
+  "segment": "truck",
+  "models": 9,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "lion",
+  "name": "Lion Electric",
+  "segment": "truck",
+  "models": 5,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "dina",
+  "name": "DINA",
+  "segment": "truck",
+  "models": 4,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "iveco",
+  "name": "Iveco",
+  "segment": "truck",
+  "models": 12,
+  "logo": null,
+  "register_sources": 2
+ },
+ {
+  "slug": "_inegi_changan",
+  "name": "Changan (INEGI company, brand not stated)",
+  "segment": "light",
+  "models": 14,
+  "logo": null,
+  "register_sources": 0,
+  "inegi_company": "Changan"
+ },
+ {
+  "slug": "_inegi_chrysler",
+  "name": "Chrysler (INEGI company, brand not stated)",
+  "segment": "light",
+  "models": 21,
+  "logo": null,
+  "register_sources": 0,
+  "inegi_company": "Chrysler"
+ },
+ {
+  "slug": "_inegi_generalmotors",
+  "name": "General Motors (INEGI company, brand not stated)",
+  "segment": "light",
+  "models": 35,
+  "logo": null,
+  "register_sources": 0,
+  "inegi_company": "General Motors"
+ },
+ {
+  "slug": "_inegi_greatwallmotor",
+  "name": "Great Wall Motor (INEGI company, brand not stated)",
+  "segment": "light",
+  "models": 4,
+  "logo": null,
+  "register_sources": 0,
+  "inegi_company": "Great Wall Motor"
+ },
+ {
+  "slug": "_inegi_motornation",
+  "name": "MOTORNATION (INEGI company, brand not stated)",
+  "segment": "light",
+  "models": 10,
+  "logo": null,
+  "register_sources": 0,
+  "inegi_company": "MOTORNATION"
+ }
+]

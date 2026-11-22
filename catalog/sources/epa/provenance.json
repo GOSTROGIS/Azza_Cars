@@ -1,0 +1,10 @@
+[
+ {
+  "file": "vehicles.csv.zip",
+  "committed": true,
+  "url": "https://www.fueleconomy.gov/feg/epadata/vehicles.csv.zip",
+  "sha256": "1d553896a77898f6cf47128281337af268df053c90dc1365891c7c8abff82c82",
+  "bytes": 2228192,
+  "retrieved_utc": "2026-11-22T21:41:03Z"
+ }
+]

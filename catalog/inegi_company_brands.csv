@@ -1,0 +1,8 @@
+inegi_company,brand_slugs,basis
+General Motors,chevrolet|gmc|buick|cadillac|pontiac|hummer|saab,register/README.md: INEGI "General Motors" covers Chevrolet GMC Buick Cadillac Pontiac Hummer and Saab
+Chrysler,chrysler|dodge|jeep|ram,register/README.md: INEGI "Chrysler" covers Chrysler Dodge Jeep and Ram
+Ford Motor,ford,register/brands.csv inegi_marca (Lincoln reports separately as "Lincoln")
+Great Wall Motor,gwm|haval|tank|ora,register/brands.csv inegi_marca
+Changan,changan|deepal,register/brands.csv inegi_marca
+MOTORNATION,baic|dfsk|jmc|seres,register/brands.csv inegi_marca
+Jetour Soueast,soueast,register/brands.csv inegi_marca

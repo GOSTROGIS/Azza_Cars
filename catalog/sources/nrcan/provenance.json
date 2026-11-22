@@ -1,0 +1,58 @@
+[
+ {
+  "file": "package_show.json",
+  "committed": true,
+  "url": "https://open.canada.ca/data/api/action/package_show?id=98f1a129-f628-4ce4-b24d-6f16bf24dd64",
+  "sha256": "9d0a4ce8beba71cedc8cd825abcaf8d775139b4dfe91ff5086db1d00df0f9822",
+  "bytes": 29689,
+  "retrieved_utc": "2026-11-22T21:41:03Z"
+ },
+ {
+  "file": "my2012-2026-battery-electric-vehicles.csv",
+  "committed": true,
+  "url": "https://open.canada.ca/data/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/026e45b4-eb63-451f-b34f-d9308ea3a3d9/download/my2012-2026-battery-electric-vehicles.csv",
+  "sha256": "d37f52ee8049e93b37f66ac233b037e6abe0218ef3635ef6cbddf8fb8c675f51",
+  "bytes": 138739,
+  "retrieved_utc": "2026-11-22T21:41:04Z"
+ },
+ {
+  "file": "my2012-2026-plug-in-hybrid-electric-vehicles.csv",
+  "committed": true,
+  "url": "https://open.canada.ca/data/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/8812228b-a6aa-4303-b3d0-66489225120d/download/my2012-2026-plug-in-hybrid-electric-vehicles.csv",
+  "sha256": "4093cb5edad631210d7957a84967566b6b1196decdfbbdc0c345dea9a78c5c8a",
+  "bytes": 53663,
+  "retrieved_utc": "2026-11-22T21:41:05Z"
+ },
+ {
+  "file": "my2026-fuel-consumption-ratings.csv",
+  "committed": true,
+  "url": "https://open.canada.ca/data/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/9df1b18d-d036-4783-a61c-99f1f75b3ac5/download/my2026-fuel-consumption-ratings.csv",
+  "sha256": "88144b951172df0251b4049ea560ed30c765f418298ed459484f3b906f661991",
+  "bytes": 53702,
+  "retrieved_utc": "2026-11-22T21:41:05Z"
+ },
+ {
+  "file": "my2025-fuel-consumption-ratings.csv",
+  "committed": true,
+  "url": "https://open.canada.ca/data/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/d589f2bc-9a85-4f65-be2f-20f17debfcb1/download/my2025-fuel-consumption-ratings.csv",
+  "sha256": "46088cd4853987ef7a684f0b0af86e93e83dfaa378607a4750958c996248639c",
+  "bytes": 60700,
+  "retrieved_utc": "2026-11-22T21:41:06Z"
+ },
+ {
+  "file": "my2015-2024-fuel-consumption-ratings.csv",
+  "committed": true,
+  "url": "https://open.canada.ca/data/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/c98b9dc8-b23f-4cd8-8b19-e892da1e4688/download/my2015-2024-fuel-consumption-ratings.csv",
+  "sha256": "adb157dccde5d954d34b8a068f9dd604ad28b0050d2bb3ba17d26678761d2cb7",
+  "bytes": 827253,
+  "retrieved_utc": "2026-11-22T21:41:06Z"
+ },
+ {
+  "file": "my1995-2014-fuel-consumption-ratings-5-cycle.csv",
+  "committed": true,
+  "url": "https://open.canada.ca/data/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/42495676-28b7-40f3-b0e0-3d7fe005ca56/download/my1995-2014-fuel-consumption-ratings-5-cycle.csv",
+  "sha256": "a99334ab5e08f32ad8cb5c378eb6a9620b7a202853259f89ffa655dcf11e0f5a",
+  "bytes": 1432995,
+  "retrieved_utc": "2026-11-22T21:41:07Z"
+ }
+]

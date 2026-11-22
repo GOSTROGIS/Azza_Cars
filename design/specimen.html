@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en" data-theme="carbon">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Azza Cars Design Specimen</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,400..900&family=Inter:wght@400..800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="tokens.css">
+  <link rel="stylesheet" href="components.css">
+  <style>
+    .page { max-width: var(--page-max); margin: 0 auto; padding: var(--space-7) var(--gutter) var(--space-8); display: grid; gap: var(--space-7); }
+    header.top { display: flex; justify-content: space-between; align-items: flex-end; gap: var(--space-5); flex-wrap: wrap; }
+    section { display: grid; gap: var(--space-4); }
+    .row { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center; }
+    .grid { display: grid; gap: var(--space-4); grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+    .swatch { border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--border); box-shadow: var(--bevel), var(--shadow-1); background: var(--surface-2); }
+    .swatch .chip { height: 84px; display: flex; align-items: flex-end; padding: var(--space-2) var(--space-3); font: 700 var(--text-sm) var(--font-display); }
+    .swatch .meta { padding: var(--space-2) var(--space-3); font: 500 var(--text-xs) var(--font-mono); color: var(--text-muted); display: grid; gap: 2px; }
+    .levels { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: var(--space-5); padding: var(--space-6); }
+    .level { height: 110px; display: grid; place-items: center; font: 700 var(--text-sm) var(--font-display); }
+    .type-row { display: grid; grid-template-columns: 120px 1fr; gap: var(--space-4); align-items: baseline; border-bottom: 1px solid var(--border); padding: var(--space-3) 0; }
+    .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: var(--space-3); }
+    .contrast td, .contrast th { padding: 6px 10px; border-bottom: 1px solid var(--border); text-align: left; font-size: var(--text-sm); }
+    .contrast { border-collapse: collapse; width: 100%; }
+    .pass { color: var(--accent-text); font-weight: 700; }
+    .stage { height: 220px; border-radius: var(--radius-lg); background: radial-gradient(60% 80% at 50% 100%, rgba(255,75,31,0.25), transparent 70%), linear-gradient(180deg, var(--surface-2), var(--bg)); box-shadow: inset 0 2px 20px rgba(0,0,0,0.5); display: grid; place-items: center; perspective: 900px; }
+    .stage .slab { width: 60%; height: 90px; border-radius: var(--radius-lg); transform: rotateX(48deg) rotateZ(-8deg); }
+    @media (max-width: 600px) { .type-row { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body class="az-root">
+<main class="page">
+  <header class="top">
+    <div>
+      <div class="az-eyebrow">Design system · v0.1</div>
+      <h1 class="az-display">Bone. Carbon.<br><span class="az-accent">Blood orange.</span></h1>
+      <p class="az-muted" style="max-width:60ch">Tokens and components for the Azza Cars website and dashboard. Every surface sits on a depth level with a bevel highlight, a sheen and stacked shadows. Text pairings below are measured live against WCAG 2.2.</p>
+    </div>
+    <div class="az-seg" role="group" aria-label="Theme">
+      <button type="button" aria-pressed="true" data-theme-btn="carbon">Carbon</button>
+      <button type="button" aria-pressed="false" data-theme-btn="bone">Bone</button>
+    </div>
+  </header>
+
+  <section aria-labelledby="h-colour">
+    <h2 class="az-h2" id="h-colour">Colour</h2>
+    <div class="grid" id="swatches"></div>
+  </section>
+
+  <section aria-labelledby="h-contrast">
+    <h2 class="az-h2" id="h-contrast">Contrast (live, this theme)</h2>
+    <div class="az-panel" style="padding: var(--space-4); overflow-x:auto">
+      <table class="contrast" id="contrast"><thead><tr><th>Text</th><th>Background</th><th>Ratio</th><th>WCAG</th></tr></thead><tbody></tbody></table>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-type">
+    <h2 class="az-h2" id="h-type">Type</h2>
+    <div>
+      <div class="type-row"><span class="az-mono az-muted">display</span><span class="az-display" style="font-size: var(--text-3xl)">Find your drive</span></div>
+      <div class="type-row"><span class="az-mono az-muted">h1</span><span class="az-h1">Every brand. Every model.</span></div>
+      <div class="type-row"><span class="az-mono az-muted">h2</span><span class="az-h2">Search the catalog</span></div>
+      <div class="type-row"><span class="az-mono az-muted">h3</span><span class="az-h3">Model details</span></div>
+      <div class="type-row"><span class="az-mono az-muted">eyebrow</span><span class="az-eyebrow">Sources</span></div>
+      <div class="type-row"><span class="az-mono az-muted">body</span><span>Body copy is Inter at 16 px with a 1.55 line height for long reading on phones and desktops.</span></div>
+      <div class="type-row"><span class="az-mono az-muted">mono</span><span class="az-mono">vPIC · EPA · NRCan · INEGI · Wikidata</span></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-depth">
+    <h2 class="az-h2" id="h-depth">Depth</h2>
+    <div class="az-panel levels">
+      <div class="level" style="background:var(--bg); border-radius:var(--radius-md); box-shadow: inset 0 2px 8px rgba(0,0,0,.4)">Recessed (input)</div>
+      <div class="level az-panel">Level 1 · panel</div>
+      <div class="level az-card">Level 2 · card</div>
+      <div class="level az-card az-card--interactive">Level 3 · hover me</div>
+      <div class="level az-card az-card--selected">Selected · glow</div>
+    </div>
+    <div class="stage"><div class="slab az-card az-card--selected"></div></div>
+  </section>
+
+  <section aria-labelledby="h-controls">
+    <h2 class="az-h2" id="h-controls">Controls</h2>
+    <div class="row">
+      <button class="az-btn az-btn--primary" type="button">Reserve</button>
+      <button class="az-btn" type="button">Compare</button>
+      <button class="az-btn az-btn--ghost" type="button">Reset filters</button>
+      <button class="az-btn" type="button" disabled>Disabled</button>
+    </div>
+    <div class="row">
+      <button class="az-chip" type="button" aria-pressed="true">SUV <span class="az-count">12</span></button>
+      <button class="az-chip" type="button" aria-pressed="false">Pickup <span class="az-count">4</span></button>
+      <button class="az-chip" type="button" aria-pressed="false">Car <span class="az-count">20</span></button>
+      <div class="az-seg" role="group" aria-label="Status"><button type="button" aria-pressed="true">All</button><button type="button" aria-pressed="false">Current</button><button type="button" aria-pressed="false">Discontinued</button></div>
+    </div>
+    <div class="row">
+      <span class="az-badge az-badge--current">Current</span>
+      <span class="az-badge az-badge--discontinued">Discontinued</span>
+      <span class="az-badge az-badge--unknown">Status unknown</span>
+      <span class="az-badge az-badge--market">US</span><span class="az-badge az-badge--market">CA</span><span class="az-badge az-badge--market">MX</span>
+      <span><span class="az-kbd">↑</span> <span class="az-kbd">↓</span> <span class="az-kbd">Enter</span> <span class="az-kbd">Esc</span> <span class="az-kbd">/</span></span>
+    </div>
+    <label class="az-visually-hidden" for="demo-search">Search</label>
+    <input id="demo-search" class="az-input" placeholder="Search a brand or model, e.g. crv, f150, model 3" style="max-width: 640px">
+    <div class="az-panel" style="max-width: 640px">
+      <ul class="az-listbox" role="listbox" aria-label="Example results">
+        <li class="az-option" role="option" aria-selected="true"><span class="az-tile__count">01</span><span>Example <mark>mod</mark>el name<br><span class="az-muted" style="font-size:var(--text-xs)">Brand · years · body</span></span><span class="az-badge az-badge--current">Current</span></li>
+        <li class="az-option" role="option" aria-selected="false"><span class="az-tile__count">02</span><span>Another <mark>mod</mark>el<br><span class="az-muted" style="font-size:var(--text-xs)">Brand · years · body</span></span><span class="az-badge az-badge--discontinued">Discontinued</span></li>
+      </ul>
+    </div>
+    <div class="az-notice" role="note"><strong>Honesty label.</strong> 3D vehicles are faithful recreations traced from public reference images. They are not factory CAD and are not identical to the real vehicle.</div>
+  </section>
+
+  <section aria-labelledby="h-tiles">
+    <h2 class="az-h2" id="h-tiles">Brand tiles</h2>
+    <p class="az-muted">An audited logo when one has passed the logo audit, otherwise the brand name in clean type with a pending note. Logos are never drawn or approximated.</p>
+    <div class="tiles">
+      <button class="az-tile" type="button" aria-pressed="true"><img class="az-tile__logo" src="../logos/svg/acura.svg" alt="Acura logo"><span class="az-tile__wordmark">Acura</span><span class="az-tile__count">audited logo</span></button>
+      <button class="az-tile" type="button" aria-pressed="false"><img class="az-tile__logo" src="../logos/svg/rivian.svg" alt="Rivian logo"><span class="az-tile__wordmark">Rivian</span><span class="az-tile__count">audited logo</span></button>
+      <button class="az-tile" type="button" aria-pressed="false"><span class="az-tile__wordmark">Brand name</span><span class="az-tile__note">Logo pending audit</span></button>
+    </div>
+  </section>
+</main>
+<script>
+  const SWATCHES = [
+    ["--bone-50", "Bone 50"], ["--bone-100", "Bone 100"], ["--bone-200", "Bone 200"], ["--bone-300", "Bone 300"],
+    ["--carbon-950", "Carbon 950"], ["--carbon-900", "Carbon 900"], ["--carbon-800", "Carbon 800"], ["--carbon-700", "Carbon 700"],
+    ["--orange-300", "Orange 300"], ["--orange-500", "Blood orange 500"], ["--orange-700", "Orange 700"], ["--orange-800", "Orange 800 (ink)"],
+  ];
+  // Keep in step with PAIRS in tools/design/contrast.py, which writes design/contrast.md.
+  const PAIRS = [
+    ["--text", "--bg"], ["--text", "--surface-1"], ["--text", "--surface-2"], ["--text", "--surface-3"],
+    ["--text-strong", "--surface-2"], ["--text-muted", "--bg"], ["--text-muted", "--surface-1"],
+    ["--text-muted", "--surface-2"], ["--accent-text", "--bg"], ["--accent-text", "--surface-1"],
+    ["--accent-text", "--surface-2"], ["--on-accent", "--accent"], ["--text-inverse", "--surface-inverse"],
+  ];
+  const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  const hex = (h) => { const m = h.replace("#", ""); return [0, 2, 4].map((i) => parseInt(m.slice(i, i + 2), 16) / 255); };
+  const lum = (h) => { const [r, g, b] = hex(h).map((c) => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4)); return 0.2126 * r + 0.7152 * g + 0.0722 * b; };
+  const ratio = (a, b) => { const [x, y] = [lum(a), lum(b)].sort((p, q) => q - p); return (x + 0.05) / (y + 0.05); };
+  const resolve = (v) => { let val = css(v); for (let i = 0; i < 4 && val.startsWith("var("); i++) val = css(val.slice(4, -1)); return val; };
+  function render() {
+    const sw = document.getElementById("swatches");
+    sw.innerHTML = SWATCHES.map(([v, n]) => {
+      const c = resolve(v); const fg = lum(c) > 0.3 ? "#111112" : "#f6f2ea";
+      return `<div class="swatch"><div class="chip" style="background:${c};color:${fg}">${n}</div><div class="meta"><span>${v}</span><span>${c}</span></div></div>`;
+    }).join("");
+    const tb = document.querySelector("#contrast tbody");
+    tb.innerHTML = PAIRS.map(([f, b]) => {
+      const r = ratio(resolve(f), resolve(b));
+      const grade = r >= 7 ? "AAA" : r >= 4.5 ? "AA" : r >= 3 ? "AA large only" : "Fail";
+      return `<tr><td><code>${f}</code> ${resolve(f)}</td><td><code>${b}</code> ${resolve(b)}</td><td class="az-mono">${r.toFixed(2)}:1</td><td class="${r >= 4.5 ? "pass" : ""}">${grade}</td></tr>`;
+    }).join("");
+  }
+  document.querySelectorAll("[data-theme-btn]").forEach((btn) => btn.addEventListener("click", () => {
+    document.documentElement.dataset.theme = btn.dataset.themeBtn;
+    document.querySelectorAll("[data-theme-btn]").forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
+    render();
+  }));
+  render();
+</script>
+</body>
+</html>

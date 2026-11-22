@@ -1,0 +1,1880 @@
+{
+  "head" : {
+    "vars" : [ "brand", "model", "modelLabel", "inception", "start", "end", "discontinued", "bodyLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36024"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q368818"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan LIFEcar"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241608"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q370524"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DeLorean DMC-12"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q517678"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Aero 8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q547370"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Vitesse"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q547370"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Vitesse"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q687195"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q691079"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph GT6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q751316"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Talon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q691079"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph GT6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q751316"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Talon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q847221"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Italia"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q847221"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Italia"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q959726"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Summit"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1029670"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Mayflower"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q959726"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Summit"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q940506"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Roadster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q940701"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Renown"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1029670"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Mayflower"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1276797"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Medallion"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1276830"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Premier"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1276845"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Vista"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1276852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Vision"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1276845"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Vista"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1276852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle Vision"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1342273"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Spitfire"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1342273"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Spitfire"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1498471"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1545329"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Toledo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1670065"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1545329"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Toledo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1578941"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Countryman"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1498471"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1774573"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1547617"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 1500"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1790333"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1790339"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1798248"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR4A"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1547617"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 1500"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1670065"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1774573"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1808364"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Dolomite"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809643"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Stag"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1790333"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1809643"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Stag"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1808364"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Dolomite"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1798248"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR4A"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2006725"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Acclaim"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1858584"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Herald"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2006725"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Acclaim"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1858584"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Herald"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2036498"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 1300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2036498"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 1300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2249079"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Roadster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2304714"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 2000"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2304746"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2304762"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2342984"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Clubman"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454392"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 10/20"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454393"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 13/35"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454404"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Dolomite Straight Eight"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454409"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 15/50"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454411"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Dolomite"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454417"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Gloria"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454429"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2454429"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454440"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Super 7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454463"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2454463"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2304714"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 2000"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2304746"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2304762"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454466"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Vitesse"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2461750"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Plus 8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454466"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Vitesse"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454393"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 13/35"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454404"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Dolomite Straight Eight"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454409"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 15/50"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454411"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Dolomite"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454417"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Gloria"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454429"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2454429"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454440"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Super 7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454463"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2454463"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2454392"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 10/20"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3314995"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q3314995"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3083237"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan 4/4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3539717"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR3A"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4044528"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan 3-Wheeler"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3858405"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Coupé and Roadster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1203417"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5325101"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eagle HF89"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6865001"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini (MkI)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6865039"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini E"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7469937"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Super 9"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10563813"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR250"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7844508"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Fury"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7844541"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR7 Sprint"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6911571"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan +4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6911573"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan +4+"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6911655"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Eva GT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6911668"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Four Seater"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10322510"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Cooper"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10859924"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nissan Diesel UA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10859924"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nissan Diesel UA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10563813"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph TR250"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11781425"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Hatch"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13586515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Aeromax"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14552135"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Southern Cross"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16040721"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q16040721"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16040723"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q16040723"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14552135"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph Southern Cross"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17635143"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Hatch (F56)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20039727"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UD Quester"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21525467"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Aero SuperSports"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27639009"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Clubman/1275 GT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27639038"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Clubman"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42782388"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nissan Diesel Space Runner RA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27639009"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Clubman/1275 GT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116232"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27639038"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mini Clubman"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43379298"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UD BRT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1190247"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44954400"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fuso Ecanter"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47015772"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UD Croner"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47015789"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UD Kuzer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62823330"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Plus Six"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1241339"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65068213"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nissan Diesel C-series"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q87633064"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Plus Four"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110038404"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Plus 8 GTR"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140388"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116134002"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Triumph 1800 saloon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118646009"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117945143"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-01-01T00:00:00Z"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chery Omoda S5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133272534"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Supersport"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134100360"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134267810"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slate"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134100360"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134267810"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slate"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118646009"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134464274"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Omoda O4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165625"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133830392"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morgan Midsummer"
+      }
+    } ]
+  }
+}

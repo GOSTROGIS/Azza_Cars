@@ -1,0 +1,72 @@
+# Model catalog
+
+Every car and truck model the website can show, for every brand in `register/brands.csv`.
+Each model row lists the public sources that confirm it. Nothing in the catalog is typed in by hand.
+
+## Files
+
+| File | What it is |
+|---|---|
+| `models.json` | Generated. One row per model: brand, name, other names used by sources, years, body types, markets, status and sources |
+| `brands.json` | Generated. Register brands with model counts and audited logo path (or null) |
+| `build_report.json` | Generated. Counts by source, status, market and body, plus every source make that was skipped and why |
+| `inegi_company_brands.csv` | Hand-maintained. Which register brands each INEGI company covers, with the basis for each row |
+| `make_aliases.csv` | Hand-maintained. Source make spellings that differ from the register (for example EPA "McLaren Automotive") |
+| `sources/` | Raw source responses and their SHA-256 hashes (`provenance.json` in each subfolder) |
+
+## Sources
+
+| Source | Covers | Gives | Archived as |
+|---|---|---|---|
+| NHTSA vPIC | US VIN registry, model years 1981 onward | models per make per year, vehicle type | `sources/vpic/<slug>.jsonl.gz`, one line per API response with URL, time and hash |
+| EPA fueleconomy.gov | US light-duty, 1984 onward | models, EPA size class (`VClass`) | `sources/epa/vehicles.csv.zip` |
+| NRCan Fuel Consumption Ratings | Canada light-duty, 1995 onward | models, vehicle class | `sources/nrcan/*.csv` |
+| INEGI RAIAVL | Mexico light-vehicle sales, 2005 onward | units sold per company, model and month, segment | zip not committed (22 MB), URL and hash in `provenance.json`, plus the yearly extract `raiavl_venta_by_model_year.json` |
+| Wikidata | any era, any market | automobile model items, inception and discontinued dates | `sources/wikidata/models_NN.json` with the query in `.rq` |
+| Automaker sales releases | US calendar-year sales 2024 and 2025 for a few models | used only to choose which vehicles get a 3D model | `sources/sales_us/` (see below) |
+
+## How it is built
+
+```
+python3 tools/catalog/fetch_vpic.py       # about 15 minutes, 6,500 API calls
+python3 tools/catalog/fetch_sources.py    # EPA, NRCan, INEGI, Wikidata
+python3 tools/catalog/build_catalog.py    # writes models.json, brands.json, build_report.json
+```
+
+Rules applied by `build_catalog.py`:
+
+- **A row exists only if a source lists it.** Every row keeps its sources, each with a link,
+  the years that source covers and its own identifiers (vPIC model ids, Wikidata QIDs).
+- **Brands come from the register only.** A source make that does not match a register brand is
+  skipped and counted in `build_report.json` (for example EPA coachbuilders).
+- **Matching across sources** uses a normalized key (letters and digits, upper case). It may drop
+  trailing trim, cab, door, drivetrain or fuel words from a fixed list (`MATCH_DROP` in the script)
+  to find the same model in another source. It never renames: the displayed name is a source spelling,
+  and every other spelling is kept as an alias for search.
+- **Motorcycles, trailers and off-road vehicles** that only vPIC lists are out of scope and are counted, not kept.
+- **Body type** comes only from a source's own class label through a fixed table (`BODY_MAP`).
+  EPA, NRCan and INEGI labels take precedence. vPIC's broad types (Truck, MPV, Bus) are used only when
+  no other source classifies a model, and they are labelled as vPIC types in the site.
+- **Markets:** US means vPIC or EPA lists the model. CA means NRCan lists it. MX means INEGI reports sales.
+  A model with no market flag is still listed (mostly older or non-North-American models from Wikidata).
+- **Status:** current if a source lists the latest model year in the data, or INEGI reports sales in its latest year.
+  Discontinued if dated sources end earlier. Unknown if no source gives a year.
+- Wikidata dates outside 1885 to 2030 are treated as data errors and ignored (counted in the report).
+
+## Known limits
+
+- **INEGI reports by company.** Rows under multi-brand companies (General Motors, Chrysler, Great Wall,
+  Changan, MOTORNATION) are given a brand only when the model name starts with a register prefix or matches
+  exactly one brand of that company in another source. The rest stay under the company, labelled
+  "INEGI company, brand not stated", rather than guessed.
+- **Canada and the US have no public per-model sales register.** NRCan and EPA list models offered, not volumes.
+- **vPIC lists some odd model names** (for example trim codes). They are shown as vPIC writes them.
+- **Wikidata coverage is uneven.** Many items have no dates, so their status is unknown.
+
+## US sales releases (`sources/sales_us/`)
+
+`us_sales.json` holds official calendar-year US sales figures for 2024 and 2025 from automaker releases
+(Ford, Toyota, Honda, Nissan, Hyundai, Stellantis). Each entry has the source URL, retrieval time, SHA-256
+of the saved file in `raw/` and the exact quoted line. GM sources returned HTTP 403 and Tesla does not publish
+US figures per model, so those entries are null with a note. `fetch_log.tsv` lists every download attempt.
+The scripts are in `tools/catalog/sales_us/`.

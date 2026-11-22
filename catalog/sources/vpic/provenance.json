@@ -1,0 +1,1042 @@
+[
+ {
+  "file": "vpic/acura.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:39:37Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/alfa-romeo.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:39:41Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/aston-martin.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:39:44Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/audi.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:39:48Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/bentley.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:39:51Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/bmw.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:39:54Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/bugatti.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:39:56Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/buick.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:00Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/cadillac.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:02Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/chevrolet.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:06Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/chrysler.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:09Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/dodge.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:12Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/ferrari.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:15Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/fiat.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:19Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/ford.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:22Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/genesis.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:25Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/gmc.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:29Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/honda.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:32Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/hyundai.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:36Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/infiniti.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:39Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/ineos.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:42Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/jaguar.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:45Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/jeep.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:48Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/kia.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:51Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/koenigsegg.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:54Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lamborghini.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:40:57Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/land-rover.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:00Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lexus.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:03Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lincoln.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:07Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lotus.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:10Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lucid.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:13Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/maserati.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:17Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mazda.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:20Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mclaren.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:23Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mercedes-benz.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:26Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/maybach.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:29Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mini.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:32Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mitsubishi.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:35Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/morgan.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:38Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/nissan.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:42Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/pagani.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:45Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/polestar.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:48Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/porsche.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:51Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/ram.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:54Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/rimac.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:41:57Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/rivian.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:00Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/rolls-royce.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:04Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/subaru.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:07Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/tesla.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:10Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/toyota.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:13Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/vinfast.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:17Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/volkswagen.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:20Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/volvo.jsonl.gz",
+  "committed": true,
+  "responses": 54,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:24Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/scout.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:27Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/slate.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:30Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/czinger.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:33Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/saleen.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:36Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/ssc.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:40Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/glickenhaus.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:43Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mahindra.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:46Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/zeekr.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:49Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/byd.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:52Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/kandi.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:56Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/karma.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:42:59Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/fisker.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:02Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/canoo.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:05Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lordstown.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:08Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/brightdrop.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:11Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/peugeot.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:14Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/renault.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:17Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/suzuki.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:20Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/isuzu.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:23Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/geely.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:26Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/amc.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:29Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/eagle.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:32Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/plymouth.jsonl.gz",
+  "committed": true,
+  "responses": 53,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:35Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/oldsmobile.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:38Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/pontiac.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:41Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/saturn.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:44Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mercury.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:47Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/hummer.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:50Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/geo.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:54Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/saab.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:43:57Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/daewoo.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:00Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/merkur.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:03Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/sterling-cars.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:06Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/yugo.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:09Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/datsun.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:12Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/daihatsu.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:15Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/smart.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:18Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/asuna.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:21Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/passport.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:24Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/delorean.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:27Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/avanti.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:30Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/checker.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:33Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lancia.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:36Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/triumph.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:39Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/rover.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:42Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/opel.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:45Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/holden.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:48Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/coda.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:52Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/think.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:55Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/panoz.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:44:58Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mosler.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:01Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/vector.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:04Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/shelby.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:07Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/spyker.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:10Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/freightliner.jsonl.gz",
+  "committed": true,
+  "responses": 52,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:13Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/western-star.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:16Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/peterbilt.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:19Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/kenworth.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:22Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/mack.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:25Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/volvo-trucks.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:29Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/international.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:33Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/hino.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:36Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/fuso.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:39Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/ud-trucks.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:42Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/sterling-trucks.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:45Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/autocar.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:49Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/white.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:52Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/whitegmc.jsonl.gz",
+  "committed": true,
+  "responses": 50,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:55Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/diamond-reo.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:45:58Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/marmon.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:01Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/oshkosh.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:04Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/workhorse.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:08Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/nikola.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:11Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/xos.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:14Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/lion.jsonl.gz",
+  "committed": true,
+  "responses": 51,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:17Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/dina.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:20Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ },
+ {
+  "file": "vpic/iveco.jsonl.gz",
+  "committed": true,
+  "responses": 49,
+  "url_pattern": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/{id}/modelyear/{year} | vehicletype/{type}",
+  "retrieved_utc": "2026-11-22T21:46:23Z",
+  "sha256_of_each_response": "stored per line in the archive"
+ }
+]

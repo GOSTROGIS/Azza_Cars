@@ -1,0 +1,156 @@
+/*
+  Azza Cars design tokens.
+  Three brand colours: bone white, carbon black, blood orange.
+  Primitives are raw values. Semantic tokens point at primitives and change with the theme.
+  Contrast ratios for every text pairing are checked by tools/design/contrast.py (see design/contrast.md).
+*/
+
+:root {
+  /* ---- Primitives: bone ---- */
+  --bone-50: #fbf9f4;
+  --bone-100: #f6f2ea;
+  --bone-200: #eee8dc;
+  --bone-300: #e2d9c8;
+  --bone-400: #cfc4ae;
+  --bone-600: #6b655b;
+
+  /* ---- Primitives: carbon ---- */
+  --carbon-950: #0a0a0b;
+  --carbon-900: #111112;
+  --carbon-850: #161618;
+  --carbon-800: #1a1a1c;
+  --carbon-700: #242427;
+  --carbon-600: #303034;
+  --carbon-500: #3d3d42;
+  --carbon-300: #a39d92;
+
+  /* ---- Primitives: blood orange ---- */
+  --orange-300: #ff8a66;
+  --orange-500: #ff4b1f;
+  --orange-600: #e63e17;
+  --orange-700: #c2330f;
+  --orange-800: #a82a0b;
+
+  /* ---- Typography ---- */
+  --font-display: "Archivo Variable", "Archivo", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "Inter Variable", "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: clamp(2rem, 1.4rem + 2.4vw, 3rem);
+  --text-4xl: clamp(2.5rem, 1.5rem + 4.5vw, 4.75rem);
+
+  --leading-tight: 1.05;
+  --leading-snug: 1.25;
+  --leading-body: 1.55;
+  --tracking-display: -0.02em;
+  --tracking-caps: 0.14em;
+
+  /* ---- Space (4 px grid) ---- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  /* ---- Radii ---- */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-pill: 999px;
+
+  /* ---- Motion ---- */
+  --ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-spring: cubic-bezier(0.34, 1.4, 0.64, 1);
+  --dur-fast: 120ms;
+  --dur-med: 220ms;
+  --dur-slow: 420ms;
+
+  /* ---- Layers ---- */
+  --z-raised: 10;
+  --z-sticky: 50;
+  --z-overlay: 100;
+
+  /* ---- Layout ---- */
+  --page-max: 1360px;
+  --gutter: clamp(16px, 3vw, 40px);
+}
+
+/* ---- Semantic tokens: carbon theme (default) ---- */
+:root,
+[data-theme="carbon"] {
+  color-scheme: dark;
+  --bg: var(--carbon-950);
+  --bg-grad: radial-gradient(120% 80% at 70% -10%, #2a1a14 0%, var(--carbon-950) 55%);
+  --surface-1: var(--carbon-900);
+  --surface-2: var(--carbon-800);
+  --surface-3: var(--carbon-700);
+  --surface-inverse: var(--bone-200);
+  --border: rgba(238, 232, 220, 0.09);
+  --border-strong: rgba(238, 232, 220, 0.18);
+
+  --text: var(--bone-200);
+  --text-strong: var(--bone-50);
+  --text-muted: var(--carbon-300);
+  --text-inverse: var(--carbon-900);
+  --accent: var(--orange-500);
+  --accent-hover: var(--orange-300);
+  --accent-text: var(--orange-500);
+  --on-accent: var(--carbon-900);
+
+  /* Depth: every raised surface gets a top bevel highlight plus stacked ambient and key shadows. */
+  --bevel: inset 0 1px 0 rgba(255, 255, 255, 0.07), inset 0 -1px 0 rgba(0, 0, 0, 0.5);
+  --shadow-1: 0 1px 1px rgba(0, 0, 0, 0.5), 0 2px 6px rgba(0, 0, 0, 0.35);
+  --shadow-2: 0 2px 4px rgba(0, 0, 0, 0.45), 0 10px 24px rgba(0, 0, 0, 0.45);
+  --shadow-3: 0 4px 8px rgba(0, 0, 0, 0.5), 0 24px 60px rgba(0, 0, 0, 0.6);
+  --glow-accent: 0 0 0 1px rgba(255, 75, 31, 0.55), 0 8px 30px rgba(255, 75, 31, 0.28);
+  --focus-ring: 0 0 0 2px var(--carbon-950), 0 0 0 4px var(--orange-500);
+  --sheen: linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0) 40%);
+}
+
+/* ---- Semantic tokens: bone theme ---- */
+[data-theme="bone"] {
+  color-scheme: light;
+  --bg: var(--bone-200);
+  --bg-grad: radial-gradient(120% 80% at 70% -10%, #fbe6dc 0%, var(--bone-200) 55%);
+  --surface-1: var(--bone-100);
+  --surface-2: var(--bone-50);
+  --surface-3: #ffffff;
+  --surface-inverse: var(--carbon-900);
+  --border: rgba(17, 17, 18, 0.1);
+  --border-strong: rgba(17, 17, 18, 0.2);
+
+  --text: var(--carbon-800);
+  --text-strong: var(--carbon-950);
+  --text-muted: var(--bone-600);
+  --text-inverse: var(--bone-100);
+  --accent: var(--orange-500);
+  --accent-hover: var(--orange-600);
+  --accent-text: var(--orange-800);
+  --on-accent: var(--carbon-900);
+
+  --bevel: inset 0 1px 0 rgba(255, 255, 255, 0.9), inset 0 -1px 0 rgba(17, 17, 18, 0.08);
+  --shadow-1: 0 1px 1px rgba(60, 40, 20, 0.12), 0 2px 6px rgba(60, 40, 20, 0.08);
+  --shadow-2: 0 2px 4px rgba(60, 40, 20, 0.12), 0 12px 28px rgba(60, 40, 20, 0.14);
+  --shadow-3: 0 4px 10px rgba(60, 40, 20, 0.14), 0 28px 64px rgba(60, 40, 20, 0.2);
+  --glow-accent: 0 0 0 1px rgba(194, 51, 15, 0.6), 0 8px 30px rgba(255, 75, 31, 0.25);
+  --focus-ring: 0 0 0 2px var(--bone-100), 0 0 0 4px var(--orange-800);
+  --sheen: linear-gradient(180deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0) 45%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur-med: 0ms;
+    --dur-slow: 0ms;
+  }
+}

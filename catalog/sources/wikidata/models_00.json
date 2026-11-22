@@ -1,0 +1,2909 @@
+{
+  "head" : {
+    "vars" : [ "brand", "model", "modelLabel", "inception", "start", "end", "discontinued", "bodyLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40098"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Voleex C30"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q478810"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chrysler Neon"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q525947"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Valiant"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q594930"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Barracuda"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1974-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q624936"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Caravelle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q645026"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Road Runner"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670301"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Duster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q765277"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Fury"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q830617"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Savoy"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q838223"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Voyager"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q840943"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Cranbrook"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1284868"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Acclaim"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1290516"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Breeze"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1340501"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Deluxe"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1379115"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q1379115"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472333"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Reliant"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472719"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Sundance"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1517079"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Plaza"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1536463"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker C8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544386"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Coolbear"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544387"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Voleex C10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544393"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Florid"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544394"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Haval H3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1551500"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Concord"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1566552"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth GTX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1637846"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Prowler"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1652882"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Belvedere"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1712950"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q1712950"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1727117"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q1727117"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1808628"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Satellite"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1886288"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker C8 Aileron"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1982566"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth New Finer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002227"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Gran Fury"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081628"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Superbird"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099830"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Business"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099833"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mitsubishi Lancer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099839"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Cricket"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099843"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Cambridge"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099845"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Fury B-body"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099849"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model 30U"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099849"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model 30U"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099849"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model 30U"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099849"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model 30U"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model PA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model PA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model PA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model PA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099855"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model Q"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099855"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model Q"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099855"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model Q"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099855"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Model Q"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099857"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2099857"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099857"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2099857"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099857"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2099857"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099857"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2099857"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099861"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Roadking"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099869"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Sapporo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099869"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Sapporo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099869"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Sapporo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099869"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Sapporo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099876"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Turismo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099876"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Turismo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099876"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Turismo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099876"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Turismo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2184747"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker D8"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2478144"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker C12 Zagato"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3115980"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Deer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4411881"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Laser"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7205767"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Belmont"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7205879"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth X2S"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7581761"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker C12 La Turbie"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10634822"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Volare"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10634822"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Volare"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10634822"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Volare"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10634822"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Volare"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16947337"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker B6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108187217"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25098827"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SCG 003"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225746"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225747"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H6 Coupe"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225749"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Wingle 5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31836026"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth VIP"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44954392"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H9"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48815857"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spyker Silvestris V8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60074536"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Wingle 6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108757682"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85769409"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ineos Grenadier"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q88893251"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Neon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108187217"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98479223"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SCG 004"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106553049"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr 001"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106591429"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Colt Vista"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108187217"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108886434"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "SCG Boot"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112722047"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deepal SL03"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114608144"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr 009"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116817491"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr X"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117073654"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deepal S7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104907477"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q122442751"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seres 7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123472070"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr 007"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124285891"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deepal G318"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108757682"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124664964"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ineos Fusilier"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125962190"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q125962190"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127874036"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr 7X"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128836"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141102048"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q141102048"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40098"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Voleex C30"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045210"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q282617"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shelby Mustang"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q403651"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Peri"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q594930"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Barracuda"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1974-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q624936"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Caravelle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q645026"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Road Runner"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q646623"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Safe"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670301"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Duster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q765277"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Fury"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q830617"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Savoy"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q838223"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Voyager"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q840943"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Cranbrook"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1284868"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Acclaim"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1290516"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Breeze"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1340501"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Deluxe"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1379115"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q1379115"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472333"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Reliant"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472719"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Sundance"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1517079"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Plaza"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045210"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1540773"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shelby Daytona"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544386"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Coolbear"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544387"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Voleex C10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544393"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Florid"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544394"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Haval H3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1551500"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Concord"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1652882"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Belvedere"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1712950"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q1712950"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1804743"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landwind CV9"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1804744"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landwind Forward"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1804750"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landwind X6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1982566"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth New Finer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002227"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Gran Fury"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081628"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Superbird"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099830"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Business"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099839"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Cricket"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099843"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Cambridge"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2099845"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Fury B-body"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2354579"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Wingle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045210"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2440221"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shelby Series 1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3115976"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Cowry"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3115979"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Sailor"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3115980"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Deer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5600133"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5600141"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Voleex C50"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12064314"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16687853"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225745"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225746"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225747"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H6 Coupe"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28225749"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Wingle 5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31284579"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Pegasus"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31839250"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "WEY VV7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39080173"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "WEY VV5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44954392"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H9"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44954564"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "WEY P8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54798510"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54878973"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JMC Yuhu"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55393381"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JMC Teshun"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55393382"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval M6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55525372"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55612958"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Sing"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55639865"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval H2s"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56290198"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ford Territory (China)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57737286"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "WEY VV6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57737742"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval F5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60807544"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval F7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63234384"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JMC Yuhu 7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q75260208"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Pao"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q84699834"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ORA Black Cat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97014513"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ora iQ"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97015441"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ORA White Cat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99363923"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ora Good Cat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q100706125"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tank 300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106588424"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "WEY Mocha"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106620781"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval Chitu"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107363931"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Wingle 7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107434470"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "WEY Latte"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107675738"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "WEY Macchiato"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108601158"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tank 500"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109311654"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval X Dog"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109311669"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ora Lightning Cat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109311687"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ora Ballet Cat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114764042"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ORA Big Cat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116970131"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JMC Baodian"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120733625"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wey Gaoshan"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q122233659"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JMC Vigus"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q122705398"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tank 400"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123052422"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haval Raptor"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124301460"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q124301460"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125635795"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Great Wall Shanhai Cannon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126627064"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "JMC Fushun"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q128134473"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Gran Fury"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117001"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129315006"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tank 800"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134103286"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr 9X"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112874951"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134112843"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deepal S09"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2025-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065539"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q135645517"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baidu robotaxi"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137579308"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr RT"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2024-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1124857"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137830648"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Plymouth Cricket"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106621124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137921385"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeekr 8X"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2026-01-08T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112077124"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141436843"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q141436843"
+      }
+    } ]
+  }
+}

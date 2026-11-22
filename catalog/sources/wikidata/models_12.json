@@ -1,0 +1,5248 @@
+{
+  "head" : {
+    "vars" : [ "brand", "model", "modelLabel", "inception", "start", "end", "discontinued", "bodyLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127370"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Inspire"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185305"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda That's"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q255461"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q448991"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Shuttle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q474915"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Domani"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q482572"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Legend"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q490491"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Edix"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q547675"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Stream"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q617558"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Concerto"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q652712"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Beat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q654449"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Acty"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q655402"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q748126"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda NSX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q762624"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q764579"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ascot"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q830370"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Prelude"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844767"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844774"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844777"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (first generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q853280"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Insight"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928713"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda L700"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q979559"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ballade"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1135125"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162891"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda City"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1186664"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Torneo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1268524"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (fourth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1310610"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Logo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1319709"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (first generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1406171"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421529"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421529"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421529"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421529"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1422815"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura MDX"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2000-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1424582"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda FCX Clarity"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1424582"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda FCX Clarity"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1424582"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda FCX Clarity"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1424582"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda FCX Clarity"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1426408"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Integra"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1426415"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda HR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1426415"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda HR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1426415"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda HR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1426415"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda HR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1499684"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Freed"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1501989"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Avancier"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1506812"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (eighth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1510174"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Element"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1515648"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518795"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (fifth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1519939"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic 7th generation"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1550350"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Capa"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626467"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (third generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626468"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (fourth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626471"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda 1300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626472"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (fifth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626473"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (1997)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626476"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626553"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-X"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626569"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (sixth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626573"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (ninth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626577"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic Hybrid"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626581"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Crossroad"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626590"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Elysion"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626626"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Mobilio"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626648"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Odyssey"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626663"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S-MX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626665"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ridgeline"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626672"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S600"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626675"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S500"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626684"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S800"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127370"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Inspire"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185305"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda That's"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q255461"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344715"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura ARX-01"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344726"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura ARX-02a"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344752"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura EL"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344792"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura RDX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344798"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura RL"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344813"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Vigor"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344824"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura TL"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q344833"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura ZDX (2009)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q448991"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Shuttle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q474915"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Domani"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q482572"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Legend"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q490491"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Edix"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q547675"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Stream"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q617558"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Concerto"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q644676"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "HPD ARX-03"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q652712"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Beat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q654449"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Acty"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q655402"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q748126"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda NSX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q762624"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q764579"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ascot"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q830370"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Prelude"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844767"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844774"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844777"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (first generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q853280"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Insight"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q913796"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S2000"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928713"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda L700"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q979559"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ballade"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1135125"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162891"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda City"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1186664"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Torneo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1268524"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (fourth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1310610"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Logo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1319709"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (first generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1499684"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Freed"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1501989"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Avancier"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1506812"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (eighth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1510174"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Element"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1515648"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518795"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (fifth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1519939"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic 7th generation"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1550350"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Capa"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626467"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (third generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626468"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (fourth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626471"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda 1300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626472"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (fifth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626473"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (1997)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626553"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-X"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626569"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (sixth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626573"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic (ninth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626577"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic Hybrid"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626581"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Crossroad"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626590"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Elysion"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626626"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Mobilio"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626648"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Odyssey"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626663"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S-MX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626665"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ridgeline"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626672"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S600"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626675"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S500"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626684"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S800"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626691"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Stepwgn"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626696"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda TN360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626697"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda T360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626704"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Today"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626740"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Vamos"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626766"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626771"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Zest"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2277091"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA107"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2293774"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2293783"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA272"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2423690"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-X del Sol"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2456632"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA302"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2505667"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA273"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2622515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda EV Plus"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2667525"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA271"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2993316"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Orthia"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3134093"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Airwave"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3139944"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-Box"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3139963"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Pilot"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3271160"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Brio"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3272026"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Passport"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3276076"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Mobilio Spike"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4388768"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Rafaga"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4677888"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda NSX (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892130"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892387"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda City"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892415"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic GX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892472"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda G4 transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892489"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda H4 transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892568"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-One"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6324011"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Life"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8214024"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic Si"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8385841"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda FCX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9293515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Crosstour"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9293566"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Partner"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10860903"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (North America seventh generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5767369"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino Poncho"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950650"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6724210"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mack F series"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950650"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6724259"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mack Titan"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8191719"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino Contessa"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338263"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Street"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338270"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Saber"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338287"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit Aria"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338293"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Freed Spike"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338295"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Amaze"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338302"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q11338302"
+      },
+      "bodyLabel" : {
+        "type" : "literal",
+        "value" : "350"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11510550"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino TH-series"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11671730"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "High Mobility Vehicle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13195000"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Odyssey"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13417131"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Accord hybrid"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14544930"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit Shuttle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15275881"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Vezel"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15634567"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura TLX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16040764"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N600"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16065211"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Integra Type R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16558323"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S660"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16964139"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda H5 transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16968881"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda H4A transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17049862"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Jade"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17054956"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Proton Perdana"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950650"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17086683"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mack Magnum"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17190075"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-WGN"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17212001"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q17212001"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18602563"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Grace"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18729122"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Spirior"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950650"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19581095"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mack Valueliner"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21655586"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-Box Slash"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22752926"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda BR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23768205"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Clarity FCV"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25104387"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda UR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25386758"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Greiz"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27061986"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic 10th generation"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27247515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V (fourth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27279006"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V (third generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27576500"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (ninth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27903034"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Avancier"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27903042"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Gienia"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27963983"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda XR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28744342"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda WR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30527018"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino Contessa 1300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48770900"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda LaGreat"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55525531"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (tenth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55639888"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino XL"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56316854"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Clarity"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60760189"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-Van"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63348916"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ridgeline (2006–2014)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63348922"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ridgeline (2017–present)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64151961"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda e"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q950650"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85782991"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mack TerraPro"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99670567"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86613742"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czinger 21C"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q944640"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90020880"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peterbilt 359"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q91026636"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord Aero Deck"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q91026638"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (1976)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q92614626"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor S01"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86681792"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96482258"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lordstown Endurance"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97217635"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q97217635"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97217645"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q97217645"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99511491"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor T03"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104628936"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104699573"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor C11"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107002471"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic 11th generation"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107336578"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic Type R FL5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107406997"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit (first generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99482082"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108637384"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canoo Lifestyle Vehicle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109546578"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda ZR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109599577"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q109599577"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112702286"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V (fifth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114438564"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Prologue"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115756176"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor C01"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115925803"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour Dashing"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116700422"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura Integra (DE)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q119142683"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Elevate"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99482082"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120562290"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canoo Pickup Truck"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99482082"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120562322"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canoo CTV"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120917887"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda NL125"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123248755"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor C10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125732533"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ye GT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125867418"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda e:NP2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127433070"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130925538"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda e:NS2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131684664"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor B10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132174939"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura RSX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133443837"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda 0 SUV"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133443838"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda 0 Saloon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134173176"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor B01"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136206272"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor Lafa 5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136384037"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Integra (China)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136509275"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor D19"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136677702"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Prelude (sixth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136707591"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour Zongheng G700"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136723100"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour Zongheng F700"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137195984"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor A10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137380624"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Category:Honda HR-V (1st generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137762947"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leapmotor D99"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99510294"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138835346"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q138835346"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q140680820"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ridgeline (third generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136677702"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Prelude (sixth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q140680820"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Ridgeline (third generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626691"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Stepwgn"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626696"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda TN360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626697"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda T360"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626704"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Today"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626740"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Vamos"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626766"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1626771"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Zest"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1674962"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isuzu Gemini"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1974-01-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2000-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1986708"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura Legend"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2113800"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura ILX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2140380"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Integra DC5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2263998"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura RLX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2277091"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA107"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2293774"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2293783"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA272"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2423690"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-X del Sol"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2455196"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura TSX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2456632"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA302"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2505667"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA273"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2622515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda EV Plus"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2655512"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura CL"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2667525"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda RA271"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2823809"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Acura CSX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2993316"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Orthia"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3134093"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Airwave"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3139944"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-Box"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3139963"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Pilot"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3139973"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Type R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3271160"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Brio"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3272026"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Passport"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3274716"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover Quintet"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3276076"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Mobilio Spike"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4388768"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Rafaga"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4677888"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda NSX (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892130"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892387"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda City"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892415"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic GX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892446"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Elite"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892472"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda G4 transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892489"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda H4 transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892568"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-One"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5892666"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Rincon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6324011"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Life"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8214024"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic Si"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8385841"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda FCX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9293514"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda 145"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9293515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Crosstour"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9293538"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Concept C"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9293553"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q9293553"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9293566"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Partner"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10298082"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Life Dunk"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10860903"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (North America seventh generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338232"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord Euro R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338232"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord Euro R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338232"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord Euro R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338232"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord Euro R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338235"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Integra SJ"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-03-01T00:00:00Z"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2002-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338287"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit Aria"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11338295"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Amaze"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13195000"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Odyssey"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14544930"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit Shuttle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15275881"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Vezel"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16065211"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Integra Type R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16558317"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Crider"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16558323"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda S660"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16964139"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda H5 transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16968881"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda H4A transmission"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17049862"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Jade"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17190075"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-WGN"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18602563"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Grace"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18729122"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Spirior"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q867667"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826101"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hino Renault"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21655586"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-Box Slash"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22752926"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda BR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23637380"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda NSX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25385102"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Pilot 3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25386758"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Greiz"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27061986"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic 10th generation"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27247515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V (fourth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27279006"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda CR-V (third generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27576500"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Accord (ninth generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27903034"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Avancier"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27903042"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Gienia"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27963983"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda XR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28744342"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda WR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60760189"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda N-Van"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85771148"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour X90"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98107941"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour X95"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104628936"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107002471"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic 11th generation"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107336578"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Civic Type R FL5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107406997"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Fit (first generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99482082"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108637384"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canoo Lifestyle Vehicle"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109546578"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda ZR-V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9584"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114438564"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honda Prologue"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99482082"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120562290"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canoo Pickup Truck"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99482082"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120562322"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canoo CTV"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2023-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124331340"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour Traveller"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130612019"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour X50"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98145436"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q135921209"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jetour X70L"
+      }
+    } ]
+  }
+}

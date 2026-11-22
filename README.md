@@ -5,6 +5,10 @@ Everything for Azza Cars, a car and truck rental business, built from scratch.
 The first workstream is a verified library of automotive brand logos in SVG,
 for use in documents and on the website.
 
+The second is the customer-facing website, which doubles as the dashboard: a brand
+selector, a cited catalog of every model with fuzzy search and filters, a design
+system, and 3D vehicles recreated from traced reference images.
+
 ## Repository layout
 
 ```
@@ -19,9 +23,18 @@ Azza_Cars/
 │   ├── svg/               Final SVGs that passed the audit
 │   ├── sources/           Downloaded source artwork and provenance, per brand
 │   └── audit/             Renders, pixel diffs and audit reports, per brand
+├── catalog/               Every model of every register brand, with sources (see catalog/README.md)
+│   ├── models.json        Generated catalog (do not edit by hand)
+│   └── sources/           Raw vPIC, EPA, NRCan, INEGI, Wikidata and sales-release files with hashes
+├── design/                Design system: tokens, components, specimen (see design/README.md)
+├── vehicles/              3D pipeline output: references, traced outlines, GLB, provenance (see vehicles/README.md)
+├── site/                  Website and dashboard, Vite + React + three.js (see site/README.md)
 └── tools/                 Scripts, grouped by workstream
     ├── register/          Builds register/brands.csv
-    └── logos/             Fetches, rebuilds and audits logos
+    ├── logos/             Fetches, rebuilds and audits logos
+    ├── catalog/           Fetches sources and builds catalog/
+    ├── design/            Contrast checks for design/
+    └── vehicles/          Traces outlines and builds 3D vehicles
 ```
 
 ## Logo trademarks

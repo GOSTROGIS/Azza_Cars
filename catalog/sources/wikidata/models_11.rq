@@ -1,0 +1,10 @@
+SELECT ?brand ?model ?modelLabel ?inception ?start ?end ?discontinued ?bodyLabel WHERE {
+  VALUES ?brand { wd:Q6742 wd:Q6772154 wd:Q732935 wd:Q7334368 wd:Q7338847 wd:Q746256 wd:Q749239 wd:Q774830 wd:Q814825 wd:Q8352675 wd:Q848059 wd:Q848620 }
+  ?model wdt:P31/wdt:P279* wd:Q3231690 .
+  { ?model wdt:P1716 ?brand } UNION { ?model wdt:P176 ?brand }
+  OPTIONAL { ?model wdt:P571 ?inception }
+  OPTIONAL { ?model wdt:P2031 ?start }
+  OPTIONAL { ?model wdt:P2032 ?end }
+  OPTIONAL { ?model wdt:P2669 ?discontinued }
+  OPTIONAL { ?model wdt:P4519 ?body }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } }

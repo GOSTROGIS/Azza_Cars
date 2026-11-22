@@ -1,0 +1,19 @@
+[
+ {
+  "file": "conjunto_de_datos_raiavl_mensual_venta_csv.zip",
+  "committed": false,
+  "url": "https://www.inegi.org.mx/contenidos/investigacion/datosprimarios/raiavl/datosabiertos/conjunto_de_datos_raiavl_mensual_venta_csv.zip",
+  "sha256": "efd59a9d8b0dae9e3eebf606d9907df40d7acb8db20754c1394007d22424794c",
+  "bytes": 22590997,
+  "retrieved_utc": "2026-11-22T21:41:20Z"
+ },
+ {
+  "file": "raiavl_venta_by_model_year.json",
+  "committed": true,
+  "url": "https://www.inegi.org.mx/contenidos/investigacion/datosprimarios/raiavl/datosabiertos/conjunto_de_datos_raiavl_mensual_venta_csv.zip",
+  "sha256": "dd55620be87892794c4e09d91b1ba7248afcd45513a24a746f28f39ae87bfddf",
+  "bytes": 1681208,
+  "retrieved_utc": "2026-11-22T21:41:20Z",
+  "derived": "sum of UNI_VEH per MARCA, MODELO, ANIO over all months, by tools/catalog/fetch_sources.py"
+ }
+]

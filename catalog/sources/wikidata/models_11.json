@@ -1,0 +1,6998 @@
+{
+  "head" : {
+    "vars" : [ "brand", "model", "modelLabel", "inception", "start", "end", "discontinued", "bodyLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168484"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 127"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168484"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 127"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222305"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 88"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222542"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 31"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222305"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 88"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222542"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 31"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222775"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 207"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207976"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 206"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q301247"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 82"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q179308"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 604"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181002"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 505"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214229"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 107"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215218"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 205"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215227"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 307"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q370785"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën ZX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q281228"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q301247"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 82"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q365119"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Quark"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q431152"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 306"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214229"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 107"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q224867"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 105"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q365119"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Quark"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q224867"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 105"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q281228"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q328139"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 406"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q465966"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q465966"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q522889"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 800 Series"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q582767"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 806"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q465995"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 407"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q504138"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 607"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q504633"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Xsara"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q505157"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover Streetwise"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q506189"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 10 P2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q511515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 16"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q513866"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 202"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q511515"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 16"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q627285"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 16"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q541373"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 50"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q497858"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q531262"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 302"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q541373"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 50"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q542182"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 1007"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q543236"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën GS"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q546657"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 304"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q636378"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 176"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q636908"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 401"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q627956"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Méhari"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q629268"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Talbot Samba"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q629751"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 205 Turbo 16"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q636378"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 176"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q636908"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 401"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q658918"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën XM"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q756741"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Berlingo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q728076"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q728314"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q594990"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 301"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672427"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda Cinque"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q691986"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda R"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q736206"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Jumpy"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q776431"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 36"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q762609"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 15"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q762609"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 15"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q776431"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 36"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q822665"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q825790"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 605"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916765"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 174"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916777"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 175"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916790"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 177"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916802"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 153"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q840940"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Xantia"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848965"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q849464"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 104"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q825781"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 405"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q825790"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 605"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826094"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 106"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7334368"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q893186"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rimac Concept One"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q898017"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 508"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q898614"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Partner"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914093"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 4007"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914153"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914172"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 33"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914277"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 26"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916765"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 174"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916777"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 175"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916790"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 177"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916802"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 153"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916827"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 159"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q920837"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Type A"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q921822"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 404"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914093"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 4007"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914153"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914172"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 33"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q914277"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 26"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916827"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 159"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1065813"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën DS4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q956235"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 91"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q960745"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Rosalie"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q962700"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Thar"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q963533"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Visa"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928471"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 504"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q938860"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 54"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q939640"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën BX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q938860"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 54"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093538"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën AX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093547"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C-Crosser"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q956235"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 91"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1139986"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 309"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1164784"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 208"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1071866"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austin Metro"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1115271"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot D3 and D4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1396421"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1130681"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 403"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1139986"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 309"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1362426"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 204"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1362801"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Talbot Horizon"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1240938"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën FAF"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1357550"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot RCZ"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093561"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C35"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093602"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093613"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën CX"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093620"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DS 5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093624"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Dyane"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093657"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën LNA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093682"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën TUB"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093694"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën SM"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093703"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën H Van"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093708"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Type C"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093728"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Xsara Picasso"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094009"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover CityRover"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1114672"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot J7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1115271"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot D3 and D4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1143459"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 203"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1130819"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 3008"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1141318"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C4 Picasso"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1165454"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 5008"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1361311"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 305"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1437865"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 1"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1414821"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Huayra"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1396421"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1404230"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 1583"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1339701"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 408"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1454844"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 4008"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1456770"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 23"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421648"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421648"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1499080"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 29"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1259011"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 156"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1536014"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 81"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1536597"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 139"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539837"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot type 69"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539847"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 125"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539860"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 163"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1540343"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 183"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1541428"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1404230"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 1583"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1456770"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 23"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1606053"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda F"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1612804"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 164"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1566009"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 95"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539847"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 125"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539860"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 163"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1540343"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 183"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1541428"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 10"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1563341"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 80"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1566009"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 95"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1473379"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover P3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1499080"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 29"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502075"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Talbot Tagora"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1421449"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 600 Series"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1612804"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 164"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1259011"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 156"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1538903"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 71"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539200"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Quadrilette"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539214"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 56"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539829"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 190"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1538903"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 71"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539200"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Quadrilette"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539214"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 56"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1539829"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 190"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1503395"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 807"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1536014"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 81"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1536597"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 139"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1630402"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C3 Picasso"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1563341"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 80"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1640253"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 201"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1642403"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover P5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1752779"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 100 series"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1804805"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover P6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1744608"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 173"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1744608"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 173"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1784446"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover P4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1857228"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 200"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1754228"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 76"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1867409"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308 RC Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1754228"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 76"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1866331"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1867409"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308 RC Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1866331"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1969268"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot J5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1972571"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Talbot Express"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1969268"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot J5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1887944"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot P4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1960721"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda C12-S 7.0"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1980591"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën C15"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1887944"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot P4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1892787"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 301"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2006832"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 207 S2000"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2064638"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2055229"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover Light Six"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2055436"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2064638"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 4"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2006832"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 207 S2000"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081495"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081495"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081499"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081499"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081514"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 116"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081552"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081552"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081555"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081555"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081559"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 135"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081576"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 144"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081587"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081587"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081592"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081592"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081602"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081602"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081723"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081731"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 79"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081749"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Type 93"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081757"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 99"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2170638"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 14"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2170641"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 12"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2257292"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Survolt"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081610"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 184"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081644"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 35"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081668"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 48"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081673"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 501"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081684"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 57"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081707"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 66"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081719"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081719"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081398"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 2008"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081420"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 402"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081429"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 601"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081464"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Boxer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081495"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081495"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081499"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081499"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081514"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 116"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081552"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081552"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081555"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081555"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081559"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 135"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081576"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 144"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081587"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081587"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081592"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081592"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081602"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081602"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081610"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 184"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081644"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 35"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081668"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 48"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081684"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 57"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081707"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 66"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081719"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q2081719"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081723"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081749"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Type 93"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2081757"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 99"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2288442"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda C12 6.0"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3206212"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot J9"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3333392"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot ROA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2623587"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 24"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2623647"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 181"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2488703"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panoz Abruzzi"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2608670"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panoz Roadster"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2722862"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Scorpio"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2623587"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 24"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2623647"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 181"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377739"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 106 XSi"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377740"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 108"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377742"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308 II"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377747"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 405 Turbo-16"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2912183"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Axe"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3125322"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 20Cup"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3073545"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Xylo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3555482"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Bijou"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377742"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308 II"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377747"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 405 Turbo-16"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377766"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 406 Coupé"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377774"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Prologue HYmotion4"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377780"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Pars"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3120771"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panoz Esperante"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3125322"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 20Cup"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3206212"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot J9"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3277730"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Bolero Camper"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3277732"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Maxx"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377766"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 406 Coupé"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377774"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Prologue HYmotion4"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377775"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Q3A"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377776"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Proxima"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1950-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3377791"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 160"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3809948"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda C12-S Monza"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3809948"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda C12-S Monza"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3810038"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q3810038"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3901169"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 5CV"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3941933"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3901169"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 5CV"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3901171"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot DMA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3901207"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot iOn"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5122855"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Berlingo électrique"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5122856"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën 7U"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5122871"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Synergie"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3901171"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot DMA"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3901207"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot iOn"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6023973"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 307 Sw black 2015"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6073736"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 806 Runabout"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1995-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6166410"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 207 Compact"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6166410"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 207 Compact"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6073732"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q6073732"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6073736"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 806 Runabout"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1995-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6734051"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Maxximo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7179477"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot E7"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7179478"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot EX3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7179482"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Rapido"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7179493"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 1525"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7371684"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 200 Coupé"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7179478"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot EX3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7179482"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Rapido"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7179493"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 1525"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8295564"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Bipper"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8295564"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Bipper"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11802737"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q11802737"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11816055"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 206+"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10853915"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Scorpio Getaway"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10968884"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda C 12 S"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14153143"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra XUV500"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13479633"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lion-Peugeot Type V4C3"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840244"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 108"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840245"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 118"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840246"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 126"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840247"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 14"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840248"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 21"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840249"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 25"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840250"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 27"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840251"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 28"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840252"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 37"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840253"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 58"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840254"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 63"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840255"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 68"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16040554"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Citroën Spacetourer"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16589840"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16589854"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 161"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17102255"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 30"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840252"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 37"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840253"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 58"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840254"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 63"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840255"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 68"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840244"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 108"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840245"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 118"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840246"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 126"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840247"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 14"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840248"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 21"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840249"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 25"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840250"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 27"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15840251"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 28"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15993852"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 208 T16"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17071159"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Armada"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16585555"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q16585555"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16585558"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q16585558"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16589840"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17084646"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Quanto"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17102255"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 30"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17624259"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Zonda Revolution"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18355959"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Tunland"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18589880"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Partner II"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18589881"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Partner I"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20018599"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 172"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18326526"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q18326526"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20665884"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 62"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20685395"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 67"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19279714"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Sauvana"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19893528"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Genio"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20743662"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20743662"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20745797"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20745797"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20746990"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20746990"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20747663"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 143"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20018599"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 172"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20743662"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20743662"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20745797"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20745797"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20746990"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20746990"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20747663"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 143"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20748354"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 43"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20665884"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 62"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20685395"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 67"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21941944"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 20"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20664409"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 22"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20665397"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 96"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20751005"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 111"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20795376"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 65"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20796604"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 83"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20797508"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 61"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20803973"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20803973"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826134"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 19"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826144"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 44"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826170"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826170"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826172"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826172"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826174"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826174"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826176"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826176"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826178"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826178"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20664409"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 22"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20665397"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 96"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20751005"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 111"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20795376"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 65"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20796604"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 83"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20797508"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Typ 61"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20803973"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20803973"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21491071"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover Meteor"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23042008"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover 9"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848620"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23042036"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rover Two-litre"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20072229"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Aumark"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25377650"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 3008 B"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826132"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 17"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826134"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Type 19"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826170"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826170"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826172"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826172"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826174"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826174"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826176"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826176"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20826178"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q20826178"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24890883"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra KUV100"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24907456"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra TUV300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23830984"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Traveller"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25405740"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q25405740"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29917890"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Asphalte"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1950-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28919318"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 5008 II"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28919318"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 5008 II"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q746256"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47004932"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panoz Avezzano"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47537801"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 508 A"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48751594"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 508 B"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48833535"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 5008"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7334368"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50379367"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rimac Nevera"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54797704"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gratour im8"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55598972"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 407 Coupé"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55640965"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Roxor"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7334368"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50379367"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rimac Nevera"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8352675"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56451871"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cupra Ateca"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57738101"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton SUP"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61630113"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra XUV300"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7338847"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59291760"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rivian R1T"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7338847"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59310393"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rivian R1S"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60617044"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Gratour im6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60740292"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Midi"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60742780"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Marazzo"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q71425148"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 2008 A"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60846030"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 208 B"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60849099"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 404 Pickup"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60846030"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 208 B"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63558522"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot e-208"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62268276"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Gratour ix5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63349597"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Xiangling V"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q87124587"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra Verito Vibe"
+      },
+      "discontinued" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85793017"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Landtrek"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2020-02-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64901292"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 2008 B"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8352675"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q72917395"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cupra Tavascan"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8352675"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86614508"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cupra León"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97190015"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308 III"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90921854"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 308 B GTi"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q100260905"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton View"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8352675"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108377456"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cupra UrbanRebel Concept"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-09-02T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105833903"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Grand General"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108120003"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra XUV700"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-08-14T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106576693"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot e-2008"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7338847"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108525039"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rivian EDV"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112668049"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 408"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116971522"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Foton Saga"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118238129"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Partner III"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q113495619"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 205 GTI"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749239"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q113960878"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pagani Utopia"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118235530"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Expert I"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118235554"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Expert II"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116789081"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q116789081"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116789081"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q116789081"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118235566"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Expert III"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115950992"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 404 sedan"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117482740"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q117482740"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q814825"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117794443"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gratour GT"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7338847"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124721145"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rivian R2"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118220453"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Boxer (first generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118220513"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot Boxer (second generation)"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118950649"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q118950649"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q122167461"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 3008 C"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123616265"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q123616265"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123616265"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q123616265"
+      },
+      "inception" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-01-01T00:00:00Z"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131471151"
+      },
+      "modelLabel" : {
+        "type" : "literal",
+        "value" : "Q131471151"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131706280"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Category:Peugeot EX5"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529265"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 502"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529267"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 503"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529271"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 504"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529274"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 505"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529276"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 506"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529280"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 507"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132655695"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot type 1501"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848059"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134780679"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mahindra BE 6"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529271"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 504"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132529280"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot 507"
+      }
+    }, {
+      "brand" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6742"
+      },
+      "model" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133444935"
+      },
+      "modelLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peugeot DK5"
+      }
+    } ]
+  }
+}
