@@ -131,7 +131,7 @@ def load_wikidata(titles, prov):
                                "logos": [], "websites": [], "inception": None, "dissolved": None})
             if "logo" in b:
                 lg = {"file": tail(b["logo"]["value"]), "rank": tail(b["logoRank"]["value"], "#"),
-                      "start": b.get("logoStart", {}).get("value"), "end": b.get("logoEnd", {}).get("value")}
+                      "start": date_or_unknown(b.get("logoStart")), "end": date_or_unknown(b.get("logoEnd"))}
                 if lg not in e["logos"]:
                     e["logos"].append(lg)
             if "website" in b and b["website"]["value"] not in e["websites"]:
@@ -144,12 +144,24 @@ def load_wikidata(titles, prov):
     return wd
 
 
+def date_or_unknown(binding):
+    """A Wikidata date value, or "unknown" for an unknown-value placeholder IRI."""
+    if not binding:
+        return None
+    v = binding["value"]
+    return v if binding.get("type") == "literal" else "unknown"
+
+
+def year(v):
+    return "" if not v else v if v == "unknown" else v.lstrip("+")[:4]
+
+
 def logo_cell(logos):
     cells = []
     for lg in logos:
         span = ""
         if lg["start"] or lg["end"]:
-            span = ", %s-%s" % ((lg["start"] or "")[:4], (lg["end"] or "")[:4])
+            span = ", %s-%s" % (year(lg["start"]), year(lg["end"]))
         cells.append("%s [%s%s]" % (lg["file"], lg["rank"], span))
     return " | ".join(cells)
 

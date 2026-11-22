@@ -1,0 +1,8 @@
+{
+  "name": "azza-cars-logo-tools",
+  "private": true,
+  "description": "Pinned SVG optimizer used by tools/logos/audit.py",
+  "devDependencies": {
+    "svgo": "4.0.0"
+  }
+}
