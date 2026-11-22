@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:02:02Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://seat.com",
+  "retrieved_utc": "2026-11-22T20:16:59.508Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://ds-assets.cupra.com/icons/seat/logo.svg",
+    "displayed_px": [
+     32,
+     32
+    ],
+    "sha256": "c41bce829ffe78c4be80d4f4f9fb49f58cf1d342f6fdfa7ba429d0cae064f5a0",
+    "bytes": 1353
+   }
+  ],
+  "page_final": "https://www.seat.com/",
+  "http_status": 200
  }
 }

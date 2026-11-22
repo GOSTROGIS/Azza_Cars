@@ -40,5 +40,61 @@
     "retrieved_utc": "2026-11-22T20:01:42Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://mahindra.com",
+  "retrieved_utc": "2026-11-22T20:16:13.067Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.webp",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.mahindra.com//sites/default/files/2025-07/mahindra-red-logo.webp",
+    "displayed_px": [
+     205,
+     30
+    ],
+    "sha256": "a4aaba105c6dd74aff76a42f7bbac0eedf0d9014f5669792e3eda9ffb79c20dd",
+    "bytes": 3052
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     21,
+     21
+    ],
+    "sha256": "e8190c811aec4584500d9fb6ddb7b80a8793c3c40378287d53210d73c62aac61",
+    "bytes": 1995
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     21,
+     21
+    ],
+    "sha256": "68d5e61314343cce5edfa58517a9217fe2fe8e307848ba1a6075480f6cf71317",
+    "bytes": 2043
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     21,
+     21
+    ],
+    "sha256": "e906e0a56b5b1cdfb2e5f0f65220f35c4e3d8fa200c50e32496e092ba6dba18b",
+    "bytes": 2037
+   }
+  ],
+  "page_final": "https://www.mahindra.com/",
+  "http_status": 200
  }
 }

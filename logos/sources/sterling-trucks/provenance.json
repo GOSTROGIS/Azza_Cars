@@ -1,0 +1,9 @@
+{
+ "website": {
+  "page_requested": "https://www.sterlingtrucks.com",
+  "retrieved_utc": "2026-11-22T20:23:04.315Z",
+  "files": [],
+  "page_final": "https://www.sterlingtrucks.com/",
+  "http_status": 502
+ }
+}

@@ -60,5 +60,12 @@
     "retrieved_utc": "2026-11-22T20:01:53Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.nissanusa.com",
+  "retrieved_utc": "2026-11-22T20:29:04.481Z",
+  "files": [],
+  "page_final": "https://www.nissanusa.com/",
+  "http_status": 403
  }
 }

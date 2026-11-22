@@ -1,0 +1,72 @@
+{
+ "slug": "peterbilt",
+ "master": "website/logo-1.svg",
+ "reference": "brandfetch/logo-dark.svg",
+ "note": "reviewed proposal",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_luminance": 0.8
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 0,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 2.3167,
+  "aspect_b": 2.3167,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 0,
+  "pixels_changed_pct": 0.0,
+  "colors_master": {
+   "#bf2026": 0.7095,
+   "#ffffff": 0.2757
+  },
+  "colors_rebuilt": {
+   "#bf2026": 0.7095,
+   "#ffffff": 0.2757
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#bf2026",
+  "#ffffff"
+ ],
+ "brandfetch_palette": [
+  "#3a3838",
+  "#cf123c",
+  "#ffffff"
+ ],
+ "agreement": {
+  "max_deviation_px": 1,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 4,
+  "iou": 0.9986,
+  "aspect_a": 2.3197,
+  "aspect_b": 2.322,
+  "aspect_diff": 0.001,
+  "tolerance_frac_of_width": 0.0015,
+  "reference_native_width_px": null,
+  "colors_reference": {
+   "#cf123c": 0.6924,
+   "#cf133d": 0.0022,
+   "#fffefe": 0.0022,
+   "#ffffff": 0.2673
+  }
+ },
+ "color_audit": {
+  "#bf2026": [],
+  "#ffffff": [
+   "reference render",
+   "brandfetch palette"
+  ]
+ },
+ "result": "flagged",
+ "reasons": [
+  "fill colours not found in an independent source: #bf2026"
+ ]
+}

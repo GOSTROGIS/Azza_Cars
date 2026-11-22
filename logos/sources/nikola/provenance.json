@@ -60,5 +60,25 @@
     "retrieved_utc": "2026-11-22T20:01:52Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://nikolamotor.com",
+  "retrieved_utc": "2026-11-22T20:23:28.640Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://static.wixstatic.com/media/396712_6de0bff4db984e878113102ebfcfa741~mv2.png/v1/fill/w_314,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Lockup%20-%20Horizontal%20on%20black1200px.png",
+    "displayed_px": [
+     314,
+     67
+    ],
+    "sha256": "654de26f51d564efb8708c543d08696e9e30098f0a8eaa55ea3cadd21f9bc726",
+    "bytes": 14728
+   }
+  ],
+  "page_final": "https://www.hyroadenergy.com/",
+  "http_status": 200
  }
 }

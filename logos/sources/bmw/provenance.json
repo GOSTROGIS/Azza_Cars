@@ -126,10 +126,23 @@
   ]
  },
  "website": {
-  "page_requested": "https://bmw.com",
-  "retrieved_utc": "2026-11-22T20:11:22.643Z",
-  "files": [],
-  "page_final": "https://www.bmwusa.com/en/home.html",
-  "http_status": 404
+  "page_requested": "https://www.bmwusa.com",
+  "retrieved_utc": "2026-11-22T20:27:00.730Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.bmwusa.com/content/dam/bmw/marketUS/common/images/logo-icons/BMW/BMW_White_Logo.svg.asset.1695740583851.svg",
+    "displayed_px": [
+     52,
+     52
+    ],
+    "sha256": "c41f21606f68cd1e3174b40d10a57a593550ad583cd360ab3012c9847d83387f",
+    "bytes": 5162
+   }
+  ],
+  "page_final": "https://www.bmwusa.com/",
+  "http_status": 200
  }
 }

@@ -60,5 +60,49 @@
     "retrieved_utc": "2026-11-22T20:01:31Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.isuzucv.com",
+  "retrieved_utc": "2026-11-22T20:27:51.036Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://mirror.isuzucv.com/new_images/us/layout/logo_2025.png",
+    "displayed_px": [
+     136,
+     25
+    ],
+    "sha256": "8a63f01bc7b095ae2563026fcad427dd9dc75e66048b2c1fe1c6724b911ac349",
+    "bytes": 1756
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.isuzucv.com/images/us/layout/magnifying_glass.png",
+    "displayed_px": [
+     23,
+     23
+    ],
+    "sha256": "7d408816457b686b779fbda742b049c93c83363b8d0676e9738465b9207f9b63",
+    "bytes": 1511
+   },
+   {
+    "saved_as": "website/logo-3.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.isuzucv.com/images/us/layout/es.png",
+    "displayed_px": [
+     25,
+     22
+    ],
+    "sha256": "9e097e445b64f169b973972ae20ca2813784290bd4d0e3a4d6e33ae335354c4f",
+    "bytes": 1455
+   }
+  ],
+  "page_final": "https://www.isuzucv.com/en/index",
+  "http_status": 200
  }
 }

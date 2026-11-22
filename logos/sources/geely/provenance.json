@@ -100,5 +100,25 @@
     "retrieved_utc": "2026-11-22T20:01:24Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://geely.com",
+  "retrieved_utc": "2026-11-22T20:18:59.742Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     150,
+     14
+    ],
+    "sha256": "4724f4fbc46b3759ef1545e7dbba4500104c24c7d1833e3695572af1406c9efb",
+    "bytes": 4816
+   }
+  ],
+  "page_final": "https://www.geely.com/",
+  "http_status": 200
  }
 }

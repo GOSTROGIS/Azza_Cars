@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:01:17Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://chery.cn",
+  "retrieved_utc": "2026-11-22T20:17:46.935Z",
+  "files": [],
+  "page_final": "https://chery.cn/",
+  "http_status": 502
  }
 }

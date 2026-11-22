@@ -30,5 +30,37 @@
     "retrieved_utc": "2026-11-22T20:01:39Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://lionbuses.com",
+  "retrieved_utc": "2026-11-22T20:23:39.943Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://lionlion.ca/wp-content/uploads/2025/07/LION_New_Logo_Horizontal-1536x875.png",
+    "displayed_px": [
+     144,
+     137
+    ],
+    "sha256": "3e2e55ba02bcd52a3d9db8cd236e258ed5b60c4319347e18d1bd70de23ede0c6",
+    "bytes": 26774
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://lionlion.ca/wp-content/uploads/2025/07/LION_New_Logo_Horizontal-1536x875.png",
+    "displayed_px": [
+     144,
+     137
+    ],
+    "sha256": "3e2e55ba02bcd52a3d9db8cd236e258ed5b60c4319347e18d1bd70de23ede0c6",
+    "bytes": 26774
+   }
+  ],
+  "page_final": "https://lionlion.ca/",
+  "http_status": 200
  }
 }

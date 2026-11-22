@@ -100,5 +100,61 @@
     "retrieved_utc": "2026-11-22T20:01:41Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://lucidmotors.com",
+  "retrieved_utc": "2026-11-22T20:13:32.808Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     140,
+     8
+    ],
+    "sha256": "90c0edfe615ec3ec67b720efcb3397f68c37d607fd4fa2119bb17fc0c6570bd9",
+    "bytes": 2323
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     33,
+     15
+    ],
+    "sha256": "42a1b5d8157e3d37de0b37a05e99aa3fb284e8bcec0c0ce30cf3cd0ed6991472",
+    "bytes": 8020
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "f8e6deda1dd64a7c372c85c5a875370fd1ab1648bd8778a836462c6554ee15e8",
+    "bytes": 1912
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "b2ab0a7ae9394a9d0777b43f145795de78c5c1633b4503613e1290b3fa9c0d0c",
+    "bytes": 3239
+   }
+  ],
+  "page_final": "https://lucidmotors.com/",
+  "http_status": 200
  }
 }

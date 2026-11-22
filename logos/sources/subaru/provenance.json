@@ -1,0 +1,58 @@
+{
+ "website": {
+  "page_requested": "https://www.subaru.com",
+  "retrieved_utc": "2026-11-22T20:29:33.313Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[alt*=\"logo\" i]",
+    "src": "https://www.subaru.com/content/dam/subaru/en/pages/our-commitment/share-the-love/2025/nov/logos/404_HPR_STL_Logo_3L_250x80.svg",
+    "displayed_px": [
+     184,
+     59
+    ],
+    "sha256": "eed53d57e2775df5d35b6e1c75342f8b96a5a99ad5928c3f4dd3546ceead460e",
+    "bytes": 22064
+   },
+   {
+    "saved_as": "website/logo-2.jpg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://s7d1.scene7.com/is/image/scomv2/SOA_Primary_HOR_600x150?$160wa$",
+    "displayed_px": [
+     160,
+     40
+    ],
+    "sha256": "9bb962ecd731c8fbe14df631a6ce8bbb165de82a600aefc6d43b339c6f1e99eb",
+    "bytes": 6753
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.subaru.com/content/dam/subaru/en/common-images/marketing-type/AllVehicles_Icon.svg",
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "953e2cf77900335ac166719553e417fe51c7b8d141fcadb3d07605233cf55d3b",
+    "bytes": 1096
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.subaru.com/content/dam/subaru/en/common-images/marketing-type/Hybrid_Grey.svg",
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "dabc23a68310e45164d629e8d9c5e8edf2f8dfb87da5f74e8335dc73084a2eab",
+    "bytes": 744
+   }
+  ],
+  "page_final": "https://www.subaru.com/",
+  "http_status": 200
+ }
+}

@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:01:54Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://opel.com",
+  "retrieved_utc": "2026-11-22T20:21:19.574Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.opel.com/content/dam/opel/master/footer/OPEL_EMBLEM_2023_VERTICAL_BLACK_RGB.svg",
+    "displayed_px": [
+     45,
+     40
+    ],
+    "sha256": "ef6483699f18087c18a7ee835ac827845ec907dbc1a81a8300cb7bc635c95606",
+    "bytes": 2561
+   }
+  ],
+  "page_final": "https://www.opel.com/",
+  "http_status": 200
  }
 }

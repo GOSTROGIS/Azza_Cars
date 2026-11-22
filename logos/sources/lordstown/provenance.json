@@ -56,5 +56,11 @@
     "retrieved_utc": "2026-11-22T20:01:39Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://lordstownmotors.com",
+  "retrieved_utc": "2026-11-22T20:16:54.796Z",
+  "files": [],
+  "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://lordstownmotors.com/"
  }
 }

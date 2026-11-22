@@ -1,2 +1,13 @@
 slug,master,reference,note
-acura,commons/Acura_logo.svg,brandfetch/logo-dark.svg,pipeline test
+acura,brandfetch/logo-dark.svg,commons/Acura_logo.svg,reviewed proposal
+aston-martin,brandfetch/logo-dark.svg,website/logo-1.svg,reviewed proposal
+international,brandfetch/logo-dark.svg,website/logo-1.svg,reviewed proposal
+koenigsegg,brandfetch/logo-dark.svg,website/logo-1.svg,reviewed proposal
+opel,website/logo-1.svg,brandfetch/logo-dark.svg,reviewed proposal
+peterbilt,website/logo-1.svg,brandfetch/logo-dark.svg,reviewed proposal
+rivian,website/logo-1.svg,brandfetch/logo-dark.svg,reviewed proposal
+scout,website/logo-1.svg,brandfetch/logo-dark.svg,reviewed proposal
+seat,website/logo-1.svg,brandfetch/logo-dark.svg,reviewed proposal
+slate,brandfetch/logo-dark.svg,website/logo-1.svg,reviewed proposal
+volvo-trucks,website/logo-2.svg,brandfetch/logo-dark.png,reviewed proposal
+zeekr,brandfetch/logo-dark.svg,website/logo-2.svg,reviewed proposal

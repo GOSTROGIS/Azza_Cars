@@ -40,5 +40,33 @@
     "retrieved_utc": "2026-11-22T20:02:01Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://saleen.com",
+  "retrieved_utc": "2026-11-22T20:15:57.757Z",
+  "files": [
+   {
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://saleen.com/logos/saleen-horizontal-white.svg",
+    "error": "HTTP 429"
+   },
+   {
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://saleen.com/logos/saleen-horizontal-black.svg",
+    "error": "HTTP 429"
+   },
+   {
+    "selector": "header img",
+    "src": "https://saleen.com/navbar/302.webp",
+    "error": "HTTP 429"
+   },
+   {
+    "selector": "header img",
+    "src": "https://saleen.com/navbar/ST-1536x527.webp",
+    "error": "HTTP 429"
+   }
+  ],
+  "page_final": "https://saleen.com/",
+  "http_status": 200
  }
 }

@@ -1,0 +1,34 @@
+{
+ "website": {
+  "page_requested": "https://www.dfdongfeng.com.cn",
+  "retrieved_utc": "2026-11-22T20:19:49.597Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://www.dfdongfeng.com.cn/static/web/img/logo_1.png?v=v8",
+    "displayed_px": [
+     165,
+     90
+    ],
+    "sha256": "65a63f05a42d0574b1dfa3c365839fdcba026adad75e47d3a18a90fd6ecbe58d",
+    "bytes": 4811
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://www.dfdongfeng.com.cn/static/web/img/logo_df_1.png?v=v8",
+    "displayed_px": [
+     200,
+     90
+    ],
+    "sha256": "07fb787eb86d9d476e60579a0f4042336b499a24416f1213b7aaebec569bf12a",
+    "bytes": 4068
+   }
+  ],
+  "page_final": "https://www.dfdongfeng.com.cn/",
+  "http_status": 200
+ }
+}

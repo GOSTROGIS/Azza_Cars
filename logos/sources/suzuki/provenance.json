@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:02:05Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.suzuki.com.mx",
+  "retrieved_utc": "2026-11-22T20:29:38.944Z",
+  "files": [],
+  "page_final": "https://www.suzuki.com.mx/",
+  "http_status": 200
  }
 }

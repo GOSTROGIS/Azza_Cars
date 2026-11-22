@@ -1,0 +1,58 @@
+{
+ "website": {
+  "page_requested": "https://www.hino.com",
+  "retrieved_utc": "2026-11-22T20:27:33.682Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.hino.com/user_area/content_media/raw/hino-logo.svg?w=150&quality=80",
+    "displayed_px": [
+     150,
+     122
+    ],
+    "sha256": "cb069a4f9ac1c818b7bdcda355909de6494dc399e4625cebdcdc65dddcb2a988",
+    "bytes": 10180
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.hino.com/user_area/content_media/raw/search.svg?w=28&quality=80",
+    "displayed_px": [
+     26,
+     28
+    ],
+    "sha256": "51e83fd6a1c57521aa457b088b524b9f6c81e9c05f64d1b7d55241ac98731f53",
+    "bytes": 985
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.hino.com/Areas/CMS/assets/img/down_arrow.svg",
+    "displayed_px": [
+     32,
+     32
+    ],
+    "sha256": "52d9143c73197925af431d6da252b79643120419fdd2618e88cb388f33a41749",
+    "bytes": 993
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.hino.com/Areas/CMS/assets/img/down_arrow.svg",
+    "displayed_px": [
+     32,
+     32
+    ],
+    "sha256": "52d9143c73197925af431d6da252b79643120419fdd2618e88cb388f33a41749",
+    "bytes": 993
+   }
+  ],
+  "page_final": "https://www.hino.com/",
+  "http_status": 200
+ }
+}

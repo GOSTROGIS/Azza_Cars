@@ -100,5 +100,12 @@
     "retrieved_utc": "2026-11-22T20:02:06Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://tesla.com",
+  "retrieved_utc": "2026-11-22T20:15:13.432Z",
+  "files": [],
+  "page_final": "https://tesla.com/",
+  "http_status": 403
  }
 }

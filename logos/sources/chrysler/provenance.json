@@ -1,9 +1,9 @@
 {
  "website": {
-  "page_requested": "https://media.stellantisnorthamerica.com",
-  "retrieved_utc": "2026-11-22T20:11:47.701Z",
+  "page_requested": "https://www.chrysler.com",
+  "retrieved_utc": "2026-11-22T20:27:17.416Z",
   "files": [],
-  "page_final": "https://media.stellantisnorthamerica.com/homepage.do?mid=1",
-  "http_status": 200
+  "page_final": "https://www.chrysler.com/",
+  "http_status": 403
  }
 }

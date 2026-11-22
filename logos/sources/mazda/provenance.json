@@ -100,5 +100,12 @@
     "retrieved_utc": "2026-11-22T20:01:46Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.mazdausa.com",
+  "retrieved_utc": "2026-11-22T20:28:33.631Z",
+  "files": [],
+  "page_final": "https://www.mazdausa.com/",
+  "http_status": 200
  }
 }

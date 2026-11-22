@@ -60,5 +60,25 @@
     "retrieved_utc": "2026-11-22T20:02:04Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://smart.com",
+  "retrieved_utc": "2026-11-22T20:20:48.644Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://global.smart.com/images/logo.svg",
+    "displayed_px": [
+     71,
+     96
+    ],
+    "sha256": "d22de8aa2f832d4ca8bd99608d900b38bdf36241c4421357b8d8982c473efa33",
+    "bytes": 5007
+   }
+  ],
+  "page_final": "https://global.smart.com/",
+  "http_status": 200
  }
 }

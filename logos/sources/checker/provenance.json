@@ -1,0 +1,22 @@
+{
+ "website": {
+  "page_requested": "https://www.checkermotorcars.com",
+  "retrieved_utc": "2026-11-22T20:21:08.625Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://checkermotorcars.com/wp-content/uploads/2025/11/Checker-Motor-Cars-logo.png",
+    "displayed_px": [
+     400,
+     91
+    ],
+    "sha256": "b7130a5901812f069599bd9b68be644f5c4fe078270dbd291d72d132f4f9e0d5",
+    "bytes": 15451
+   }
+  ],
+  "page_final": "https://checkermotorcars.com/",
+  "http_status": 200
+ }
+}

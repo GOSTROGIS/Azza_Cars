@@ -30,5 +30,12 @@
     "retrieved_utc": "2026-11-22T20:01:26Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://holden.com.au",
+  "retrieved_utc": "2026-11-22T20:21:25.727Z",
+  "files": [],
+  "page_final": "https://www.holden.com.au/",
+  "http_status": 403
  }
 }

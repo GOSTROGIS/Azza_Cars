@@ -1,0 +1,9 @@
+{
+ "website": {
+  "page_requested": "https://www.canoo.com",
+  "retrieved_utc": "2026-11-22T20:16:50.379Z",
+  "files": [],
+  "page_final": "https://www.canoo.com/lander",
+  "http_status": 200
+ }
+}

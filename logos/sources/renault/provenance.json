@@ -60,5 +60,61 @@
     "retrieved_utc": "2026-11-22T20:01:57Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.renault.com.mx",
+  "retrieved_utc": "2026-11-22T20:29:27.315Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     56,
+     73
+    ],
+    "sha256": "7fd10a4bb58191724b666c499b9918807d2e67ee866c41d847058f824faf9046",
+    "bytes": 639
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://cdn.cookielaw.org/logos/1058e0b9-ee95-4d43-8292-3dae40ce5c3c/01990b45-83ff-7cc3-bf3a-20c60ad95995/083930d7-a4ad-470d-b9bd-cf6adbf30570/Renault.png",
+    "displayed_px": [
+     78,
+     78
+    ],
+    "sha256": "220b49931a913a43d1be84d7a8a5d90c8b019886a140b668c257655685fb922e",
+    "bytes": 191376
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "fe607b527f43c05d2519c2fec56d3531ee1939946ed42aebabb6f8b36d8c758c",
+    "bytes": 630
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "213d726fc981e7ed49bbfbe67c1d58990c2c434d6f4a0fd97a6b2e9da664dc42",
+    "bytes": 902
+   }
+  ],
+  "page_final": "https://www.renault.com.mx/",
+  "http_status": 200
  }
 }

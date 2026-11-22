@@ -34,5 +34,12 @@
     "retrieved_utc": "2026-11-22T20:01:33Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://kandivehicle.com",
+  "retrieved_utc": "2026-11-22T20:16:40.491Z",
+  "files": [],
+  "page_final": "https://kandivehicle.com/",
+  "http_status": 502
  }
 }

@@ -42,10 +42,35 @@
   ]
  },
  "website": {
-  "page_requested": "https://infiniti.com",
-  "retrieved_utc": "2026-11-22T20:12:41.030Z",
-  "files": [],
-  "page_final": "https://infiniti.com/",
-  "http_status": 502
+  "page_requested": "https://www.infinitiusa.com",
+  "retrieved_utc": "2026-11-22T20:27:44.105Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.infinitiusa.com/content/dam/Infiniti/US/navigation/v2/infiniti-logo.png",
+    "displayed_px": [
+     234,
+     30
+    ],
+    "sha256": "e5ffba4137179a0b3be163672ece780c15bb282440a273ee932f4a7962deb3ec",
+    "bytes": 1885
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.infinitiusa.com/content/dam/Infiniti/US/navigation/v2/infiniti-logo-light.png",
+    "displayed_px": [
+     234,
+     30
+    ],
+    "sha256": "6dd03e78145e2af942b04a6a2e3fe9dfec296e7389e6a8afbe0bb0125ba3290a",
+    "bytes": 2262
+   }
+  ],
+  "page_final": "https://www.infinitiusa.com/",
+  "http_status": 200
  }
 }

@@ -1,0 +1,60 @@
+{
+ "slug": "opel",
+ "master": "website/logo-1.svg",
+ "reference": "brandfetch/logo-dark.svg",
+ "note": "reviewed proposal",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_luminance": 0.8
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 1,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 1.1296,
+  "aspect_b": 1.1296,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 64,
+  "pixels_changed_pct": 0.0009,
+  "colors_master": {
+   "#000000": 0.9872
+  },
+  "colors_rebuilt": {
+   "#000000": 0.9872
+  }
+ },
+ "declared_colors_rebuilt": [],
+ "brandfetch_palette": [
+  "#52a2de",
+  "#6a0d0d",
+  "#efbe73"
+ ],
+ "agreement": {
+  "max_deviation_px": 1,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 4,
+  "iou": 0.9931,
+  "aspect_a": 1.1298,
+  "aspect_b": 1.1296,
+  "aspect_diff": 0.0001,
+  "tolerance_frac_of_width": 0.0015,
+  "reference_native_width_px": null,
+  "colors_reference": {
+   "#000000": 0.9493
+  }
+ },
+ "color_audit": {
+  "#000000": [
+   "reference render"
+  ]
+ },
+ "result": "pass",
+ "reasons": []
+}

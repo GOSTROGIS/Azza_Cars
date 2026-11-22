@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:01:54Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://oshkoshcorp.com",
+  "retrieved_utc": "2026-11-22T20:23:17.479Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[alt*=\"logo\" i]",
+    "src": "https://www.oshkoshcorp.com/includes/Oshkosh/OshkoshCorp/img/Main_nav_logo.png",
+    "displayed_px": [
+     148,
+     47
+    ],
+    "sha256": "2eac3550b261f890e32b1591a847ef500a868cd6c2327ce6c2f89ff8a39555b6",
+    "bytes": 2130
+   }
+  ],
+  "page_final": "https://www.oshkoshcorp.com/",
+  "http_status": 200
  }
 }

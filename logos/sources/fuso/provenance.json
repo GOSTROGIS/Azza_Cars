@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:01:23Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://mitsubishi-fuso.com",
+  "retrieved_utc": "2026-11-22T20:22:53.051Z",
+  "files": [],
+  "page_final": "https://mitsubishi-fuso.com/",
+  "http_status": 502
  }
 }

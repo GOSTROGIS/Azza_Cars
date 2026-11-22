@@ -64,5 +64,37 @@
     "retrieved_utc": "2026-11-22T20:01:58Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://rivian.com",
+  "retrieved_utc": "2026-11-22T20:15:02.030Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     102,
+     14
+    ],
+    "sha256": "4500f8a5900ac5cc984f537707f7ef6b670e2e7b636cb2cb9cbad2b15296bee2",
+    "bytes": 2010
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     20,
+     20
+    ],
+    "sha256": "6619e3866a1640abe3ddbcfffbf5d7316e0843543d15c51b7db34e30c1e99b02",
+    "bytes": 817
+   }
+  ],
+  "page_final": "https://rivian.com/",
+  "http_status": 200
  }
 }

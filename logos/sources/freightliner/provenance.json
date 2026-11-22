@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:01:22Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://freightliner.com",
+  "retrieved_utc": "2026-11-22T20:22:00.747Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://www.freightliner.com/images/FLLogo.svg",
+    "displayed_px": [
+     180,
+     58
+    ],
+    "sha256": "cf477fb70cbb6b7f70818e9b23f0855e7f1e6a1be2aaf3fcdc51079c5c2b5f88",
+    "bytes": 33927
+   }
+  ],
+  "page_final": "https://www.freightliner.com/",
+  "http_status": 200
  }
 }

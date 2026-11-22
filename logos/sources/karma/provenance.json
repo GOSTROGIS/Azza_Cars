@@ -30,5 +30,49 @@
     "retrieved_utc": "2026-11-22T20:01:33Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://karmaautomotive.com",
+  "retrieved_utc": "2026-11-22T20:16:45.306Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://karmaautomotive.com/wp-content/uploads/2026/01/karma-logo.png",
+    "displayed_px": [
+     103,
+     20
+    ],
+    "sha256": "4470e2a592e07e975a58124a9c866ce04acb3a38e8903134e427add8350c1d09",
+    "bytes": 1285
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://karmaautomotive.com/wp-content/uploads/2026/01/flag_us.png",
+    "displayed_px": [
+     20,
+     14
+    ],
+    "sha256": "5c9783f08a564e9a2582390c0a29ff7a9b4baa9e80b1815535f7f7b155ceb9f0",
+    "bytes": 112
+   },
+   {
+    "saved_as": "website/logo-3.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://karmaautomotive.com/wp-content/uploads/2026/01/flag_eu.png",
+    "displayed_px": [
+     20,
+     14
+    ],
+    "sha256": "902be344e498bd05a199166277e4cd9d7ddd0017a3f4884a90278f1c87cd44c4",
+    "bytes": 150
+   }
+  ],
+  "page_final": "https://karmaautomotive.com/",
+  "http_status": 200
  }
 }

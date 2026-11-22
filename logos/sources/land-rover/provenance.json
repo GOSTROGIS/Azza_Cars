@@ -1,0 +1,46 @@
+{
+ "website": {
+  "page_requested": "https://www.landroverusa.com",
+  "retrieved_utc": "2026-11-22T20:28:15.240Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.landroverusa.com/content/dam/lrdx/logo/Range_Rover_White.svg.res/JLRHASHB01A33DBBB11B67C76D747726D51611F80784E86/Range_Rover_White.svg",
+    "displayed_px": [
+     298,
+     16
+    ],
+    "sha256": "053aadd5a6c1204ed00a2c9f9970f13d7f48bffa61b4c99303378e9b7196ca95",
+    "bytes": 5723
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.landroverusa.com/content/dam/lrdx/logo/L66300GL_303103837_devicemark_White_RGB.svg.res/JLRHASH4114EE859D05574547E4F5F17922266C034B8379/L66300GL_303103837_devicemark_White_RGB.svg",
+    "displayed_px": [
+     216,
+     21
+    ],
+    "sha256": "b270f01ce1e4f8cf06b07cc9ba4d92aae3f0a74dd102f1d6c8fb1d4c769c2b57",
+    "bytes": 2263
+   },
+   {
+    "saved_as": "website/logo-3.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.landroverusa.com/content/dam/lrdx/global/house-of-brands/discovery/Discovery_White-Logo_HOB.png.res/JLRHASH2C873EC40DBEC15CC514CD2B882B316E7EE9E89C/Discovery_White-Logo_HOB.png",
+    "displayed_px": [
+     224,
+     16
+    ],
+    "sha256": "a6be52bd629115ea1aeb5b0eace1c2163e81fe7136f7648eeb37fcd01aabc0b6",
+    "bytes": 13357
+   }
+  ],
+  "page_final": "https://www.landroverusa.com/index.html",
+  "http_status": 200
+ }
+}

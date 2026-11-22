@@ -60,5 +60,37 @@
     "retrieved_utc": "2026-11-22T20:02:03Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://slate.auto",
+  "retrieved_utc": "2026-11-22T20:15:46.439Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     220,
+     28
+    ],
+    "sha256": "6a76c586571de9b9ffbb68ece2eff4b615d96dcf20fedb048955db6dd013b7d2",
+    "bytes": 1134
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "e31a405b62b584b0d9a8195f8f993f659f39ef2b81b811ed7c36847cdd713ab2",
+    "bytes": 2406
+   }
+  ],
+  "page_final": "https://www.slate.auto/en",
+  "http_status": 200
  }
 }

@@ -96,5 +96,61 @@
     "retrieved_utc": "2026-11-22T20:01:29Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://international.com",
+  "retrieved_utc": "2026-11-22T20:22:37.795Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     312,
+     32
+    ],
+    "sha256": "736d0a568a032cd5965e7c3465dabae05095dce84a1159c3809d8665ae149af2",
+    "bytes": 5451
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     20,
+     20
+    ],
+    "sha256": "fd73884ab98556b731d2c905afdbeb53a104df8becea326ce29d371fb7c051bd",
+    "bytes": 712
+   },
+   {
+    "saved_as": "website/logo-3.jpg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://international.imgix.net/-/media/project/tratongroup/international/international/vehicles/international-male-driver-close-up-window-reflection-240318-1720.webp?rev=707836c6c4a3441cb2d5a546d0b8cb96&ar=1:1&max-w=260&max-h=260&auto=format&fit=crop&q=40&crop=entropy&w=3000&h=2000&hash=889A925590E3484BAF60F9D220772527",
+    "displayed_px": [
+     260,
+     260
+    ],
+    "sha256": "ccd547bfbb5db66e8d42c07b85409360f8634468467c3307d45b3696d305e36b",
+    "bytes": 10730
+   },
+   {
+    "saved_as": "website/logo-4.jpg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://international.imgix.net/-/media/project/tratongroup/international/international/common-media/people/international-two-male-employees-atc-office-231205-8414.webp?rev=274ae99d692d4e69827f4e755f3ba20c&ar=1:1&max-w=260&max-h=260&auto=format&fit=crop&q=40&crop=entropy&w=3000&h=2000&hash=4EE8AB602F3E18BF1483CB14A3AD51EB",
+    "displayed_px": [
+     260,
+     260
+    ],
+    "sha256": "f486a3b4a6346a92a864f6a863a13b3f3e66dde7280852515f0714e4ef0d1881",
+    "bytes": 7856
+   }
+  ],
+  "page_final": "https://www.international.com/",
+  "http_status": 200
  }
 }

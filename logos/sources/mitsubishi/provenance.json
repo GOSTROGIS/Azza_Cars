@@ -60,5 +60,61 @@
     "retrieved_utc": "2026-11-22T20:01:51Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.mitsubishicars.com",
+  "retrieved_utc": "2026-11-22T20:28:59.090Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors/images/logos/nav-logo-light.svg",
+    "displayed_px": [
+     76,
+     100
+    ],
+    "sha256": "709c9c0e5aca9626ad498151f47858cfe9feed0a9e15726e0ee4cd078131fc13",
+    "bytes": 17251
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors/images/logos/nav-logo-black.svg",
+    "displayed_px": [
+     76,
+     100
+    ],
+    "sha256": "ce00b81ad17e9c4e679720a9e70f6aea57f21d49a327aed2bddbf79c22867426",
+    "bytes": 17251
+   },
+   {
+    "saved_as": "website/logo-3.jpg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/global-nav-media/vehicle-nav-promo-apr-d-v3.jpg",
+    "displayed_px": [
+     278,
+     475
+    ],
+    "sha256": "feaa20356822d2990e01b51b54b396bdcdaa3781e9e51878f61ae14478a9012c",
+    "bytes": 69607
+   },
+   {
+    "saved_as": "website/logo-4.jpg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/global-nav-media/vehicle-nav-promo-abbv-d-v3.jpg",
+    "displayed_px": [
+     278,
+     487
+    ],
+    "sha256": "ca3f8045c57e4679772818d9436fb262453fdd35848e2fe3eae6a6ae2831e44f",
+    "bytes": 172743
+   }
+  ],
+  "page_final": "https://www.mitsubishicars.com/",
+  "http_status": 200
  }
 }

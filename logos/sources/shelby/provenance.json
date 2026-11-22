@@ -30,5 +30,25 @@
     "retrieved_utc": "2026-11-22T20:02:02Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://shelby.com",
+  "retrieved_utc": "2026-11-22T20:21:47.241Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://shelby.com/images/ShelbyLogoCircle2.png",
+    "displayed_px": [
+     91,
+     91
+    ],
+    "sha256": "ae3da27cab2f1d3a822614f3256087f376df8be0db6e90c4aebb8b3037bb0e11",
+    "bytes": 159688
+   }
+  ],
+  "page_final": "https://shelby.com/home",
+  "http_status": 200
  }
 }

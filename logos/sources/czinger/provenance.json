@@ -30,5 +30,25 @@
     "retrieved_utc": "2026-11-22T20:01:18Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://czinger.com",
+  "retrieved_utc": "2026-11-22T20:15:52.289Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.czinger.com/assets/v3/logos/czinger-wordmark.svg",
+    "displayed_px": [
+     243,
+     12
+    ],
+    "sha256": "5128ae5d24bbb9ff30de72c862586e7f6b63b0f8f8badd66268d701144a738b9",
+    "bytes": 4363
+   }
+  ],
+  "page_final": "https://www.czinger.com/",
+  "http_status": 200
  }
 }

@@ -1,0 +1,8 @@
+{
+ "website": {
+  "page_requested": "https://www.gac-motor.com",
+  "retrieved_utc": "2026-11-22T20:19:24.489Z",
+  "files": [],
+  "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.gac-motor.com/"
+ }
+}

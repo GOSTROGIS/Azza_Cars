@@ -40,5 +40,11 @@
     "retrieved_utc": "2026-11-22T20:02:04Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://soueast-motor.com",
+  "retrieved_utc": "2026-11-22T20:19:37.821Z",
+  "files": [],
+  "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://soueast-motor.com/"
  }
 }

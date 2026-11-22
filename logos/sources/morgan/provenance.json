@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:01:51Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://morgan-motor.co.uk",
+  "retrieved_utc": "2026-11-22T20:14:15.365Z",
+  "files": [],
+  "page_final": "https://morgan-motor.co.uk/",
+  "http_status": 502
  }
 }

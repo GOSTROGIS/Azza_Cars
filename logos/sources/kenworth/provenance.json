@@ -30,5 +30,12 @@
     "retrieved_utc": "2026-11-22T20:01:33Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://kenworth.com",
+  "retrieved_utc": "2026-11-22T20:22:18.870Z",
+  "files": [],
+  "page_final": "https://kenworth.com/",
+  "http_status": 403
  }
 }

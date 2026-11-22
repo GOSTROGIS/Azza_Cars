@@ -40,5 +40,61 @@
     "retrieved_utc": "2026-11-22T20:02:07Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.toyota.com",
+  "retrieved_utc": "2026-11-22T20:29:44.290Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     142,
+     32
+    ],
+    "sha256": "dfc82f764dfe2244399d0f51b94beb06803cab7927afe94218ae92d1978f018c",
+    "bytes": 4843
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://delivery.tcom.assetscs.toyota.com/adobe/assets/urn:aaid:aem:de5c10a1-86d0-46fb-ba6e-3d1e50ffeb2f/as/GRLogo.svg",
+    "displayed_px": [
+     43,
+     28
+    ],
+    "sha256": "8cbd5243d0a1c5cdc1678952543653cfe5645529b1481bf09ac52e994a382fb4",
+    "bytes": 2168
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://delivery.tcom.assetscs.toyota.com/adobe/assets/urn:aaid:aem:593ef81f-5bba-44c4-a9f2-08d703de5cdc/as/scion_sm_logo.svg",
+    "displayed_px": [
+     65,
+     28
+    ],
+    "sha256": "2df2209004c7852e5f8445605070c7f58efe3006dcdc45480400c3d091df1dfd",
+    "bytes": 7743
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://delivery.tcom.assetscs.toyota.com/adobe/assets/urn:aaid:aem:9c5351b7-5293-4fd7-a1c9-ffc6c45d48f9/as/TRDLogo.svg",
+    "displayed_px": [
+     92,
+     28
+    ],
+    "sha256": "8ad0cea60e6a5c79fe309cefa53152046669e4d02f95824554f21265692ec392",
+    "bytes": 3300
+   }
+  ],
+  "page_final": "https://www.toyota.com/",
+  "http_status": 200
  }
 }

@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:01:55Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://peterbilt.com",
+  "retrieved_utc": "2026-11-22T20:22:13.081Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[alt*=\"logo\" i]",
+    "src": "https://www.peterbilt.com/_nuxt/img/logo.4990198.svg",
+    "displayed_px": [
+     105,
+     46
+    ],
+    "sha256": "345833922704b54196eef7581526df8821f6ae37220d22dedfa99506f9f3cea4",
+    "bytes": 6757
+   }
+  ],
+  "page_final": "https://www.peterbilt.com/",
+  "http_status": 200
  }
 }

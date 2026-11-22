@@ -64,5 +64,25 @@
     "retrieved_utc": "2026-11-22T20:01:50Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.miniusa.com",
+  "retrieved_utc": "2026-11-22T20:28:53.016Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.miniusa.com/content/dam/mini/global-nav/mini-logo.svg",
+    "displayed_px": [
+     115,
+     50
+    ],
+    "sha256": "9d3ae162eeb16896288b4f1f42c6eca1a94cf7d42fc4e6572770903248f48ac1",
+    "bytes": 1787
+   }
+  ],
+  "page_final": "https://www.miniusa.com/",
+  "http_status": 200
  }
 }

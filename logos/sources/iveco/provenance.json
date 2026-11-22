@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:01:31Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://iveco.com",
+  "retrieved_utc": "2026-11-22T20:23:57.464Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.iveco.com/global/-/media/IVECOdotcom/Content/logo/iveco_logo_black.svg?iar=0&rev=e7f684dae84146e6aee8730faaea4cbd",
+    "displayed_px": [
+     142,
+     30
+    ],
+    "sha256": "bc555f130a6b9264f9e4597dc31a1da5ed1d7a76c0995ad86e3b22f9c34e9e49",
+    "bytes": 3018
+   }
+  ],
+  "page_final": "https://www.iveco.com/global/welcome",
+  "http_status": 200
  }
 }

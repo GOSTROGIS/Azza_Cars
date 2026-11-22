@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:01:35Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://lada.ru",
+  "retrieved_utc": "2026-11-22T20:20:55.692Z",
+  "files": [],
+  "page_final": "https://lada.ru/",
+  "http_status": 502
  }
 }

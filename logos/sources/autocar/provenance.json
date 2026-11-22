@@ -30,5 +30,25 @@
     "retrieved_utc": "2026-11-22T20:01:11Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://autocartruck.com",
+  "retrieved_utc": "2026-11-22T20:23:08.614Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://d3w5dxa1iffln.cloudfront.net/media/2398/autocar-logo-2023-upload.png",
+    "displayed_px": [
+     200,
+     125
+    ],
+    "sha256": "4b7088f1c844f08a952fe889af8d9710a899220cf817054f2f207f7d73b5b3bd",
+    "bytes": 59091
+   }
+  ],
+  "page_final": "https://www.autocartruck.com/",
+  "http_status": 200
  }
 }

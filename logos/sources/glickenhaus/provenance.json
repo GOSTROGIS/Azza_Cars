@@ -30,5 +30,12 @@
     "retrieved_utc": "2026-11-22T20:01:25Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://glickenhausracing.com",
+  "retrieved_utc": "2026-11-22T20:16:07.914Z",
+  "files": [],
+  "page_final": "https://glickenhausracing.com/",
+  "http_status": 200
  }
 }

@@ -100,5 +100,12 @@
     "retrieved_utc": "2026-11-22T20:01:44Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.maserati.com/us/en",
+  "retrieved_utc": "2026-11-22T20:28:28.506Z",
+  "files": [],
+  "page_final": "https://www.maserati.com/us/en",
+  "http_status": 200
  }
 }

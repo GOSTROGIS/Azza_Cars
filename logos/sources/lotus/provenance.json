@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:01:40Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://lotuscars.com",
+  "retrieved_utc": "2026-11-22T20:13:27.787Z",
+  "files": [],
+  "page_final": "https://www.lotuscars.com/",
+  "http_status": 502
  }
 }

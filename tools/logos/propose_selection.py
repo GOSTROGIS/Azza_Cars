@@ -9,6 +9,9 @@ logos/selection.csv (the audit input) after a person has looked at them, using
 --accept slug [slug ...].
 
 Origins: website (captured from the brand's own homepage), brandfetch, commons.
+The primary logo is the brand's full logo in positive colours: reversed (white or
+very light only) files are never proposed as masters, and full logos rank before
+symbols.
 Preference among pairs that agree: a master from the brand's website, then from
 Brandfetch (which also takes its files from the brand's site), then a Commons
 file that Wikidata marks as current (no end date). An SVG reference is preferred
@@ -23,7 +26,7 @@ import json
 import sys
 
 import audit as A
-from common import ORIGINS, ROOT, SOURCES, load_prov, source_files
+from common import ORIGINS, ROOT, SOURCES, independent, load_prov, origin, source_files
 
 PROPOSALS = ROOT / "logos" / "proposals.json"
 SELECTION = ROOT / "logos" / "selection.csv"
@@ -38,38 +41,45 @@ def historical_commons_files(slug):
 
 def candidates(slug):
     old = historical_commons_files(slug)
+    # Brandfetch records each file's role (logo, symbol, ...). Website and Commons files are full logos.
+    roles = {f["saved_as"]: f["type"] for f in load_prov(slug).get("brandfetch", {}).get("files", [])}
     out = []
     for rel in source_files(slug):
         is_svg = rel.endswith(".svg")
         flags = A.svg_flags((SOURCES / slug / rel).read_text(encoding="utf-8", errors="replace")) if is_svg else []
-        out.append({"file": rel, "origin": rel.split("/")[0], "kind": "svg" if is_svg else "raster",
-                    "historical": rel in old, "flags": flags})
+        out.append({"file": rel, "origin": origin(rel), "kind": "svg" if is_svg else "raster",
+                    "role": roles.get(rel, "logo"), "historical": rel in old, "flags": flags})
     return out
 
 
 def score(slug):
     cands = candidates(slug)
-    images = {}
+    images = {}  # file -> (artwork, native raster width), kept out of the JSON written to proposals.json
     for c in cands:
         try:
             images[c["file"]] = A.artwork(SOURCES / slug / c["file"], SCORE_W)
         except Exception as e:
             c["error"] = "%s: %s" % (type(e).__name__, e)
+            images[c["file"]] = (None, 0)
+        c["reversed"] = A.is_reversed_image(images[c["file"]][0])
+    usable = [c for c in cands if images[c["file"]][0] is not None]
     pairs = []
-    for m in cands:
-        if m["kind"] != "svg" or m["flags"] or m["historical"] or images.get(m["file"], (None,))[0] is None:
+    for m in usable:
+        if m["kind"] != "svg" or m["flags"] or m["historical"] or m["reversed"]:
             continue
-        for r in cands:
-            if r["origin"] == m["origin"] or images.get(r["file"], (None,))[0] is None:
+        for r in usable:
+            if not independent(m["file"], r["file"]):
                 continue
             metrics, problems, _, _ = A.agreement_verdict(images[m["file"]][0], *images[r["file"]])
             pairs.append({"master": m["file"], "reference": r["file"], "problems": problems,
+                          "full_logo": m["role"] == "logo" and r["role"] == "logo",
                           "beyond_pct": metrics["pixels_beyond_tolerance_pct"], "aspect_diff": metrics["aspect_diff"]})
     agree = [p for p in pairs if not p["problems"]]
 
     def rank(p):
-        # official site first, then Brandfetch (scraped from the site), then Commons
-        return ORIGINS.index(p["master"].split("/")[0]), not p["reference"].endswith(".svg"), p["beyond_pct"]
+        # full logo before symbol, official site first, then Brandfetch (scraped from the site),
+        # then Commons, then an SVG reference before a raster one
+        return not p["full_logo"], ORIGINS.index(p["master"].split("/")[0]), not p["reference"].endswith(".svg"), p["beyond_pct"]
 
     best = min(agree, key=rank) if agree else None
     singles = [c["file"] for c in cands if c["kind"] == "svg" and not c["flags"] and not c["historical"]]

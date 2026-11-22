@@ -60,5 +60,12 @@
     "retrieved_utc": "2026-11-22T20:01:56Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.porsche.com/usa/",
+  "retrieved_utc": "2026-11-22T20:29:21.800Z",
+  "files": [],
+  "page_final": "https://www.porsche.com/usa/",
+  "http_status": 200
  }
 }

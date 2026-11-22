@@ -1,0 +1,63 @@
+{
+ "slug": "scout",
+ "master": "website/logo-1.svg",
+ "reference": "brandfetch/logo-dark.svg",
+ "note": "reviewed proposal",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_luminance": 0.8
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 0,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 3.4362,
+  "aspect_b": 3.4362,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 0,
+  "pixels_changed_pct": 0.0,
+  "colors_master": {
+   "#11232f": 0.9875
+  },
+  "colors_rebuilt": {
+   "#11232f": 0.9875
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#000000",
+  "#11232f"
+ ],
+ "brandfetch_palette": [
+  "#1b1817",
+  "#ff5432",
+  "#ffaa99"
+ ],
+ "agreement": {
+  "max_deviation_px": 1,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 4,
+  "iou": 0.9929,
+  "aspect_a": 3.4444,
+  "aspect_b": 3.442,
+  "aspect_diff": 0.0007,
+  "tolerance_frac_of_width": 0.0015,
+  "reference_native_width_px": null,
+  "colors_reference": {
+   "#000000": 0.9573
+  }
+ },
+ "color_audit": {
+  "#11232f": []
+ },
+ "result": "flagged",
+ "reasons": [
+  "fill colours not found in an independent source: #11232f"
+ ]
+}

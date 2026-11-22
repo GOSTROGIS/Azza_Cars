@@ -56,5 +56,25 @@
     "retrieved_utc": "2026-11-22T20:01:56Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.polestar.com/us/",
+  "retrieved_utc": "2026-11-22T20:29:17.405Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     101,
+     24
+    ],
+    "sha256": "58a6298431791a2aa63242986d1a7ac49bf27e90e2ba00660faa03d0b1f8134e",
+    "bytes": 4800
+   }
+  ],
+  "page_final": "https://www.polestar.com/us/",
+  "http_status": 200
  }
 }

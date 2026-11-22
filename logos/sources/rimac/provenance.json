@@ -40,5 +40,37 @@
     "retrieved_utc": "2026-11-22T20:01:58Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://rimac-automobili.com",
+  "retrieved_utc": "2026-11-22T20:14:56.117Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     31,
+     39
+    ],
+    "sha256": "15a89fd632483d680e4e4f20a4934956bcd1c05270c45fd8e94c116936147a2f",
+    "bytes": 2960
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     151,
+     39
+    ],
+    "sha256": "00e7d37299fd6a6397f46da4ce37fbd2e2bb271baf604ade418d0bb537a9200e",
+    "bytes": 5282
+   }
+  ],
+  "page_final": "https://rimac-automobili.com/",
+  "http_status": 200
  }
 }

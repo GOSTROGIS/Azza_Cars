@@ -40,5 +40,37 @@
     "retrieved_utc": "2026-11-22T20:01:49Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.mgmotor.com.mx",
+  "retrieved_utc": "2026-11-22T20:28:45.294Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.mgmotor.com.mx/assets/mg-logo-black-Xqlh6kZh.svg",
+    "displayed_px": [
+     50,
+     50
+    ],
+    "sha256": "41fdf6193139297b318a6b32c3aef2309b0f2e9c9978c3823d87ab04bbaf54d0",
+    "bytes": 5238
+   },
+   {
+    "saved_as": "website/logo-2.webp",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://mgmotor.sfo2.digitaloceanspaces.com/storage/logos/negro/mg-6-aniv-logo-negro.webp",
+    "displayed_px": [
+     60,
+     60
+    ],
+    "sha256": "5ad70a324b35e07376ca04106e72e084d5fbddc80fc3d90724d9d71de6ca5c83",
+    "bytes": 26084
+   }
+  ],
+  "page_final": "https://www.mgmotor.com.mx/",
+  "http_status": 200
  }
 }

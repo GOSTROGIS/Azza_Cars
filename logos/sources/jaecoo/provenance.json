@@ -36,5 +36,25 @@
     "retrieved_utc": "2026-11-22T20:01:31Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://omodajaecoo.com",
+  "retrieved_utc": "2026-11-22T20:18:08.405Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.omodajaecoo.com/global/images/common/logo_dark.png",
+    "displayed_px": [
+     208,
+     12
+    ],
+    "sha256": "98cbe0ac1597a0e3a4fb41eb83741407f7d142f7347cd5043ef723a2cbe6f26f",
+    "bytes": 11581
+   }
+  ],
+  "page_final": "https://www.omodajaecoo.com/global/",
+  "http_status": 200
  }
 }

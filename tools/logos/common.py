@@ -31,6 +31,16 @@ def download(url, attempts=4):
         time.sleep(wait)
 
 
+def origin(rel):
+    """Origin of a source file path relative to its brand folder, e.g. "brandfetch/logo-dark.svg"."""
+    return rel.split("/")[0]
+
+
+def independent(a, b):
+    """True when two sources come from different origins, so one can confirm the other."""
+    return origin(a) != origin(b)
+
+
 def file_record(blob):
     return {"sha256": hashlib.sha256(blob).hexdigest(), "bytes": len(blob),
             "retrieved_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}

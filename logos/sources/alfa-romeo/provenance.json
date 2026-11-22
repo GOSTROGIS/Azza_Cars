@@ -48,5 +48,12 @@
     "retrieved_utc": "2026-11-22T20:01:08Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.alfaromeousa.com",
+  "retrieved_utc": "2026-11-22T20:26:51.611Z",
+  "files": [],
+  "page_final": "https://www.alfaromeousa.com/",
+  "http_status": 403
  }
 }

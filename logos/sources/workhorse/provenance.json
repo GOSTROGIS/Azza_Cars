@@ -64,5 +64,61 @@
     "retrieved_utc": "2026-11-22T20:02:11Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://workhorse.com",
+  "retrieved_utc": "2026-11-22T20:23:22.991Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.webp",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://workhorse.com/wp-content/smush-webp/2026/07/cropped-android-chrome-512x512-1-150x150.png.webp",
+    "displayed_px": [
+     70,
+     70
+    ],
+    "sha256": "ad7835a9981b37d2f9468207f5a3017b1f4b84a29441190fbfde7ca5036f7c27",
+    "bytes": 604
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://workhorse.com/wp-content/uploads/2023/03/wh-logo-primary-horizontal-2C-reversed-RGB.svg",
+    "displayed_px": [
+     352,
+     80
+    ],
+    "sha256": "95e7716d46d12cefc9b2d0022fda5709584af089474ff11bd185c1d576a15d2b",
+    "bytes": 7052
+   },
+   {
+    "saved_as": "website/logo-3.webp",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://workhorse.com/wp-content/smush-webp/2023/03/menu-closed.png.webp",
+    "displayed_px": [
+     48,
+     35
+    ],
+    "sha256": "df170cfd4eff2d7af22efdb0a5074d714f4945ec84cd0d1f0194a6a6c28994ee",
+    "bytes": 58
+   },
+   {
+    "saved_as": "website/logo-4.webp",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://workhorse.com/wp-content/smush-webp/2023/03/menu-opened.png.webp",
+    "displayed_px": [
+     36,
+     32
+    ],
+    "sha256": "0981e96ba109f8c916f6fdf4ad22959d76b6e5e3f50e522521b467cf5593f6c7",
+    "bytes": 292
+   }
+  ],
+  "page_final": "https://workhorse.com/",
+  "http_status": 200
  }
 }

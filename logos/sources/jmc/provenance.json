@@ -30,5 +30,12 @@
     "retrieved_utc": "2026-11-22T20:01:33Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://jmc.com.cn",
+  "retrieved_utc": "2026-11-22T20:20:12.142Z",
+  "files": [],
+  "page_final": "https://jmc.com.cn/",
+  "http_status": 502
  }
 }

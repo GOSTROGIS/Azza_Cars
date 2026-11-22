@@ -40,5 +40,11 @@
     "retrieved_utc": "2026-11-22T20:01:19Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://daihatsu.com",
+  "retrieved_utc": "2026-11-22T20:20:48.198Z",
+  "files": [],
+  "error": "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://daihatsu.com/"
  }
 }

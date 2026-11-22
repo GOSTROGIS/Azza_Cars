@@ -100,5 +100,12 @@
     "retrieved_utc": "2026-11-22T20:02:00Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://rolls-roycemotorcars.com",
+  "retrieved_utc": "2026-11-22T20:15:07.381Z",
+  "files": [],
+  "page_final": "https://rolls-roycemotorcars.com/",
+  "http_status": 502
  }
 }

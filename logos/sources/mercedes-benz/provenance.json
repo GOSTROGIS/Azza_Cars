@@ -100,5 +100,61 @@
     "retrieved_utc": "2026-11-22T20:01:48Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.mbusa.com",
+  "retrieved_utc": "2026-11-22T20:28:39.525Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.webp",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.mbusa.com/content/dam/mb-nafta/us/my27-content-request/HLE_white.png",
+    "displayed_px": [
+     200,
+     83
+    ],
+    "sha256": "4303d0926ace6aece060a4569e7b384ae65c6f149044874bc6d722caa73449ea",
+    "bytes": 70487
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "img",
+    "selector": "img[alt*=\"logo\" i]",
+    "src": "https://www.mbusa.com/content/dam/mb-nafta/us/Homepage/MB-star_n_2D_3Cweb.svg",
+    "displayed_px": [
+     42,
+     42
+    ],
+    "sha256": "1b1d1585379d188855ee604984eeb0f40ab44d4be22a62c422cb38d67eb9428f",
+    "bytes": 1855
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     20,
+     20
+    ],
+    "sha256": "9550a0245a85edfd00210cf24c1b4812b0f96d0ead4b8d8a46b7fa023525f928",
+    "bytes": 1858
+   },
+   {
+    "saved_as": "website/logo-4.webp",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.mbusa.com/content/dam/mb-nafta/us/global-nav-new/vehicles/MY25-GLASUV-CLASS-Resized.png",
+    "displayed_px": [
+     164,
+     176
+    ],
+    "sha256": "718e964084cec6bb7984c813f423a80c982e76925311f6cc4ed0f28d4884fd12",
+    "bytes": 25870
+   }
+  ],
+  "page_final": "https://www.mbusa.com/en/home?tab=holiday-love-sales-event",
+  "http_status": 200
  }
 }

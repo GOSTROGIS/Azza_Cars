@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:02:08Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://vinfastauto.us",
+  "retrieved_utc": "2026-11-22T20:29:50.786Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.webp",
+    "kind": "img",
+    "selector": "img[src*=\"logo\" i]",
+    "src": "https://vinfastauto.us/themes/custom/vinfast_v2/images/logo.webp",
+    "displayed_px": [
+     134,
+     31
+    ],
+    "sha256": "5331d93f07375c29f9167f6625e64ab42a4e03d8d7d4ac71aaad6584e07db560",
+    "bytes": 3146
+   }
+  ],
+  "page_final": "https://vinfastauto.us/",
+  "http_status": 200
  }
 }

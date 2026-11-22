@@ -40,5 +40,25 @@
     "retrieved_utc": "2026-11-22T20:02:07Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://udtrucks.com",
+  "retrieved_utc": "2026-11-22T20:22:57.547Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[alt*=\"logo\" i]",
+    "src": "https://www.udtrucks.com/sites/default/files/styles/news_article_detail_page/public/article-images/UDtopmark_46.png?itok=MqLYmlNA",
+    "displayed_px": [
+     200,
+     110
+    ],
+    "sha256": "3a94bac23e8e6253e43b80f8bc0a5850862352008ce9a8bcf18d39b43a73045e",
+    "bytes": 401246
+   }
+  ],
+  "page_final": "https://www.udtrucks.com/",
+  "http_status": 200
  }
 }

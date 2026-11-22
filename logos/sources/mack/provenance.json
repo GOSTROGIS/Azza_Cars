@@ -30,5 +30,49 @@
     "retrieved_utc": "2026-11-22T20:01:42Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://macktrucks.com",
+  "retrieved_utc": "2026-11-22T20:22:23.210Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     51,
+     51
+    ],
+    "sha256": "c4fc6b38fba05e691832dc4b787f5da582980bdb35d872e595ab3d6922b24634",
+    "bytes": 12430
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     36,
+     36
+    ],
+    "sha256": "af4d0a4ff60151b3e63f614d58819675be150b176be1d2c077c0f89db9bfa503",
+    "bytes": 961
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     36,
+     36
+    ],
+    "sha256": "53d7b9096896728322d26faf1569a4d64b70efff6ebb6bbb6d187c987602eaef",
+    "bytes": 802
+   }
+  ],
+  "page_final": "https://www.macktrucks.com/",
+  "http_status": 200
  }
 }

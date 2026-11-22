@@ -30,5 +30,12 @@
     "retrieved_utc": "2026-11-22T20:01:11Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://baicmotor.com",
+  "retrieved_utc": "2026-11-22T20:19:38.157Z",
+  "files": [],
+  "page_final": "https://baicmotor.com/",
+  "http_status": 200
  }
 }

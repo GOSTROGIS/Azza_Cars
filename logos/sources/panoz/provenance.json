@@ -30,5 +30,25 @@
     "retrieved_utc": "2026-11-22T20:01:54Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://panoz.com",
+  "retrieved_utc": "2026-11-22T20:21:35.417Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://panoz.com/wp-content/uploads/2019/05/PANOZ-LLC-Crest-OnlyV6.png",
+    "displayed_px": [
+     230,
+     100
+    ],
+    "sha256": "e68c0da08391c117fbe1fd2c1bf05877ac737172744b50884547aea937558f9a",
+    "bytes": 10049
+   }
+  ],
+  "page_final": "https://panoz.com/",
+  "http_status": 200
  }
 }

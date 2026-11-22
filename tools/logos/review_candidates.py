@@ -41,8 +41,8 @@ def main(name, slugs):
         d.text((8, y + TILE // 2 + 14), (props.get(s) or {}).get("status", ""), fill="#666666")
         for j, p in enumerate(files):
             x = 140 + j * (TILE + PAD)
-            board = A.checkerboard((TILE, TILE), square=10)
             img = tile_image(p)
+            board = A.backdrop_for(img, (TILE, TILE), square=10)
             if img is not None:
                 img.thumbnail((TILE - 12, TILE - 12))
                 board.paste(img, ((TILE - img.width) // 2, (TILE - img.height) // 2), img)

@@ -1,6 +1,6 @@
 // Capture the logo each brand shows on its own website, as a third independent origin.
 //
-// For every target in work/website_targets.json the homepage is loaded in headless
+// For every target in logos/website_targets.csv the homepage is loaded in headless
 // Chromium, and up to four logo-like elements are captured:
 //   - inline <svg>: serialized with each shape's computed fill/stroke written onto it,
 //     so colours set through CSS (currentColor, classes) are kept, and with <use>
@@ -19,7 +19,9 @@ import { fileURLToPath } from 'node:url';
 const { chromium } = createRequire(import.meta.url)('playwright');
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 const only = new Set(process.argv.slice(2));
-const targets = JSON.parse(readFileSync(join(ROOT, 'work', 'website_targets.json'), 'utf8'))
+// logos/website_targets.csv: slug,url,note (reviewed by hand, no commas inside fields)
+const targets = readFileSync(join(ROOT, 'logos', 'website_targets.csv'), 'utf8').trim().split('\n').slice(1)
+  .map((line) => { const [slug, url] = line.split(','); return { slug, url }; })
   .filter((t) => !only.size || only.has(t.slug));
 
 // Runs in the page. Returns logo candidates in document order.

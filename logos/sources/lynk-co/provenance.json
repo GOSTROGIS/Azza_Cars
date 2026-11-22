@@ -40,5 +40,61 @@
     "retrieved_utc": "2026-11-22T20:01:42Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://lynkco.com",
+  "retrieved_utc": "2026-11-22T20:19:09.546Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.lynkco.com/-/media/lynkco-global-portal/data/media/img/logo.ashx?iar=0&hash=CEF47F3648C4967C7B544E36BD349B26",
+    "displayed_px": [
+     120,
+     18
+    ],
+    "sha256": "1e67b7df23432de4660dc03630e8e78ed4720ac89fe959f05727875ddb04f1b3",
+    "bytes": 4978
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     20,
+     20
+    ],
+    "sha256": "94b9b0df9352c706769c62c9aa57c81ca2d78300d0193f771252fae1346e798d",
+    "bytes": 763
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     20,
+     20
+    ],
+    "sha256": "94b9b0df9352c706769c62c9aa57c81ca2d78300d0193f771252fae1346e798d",
+    "bytes": 763
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     20,
+     20
+    ],
+    "sha256": "94b9b0df9352c706769c62c9aa57c81ca2d78300d0193f771252fae1346e798d",
+    "bytes": 763
+   }
+  ],
+  "page_final": "https://www.lynkco.com/",
+  "http_status": 200
  }
 }

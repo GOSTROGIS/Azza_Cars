@@ -36,5 +36,12 @@
     "retrieved_utc": "2026-11-22T20:01:33Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://jetour.com.cn",
+  "retrieved_utc": "2026-11-22T20:19:24.865Z",
+  "files": [],
+  "page_final": "https://jetour.com.cn/",
+  "http_status": 502
  }
 }

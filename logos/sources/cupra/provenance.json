@@ -36,5 +36,25 @@
     "retrieved_utc": "2026-11-22T20:01:18Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://cupra.com",
+  "retrieved_utc": "2026-11-22T20:17:06.413Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.cupra.com/etc.clientlibs/cupra-website/components/clientlibs/resources/cupra-diagonal/icons/logo-cupra.svg",
+    "displayed_px": [
+     284,
+     48
+    ],
+    "sha256": "eb34516390f20511fc012642d50032e0f1cbcfb020cfd7c4c155907b0d2780a9",
+    "bytes": 2874
+   }
+  ],
+  "page_final": "https://www.cupra.com/en/",
+  "http_status": 200
  }
 }

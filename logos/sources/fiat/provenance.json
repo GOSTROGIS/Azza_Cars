@@ -62,23 +62,10 @@
   ]
  },
  "website": {
-  "page_requested": "https://fiat.com",
-  "retrieved_utc": "2026-11-22T20:12:02.065Z",
-  "files": [
-   {
-    "saved_as": "website/logo-1.png",
-    "kind": "img",
-    "selector": "header a[href=\"/\"] img",
-    "src": "https://www.fiat.com/content/dam/fiat2023/master/Logo-100x76.png",
-    "displayed_px": [
-     74,
-     56
-    ],
-    "sha256": "498b482ee66b0842c5b064f4ca991f642bfe4884c0280e21184fe2089be6b459",
-    "bytes": 1215
-   }
-  ],
-  "page_final": "https://www.fiat.com/",
-  "http_status": 200
+  "page_requested": "https://www.fiatusa.com",
+  "retrieved_utc": "2026-11-22T20:27:21.770Z",
+  "files": [],
+  "page_final": "https://www.fiatusa.com/",
+  "http_status": 403
  }
 }

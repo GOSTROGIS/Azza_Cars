@@ -15,6 +15,7 @@ are either not yet processed or flagged. The reason is recorded in
 | `audit/<slug>/` | `rebuilt.svg`, renders, deviation map, `sheet.png` (side-by-side evidence) and `report.json` | No, written by `audit.py` |
 | `audit/_review/` | Candidate sheets used to pick each brand's master and reference | No |
 | `selection.csv` | Per brand: which source file is the master and which is the independent reference | Yes, after visual review |
+| `website_targets.csv` | Which page to capture each brand's logo from, with the reason for any override | Yes |
 | `proposals.json` | Scored master/reference pairings, the input to that review | No |
 
 ## Where the source artwork comes from
@@ -30,6 +31,29 @@ Three origins, kept apart so they can check each other:
 3. **commons**: the files Wikidata lists as the brand's logo (property P154), from
    Wikimedia Commons (`tools/logos/fetch_commons.py`). Many are volunteer traces rather
    than official artwork, which is why they never count as confirmation on their own.
+
+## Which logo counts as "the" logo
+
+The **primary logo** is the brand's full logo as it appears on its North American
+consumer website (listed in `website_targets.csv`, with the Mexican site for
+Mexico-only brands), in its **positive** colours, i.e. the version used on light
+backgrounds.
+
+- Corporate or global sites are not used when a consumer site exists. For example,
+  nissan-global.com shows "NISSAN MOTOR CORPORATION", not the Nissan vehicle logo.
+- A file painted only in white or very light colours is a **reversed** variant for dark
+  backgrounds. It can confirm a shape, but it is never the primary master.
+- A full logo is chosen before a standalone symbol when both exist.
+
+## What "verified" means
+
+A logo in `svg/` is the artwork the brand publishes, rebuilt without changing a pixel.
+Its shape and every painted hex value were matched by a second copy collected separately,
+from a different origin than the master. The website and Brandfetch both ultimately come
+from the brand's own site, so their agreement confirms that the capture is faithful to
+what the brand publishes. It is not an outside opinion of what the logo should be.
+Colours that only one origin shows, or that two origins disagree on, keep the logo out
+of `svg/` until a brand guide or media kit settles them.
 
 ## How a logo is rebuilt and audited
 
@@ -49,9 +73,11 @@ For each brand, `selection.csv` names a vector **master** and a **reference** fr
    gets a wider tolerance in proportion to its own resolution.
 4. **Audits colours.** Every flat colour actually painted in the rebuild (any colour
    covering at least 0.2% of the artwork) must appear exactly, hex for hex, in the
-   reference's render or in Brandfetch's published palette for the brand.
+   reference's render, or in Brandfetch's published palette when the master is not
+   itself from Brandfetch.
 5. **Flags** embedded bitmaps, live text (which depends on installed fonts), scripts,
-   and gradients or shading (more than 12 flat colours), which need a person to look.
+   gradients or shading (more than 12 flat colours), and reversed (light-only) masters,
+   all of which need a person to look.
 6. **Writes evidence** to `audit/<slug>/` and copies a passing rebuild to `svg/<slug>.svg`.
 
 Every `sheet.png` was also inspected by eye before a brand was marked done.

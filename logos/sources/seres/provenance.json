@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:02:02Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://seres.cn",
+  "retrieved_utc": "2026-11-22T20:20:25.114Z",
+  "files": [],
+  "page_final": "https://seres.cn/",
+  "http_status": 502
  }
 }

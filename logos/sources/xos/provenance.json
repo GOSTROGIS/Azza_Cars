@@ -40,5 +40,61 @@
     "retrieved_utc": "2026-11-22T20:02:11Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://xostrucks.com",
+  "retrieved_utc": "2026-11-22T20:23:34.271Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     54,
+     54
+    ],
+    "sha256": "8c2c1db4f61d881caf6696c8e2079bbc5362023940b683764345624176c35bf8",
+    "bytes": 726
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     54,
+     54
+    ],
+    "sha256": "8c2c1db4f61d881caf6696c8e2079bbc5362023940b683764345624176c35bf8",
+    "bytes": 726
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     54,
+     54
+    ],
+    "sha256": "8c2c1db4f61d881caf6696c8e2079bbc5362023940b683764345624176c35bf8",
+    "bytes": 726
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     54,
+     54
+    ],
+    "sha256": "8c2c1db4f61d881caf6696c8e2079bbc5362023940b683764345624176c35bf8",
+    "bytes": 726
+   }
+  ],
+  "page_final": "https://www.xostrucks.com/",
+  "http_status": 200
  }
 }

@@ -31,7 +31,7 @@ import numpy as np
 import resvg_py
 from PIL import Image, ImageDraw
 
-from common import RASTER, ROOT, SOURCES, load_prov
+from common import RASTER, ROOT, SOURCES, independent, load_prov
 
 TOOLS = Path(__file__).resolve().parent
 AUDIT = ROOT / "logos" / "audit"
@@ -50,6 +50,7 @@ PASS = {                 # thresholds a rebuild must meet to ship
     "agreement_max_outlier_pct": 0.01,      # share of artwork pixels allowed beyond that tolerance
     "agreement_max_aspect_diff": 0.01,      # relative difference in width/height ratio
     "max_flat_colors": 12,                  # more painted colours than this means gradients or shading
+    "reversed_min_luminance": 0.8,          # artwork painted only in colours this light is a light-on-dark variant
 }
 COLOR_ATTRS = ("fill", "stroke", "stop-color", "color", "flood-color", "lighting-color")
 HEX = re.compile(r"#[0-9a-fA-F]{6}\b|#[0-9a-fA-F]{3}\b")
@@ -116,13 +117,23 @@ def artwork(path, art_w=ART_W):
     return None, 0
 
 
-def checkerboard(size, square=12, grey=(230, 230, 230)):
-    """RGB checkerboard used behind transparent artwork on review sheets."""
+def checkerboard(size, square=12, dark=False):
+    """RGB checkerboard used behind transparent artwork on review sheets (dark for reversed artwork)."""
     w, h = size
     tiles = ((np.indices((h, w)) // square).sum(axis=0) % 2).astype(bool)
-    a = np.full((h, w, 3), 255, dtype=np.uint8)
-    a[tiles] = grey
+    base, tile = (40, (60, 60, 60)) if dark else (255, (230, 230, 230))
+    a = np.full((h, w, 3), base, dtype=np.uint8)
+    a[tiles] = tile
     return Image.fromarray(a)
+
+
+def is_reversed_image(img):
+    return img is not None and is_reversed(rendered_colors(img))
+
+
+def backdrop_for(img, size, square=12):
+    """Checkerboard that keeps the artwork visible: dark behind reversed (light-only) artwork."""
+    return checkerboard(size, square, dark=is_reversed_image(img))
 
 
 def artwork_mask(img):
@@ -249,6 +260,14 @@ def compare(a, b, tolerance):
             "aspect_diff": round(abs(aspect_a - aspect_b) / aspect_b, 4)}, Image.fromarray(heat), b
 
 
+def is_reversed(colors):
+    """True when every painted colour is very light: a white/light variant meant for dark backgrounds."""
+    def lum(hexcol):
+        r, g, b = (int(hexcol[i:i + 2], 16) / 255 for i in (1, 3, 5))
+        return 0.2126 * r + 0.7152 * g + 0.0722 * b
+    return bool(colors) and all(lum(c) >= PASS["reversed_min_luminance"] for c in colors)
+
+
 def agreement_verdict(rebuilt_art, ref_art, ref_native_w=None):
     """Compare a rebuild with an independent reference, both cropped to artwork at the same width.
 
@@ -313,9 +332,9 @@ def sheet(slug, panels, lines, path):
     W, H = cell * len(panels) + 20 * (len(panels) + 1), cell + 60 + 16 * len(lines)
     canvas = Image.new("RGB", (W, H), "white")
     d = ImageDraw.Draw(canvas)
-    for i, (title, img) in enumerate(panels):
+    for i, (title, img, dark) in enumerate(panels):
         x0 = 20 + i * (cell + 20)
-        board = checkerboard((cell, cell))
+        board = checkerboard((cell, cell), dark=dark)
         if img is not None:
             im = img.copy()
             im.thumbnail((cell - 10, cell - 10))
@@ -359,10 +378,13 @@ def audit(row, palette):
     # 2. agreement with an independent reference
     report["declared_colors_rebuilt"] = svg_colors(rebuilt)
     report["brandfetch_palette"] = sorted({c["hex"].lower() for c in palette})
-    panels = [("master (source)", master_art), ("rebuilt", rebuilt_art)]
+    panels = [("master (source)", master_art, is_reversed(report["fidelity"]["colors_master"])),
+              ("rebuilt", rebuilt_art, is_reversed(report["fidelity"]["colors_rebuilt"]))]
     ref_colors, agreement_problems = {}, ["no independent reference"]
     report["agreement"] = None
-    if ref_path:
+    if ref_path and not independent(row["master"], row["reference"]):
+        agreement_problems = ["reference comes from the same origin as the master"]
+    elif ref_path:
         ref_art, native = artwork(ref_path)
         if ref_art is None:
             agreement_problems = ["reference has no detectable artwork"]
@@ -370,11 +392,15 @@ def audit(row, palette):
             report["agreement"], agreement_problems, heat, ref_scaled = agreement_verdict(rebuilt_art, ref_art, native)
             ref_colors = report["agreement"]["colors_reference"] = rendered_colors(ref_scaled)
             heat.save(out_dir / "shape_diff.png")
-            panels += [("reference (independent)", ref_scaled), ("deviation: orange within tol, red beyond", heat)]
+            panels += [("reference (independent)", ref_scaled, is_reversed(ref_colors)),
+                       ("deviation: orange within tol, red beyond", heat, False)]
 
     # 3. colour audit on the rendered fills of the rebuild
     painted = report["fidelity"]["colors_rebuilt"]
-    pools = (("reference render", ref_colors), ("brandfetch palette", report["brandfetch_palette"]))
+    # a colour only counts as confirmed by a source from another origin than the master
+    pools = [(name, colors) for name, src, colors in (("reference render", row["reference"], ref_colors),
+                                                      ("brandfetch palette", "brandfetch/", report["brandfetch_palette"]))
+             if src and independent(row["master"], src)]
     confirmed_by = report["color_audit"] = {c: [n for n, pool in pools if c in pool] for c in painted}
 
     fails = []
@@ -385,6 +411,8 @@ def audit(row, palette):
         fails.append("rebuild changed the fill colours")
     ag = report["agreement"]
     fails += agreement_problems
+    if is_reversed(painted):
+        fails.append("master is a reversed (light-on-dark) variant, not the primary logo")
     if len(painted) > PASS["max_flat_colors"]:
         fails.append("%d flat colours: gradient or shading, needs manual colour review" % len(painted))
     unconfirmed = [c for c, srcs in confirmed_by.items() if not srcs]

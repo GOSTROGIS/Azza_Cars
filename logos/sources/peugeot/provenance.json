@@ -30,5 +30,37 @@
     "retrieved_utc": "2026-11-22T20:01:55Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://www.peugeot.com.mx",
+  "retrieved_utc": "2026-11-22T20:29:09.538Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.peugeot.com.mx/content/dam/peugeot/master/home/peugeot-logo.png",
+    "displayed_px": [
+     88,
+     97
+    ],
+    "sha256": "88db6b0acac0817c89eeeec7d18c7385a317954f70adc299c8bd3fb24305f0e9",
+    "bytes": 2315
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.peugeot.com.mx/content/dam/peugeot/master/home/peugeot-logo-alt.png",
+    "displayed_px": [
+     88,
+     97
+    ],
+    "sha256": "1c94cc1bf66a120f7d02c7e6446cdb554353e18bc032f68f0c68efac9d19c1a6",
+    "bytes": 4446
+   }
+  ],
+  "page_final": "https://www.peugeot.com.mx/",
+  "http_status": 200
  }
 }

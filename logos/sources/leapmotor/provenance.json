@@ -60,5 +60,61 @@
     "retrieved_utc": "2026-11-22T20:01:37Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://leapmotor.net",
+  "retrieved_utc": "2026-11-22T20:19:17.313Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[alt*=\"logo\" i]",
+    "src": "https://www.leapmotor.net/_next/image?url=https%3A%2F%2Fwww.leapmotor.net%2Fimages%2Fdefault-source%2Faccessories%2Flogo-expanded.png%3Fsfvrsn%3Dd7eeb91_41&w=256&q=90",
+    "displayed_px": [
+     187,
+     20
+    ],
+    "sha256": "485413d63c915661ae9bfb8b2167fa50c127864cdb9d5447d549b6ff44f4fb8b",
+    "bytes": 1587
+   },
+   {
+    "saved_as": "website/logo-2.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.leapmotor.net/_next/image?url=https%3A%2F%2Fwww.leapmotor.net%2Fimages%2Fdefault-source%2Ft03%2F1080x1350_leapmotor_8.png%3Fsfvrsn%3Da580a6d3_48&w=750&q=90",
+    "displayed_px": [
+     188,
+     234
+    ],
+    "sha256": "b5a758f59440d909098a4cdfe86e593e6168dd4d8754755a96de7130bf83cfd3",
+    "bytes": 274550
+   },
+   {
+    "saved_as": "website/logo-3.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.leapmotor.net/_next/image?url=https%3A%2F%2Fwww.leapmotor.net%2Fimages%2Fdefault-source%2Fb03%2Fb03-orangelifestyle.png%3Fsfvrsn%3D40634d4b_49&w=750&q=90",
+    "displayed_px": [
+     188,
+     234
+    ],
+    "sha256": "e5afbd695eb408e77dc6b670fd8cfc947f3ad98108b7cec6991e75dc4ab8070f",
+    "bytes": 185292
+   },
+   {
+    "saved_as": "website/logo-4.png",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://www.leapmotor.net/_next/image?url=https%3A%2F%2Fwww.leapmotor.net%2Fimages%2Fdefault-source%2Fb03x%2F1080x1350_leapmotor_3.png%3Fsfvrsn%3D3d28ce28_41&w=750&q=90",
+    "displayed_px": [
+     188,
+     234
+    ],
+    "sha256": "717c295bbf8384174d1ae2afb9b8e6d4f960c56de8378b1fd4ea42298b2414ca",
+    "bytes": 272515
+   }
+  ],
+  "page_final": "https://www.leapmotor.net/",
+  "http_status": 200
  }
 }
