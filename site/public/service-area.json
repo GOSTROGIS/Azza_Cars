@@ -1,0 +1,77 @@
+{
+ "attribution": "\u00a9 OpenStreetMap contributors, Overture Maps Foundation. Available under the Open Database License.",
+ "overture_release": "2026-10-21.0",
+ "source_repository": "GOSTROGIS/CONSULTING",
+ "industrial_buildings": {
+  "surrey": 1616,
+  "delta": 796,
+  "white-rock": 6,
+  "langley-city": 135,
+  "langley-district": 742
+ },
+ "industrial_buildings_total": 3295,
+ "industrial_definition": "Overture buildings whose derived use is 'industrial' in the CONSULTING building-attributes layer. Volunteer and partner mapping: unmapped buildings are not counted.",
+ "boundaries": "market/municipalities.geojson",
+ "sources": [
+  {
+   "file": "data/ca/bc/metro-vancouver/surrey/overture/segment.parquet",
+   "sha256": "f1340c9e710738d1a69ef5aebb0b964ed7d82240f359f5449585525a2882dac4"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/surrey/overture/building.parquet",
+   "sha256": "72cdee6f1950a6acb8d33d2242280456a8835f1f9ad6a461890555ff172c3428"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/surrey/derived/building-attributes.parquet",
+   "sha256": "63423bd89d8a5b74d8e842848717466dbeac1884aa955c620e9aa33af5bfe9a0"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/delta/overture/segment.parquet",
+   "sha256": "6b0234273df8cbea3a737d507a50911684d8c16a4682c9707eef936efd8b34ec"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/delta/overture/building.parquet",
+   "sha256": "4d3f3f349f8c3f2fa09bea95665356424c79290a8fd77be7652c3df5cd09a49d"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/delta/derived/building-attributes.parquet",
+   "sha256": "51c84a9e28089ff13fd6e54ce53579f7d80c21597e0d8a32654a1558b8154e34"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/white-rock/overture/segment.parquet",
+   "sha256": "b1f6fa3d6d13947bb89735c1f826c656299dc5216dd487a7f3dae33d18347284"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/white-rock/overture/building.parquet",
+   "sha256": "7d3e6953577d25e8c546881373eccba8db4ebc9c99c0a1a5e280b0595e9592c5"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/white-rock/derived/building-attributes.parquet",
+   "sha256": "44a297347eda5af3a2740bc67e41b77993a1b835f98d5e0c54188b3dae412b4e"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/langley-city/overture/segment.parquet",
+   "sha256": "4c92dbd1b559e331c89bdd68b8633542bc6f0002c24bb670975597ed84e2084d"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/langley-city/overture/building.parquet",
+   "sha256": "e1aa27134ab1c8eb53d8eee09bffff7ae26d3c679ce3b63f39e601e7ecdf5b1e"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/langley-city/derived/building-attributes.parquet",
+   "sha256": "6d74f69767d01fa14b851cc6004335df5371ab9147327bcc08166eedf057791d"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/langley-district/overture/segment.parquet",
+   "sha256": "2d0f006b6f22f94442ddc3569e92e71dbcaef9987fb9eb2f2b1c601b5dd4973a"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/langley-district/overture/building.parquet",
+   "sha256": "8b64123e70be8120d2aca3ba55bb2a704459ce0230f8cd43e96cc1c830e0db01"
+  },
+  {
+   "file": "data/ca/bc/metro-vancouver/langley-district/derived/building-attributes.parquet",
+   "sha256": "c5e442cd47baa0a05296527d3fe94f6cef491b3a3f7dd00b7a26b830281d0d31"
+  }
+ ]
+}

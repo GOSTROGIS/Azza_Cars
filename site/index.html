@@ -56,6 +56,15 @@
 
   <main id="main">
     <section class="hero" aria-labelledby="hero-title">
+      <svg class="hero__ring" viewBox="0 0 600 600" aria-hidden="true">
+        <g fill="none" stroke-linecap="round">
+          <circle class="ring ring--ticks" cx="300" cy="300" r="282" stroke="#3d3d42" stroke-width="10" stroke-dasharray="2 14"/>
+          <path class="ring ring--outer" d="M300 70 A 230 230 0 1 0 530 300" stroke="#eee8dc" stroke-opacity="0.16" stroke-width="34"/>
+          <path class="ring ring--inner" d="M300 170 A 130 130 0 1 0 430 300" stroke="#eee8dc" stroke-opacity="0.09" stroke-width="34"/>
+        </g>
+        <circle class="ring__ember" cx="520" cy="80" r="26" fill="#ff4b1f"/>
+        <circle cx="300" cy="300" r="14" fill="#ff4b1f"/>
+      </svg>
       <div class="hero__fleet" aria-hidden="true">
         <img class="hero__car hero__car--a" src="./hero/ford-f150.webp" fetchpriority="high" decoding="async" alt="" width="1200" height="410" />
         <img class="hero__car hero__car--b" src="./hero/honda-crv.webp" loading="lazy" decoding="async" alt="" width="1200" height="470" />
@@ -78,25 +87,25 @@
     </section>
 
     <section id="fleet" class="section" aria-labelledby="fleet-title">
-      <p class="eyebrow">The fleet</p>
+      <p class="eyebrow"><span class="dial">01</span>The fleet</p>
       <h2 id="fleet-title">Pick the vehicle for the job</h2>
       <div class="cards">
-        <article class="card">
+        <article class="card tag">
           <h3>Cargo van</h3>
           <p>For trades, deliveries and small moves. Load, lock and go.</p>
           <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
         </article>
-        <article class="card">
+        <article class="card tag">
           <h3>Pickup truck</h3>
           <p>For materials, equipment and anything with a hitch.</p>
           <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
         </article>
-        <article class="card">
+        <article class="card tag">
           <h3>Moving truck</h3>
           <p>For apartment and house moves across Metro Vancouver.</p>
           <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
         </article>
-        <article class="card">
+        <article class="card tag">
           <h3>Car or SUV</h3>
           <p>For the week the family car is in the shop, or the trip it can't make.</p>
           <p class="price"><!-- OWNER INPUT: all-in daily rate -->Rates published at launch</p>
@@ -105,7 +114,7 @@
     </section>
 
     <section class="section why" aria-labelledby="why-title">
-      <p class="eyebrow">Why Ember</p>
+      <p class="eyebrow"><span class="dial">02</span>Why Ember</p>
       <h2 id="why-title">Rental without the counter surprises</h2>
       <!-- OWNER CONFIRM: the promises in this section and in Business accounts are draft copy from the
            marketing plan. Keep only the ones the operation will deliver from day one. -->
@@ -127,7 +136,7 @@
 
     <section id="business" class="section business" aria-labelledby="business-title">
       <div>
-        <p class="eyebrow">Business accounts</p>
+        <p class="eyebrow"><span class="dial">03</span>Business accounts</p>
         <h2 id="business-title">Vans and trucks on account</h2>
         <p>For trades, logistics, production and property management. One account for your crew, monthly invoicing and a person who answers the phone.</p>
         <a class="btn btn--primary" href="#book">Ask about an account</a>
@@ -141,9 +150,18 @@
     </section>
 
     <section id="where" class="section where" aria-labelledby="where-title">
-      <p class="eyebrow">Where we are</p>
+      <p class="eyebrow"><span class="dial">04</span>Where we are</p>
       <h2 id="where-title">Surrey first</h2>
       <p>Our first pickup location is in Surrey, serving Delta, White Rock and the Langleys.</p>
+      <figure class="servicemap">
+        <img src="./service-area.svg" width="1000" height="432" loading="lazy" decoding="async"
+             alt="Map of Surrey, Delta, White Rock and the Langleys with major roads and mapped industrial buildings" />
+        <figcaption>
+          <span class="servicemap__key"><i></i>Mapped industrial buildings, %INDUSTRIAL_TOTAL% across the service area</span>
+          <span>Roads and buildings © OpenStreetMap contributors, Overture Maps Foundation, ODbL.</span>
+        </figcaption>
+      </figure>
+      <p>The ember marks show where the trade and logistics work is: along the Fraser riverfront and in the industrial parks of Surrey, Delta and the Langleys. That is where a van or a truck is needed at short notice.</p>
       <p class="pending"><!-- OWNER INPUT: street address, hours and phone, matching the Google Business Profile -->Address and hours are announced at launch.</p>
     </section>
 
@@ -154,7 +172,7 @@
     </section>
 
     <section id="faq" class="section faq" aria-labelledby="faq-title">
-      <p class="eyebrow">Questions</p>
+      <p class="eyebrow"><span class="dial">05</span>Questions</p>
       <h2 id="faq-title">Before you book</h2>
       <details>
         <summary>Is the price really all in?</summary>
@@ -171,6 +189,7 @@
     </section>
   </main>
 
+  <div class="watermark" aria-hidden="true">EMBER</div>
   <footer class="foot">
     <div class="foot__brand">
       <span class="brand__word">EMBER</span><span class="brand__tag">RENT</span>
