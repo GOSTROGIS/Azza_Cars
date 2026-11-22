@@ -41,8 +41,10 @@ backgrounds.
 
 - Corporate or global sites are not used when a consumer site exists. For example,
   nissan-global.com shows "NISSAN MOTOR CORPORATION", not the Nissan vehicle logo.
-- A file painted only in white or very light colours is a **reversed** variant for dark
-  backgrounds. It can confirm a shape, but it is never the primary master.
+- A **reversed** variant is made for dark backgrounds: at least 30% of its edge pixels
+  would vanish on a white page (for example BMW's white ring and letters, or white
+  lettering). White enclosed inside darker artwork, like the text in Peterbilt's oval, does
+  not count. A reversed file can confirm a shape, but it is never the primary master.
 - A full logo is chosen before a standalone symbol when both exist.
 
 ## What "verified" means
@@ -67,8 +69,9 @@ For each brand, `selection.csv` names a vector **master** and a **reference** fr
    at the same size and compared pixel by pixel. Required: no edge moves by more than
    1 px at 2048 px artwork width, and the painted colours are identical.
 3. **Checks agreement.** The rebuild and the independent reference are each rendered
-   so the artwork is 2048 px wide. For every pixel where the shapes differ, the distance
-   to the other shape is measured. Required: at most 0.01% of artwork pixels farther than
+   so the artwork is 2048 px wide and compared as they would look on a white page. A
+   reversed (white) reference can only be compared by silhouette. For every pixel where
+   the shapes differ, the distance to the other shape is measured. Required: at most 0.01% of artwork pixels farther than
    3 px (0.15% of the logo's width) and an aspect ratio within 1%. A raster reference
    gets a wider tolerance in proportion to its own resolution.
 4. **Audits colours.** Every flat colour actually painted in the rebuild (any colour
@@ -76,7 +79,7 @@ For each brand, `selection.csv` names a vector **master** and a **reference** fr
    reference's render, or in Brandfetch's published palette when the master is not
    itself from Brandfetch.
 5. **Flags** embedded bitmaps, live text (which depends on installed fonts), scripts,
-   gradients or shading (more than 12 flat colours), and reversed (light-only) masters,
+   gradients or shading (more than 12 flat colours), and reversed masters,
    all of which need a person to look.
 6. **Writes evidence** to `audit/<slug>/` and copies a passing rebuild to `svg/<slug>.svg`.
 

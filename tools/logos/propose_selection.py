@@ -52,6 +52,11 @@ def candidates(slug):
     return out
 
 
+def can_be_master(c):
+    """A current, positive, vector file with no flagged content."""
+    return c["kind"] == "svg" and not (c["flags"] or c["historical"] or c["reversed"])
+
+
 def score(slug):
     cands = candidates(slug)
     images = {}  # file -> (artwork, native raster width), kept out of the JSON written to proposals.json
@@ -65,7 +70,7 @@ def score(slug):
     usable = [c for c in cands if images[c["file"]][0] is not None]
     pairs = []
     for m in usable:
-        if m["kind"] != "svg" or m["flags"] or m["historical"] or m["reversed"]:
+        if not can_be_master(m):
             continue
         for r in usable:
             if not independent(m["file"], r["file"]):
@@ -77,14 +82,19 @@ def score(slug):
     agree = [p for p in pairs if not p["problems"]]
 
     def rank(p):
-        # full logo before symbol, official site first, then Brandfetch (scraped from the site),
-        # then Commons, then an SVG reference before a raster one
-        return not p["full_logo"], ORIGINS.index(p["master"].split("/")[0]), not p["reference"].endswith(".svg"), p["beyond_pct"]
+        # official site first, then Brandfetch (scraped from the site), then Commons,
+        # then an SVG reference before a raster one
+        return ORIGINS.index(p["master"].split("/")[0]), not p["reference"].endswith(".svg"), p["beyond_pct"]
 
-    best = min(agree, key=rank) if agree else None
+    full = [p for p in agree if p["full_logo"]]
+    has_full_logo = any(c["role"] == "logo" and can_be_master(c) for c in usable)
+    # full logo before symbol, and a symbol never silently stands in for an unconfirmed full logo
+    best = min(full if has_full_logo else agree, key=rank, default=None)
     singles = [c["file"] for c in cands if c["kind"] == "svg" and not c["flags"] and not c["historical"]]
     if best:
         status = "agreeing pair"
+    elif agree:
+        status = "full logo not confirmed"
     elif pairs:
         status = "no agreeing pair"
     elif singles:

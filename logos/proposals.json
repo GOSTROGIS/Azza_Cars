@@ -71,15 +71,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "commons/ALFA_ROMEO_badge_on_a_car_(cropped).jpg",
     "origin": "commons",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -113,7 +117,7 @@
     "role": "logo",
     "historical": false,
     "flags": [],
-    "reversed": false
+    "reversed": true
    },
    {
     "file": "website/logo-4.svg",
@@ -122,7 +126,7 @@
     "role": "logo",
     "historical": false,
     "flags": [],
-    "reversed": false
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
@@ -165,27 +169,27 @@
     "master": "commons/Aston_Martin_wordmark.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 61.211% of artwork beyond 0.18% of width",
+     "shape disagrees with reference: 58.652% of artwork beyond 0.18% of width",
      "aspect ratio disagrees with reference (131.58%)"
     ],
     "full_logo": true,
-    "beyond_pct": 61.2111,
-    "aspect_diff": 1.3158
-   },
-   {
-    "master": "commons/Aston_Martin_wordmark.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 61.251% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (131.58%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 61.2513,
+    "beyond_pct": 58.6523,
     "aspect_diff": 1.3158
    },
    {
     "master": "commons/Aston_Martin_wordmark.svg",
     "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 58.754% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (131.58%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 58.7542,
+    "aspect_diff": 1.3158
+   },
+   {
+    "master": "commons/Aston_Martin_wordmark.svg",
+    "reference": "website/logo-1.svg",
     "problems": [
      "shape disagrees with reference: 61.251% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (131.58%)"
@@ -220,34 +224,12 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "commons/Aston_Martin_wordmark.svg",
     "problems": [
-     "shape disagrees with reference: 70.646% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 68.418% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (56.82%)"
     ],
     "full_logo": true,
-    "beyond_pct": 70.6463,
+    "beyond_pct": 68.4182,
     "aspect_diff": 0.5682
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "commons/Aston_Martin_wordmark.svg",
-    "problems": [
-     "shape disagrees with reference: 71.628% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (95.05%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 71.6282,
-    "aspect_diff": 0.9505
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "commons/Aston_Martin_wordmark.svg",
-    "problems": [
-     "shape disagrees with reference: 71.628% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (95.05%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 71.6282,
-    "aspect_diff": 0.9505
    },
    {
     "master": "brandfetch/logo-dark.svg",
@@ -283,50 +265,6 @@
     "aspect_diff": 2.9342
    },
    {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 78.636% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (88.54%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 78.6363,
-    "aspect_diff": 0.8854
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 78.636% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (88.54%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 78.6363,
-    "aspect_diff": 0.8854
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 78.681% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (88.54%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 78.6814,
-    "aspect_diff": 0.8854
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 78.681% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (88.54%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 78.6814,
-    "aspect_diff": 0.8854
-   },
-   {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-2.svg",
     "problems": [
@@ -354,35 +292,31 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "commons/Audi-Logo_2016.svg",
     "origin": "commons",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "commons/Audi-Logo_2016.svg",
-    "problems": [
-     "shape disagrees with reference: 9.628% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (1.50%)"
-    ],
-    "beyond_pct": 9.6276,
-    "aspect_diff": 0.015
-   },
    {
     "master": "commons/Audi-Logo_2016.svg",
     "reference": "brandfetch/logo-light.svg",
@@ -390,6 +324,7 @@
      "shape disagrees with reference: 9.672% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (1.48%)"
     ],
+    "full_logo": true,
     "beyond_pct": 9.6725,
     "aspect_diff": 0.0148
    },
@@ -400,6 +335,7 @@
      "shape disagrees with reference: 9.732% of artwork beyond 0.18% of width",
      "aspect ratio disagrees with reference (1.48%)"
     ],
+    "full_logo": true,
     "beyond_pct": 9.732,
     "aspect_diff": 0.0148
    }
@@ -413,22 +349,28 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "commons/Bentley,_Theaterplaz-102.jpg",
     "origin": "commons",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -438,66 +380,97 @@
  "bmw": {
   "candidates": [
    {
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "commons/BMW.svg",
     "origin": "commons",
     "kind": "svg",
+    "role": "logo",
     "historical": true,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "commons/BMW_logo_(gray).svg",
     "origin": "commons",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "commons/Logo_BMW_Group_2021.svg",
     "origin": "commons",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
+   {
+    "master": "commons/BMW_logo_(gray).svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
+   },
    {
     "master": "commons/BMW_logo_(gray).svg",
     "reference": "brandfetch/logo-light.png",
     "problems": [
      "shape disagrees with reference: 0.108% of artwork beyond 0.19% of width"
     ],
+    "full_logo": true,
     "beyond_pct": 0.1085,
     "aspect_diff": 0.0078
    },
    {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "commons/BMW_logo_(gray).svg",
+    "master": "commons/BMW_logo_(gray).svg",
+    "reference": "website/logo-1.svg",
     "problems": [
-     "shape disagrees with reference: 0.222% of artwork beyond 0.15% of width"
+     "shape disagrees with reference: 0.150% of artwork beyond 0.15% of width"
     ],
-    "beyond_pct": 0.2224,
-    "aspect_diff": 0.0079
+    "full_logo": true,
+    "beyond_pct": 0.1496,
+    "aspect_diff": 0.0
    },
    {
     "master": "commons/BMW_logo_(gray).svg",
@@ -505,35 +478,19 @@
     "problems": [
      "shape disagrees with reference: 0.228% of artwork beyond 0.15% of width"
     ],
+    "full_logo": true,
     "beyond_pct": 0.2276,
     "aspect_diff": 0.0078
-   },
-   {
-    "master": "commons/BMW_logo_(gray).svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 25.522% of artwork beyond 0.79% of width"
-    ],
-    "beyond_pct": 25.522,
-    "aspect_diff": 0.0
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "commons/BMW.svg",
-    "problems": [
-     "shape disagrees with reference: 45.605% of artwork beyond 0.15% of width"
-    ],
-    "beyond_pct": 45.6049,
-    "aspect_diff": 0.0066
    },
    {
     "master": "commons/Logo_BMW_Group_2021.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 64.587% of artwork beyond 0.79% of width",
+     "shape disagrees with reference: 63.662% of artwork beyond 0.79% of width",
      "aspect ratio disagrees with reference (91.52%)"
     ],
-    "beyond_pct": 64.5873,
+    "full_logo": true,
+    "beyond_pct": 63.6622,
     "aspect_diff": 0.9152
    },
    {
@@ -543,8 +500,20 @@
      "shape disagrees with reference: 70.516% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (90.02%)"
     ],
+    "full_logo": true,
     "beyond_pct": 70.5162,
     "aspect_diff": 0.9002
+   },
+   {
+    "master": "commons/Logo_BMW_Group_2021.svg",
+    "reference": "website/logo-1.svg",
+    "problems": [
+     "shape disagrees with reference: 70.543% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (91.52%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 70.5431,
+    "aspect_diff": 0.9152
    },
    {
     "master": "commons/Logo_BMW_Group_2021.svg",
@@ -553,22 +522,20 @@
      "shape disagrees with reference: 70.573% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (90.02%)"
     ],
+    "full_logo": true,
     "beyond_pct": 70.573,
     "aspect_diff": 0.9002
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "commons/Logo_BMW_Group_2021.svg",
-    "problems": [
-     "shape disagrees with reference: 71.686% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (47.38%)"
-    ],
-    "beyond_pct": 71.6863,
-    "aspect_diff": 0.4738
    }
   ],
-  "proposal": null,
-  "status": "no agreeing pair"
+  "proposal": {
+   "master": "commons/BMW_logo_(gray).svg",
+   "reference": "brandfetch/logo-dark.png",
+   "problems": [],
+   "full_logo": true,
+   "beyond_pct": 0.0,
+   "aspect_diff": 0.0
+  },
+  "status": "agreeing pair"
  },
  "bugatti": {
   "candidates": [
@@ -576,57 +543,73 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -639,22 +622,28 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -667,29 +656,37 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -702,29 +699,37 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -743,15 +748,19 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -764,29 +773,37 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -796,63 +813,45 @@
  "fiat": {
   "candidates": [
    {
-    "file": "website/logo-1.png",
-    "origin": "website",
-    "kind": "raster",
-    "historical": false,
-    "flags": []
-   },
-   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-1.png",
-    "problems": [
-     "aspect ratio disagrees with reference (1.89%)"
-    ],
-    "beyond_pct": 0.0054,
-    "aspect_diff": 0.0189
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.png",
-    "problems": [
-     "aspect ratio disagrees with reference (1.89%)"
-    ],
-    "beyond_pct": 0.0054,
-    "aspect_diff": 0.0189
-   }
-  ],
+  "pairs": [],
   "proposal": null,
-  "status": "no agreeing pair"
+  "status": "single origin only"
  },
  "ford": {
   "candidates": [
@@ -860,29 +859,37 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -895,36 +902,46 @@
     "file": "website/logo-1.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-2.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-4.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -937,8 +954,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -948,135 +967,27 @@
  "honda": {
   "candidates": [
    {
-    "file": "website/logo-1.svg",
-    "origin": "website",
-    "kind": "svg",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "website/logo-3.svg",
-    "origin": "website",
-    "kind": "svg",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "website/logo-4.svg",
-    "origin": "website",
-    "kind": "svg",
-    "historical": false,
-    "flags": []
-   },
-   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
-  "pairs": [
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 54.057% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (30.99%)"
-    ],
-    "beyond_pct": 54.0573,
-    "aspect_diff": 0.3099
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 54.417% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (30.65%)"
-    ],
-    "beyond_pct": 54.4167,
-    "aspect_diff": 0.3065
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 56.687% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (23.46%)"
-    ],
-    "beyond_pct": 56.6868,
-    "aspect_diff": 0.2346
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-3.svg",
-    "problems": [
-     "shape disagrees with reference: 62.608% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (727.96%)"
-    ],
-    "beyond_pct": 62.6083,
-    "aspect_diff": 7.2796
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-4.svg",
-    "problems": [
-     "shape disagrees with reference: 62.608% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (727.96%)"
-    ],
-    "beyond_pct": 62.6083,
-    "aspect_diff": 7.2796
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 69.569% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (87.89%)"
-    ],
-    "beyond_pct": 69.5688,
-    "aspect_diff": 0.8789
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 69.569% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (87.89%)"
-    ],
-    "beyond_pct": 69.5688,
-    "aspect_diff": 0.8789
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 69.756% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (87.92%)"
-    ],
-    "beyond_pct": 69.7564,
-    "aspect_diff": 0.8792
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 69.756% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (87.92%)"
-    ],
-    "beyond_pct": 69.7564,
-    "aspect_diff": 0.8792
-   }
-  ],
+  "pairs": [],
   "proposal": null,
-  "status": "no agreeing pair"
+  "status": "single origin only"
  },
  "hyundai": {
   "candidates": [
@@ -1084,86 +995,110 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-4.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
-    "error": "TypeError: 'NoneType' object is not subscriptable"
+    "error": "TypeError: 'NoneType' object is not subscriptable",
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
@@ -1174,58 +1109,9 @@
      "shape disagrees with reference: 0.576% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (2.17%)"
     ],
+    "full_logo": false,
     "beyond_pct": 0.5757,
     "aspect_diff": 0.0217
-   },
-   {
-    "master": "brandfetch/symbol-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 0.576% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (2.17%)"
-    ],
-    "beyond_pct": 0.5757,
-    "aspect_diff": 0.0217
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 0.608% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (2.12%)"
-    ],
-    "beyond_pct": 0.6079,
-    "aspect_diff": 0.0212
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-light.svg",
-    "problems": [
-     "shape disagrees with reference: 0.608% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (2.12%)"
-    ],
-    "beyond_pct": 0.6079,
-    "aspect_diff": 0.0212
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-dark.png",
-    "problems": [
-     "shape disagrees with reference: 0.664% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (1.62%)"
-    ],
-    "beyond_pct": 0.6642,
-    "aspect_diff": 0.0162
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-light.png",
-    "problems": [
-     "shape disagrees with reference: 0.664% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (1.62%)"
-    ],
-    "beyond_pct": 0.6642,
-    "aspect_diff": 0.0162
    },
    {
     "master": "brandfetch/logo-dark.svg",
@@ -1234,68 +1120,9 @@
      "shape disagrees with reference: 65.899% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (100.00%)"
     ],
+    "full_logo": true,
     "beyond_pct": 65.8987,
     "aspect_diff": 1.0
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-3.svg",
-    "problems": [
-     "shape disagrees with reference: 66.230% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (101.90%)"
-    ],
-    "beyond_pct": 66.2295,
-    "aspect_diff": 1.019
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 68.442% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (282.40%)"
-    ],
-    "beyond_pct": 68.4425,
-    "aspect_diff": 2.824
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 68.510% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (50.00%)"
-    ],
-    "beyond_pct": 68.5101,
-    "aspect_diff": 0.5
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 68.602% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (50.47%)"
-    ],
-    "beyond_pct": 68.6016,
-    "aspect_diff": 0.5047
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 68.703% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (50.00%)"
-    ],
-    "beyond_pct": 68.7034,
-    "aspect_diff": 0.5
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 68.750% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (50.00%)"
-    ],
-    "beyond_pct": 68.7499,
-    "aspect_diff": 0.5
    },
    {
     "master": "brandfetch/logo-dark.svg",
@@ -1304,6 +1131,7 @@
      "shape disagrees with reference: 68.756% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (278.80%)"
     ],
+    "full_logo": true,
     "beyond_pct": 68.7559,
     "aspect_diff": 2.788
    },
@@ -1314,98 +1142,9 @@
      "shape disagrees with reference: 70.630% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (46.56%)"
     ],
+    "full_logo": false,
     "beyond_pct": 70.63,
     "aspect_diff": 0.4656
-   },
-   {
-    "master": "brandfetch/symbol-light.svg",
-    "reference": "website/logo-2.svg",
-    "problems": [
-     "shape disagrees with reference: 70.630% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (46.56%)"
-    ],
-    "beyond_pct": 70.63,
-    "aspect_diff": 0.4656
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/symbol-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 71.358% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (31.77%)"
-    ],
-    "beyond_pct": 71.3582,
-    "aspect_diff": 0.3177
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/symbol-light.svg",
-    "problems": [
-     "shape disagrees with reference: 71.358% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (31.77%)"
-    ],
-    "beyond_pct": 71.3582,
-    "aspect_diff": 0.3177
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/symbol-light.png",
-    "problems": [
-     "shape disagrees with reference: 71.429% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (31.42%)"
-    ],
-    "beyond_pct": 71.429,
-    "aspect_diff": 0.3142
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/symbol-dark.png",
-    "problems": [
-     "shape disagrees with reference: 71.444% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (31.42%)"
-    ],
-    "beyond_pct": 71.4439,
-    "aspect_diff": 0.3142
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 72.088% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (73.85%)"
-    ],
-    "beyond_pct": 72.0876,
-    "aspect_diff": 0.7385
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 72.277% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (73.60%)"
-    ],
-    "beyond_pct": 72.2766,
-    "aspect_diff": 0.736
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 72.281% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (73.60%)"
-    ],
-    "beyond_pct": 72.2815,
-    "aspect_diff": 0.736
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 72.285% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (73.60%)"
-    ],
-    "beyond_pct": 72.2851,
-    "aspect_diff": 0.736
    },
    {
     "master": "brandfetch/logo-dark.svg",
@@ -1414,58 +1153,9 @@
      "shape disagrees with reference: 77.661% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (443.40%)"
     ],
+    "full_logo": true,
     "beyond_pct": 77.6614,
     "aspect_diff": 4.434
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-2.svg",
-    "problems": [
-     "shape disagrees with reference: 78.317% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (448.57%)"
-    ],
-    "beyond_pct": 78.3175,
-    "aspect_diff": 4.4857
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/symbol-dark.png",
-    "problems": [
-     "shape disagrees with reference: 80.326% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (86.32%)"
-    ],
-    "beyond_pct": 80.3263,
-    "aspect_diff": 0.8632
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/symbol-light.png",
-    "problems": [
-     "shape disagrees with reference: 80.331% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (86.32%)"
-    ],
-    "beyond_pct": 80.3312,
-    "aspect_diff": 0.8632
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/symbol-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 80.353% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (85.38%)"
-    ],
-    "beyond_pct": 80.3532,
-    "aspect_diff": 0.8538
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/symbol-light.svg",
-    "problems": [
-     "shape disagrees with reference: 80.353% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (85.38%)"
-    ],
-    "beyond_pct": 80.3532,
-    "aspect_diff": 0.8538
    },
    {
     "master": "brandfetch/symbol-dark.svg",
@@ -1474,58 +1164,9 @@
      "shape disagrees with reference: 81.521% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (46.06%)"
     ],
+    "full_logo": false,
     "beyond_pct": 81.5213,
     "aspect_diff": 0.4606
-   },
-   {
-    "master": "brandfetch/symbol-light.svg",
-    "reference": "website/logo-3.svg",
-    "problems": [
-     "shape disagrees with reference: 81.521% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (46.06%)"
-    ],
-    "beyond_pct": 81.5213,
-    "aspect_diff": 0.4606
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 82.226% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (81.77%)"
-    ],
-    "beyond_pct": 82.2258,
-    "aspect_diff": 0.8177
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 82.271% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (81.60%)"
-    ],
-    "beyond_pct": 82.2711,
-    "aspect_diff": 0.816
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 82.322% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (81.60%)"
-    ],
-    "beyond_pct": 82.3216,
-    "aspect_diff": 0.816
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 82.331% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (81.60%)"
-    ],
-    "beyond_pct": 82.3313,
-    "aspect_diff": 0.816
    }
   ],
   "proposal": null,
@@ -1534,23 +1175,68 @@
  "infiniti": {
   "candidates": [
    {
+    "file": "website/logo-1.png",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-2.png",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
-  "pairs": [],
+  "pairs": [
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.png",
+    "problems": [
+     "shape disagrees with reference: 92.321% of artwork beyond 0.32% of width",
+     "aspect ratio disagrees with reference (67.33%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 92.3212,
+    "aspect_diff": 0.6733
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.png",
+    "problems": [
+     "shape disagrees with reference: 92.824% of artwork beyond 0.32% of width",
+     "aspect ratio disagrees with reference (67.33%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 92.8243,
+    "aspect_diff": 0.6733
+   }
+  ],
   "proposal": null,
-  "status": "single origin only"
+  "status": "no agreeing pair"
  },
  "ineos": {
   "candidates": [
@@ -1558,8 +1244,10 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -1567,8 +1255,10 @@
   "status": "single origin only"
  },
  "jaguar": {
-  "status": "no sources downloaded",
-  "proposal": null
+  "candidates": [],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
  },
  "jeep": {
   "candidates": [
@@ -1576,29 +1266,37 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -1611,6 +1309,7 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1619,6 +1318,7 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -1627,6 +1327,7 @@
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -1635,6 +1336,7 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1643,6 +1345,7 @@
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1653,6 +1356,7 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [],
+    "full_logo": true,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0013
    }
@@ -1661,6 +1365,7 @@
    "master": "brandfetch/logo-dark.svg",
    "reference": "website/logo-1.svg",
    "problems": [],
+   "full_logo": true,
    "beyond_pct": 0.0,
    "aspect_diff": 0.0013
   },
@@ -1693,7 +1398,7 @@
     "role": "logo",
     "historical": false,
     "flags": [],
-    "reversed": false
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
@@ -1736,11 +1441,11 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-2.jpg",
     "problems": [
-     "shape disagrees with reference: 62.527% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 71.423% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (191.67%)"
     ],
     "full_logo": true,
-    "beyond_pct": 62.5274,
+    "beyond_pct": 71.4233,
     "aspect_diff": 1.9167
    },
    {
@@ -1753,39 +1458,6 @@
     "full_logo": true,
     "beyond_pct": 75.5218,
     "aspect_diff": 0.1042
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 75.806% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (9.43%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 75.8062,
-    "aspect_diff": 0.0943
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 75.996% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (9.43%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 75.9956,
-    "aspect_diff": 0.0943
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 76.009% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (9.43%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 76.0088,
-    "aspect_diff": 0.0943
    }
   ],
   "proposal": {
@@ -1804,6 +1476,7 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1812,6 +1485,7 @@
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1820,6 +1494,7 @@
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1828,6 +1503,7 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -1836,6 +1512,7 @@
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -1844,6 +1521,7 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1852,6 +1530,7 @@
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -1862,6 +1541,7 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [],
+    "full_logo": true,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0
    },
@@ -1872,6 +1552,7 @@
      "shape disagrees with reference: 86.827% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (39.92%)"
     ],
+    "full_logo": true,
     "beyond_pct": 86.8274,
     "aspect_diff": 0.3992
    },
@@ -1882,6 +1563,7 @@
      "shape disagrees with reference: 88.331% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (14.40%)"
     ],
+    "full_logo": true,
     "beyond_pct": 88.3311,
     "aspect_diff": 0.144
    }
@@ -1890,86 +1572,109 @@
    "master": "brandfetch/logo-dark.svg",
    "reference": "website/logo-1.svg",
    "problems": [],
+   "full_logo": true,
    "beyond_pct": 0.0,
    "aspect_diff": 0.0
   },
   "status": "agreeing pair"
  },
  "land-rover": {
-  "status": "no sources downloaded",
-  "proposal": null
- },
- "lexus": {
   "candidates": [
    {
-    "file": "website/logo-1.png",
+    "file": "website/logo-1.svg",
     "origin": "website",
-    "kind": "raster",
+    "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-3.png",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "lexus": {
+  "candidates": [
+   {
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
    {
     "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-1.png",
+    "reference": "website/logo-1.svg",
     "problems": [
-     "shape disagrees with reference: 13.682% of artwork beyond 0.52% of width",
-     "aspect ratio disagrees with reference (4.58%)"
+     "shape disagrees with reference: 69.044% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (315.27%)"
     ],
-    "beyond_pct": 13.6825,
-    "aspect_diff": 0.0458
+    "full_logo": true,
+    "beyond_pct": 69.0439,
+    "aspect_diff": 3.1527
    },
    {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-2.svg",
-    "problems": [
-     "shape disagrees with reference: 85.444% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (485.50%)"
-    ],
-    "beyond_pct": 85.4442,
-    "aspect_diff": 4.855
-   },
-   {
-    "master": "website/logo-2.svg",
+    "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 89.096% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (82.92%)"
+     "shape disagrees with reference: 72.683% of artwork beyond 0.19% of width",
+     "aspect ratio disagrees with reference (75.92%)"
     ],
-    "beyond_pct": 89.0961,
-    "aspect_diff": 0.8292
+    "full_logo": true,
+    "beyond_pct": 72.6828,
+    "aspect_diff": 0.7592
    },
    {
-    "master": "website/logo-2.svg",
+    "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 89.183% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (82.92%)"
+     "shape disagrees with reference: 72.767% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (75.92%)"
     ],
-    "beyond_pct": 89.1832,
-    "aspect_diff": 0.8292
+    "full_logo": true,
+    "beyond_pct": 72.7668,
+    "aspect_diff": 0.7592
    }
   ],
   "proposal": null,
@@ -1981,15 +1686,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -2002,15 +1711,19 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -2023,6 +1736,7 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2031,6 +1745,7 @@
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2039,6 +1754,7 @@
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2047,6 +1763,7 @@
     "file": "website/logo-4.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2055,6 +1772,7 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -2063,6 +1781,7 @@
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -2071,6 +1790,7 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2079,6 +1799,7 @@
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2087,6 +1808,7 @@
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -2095,6 +1817,7 @@
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -2103,6 +1826,7 @@
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2111,6 +1835,7 @@
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -2121,6 +1846,7 @@
     "master": "brandfetch/symbol-dark.svg",
     "reference": "website/logo-2.svg",
     "problems": [],
+    "full_logo": false,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0
    },
@@ -2131,6 +1857,7 @@
      "shape disagrees with reference: 7.102% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (6.67%)"
     ],
+    "full_logo": true,
     "beyond_pct": 7.1024,
     "aspect_diff": 0.0667
    },
@@ -2141,6 +1868,7 @@
      "shape disagrees with reference: 60.401% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (1604.45%)"
     ],
+    "full_logo": true,
     "beyond_pct": 60.4008,
     "aspect_diff": 16.0445
    },
@@ -2151,6 +1879,7 @@
      "shape disagrees with reference: 66.727% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (117.90%)"
     ],
+    "full_logo": false,
     "beyond_pct": 66.7273,
     "aspect_diff": 1.179
    },
@@ -2161,6 +1890,7 @@
      "shape disagrees with reference: 69.054% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (1604.45%)"
     ],
+    "full_logo": true,
     "beyond_pct": 69.0541,
     "aspect_diff": 16.0445
    },
@@ -2171,6 +1901,7 @@
      "shape disagrees with reference: 69.848% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (682.22%)"
     ],
+    "full_logo": true,
     "beyond_pct": 69.848,
     "aspect_diff": 6.8222
    },
@@ -2181,6 +1912,7 @@
      "shape disagrees with reference: 77.167% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (88.07%)"
     ],
+    "full_logo": false,
     "beyond_pct": 77.1667,
     "aspect_diff": 0.8807
    },
@@ -2191,18 +1923,13 @@
      "shape disagrees with reference: 85.065% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (117.90%)"
     ],
+    "full_logo": false,
     "beyond_pct": 85.0647,
     "aspect_diff": 1.179
    }
   ],
-  "proposal": {
-   "master": "brandfetch/symbol-dark.svg",
-   "reference": "website/logo-2.svg",
-   "problems": [],
-   "beyond_pct": 0.0,
-   "aspect_diff": 0.0
-  },
-  "status": "agreeing pair"
+  "proposal": null,
+  "status": "full logo not confirmed"
  },
  "maserati": {
   "candidates": [
@@ -2210,57 +1937,73 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -2273,57 +2016,73 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -2336,117 +2095,84 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-4.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
    {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 66.742% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (56.34%)"
-    ],
-    "beyond_pct": 66.7421,
-    "aspect_diff": 0.5634
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 66.751% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (56.34%)"
-    ],
-    "beyond_pct": 66.7513,
-    "aspect_diff": 0.5634
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 66.789% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (56.13%)"
-    ],
-    "beyond_pct": 66.7886,
-    "aspect_diff": 0.5613
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 66.789% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (56.13%)"
-    ],
-    "beyond_pct": 66.7886,
-    "aspect_diff": 0.5613
-   },
-   {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [
      "shape disagrees with reference: 68.616% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (35.95%)"
     ],
-    "beyond_pct": 68.6158,
-    "aspect_diff": 0.3595
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 68.616% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (35.95%)"
-    ],
+    "full_logo": true,
     "beyond_pct": 68.6158,
     "aspect_diff": 0.3595
    },
@@ -2457,6 +2183,7 @@
      "shape disagrees with reference: 79.391% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (1125.02%)"
     ],
+    "full_logo": true,
     "beyond_pct": 79.3915,
     "aspect_diff": 11.2502
    },
@@ -2467,6 +2194,7 @@
      "shape disagrees with reference: 79.391% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (1125.02%)"
     ],
+    "full_logo": true,
     "beyond_pct": 79.3915,
     "aspect_diff": 11.2502
    },
@@ -2477,158 +2205,9 @@
      "shape disagrees with reference: 79.391% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (1125.02%)"
     ],
+    "full_logo": true,
     "beyond_pct": 79.3915,
     "aspect_diff": 11.2502
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-2.svg",
-    "problems": [
-     "shape disagrees with reference: 79.391% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (1125.02%)"
-    ],
-    "beyond_pct": 79.3915,
-    "aspect_diff": 11.2502
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-3.svg",
-    "problems": [
-     "shape disagrees with reference: 79.391% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (1125.02%)"
-    ],
-    "beyond_pct": 79.3915,
-    "aspect_diff": 11.2502
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-4.svg",
-    "problems": [
-     "shape disagrees with reference: 79.391% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (1125.02%)"
-    ],
-    "beyond_pct": 79.3915,
-    "aspect_diff": 11.2502
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 83.936% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (91.83%)"
-    ],
-    "beyond_pct": 83.9363,
-    "aspect_diff": 0.9183
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 83.936% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (91.83%)"
-    ],
-    "beyond_pct": 83.9363,
-    "aspect_diff": 0.9183
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 83.936% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (91.83%)"
-    ],
-    "beyond_pct": 83.9363,
-    "aspect_diff": 0.9183
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 83.951% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (91.83%)"
-    ],
-    "beyond_pct": 83.9508,
-    "aspect_diff": 0.9183
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 83.951% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (91.83%)"
-    ],
-    "beyond_pct": 83.9508,
-    "aspect_diff": 0.9183
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 83.951% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (91.83%)"
-    ],
-    "beyond_pct": 83.9508,
-    "aspect_diff": 0.9183
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 84.117% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (91.84%)"
-    ],
-    "beyond_pct": 84.1165,
-    "aspect_diff": 0.9184
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 84.117% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (91.84%)"
-    ],
-    "beyond_pct": 84.1165,
-    "aspect_diff": 0.9184
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 84.117% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (91.84%)"
-    ],
-    "beyond_pct": 84.1165,
-    "aspect_diff": 0.9184
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 84.117% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (91.84%)"
-    ],
-    "beyond_pct": 84.1165,
-    "aspect_diff": 0.9184
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 84.117% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (91.84%)"
-    ],
-    "beyond_pct": 84.1165,
-    "aspect_diff": 0.9184
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 84.117% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (91.84%)"
-    ],
-    "beyond_pct": 84.1165,
-    "aspect_diff": 0.9184
    }
   ],
   "proposal": null,
@@ -2637,65 +2216,205 @@
  "mercedes-benz": {
   "candidates": [
    {
+    "file": "website/logo-1.webp",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-2.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-3.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-4.webp",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [],
+  "pairs": [
+   {
+    "master": "brandfetch/symbol-dark.svg",
+    "reference": "website/logo-2.svg",
+    "problems": [
+     "shape disagrees with reference: 8.514% of artwork beyond 0.15% of width"
+    ],
+    "full_logo": false,
+    "beyond_pct": 8.5141,
+    "aspect_diff": 0.0013
+   },
+   {
+    "master": "brandfetch/symbol-dark.svg",
+    "reference": "website/logo-3.svg",
+    "problems": [
+     "shape disagrees with reference: 69.812% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (34.73%)"
+    ],
+    "full_logo": false,
+    "beyond_pct": 69.8117,
+    "aspect_diff": 0.3473
+   },
+   {
+    "master": "brandfetch/symbol-dark.svg",
+    "reference": "website/logo-4.webp",
+    "problems": [
+     "shape disagrees with reference: 75.595% of artwork beyond 0.31% of width",
+     "aspect ratio disagrees with reference (49.15%)"
+    ],
+    "full_logo": false,
+    "beyond_pct": 75.5954,
+    "aspect_diff": 0.4915
+   },
+   {
+    "master": "brandfetch/symbol-dark.svg",
+    "reference": "website/logo-1.webp",
+    "problems": [
+     "shape disagrees with reference: 79.695% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (73.66%)"
+    ],
+    "full_logo": false,
+    "beyond_pct": 79.6949,
+    "aspect_diff": 0.7366
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.svg",
+    "problems": [
+     "shape disagrees with reference: 82.396% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (46.37%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 82.396,
+    "aspect_diff": 0.4637
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-4.webp",
+    "problems": [
+     "shape disagrees with reference: 84.893% of artwork beyond 0.31% of width",
+     "aspect ratio disagrees with reference (25.67%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 84.8926,
+    "aspect_diff": 0.2567
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.webp",
+    "problems": [
+     "shape disagrees with reference: 87.170% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (61.50%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 87.1697,
+    "aspect_diff": 0.615
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-3.svg",
+    "problems": [
+     "shape disagrees with reference: 88.269% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (96.95%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 88.269,
+    "aspect_diff": 0.9695
+   }
+  ],
   "proposal": null,
-  "status": "single origin only"
+  "status": "no agreeing pair"
  },
  "maybach": {
   "candidates": [],
@@ -2706,72 +2425,261 @@
  "mini": {
   "candidates": [
    {
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [],
-  "proposal": null,
-  "status": "single origin only"
+  "pairs": [
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-light.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0016,
+    "aspect_diff": 0.0013
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-light.png",
+    "problems": [
+     "shape disagrees with reference: 0.712% of artwork beyond 0.19% of width"
+    ],
+    "full_logo": true,
+    "beyond_pct": 0.712,
+    "aspect_diff": 0.0013
+   }
+  ],
+  "proposal": {
+   "master": "website/logo-1.svg",
+   "reference": "brandfetch/logo-dark.svg",
+   "problems": [],
+   "full_logo": true,
+   "beyond_pct": 0.0,
+   "aspect_diff": 0.0
+  },
+  "status": "agreeing pair"
  },
  "mitsubishi": {
   "candidates": [
    {
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-2.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-3.jpg",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-4.jpg",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [],
-  "proposal": null,
-  "status": "single origin only"
+  "pairs": [
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-light.png",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0028
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-light.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0014
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0014
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0009,
+    "aspect_diff": 0.0028
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0017,
+    "aspect_diff": 0.0014
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.svg",
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0017,
+    "aspect_diff": 0.0014
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-4.jpg",
+    "problems": [
+     "shape disagrees with reference: 76.097% of artwork beyond 0.25% of width",
+     "aspect ratio disagrees with reference (25.98%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 76.0969,
+    "aspect_diff": 0.2598
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-3.jpg",
+    "problems": [
+     "shape disagrees with reference: 76.427% of artwork beyond 0.25% of width",
+     "aspect ratio disagrees with reference (16.51%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 76.4275,
+    "aspect_diff": 0.1651
+   }
+  ],
+  "proposal": {
+   "master": "website/logo-2.svg",
+   "reference": "brandfetch/logo-light.svg",
+   "problems": [],
+   "full_logo": true,
+   "beyond_pct": 0.0,
+   "aspect_diff": 0.0014
+  },
+  "status": "agreeing pair"
  },
  "morgan": {
   "candidates": [
@@ -2779,15 +2687,19 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -2797,93 +2709,45 @@
  "nissan": {
   "candidates": [
    {
-    "file": "website/logo-1.svg",
-    "origin": "website",
-    "kind": "svg",
-    "historical": false,
-    "flags": []
-   },
-   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [],
-    "beyond_pct": 0.0,
-    "aspect_diff": 0.0
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [],
-    "beyond_pct": 0.0,
-    "aspect_diff": 0.0
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [],
-    "beyond_pct": 0.0,
-    "aspect_diff": 0.0
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [],
-    "beyond_pct": 0.0,
-    "aspect_diff": 0.0058
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [],
-    "beyond_pct": 0.0,
-    "aspect_diff": 0.0
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [],
-    "beyond_pct": 0.0,
-    "aspect_diff": 0.0058
-   }
-  ],
-  "proposal": {
-   "master": "website/logo-1.svg",
-   "reference": "brandfetch/logo-dark.svg",
-   "problems": [],
-   "beyond_pct": 0.0,
-   "aspect_diff": 0.0
-  },
-  "status": "agreeing pair"
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
  },
  "pagani": {
   "candidates": [
@@ -2891,8 +2755,10 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -2905,64 +2771,87 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 0.504% of artwork beyond 0.19% of width"
-    ],
-    "beyond_pct": 0.5042,
-    "aspect_diff": 0.0059
-   },
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-light.png",
     "problems": [
      "shape disagrees with reference: 0.504% of artwork beyond 0.19% of width"
     ],
+    "full_logo": true,
     "beyond_pct": 0.5042,
+    "aspect_diff": 0.0059
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 0.535% of artwork beyond 0.19% of width"
+    ],
+    "full_logo": true,
+    "beyond_pct": 0.5348,
+    "aspect_diff": 0.0059
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.svg",
+    "problems": [
+     "shape disagrees with reference: 0.862% of artwork beyond 0.15% of width"
+    ],
+    "full_logo": true,
+    "beyond_pct": 0.8622,
     "aspect_diff": 0.0059
    },
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 0.902% of artwork beyond 0.15% of width"
+     "shape disagrees with reference: 0.886% of artwork beyond 0.15% of width"
     ],
-    "beyond_pct": 0.902,
+    "full_logo": true,
+    "beyond_pct": 0.8857,
     "aspect_diff": 0.0059
    },
    {
@@ -2971,25 +2860,8 @@
     "problems": [
      "shape disagrees with reference: 0.902% of artwork beyond 0.15% of width"
     ],
+    "full_logo": true,
     "beyond_pct": 0.902,
-    "aspect_diff": 0.0059
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 0.919% of artwork beyond 0.15% of width"
-    ],
-    "beyond_pct": 0.9192,
-    "aspect_diff": 0.0059
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 0.919% of artwork beyond 0.15% of width"
-    ],
-    "beyond_pct": 0.9192,
     "aspect_diff": 0.0059
    }
   ],
@@ -3002,29 +2874,37 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -3037,8 +2917,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -3051,42 +2933,40 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 81.041% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (183.18%)"
-    ],
-    "beyond_pct": 81.0412,
-    "aspect_diff": 1.8318
-   },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
@@ -3094,38 +2974,9 @@
      "shape disagrees with reference: 81.168% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (425.13%)"
     ],
+    "full_logo": true,
     "beyond_pct": 81.1677,
     "aspect_diff": 4.2513
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 81.280% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (181.62%)"
-    ],
-    "beyond_pct": 81.2798,
-    "aspect_diff": 1.8162
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 83.662% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (80.96%)"
-    ],
-    "beyond_pct": 83.6616,
-    "aspect_diff": 0.8096
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 83.716% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (80.85%)"
-    ],
-    "beyond_pct": 83.716,
-    "aspect_diff": 0.8085
    },
    {
     "master": "brandfetch/logo-dark.svg",
@@ -3134,6 +2985,7 @@
      "shape disagrees with reference: 84.605% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (64.49%)"
     ],
+    "full_logo": true,
     "beyond_pct": 84.6047,
     "aspect_diff": 0.6449
    }
@@ -3243,22 +3095,33 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-2.svg",
     "problems": [
-     "shape disagrees with reference: 74.680% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 73.846% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (524.76%)"
     ],
     "full_logo": true,
-    "beyond_pct": 74.6805,
+    "beyond_pct": 73.8456,
     "aspect_diff": 5.2476
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 78.090% of artwork beyond 0.19% of width",
+     "aspect ratio disagrees with reference (83.84%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 78.0899,
+    "aspect_diff": 0.8384
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 78.497% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 78.107% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (83.99%)"
     ],
     "full_logo": true,
-    "beyond_pct": 78.4966,
+    "beyond_pct": 78.1067,
     "aspect_diff": 0.8399
    },
    {
@@ -3271,17 +3134,6 @@
     "full_logo": true,
     "beyond_pct": 78.4966,
     "aspect_diff": 0.8399
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 78.743% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (83.84%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 78.743,
-    "aspect_diff": 0.8384
    },
    {
     "master": "website/logo-2.svg",
@@ -3311,57 +3163,73 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -3369,10 +3237,47 @@
   "status": "single origin only"
  },
  "subaru": {
-  "candidates": [],
+  "candidates": [
+   {
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-2.jpg",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-3.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-4.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   }
+  ],
   "pairs": [],
   "proposal": null,
-  "status": "no usable vector source"
+  "status": "single origin only"
  },
  "tesla": {
   "candidates": [
@@ -3380,57 +3285,73 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -3440,128 +3361,19 @@
  "toyota": {
   "candidates": [
    {
-    "file": "website/logo-1.png",
-    "origin": "website",
-    "kind": "raster",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "website/logo-2.png",
-    "origin": "website",
-    "kind": "raster",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "website/logo-3.png",
-    "origin": "website",
-    "kind": "raster",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "website/logo-4.png",
-    "origin": "website",
-    "kind": "raster",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "brandfetch/logo-dark.png",
-    "origin": "brandfetch",
-    "kind": "raster",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "brandfetch/logo-dark.svg",
-    "origin": "brandfetch",
-    "kind": "svg",
-    "historical": false,
-    "flags": []
-   }
-  ],
-  "pairs": [
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-1.png",
-    "problems": [
-     "shape disagrees with reference: 46.409% of artwork beyond 0.40% of width",
-     "aspect ratio disagrees with reference (237.80%)"
-    ],
-    "beyond_pct": 46.4087,
-    "aspect_diff": 2.378
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-2.png",
-    "problems": [
-     "shape disagrees with reference: 56.221% of artwork beyond 0.40% of width",
-     "aspect ratio disagrees with reference (142.52%)"
-    ],
-    "beyond_pct": 56.2211,
-    "aspect_diff": 1.4252
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-4.png",
-    "problems": [
-     "shape disagrees with reference: 58.398% of artwork beyond 0.36% of width",
-     "aspect ratio disagrees with reference (202.36%)"
-    ],
-    "beyond_pct": 58.3977,
-    "aspect_diff": 2.0236
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-3.png",
-    "problems": [
-     "shape disagrees with reference: 76.009% of artwork beyond 0.43% of width",
-     "aspect ratio disagrees with reference (266.93%)"
-    ],
-    "beyond_pct": 76.0091,
-    "aspect_diff": 2.6693
-   }
-  ],
-  "proposal": null,
-  "status": "no agreeing pair"
- },
- "vinfast": {
-  "candidates": [
-   {
-    "file": "brandfetch/logo-dark.png",
-    "origin": "brandfetch",
-    "kind": "raster",
-    "historical": false,
-    "flags": []
-   },
-   {
-    "file": "brandfetch/logo-dark.svg",
-    "origin": "brandfetch",
-    "kind": "svg",
-    "historical": false,
-    "flags": []
-   }
-  ],
-  "pairs": [],
-  "proposal": null,
-  "status": "single origin only"
- },
- "volkswagen": {
-  "candidates": [
-   {
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
-    "reversed": true
+    "reversed": false
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -3570,14 +3382,25 @@
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
-    "reversed": true
+    "reversed": false
+   },
+   {
+    "file": "website/logo-4.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -3586,6 +3409,216 @@
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   }
+  ],
+  "pairs": [
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.svg",
+    "problems": [
+     "shape disagrees with reference: 61.806% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (195.28%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 61.8058,
+    "aspect_diff": 1.9528
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-4.svg",
+    "problems": [
+     "shape disagrees with reference: 64.070% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (56.90%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 64.0695,
+    "aspect_diff": 0.569
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.svg",
+    "problems": [
+     "shape disagrees with reference: 64.529% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (61.21%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 64.5289,
+    "aspect_diff": 0.6121
+   },
+   {
+    "master": "website/logo-4.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 65.361% of artwork beyond 0.19% of width",
+     "aspect ratio disagrees with reference (36.77%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 65.3611,
+    "aspect_diff": 0.3677
+   },
+   {
+    "master": "website/logo-4.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 65.617% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (36.26%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 65.6168,
+    "aspect_diff": 0.3626
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 66.705% of artwork beyond 0.19% of width",
+     "aspect ratio disagrees with reference (38.46%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 66.7051,
+    "aspect_diff": 0.3846
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 66.709% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (37.97%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 66.7088,
+    "aspect_diff": 0.3797
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-3.svg",
+    "problems": [
+     "shape disagrees with reference: 74.150% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (30.88%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 74.1502,
+    "aspect_diff": 0.3088
+   },
+   {
+    "master": "website/logo-3.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 75.143% of artwork beyond 0.19% of width",
+     "aspect ratio disagrees with reference (24.20%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 75.143,
+    "aspect_diff": 0.242
+   },
+   {
+    "master": "website/logo-3.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 75.402% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (23.59%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 75.4024,
+    "aspect_diff": 0.2359
+   }
+  ],
+  "proposal": null,
+  "status": "no agreeing pair"
+ },
+ "vinfast": {
+  "candidates": [
+   {
+    "file": "website/logo-1.webp",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   }
+  ],
+  "pairs": [
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.webp",
+    "problems": [
+     "shape disagrees with reference: 84.085% of artwork beyond 0.44% of width",
+     "aspect ratio disagrees with reference (78.39%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 84.085,
+    "aspect_diff": 0.7839
+   }
+  ],
+  "proposal": null,
+  "status": "no agreeing pair"
+ },
+ "volkswagen": {
+  "candidates": [
+   {
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-2.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-3.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": false
@@ -3594,6 +3627,7 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -3602,6 +3636,7 @@
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -3612,6 +3647,7 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [],
+    "full_logo": true,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0
    },
@@ -3621,6 +3657,7 @@
     "problems": [
      "shape disagrees with reference: 54.266% of artwork beyond 0.15% of width"
     ],
+    "full_logo": true,
     "beyond_pct": 54.2663,
     "aspect_diff": 0.0
    },
@@ -3631,6 +3668,7 @@
      "shape disagrees with reference: 76.327% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (1.04%)"
     ],
+    "full_logo": true,
     "beyond_pct": 76.3271,
     "aspect_diff": 0.0104
    }
@@ -3639,6 +3677,7 @@
    "master": "brandfetch/logo-dark.svg",
    "reference": "website/logo-1.svg",
    "problems": [],
+   "full_logo": true,
    "beyond_pct": 0.0,
    "aspect_diff": 0.0
   },
@@ -3650,50 +3689,64 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -3834,33 +3887,33 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-4.svg",
     "problems": [
-     "shape disagrees with reference: 79.954% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 79.427% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (14.80%)"
     ],
     "full_logo": true,
-    "beyond_pct": 79.9541,
+    "beyond_pct": 79.4272,
     "aspect_diff": 0.148
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 80.221% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (12.89%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 80.2206,
-    "aspect_diff": 0.1289
    },
    {
     "master": "website/logo-4.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 80.238% of artwork beyond 0.18% of width",
+     "shape disagrees with reference: 79.653% of artwork beyond 0.18% of width",
      "aspect ratio disagrees with reference (12.89%)"
     ],
     "full_logo": true,
-    "beyond_pct": 80.2384,
+    "beyond_pct": 79.6528,
+    "aspect_diff": 0.1289
+   },
+   {
+    "master": "website/logo-4.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 79.682% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (12.89%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 79.682,
     "aspect_diff": 0.1289
    }
   ],
@@ -3892,7 +3945,7 @@
     "role": "logo",
     "historical": false,
     "flags": [],
-    "reversed": true
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
@@ -3944,12 +3997,56 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-2.svg",
     "problems": [
-     "shape disagrees with reference: 66.078% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 66.571% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (292.93%)"
     ],
     "full_logo": true,
-    "beyond_pct": 66.0778,
+    "beyond_pct": 66.5714,
     "aspect_diff": 2.9293
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 71.050% of artwork beyond 0.19% of width",
+     "aspect ratio disagrees with reference (74.81%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 71.0498,
+    "aspect_diff": 0.7481
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 71.080% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (74.55%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 71.0802,
+    "aspect_diff": 0.7455
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-light.svg",
+    "problems": [
+     "shape disagrees with reference: 71.359% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (74.55%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 71.3591,
+    "aspect_diff": 0.7455
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-light.png",
+    "problems": [
+     "shape disagrees with reference: 71.489% of artwork beyond 0.19% of width",
+     "aspect ratio disagrees with reference (74.55%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 71.4886,
+    "aspect_diff": 0.7455
    }
   ],
   "proposal": {
@@ -3968,30 +4065,24 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "aspect ratio disagrees with reference (2.63%)"
-    ],
-    "beyond_pct": 0.0,
-    "aspect_diff": 0.0263
-   }
-  ],
+  "pairs": [],
   "proposal": null,
-  "status": "no agreeing pair"
+  "status": "single origin only"
  },
  "saleen": {
   "candidates": [
@@ -3999,15 +4090,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -4020,29 +4115,37 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -4050,30 +4153,22 @@
     "master": "website/logo-3.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 55.602% of artwork beyond 0.62% of width",
+     "shape disagrees with reference: 56.615% of artwork beyond 0.62% of width",
      "aspect ratio disagrees with reference (160.05%)"
     ],
-    "beyond_pct": 55.6021,
+    "full_logo": true,
+    "beyond_pct": 56.6154,
     "aspect_diff": 1.6005
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 67.951% of artwork beyond 0.62% of width",
-     "aspect ratio disagrees with reference (3.75%)"
-    ],
-    "beyond_pct": 67.9512,
-    "aspect_diff": 0.0375
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 68.413% of artwork beyond 0.62% of width",
+     "shape disagrees with reference: 68.564% of artwork beyond 0.62% of width",
      "aspect ratio disagrees with reference (86.52%)"
     ],
-    "beyond_pct": 68.413,
+    "full_logo": true,
+    "beyond_pct": 68.5638,
     "aspect_diff": 0.8652
    }
   ],
@@ -4086,8 +4181,10 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -4100,144 +4197,166 @@
     "file": "website/logo-1.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-4.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
    {
     "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-2.svg",
+    "reference": "website/logo-4.svg",
     "problems": [
-     "shape disagrees with reference: 78.028% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 77.571% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (627.16%)"
     ],
-    "beyond_pct": 78.0284,
+    "full_logo": true,
+    "beyond_pct": 77.5713,
+    "aspect_diff": 6.2716
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.svg",
+    "problems": [
+     "shape disagrees with reference: 77.615% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (627.16%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 77.6152,
     "aspect_diff": 6.2716
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-3.svg",
     "problems": [
-     "shape disagrees with reference: 78.028% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 77.615% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (627.16%)"
     ],
-    "beyond_pct": 78.0284,
+    "full_logo": true,
+    "beyond_pct": 77.6152,
     "aspect_diff": 6.2716
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-4.svg",
-    "problems": [
-     "shape disagrees with reference: 78.028% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (627.16%)"
-    ],
-    "beyond_pct": 78.0284,
-    "aspect_diff": 6.2716
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 80.911% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (86.25%)"
-    ],
-    "beyond_pct": 80.9112,
-    "aspect_diff": 0.8625
-   },
-   {
-    "master": "website/logo-3.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 80.911% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (86.25%)"
-    ],
-    "beyond_pct": 80.9112,
-    "aspect_diff": 0.8625
-   },
-   {
-    "master": "website/logo-4.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 80.911% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (86.25%)"
-    ],
-    "beyond_pct": 80.9112,
-    "aspect_diff": 0.8625
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 80.944% of artwork beyond 0.19% of width",
+     "shape disagrees with reference: 80.788% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (86.25%)"
     ],
-    "beyond_pct": 80.944,
+    "full_logo": true,
+    "beyond_pct": 80.7885,
     "aspect_diff": 0.8625
    },
    {
     "master": "website/logo-3.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 80.944% of artwork beyond 0.19% of width",
+     "shape disagrees with reference: 80.788% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (86.25%)"
     ],
-    "beyond_pct": 80.944,
+    "full_logo": true,
+    "beyond_pct": 80.7885,
     "aspect_diff": 0.8625
    },
    {
     "master": "website/logo-4.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 80.944% of artwork beyond 0.19% of width",
+     "shape disagrees with reference: 80.788% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (86.25%)"
     ],
-    "beyond_pct": 80.944,
+    "full_logo": true,
+    "beyond_pct": 80.7885,
+    "aspect_diff": 0.8625
+   },
+   {
+    "master": "website/logo-2.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 80.862% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (86.25%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 80.8619,
+    "aspect_diff": 0.8625
+   },
+   {
+    "master": "website/logo-3.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 80.862% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (86.25%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 80.8619,
+    "aspect_diff": 0.8625
+   },
+   {
+    "master": "website/logo-4.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 80.862% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (86.25%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 80.8619,
     "aspect_diff": 0.8625
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.webp",
     "problems": [
-     "shape disagrees with reference: 84.815% of artwork beyond 0.44% of width",
+     "shape disagrees with reference: 82.908% of artwork beyond 0.44% of width",
      "aspect ratio disagrees with reference (44.00%)"
     ],
-    "beyond_pct": 84.8148,
+    "full_logo": true,
+    "beyond_pct": 82.9077,
     "aspect_diff": 0.44
    }
   ],
@@ -4420,23 +4539,45 @@
  "byd": {
   "candidates": [
    {
-    "file": "website/logo-1.png",
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-2.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-3.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
   "proposal": null,
-  "status": "no usable vector source"
+  "status": "single origin only"
  },
  "kandi": {
   "candidates": [
@@ -4444,8 +4585,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -4458,29 +4601,37 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -4503,29 +4654,37 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -4610,6 +4769,7 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -4618,6 +4778,7 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -4626,6 +4787,7 @@
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
     "reversed": true
@@ -4641,22 +4803,28 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -4669,165 +4837,119 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
-    "file": "website/logo-2.svg",
+    "file": "website/logo-2.png",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
+   },
+   {
+    "file": "website/logo-4.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
    {
     "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-2.svg",
+    "reference": "website/logo-2.png",
     "problems": [
-     "shape disagrees with reference: 71.796% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (120.17%)"
+     "shape disagrees with reference: 72.736% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (189.63%)"
     ],
-    "beyond_pct": 71.796,
-    "aspect_diff": 1.2017
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-2.svg",
-    "problems": [
-     "shape disagrees with reference: 71.796% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (120.17%)"
-    ],
-    "beyond_pct": 71.796,
-    "aspect_diff": 1.2017
+    "full_logo": true,
+    "beyond_pct": 72.7359,
+    "aspect_diff": 1.8963
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [
-     "shape disagrees with reference: 72.832% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (121.04%)"
+     "shape disagrees with reference: 73.516% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (191.26%)"
     ],
-    "beyond_pct": 72.8316,
-    "aspect_diff": 1.2104
+    "full_logo": true,
+    "beyond_pct": 73.5159,
+    "aspect_diff": 1.9126
    },
    {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.svg",
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-4.svg",
     "problems": [
-     "shape disagrees with reference: 72.832% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (121.04%)"
+     "shape disagrees with reference: 81.591% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (172.69%)"
     ],
-    "beyond_pct": 72.8316,
-    "aspect_diff": 1.2104
+    "full_logo": true,
+    "beyond_pct": 81.5908,
+    "aspect_diff": 1.7269
    },
    {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-light.png",
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-3.svg",
     "problems": [
-     "shape disagrees with reference: 73.108% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (54.45%)"
+     "shape disagrees with reference: 82.541% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (121.33%)"
     ],
-    "beyond_pct": 73.1077,
-    "aspect_diff": 0.5445
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 73.110% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (54.45%)"
-    ],
-    "beyond_pct": 73.1104,
-    "aspect_diff": 0.5445
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 73.163% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (54.58%)"
-    ],
-    "beyond_pct": 73.1629,
-    "aspect_diff": 0.5458
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 73.163% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (54.58%)"
-    ],
-    "beyond_pct": 73.1629,
-    "aspect_diff": 0.5458
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 74.015% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (54.76%)"
-    ],
-    "beyond_pct": 74.0151,
-    "aspect_diff": 0.5476
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 74.015% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (54.76%)"
-    ],
-    "beyond_pct": 74.0151,
-    "aspect_diff": 0.5476
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 74.073% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (54.63%)"
-    ],
-    "beyond_pct": 74.0732,
-    "aspect_diff": 0.5463
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 74.103% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (54.63%)"
-    ],
-    "beyond_pct": 74.1035,
-    "aspect_diff": 0.5463
+    "full_logo": true,
+    "beyond_pct": 82.5407,
+    "aspect_diff": 1.2133
    }
   ],
   "proposal": null,
@@ -4839,15 +4961,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -4857,37 +4983,104 @@
  "isuzu": {
   "candidates": [
    {
+    "file": "website/logo-1.png",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-2.png",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-3.png",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [],
+  "pairs": [
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.png",
+    "problems": [
+     "aspect ratio disagrees with reference (2.24%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0224
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-3.png",
+    "problems": [
+     "aspect ratio disagrees with reference (406.72%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 0.0,
+    "aspect_diff": 4.0672
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.png",
+    "problems": [
+     "shape disagrees with reference: 8.767% of artwork beyond 6.25% of width",
+     "aspect ratio disagrees with reference (473.13%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 8.7665,
+    "aspect_diff": 4.7313
+   }
+  ],
   "proposal": null,
-  "status": "single origin only"
+  "status": "no agreeing pair"
  },
  "mg": {
   "candidates": [
@@ -4895,55 +5088,85 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-2.webp",
+    "origin": "website",
+    "kind": "raster",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 27.384% of artwork beyond 0.19% of width"
-    ],
-    "beyond_pct": 27.3838,
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
     "aspect_diff": 0.0026
    },
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 27.470% of artwork beyond 0.15% of width"
-    ],
-    "beyond_pct": 27.4697,
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
     "aspect_diff": 0.0
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 27.778% of artwork beyond 0.15% of width"
-    ],
-    "beyond_pct": 27.7778,
+    "problems": [],
+    "full_logo": true,
+    "beyond_pct": 0.0,
     "aspect_diff": 0.0
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.webp",
+    "problems": [
+     "shape disagrees with reference: 63.476% of artwork beyond 0.34% of width",
+     "aspect ratio disagrees with reference (4.18%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 63.476,
+    "aspect_diff": 0.0418
    }
   ],
-  "proposal": null,
-  "status": "no agreeing pair"
+  "proposal": {
+   "master": "website/logo-1.svg",
+   "reference": "brandfetch/logo-dark.svg",
+   "problems": [],
+   "full_logo": true,
+   "beyond_pct": 0.0,
+   "aspect_diff": 0.0
+  },
+  "status": "agreeing pair"
  },
  "chirey": {
   "candidates": [
@@ -4951,15 +5174,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -4972,22 +5199,28 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -4998,6 +5231,7 @@
      "shape disagrees with reference: 53.115% of artwork beyond 0.17% of width",
      "aspect ratio disagrees with reference (51.14%)"
     ],
+    "full_logo": true,
     "beyond_pct": 53.1146,
     "aspect_diff": 0.5114
    }
@@ -5011,22 +5245,28 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -5037,6 +5277,7 @@
      "shape disagrees with reference: 53.115% of artwork beyond 0.17% of width",
      "aspect ratio disagrees with reference (51.14%)"
     ],
+    "full_logo": true,
     "beyond_pct": 53.1146,
     "aspect_diff": 0.5114
    }
@@ -5056,8 +5297,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -5082,8 +5325,10 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -5102,147 +5347,85 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-dark.png",
-    "problems": [
-     "shape disagrees with reference: 41.192% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (215.28%)"
-    ],
-    "beyond_pct": 41.192,
-    "aspect_diff": 2.1528
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-light.png",
-    "problems": [
-     "shape disagrees with reference: 41.192% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (215.28%)"
-    ],
-    "beyond_pct": 41.192,
-    "aspect_diff": 2.1528
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 41.250% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (215.28%)"
-    ],
-    "beyond_pct": 41.2498,
-    "aspect_diff": 2.1528
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/symbol-light.svg",
-    "problems": [
-     "shape disagrees with reference: 41.250% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (215.28%)"
-    ],
-    "beyond_pct": 41.2498,
-    "aspect_diff": 2.1528
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 43.781% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (16.67%)"
-    ],
-    "beyond_pct": 43.7809,
-    "aspect_diff": 0.1667
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 43.785% of artwork beyond 0.19% of width",
-     "aspect ratio disagrees with reference (16.67%)"
-    ],
-    "beyond_pct": 43.7851,
-    "aspect_diff": 0.1667
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 43.868% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (16.51%)"
-    ],
-    "beyond_pct": 43.8677,
-    "aspect_diff": 0.1651
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-light.svg",
-    "problems": [
-     "shape disagrees with reference: 43.868% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (16.51%)"
-    ],
-    "beyond_pct": 43.8677,
-    "aspect_diff": 0.1651
-   },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
@@ -5250,16 +5433,7 @@
      "shape disagrees with reference: 44.703% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (14.17%)"
     ],
-    "beyond_pct": 44.7032,
-    "aspect_diff": 0.1417
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 44.703% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (14.17%)"
-    ],
+    "full_logo": true,
     "beyond_pct": 44.7032,
     "aspect_diff": 0.1417
    },
@@ -5270,16 +5444,7 @@
      "shape disagrees with reference: 47.632% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (68.28%)"
     ],
-    "beyond_pct": 47.6318,
-    "aspect_diff": 0.6828
-   },
-   {
-    "master": "brandfetch/symbol-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 47.632% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (68.28%)"
-    ],
+    "full_logo": false,
     "beyond_pct": 47.6318,
     "aspect_diff": 0.6828
    }
@@ -5293,56 +5458,58 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-4.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 2.388% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (3.45%)"
-    ],
-    "beyond_pct": 2.3876,
-    "aspect_diff": 0.0345
-   },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
@@ -5350,107 +5517,107 @@
      "shape disagrees with reference: 2.425% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (3.57%)"
     ],
+    "full_logo": true,
     "beyond_pct": 2.4255,
-    "aspect_diff": 0.0357
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 2.472% of artwork beyond 0.18% of width",
-     "aspect ratio disagrees with reference (3.57%)"
-    ],
-    "beyond_pct": 2.4723,
     "aspect_diff": 0.0357
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-2.svg",
     "problems": [
-     "shape disagrees with reference: 81.704% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 81.263% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (610.19%)"
     ],
-    "beyond_pct": 81.7039,
+    "full_logo": true,
+    "beyond_pct": 81.2634,
     "aspect_diff": 6.1019
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-3.svg",
     "problems": [
-     "shape disagrees with reference: 81.704% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 81.263% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (610.19%)"
     ],
-    "beyond_pct": 81.7039,
+    "full_logo": true,
+    "beyond_pct": 81.2634,
     "aspect_diff": 6.1019
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-4.svg",
     "problems": [
-     "shape disagrees with reference: 81.704% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 81.263% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (610.19%)"
     ],
-    "beyond_pct": 81.7039,
+    "full_logo": true,
+    "beyond_pct": 81.2634,
     "aspect_diff": 6.1019
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 85.106% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 84.688% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (85.92%)"
     ],
-    "beyond_pct": 85.1064,
+    "full_logo": true,
+    "beyond_pct": 84.6881,
     "aspect_diff": 0.8592
    },
    {
     "master": "website/logo-3.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 85.106% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 84.688% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (85.92%)"
     ],
-    "beyond_pct": 85.1064,
+    "full_logo": true,
+    "beyond_pct": 84.6881,
     "aspect_diff": 0.8592
    },
    {
     "master": "website/logo-4.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 85.106% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 84.688% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (85.92%)"
     ],
-    "beyond_pct": 85.1064,
+    "full_logo": true,
+    "beyond_pct": 84.6881,
     "aspect_diff": 0.8592
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 85.184% of artwork beyond 0.18% of width",
+     "shape disagrees with reference: 84.693% of artwork beyond 0.18% of width",
      "aspect ratio disagrees with reference (85.94%)"
     ],
-    "beyond_pct": 85.184,
+    "full_logo": true,
+    "beyond_pct": 84.6933,
     "aspect_diff": 0.8594
    },
    {
     "master": "website/logo-3.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 85.184% of artwork beyond 0.18% of width",
+     "shape disagrees with reference: 84.693% of artwork beyond 0.18% of width",
      "aspect ratio disagrees with reference (85.94%)"
     ],
-    "beyond_pct": 85.184,
+    "full_logo": true,
+    "beyond_pct": 84.6933,
     "aspect_diff": 0.8594
    },
    {
     "master": "website/logo-4.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 85.184% of artwork beyond 0.18% of width",
+     "shape disagrees with reference: 84.693% of artwork beyond 0.18% of width",
      "aspect ratio disagrees with reference (85.94%)"
     ],
-    "beyond_pct": 85.184,
+    "full_logo": true,
+    "beyond_pct": 84.6933,
     "aspect_diff": 0.8594
    }
   ],
@@ -5463,139 +5630,119 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-2.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-4.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
    {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.png",
-    "problems": [
-     "shape disagrees with reference: 25.640% of artwork beyond 0.59% of width",
-     "aspect ratio disagrees with reference (15.62%)"
-    ],
-    "beyond_pct": 25.64,
-    "aspect_diff": 0.1562
-   },
-   {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.png",
     "problems": [
-     "shape disagrees with reference: 25.646% of artwork beyond 0.59% of width",
+     "shape disagrees with reference: 25.830% of artwork beyond 0.59% of width",
      "aspect ratio disagrees with reference (15.62%)"
     ],
-    "beyond_pct": 25.6456,
+    "full_logo": true,
+    "beyond_pct": 25.8301,
     "aspect_diff": 0.1562
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-2.png",
     "problems": [
-     "shape disagrees with reference: 63.256% of artwork beyond 0.20% of width",
+     "shape disagrees with reference: 67.819% of artwork beyond 0.20% of width",
      "aspect ratio disagrees with reference (901.04%)"
     ],
-    "beyond_pct": 63.2556,
-    "aspect_diff": 9.0104
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-2.png",
-    "problems": [
-     "shape disagrees with reference: 63.261% of artwork beyond 0.20% of width",
-     "aspect ratio disagrees with reference (901.04%)"
-    ],
-    "beyond_pct": 63.261,
-    "aspect_diff": 9.0104
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-4.png",
-    "problems": [
-     "shape disagrees with reference: 63.997% of artwork beyond 0.20% of width",
-     "aspect ratio disagrees with reference (901.04%)"
-    ],
-    "beyond_pct": 63.9969,
-    "aspect_diff": 9.0104
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-4.png",
-    "problems": [
-     "shape disagrees with reference: 64.003% of artwork beyond 0.20% of width",
-     "aspect ratio disagrees with reference (901.04%)"
-    ],
-    "beyond_pct": 64.0033,
+    "full_logo": true,
+    "beyond_pct": 67.8193,
     "aspect_diff": 9.0104
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-3.png",
     "problems": [
-     "shape disagrees with reference: 71.847% of artwork beyond 0.20% of width",
+     "shape disagrees with reference: 68.218% of artwork beyond 0.20% of width",
      "aspect ratio disagrees with reference (433.33%)"
     ],
-    "beyond_pct": 71.8475,
+    "full_logo": true,
+    "beyond_pct": 68.2178,
     "aspect_diff": 4.3333
    },
    {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-3.png",
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-4.png",
     "problems": [
-     "shape disagrees with reference: 71.849% of artwork beyond 0.20% of width",
-     "aspect ratio disagrees with reference (433.33%)"
+     "shape disagrees with reference: 68.512% of artwork beyond 0.20% of width",
+     "aspect ratio disagrees with reference (901.04%)"
     ],
-    "beyond_pct": 71.8485,
-    "aspect_diff": 4.3333
+    "full_logo": true,
+    "beyond_pct": 68.5124,
+    "aspect_diff": 9.0104
    }
   ],
   "proposal": null,
@@ -5613,15 +5760,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -5634,15 +5785,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -5655,8 +5810,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -5669,15 +5826,19 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-2.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -5690,8 +5851,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -5704,15 +5867,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -5797,15 +5964,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -5818,36 +5989,46 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
@@ -5855,31 +6036,34 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [
-     "shape disagrees with reference: 63.855% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 62.862% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (427.09%)"
     ],
-    "beyond_pct": 63.8551,
-    "aspect_diff": 4.2709
-   },
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.svg",
-    "problems": [
-     "shape disagrees with reference: 63.855% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (427.09%)"
-    ],
-    "beyond_pct": 63.8551,
+    "full_logo": true,
+    "beyond_pct": 62.862,
     "aspect_diff": 4.2709
    },
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 67.564% of artwork beyond 0.19% of width",
+     "shape disagrees with reference: 66.848% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (81.10%)"
     ],
-    "beyond_pct": 67.5637,
+    "full_logo": true,
+    "beyond_pct": 66.8482,
     "aspect_diff": 0.811
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 67.041% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (81.03%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 67.0409,
+    "aspect_diff": 0.8103
    },
    {
     "master": "website/logo-1.svg",
@@ -5888,18 +6072,9 @@
      "shape disagrees with reference: 67.564% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (81.10%)"
     ],
+    "full_logo": true,
     "beyond_pct": 67.5637,
     "aspect_diff": 0.811
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 67.861% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (81.03%)"
-    ],
-    "beyond_pct": 67.8606,
-    "aspect_diff": 0.8103
    },
    {
     "master": "website/logo-1.svg",
@@ -5908,6 +6083,7 @@
      "shape disagrees with reference: 67.861% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (81.03%)"
     ],
+    "full_logo": true,
     "beyond_pct": 67.8606,
     "aspect_diff": 0.8103
    }
@@ -5929,15 +6105,19 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -5958,8 +6138,10 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -6052,8 +6234,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -6066,15 +6250,19 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -6095,15 +6283,19 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -6126,15 +6318,19 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -6147,15 +6343,19 @@
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -6176,24 +6376,30 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [
      "embedded raster image"
-    ]
+    ],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -6201,9 +6407,10 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [
-     "shape disagrees with reference: 0.068% of artwork beyond 0.15% of width"
+     "shape disagrees with reference: 0.162% of artwork beyond 0.15% of width"
     ],
-    "beyond_pct": 0.0681,
+    "full_logo": true,
+    "beyond_pct": 0.1621,
     "aspect_diff": 0.0039
    }
   ],
@@ -6216,15 +6423,19 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -6303,8 +6514,10 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -6317,29 +6530,37 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -6347,30 +6568,33 @@
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 1.251% of artwork beyond 0.99% of width",
+     "shape disagrees with reference: 1.117% of artwork beyond 0.99% of width",
      "aspect ratio disagrees with reference (1.22%)"
     ],
-    "beyond_pct": 1.2508,
+    "full_logo": true,
+    "beyond_pct": 1.1174,
     "aspect_diff": 0.0122
    },
    {
     "master": "website/logo-3.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 56.809% of artwork beyond 0.99% of width",
+     "shape disagrees with reference: 56.757% of artwork beyond 0.99% of width",
      "aspect ratio disagrees with reference (5.21%)"
     ],
-    "beyond_pct": 56.8095,
+    "full_logo": true,
+    "beyond_pct": 56.7574,
     "aspect_diff": 0.0521
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 74.892% of artwork beyond 0.99% of width",
+     "shape disagrees with reference: 74.802% of artwork beyond 0.99% of width",
      "aspect ratio disagrees with reference (5.21%)"
     ],
-    "beyond_pct": 74.8921,
+    "full_logo": true,
+    "beyond_pct": 74.8025,
     "aspect_diff": 0.0521
    }
   ],
@@ -6463,7 +6687,7 @@
     "role": "logo",
     "historical": false,
     "flags": [],
-    "reversed": false
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
@@ -6549,17 +6773,6 @@
    },
    {
     "master": "brandfetch/logo-dark.svg",
-    "reference": "website/logo-3.jpg",
-    "problems": [
-     "shape disagrees with reference: 39.274% of artwork beyond 0.58% of width",
-     "aspect ratio disagrees with reference (884.62%)"
-    ],
-    "full_logo": true,
-    "beyond_pct": 39.2742,
-    "aspect_diff": 8.8462
-   },
-   {
-    "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-4.jpg",
     "problems": [
      "shape disagrees with reference: 45.616% of artwork beyond 0.58% of width",
@@ -6570,15 +6783,15 @@
     "aspect_diff": 7.9744
    },
    {
-    "master": "brandfetch/symbol-dark.svg",
+    "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-3.jpg",
     "problems": [
-     "shape disagrees with reference: 53.601% of artwork beyond 0.58% of width",
-     "aspect ratio disagrees with reference (14.46%)"
+     "shape disagrees with reference: 45.833% of artwork beyond 0.58% of width",
+     "aspect ratio disagrees with reference (884.62%)"
     ],
-    "full_logo": false,
-    "beyond_pct": 53.6013,
-    "aspect_diff": 0.1446
+    "full_logo": true,
+    "beyond_pct": 45.8327,
+    "aspect_diff": 8.8462
    },
    {
     "master": "brandfetch/symbol-dark.svg",
@@ -6590,6 +6803,17 @@
     "full_logo": false,
     "beyond_pct": 55.7969,
     "aspect_diff": 0.0432
+   },
+   {
+    "master": "brandfetch/symbol-dark.svg",
+    "reference": "website/logo-3.jpg",
+    "problems": [
+     "shape disagrees with reference: 56.912% of artwork beyond 0.58% of width",
+     "aspect ratio disagrees with reference (14.46%)"
+    ],
+    "full_logo": false,
+    "beyond_pct": 56.9122,
+    "aspect_diff": 0.1446
    },
    {
     "master": "brandfetch/symbol-dark.svg",
@@ -6638,16 +6862,45 @@
  "hino": {
   "candidates": [
    {
-    "file": "website/logo-1.png",
+    "file": "website/logo-1.svg",
     "origin": "website",
-    "kind": "raster",
+    "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-2.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-3.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
+   },
+   {
+    "file": "website/logo-4.svg",
+    "origin": "website",
+    "kind": "svg",
+    "role": "logo",
+    "historical": false,
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
   "proposal": null,
-  "status": "no usable vector source"
+  "status": "single origin only"
  },
  "fuso": {
   "candidates": [
@@ -6655,15 +6908,19 @@
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -6676,22 +6933,28 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -6699,10 +6962,11 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.png",
     "problems": [
-     "shape disagrees with reference: 59.405% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 59.488% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (31.25%)"
     ],
-    "beyond_pct": 59.4054,
+    "full_logo": true,
+    "beyond_pct": 59.4882,
     "aspect_diff": 0.3125
    }
   ],
@@ -6721,15 +6985,19 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [],
@@ -6758,22 +7026,28 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -6781,10 +7055,11 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.png",
     "problems": [
-     "shape disagrees with reference: 11.712% of artwork beyond 1.01% of width",
+     "shape disagrees with reference: 9.197% of artwork beyond 1.01% of width",
      "aspect ratio disagrees with reference (3.56%)"
     ],
-    "beyond_pct": 11.712,
+    "full_logo": true,
+    "beyond_pct": 9.1968,
     "aspect_diff": 0.0356
    }
   ],
@@ -6797,103 +7072,78 @@
     "file": "website/logo-1.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "website/logo-3.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-4.webp",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/symbol-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/symbol-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "symbol",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
-  "pairs": [
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/symbol-dark.png",
-    "problems": [
-     "shape disagrees with reference: 53.724% of artwork beyond 0.27% of width",
-     "aspect ratio disagrees with reference (420.69%)"
-    ],
-    "beyond_pct": 53.7245,
-    "aspect_diff": 4.2069
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/symbol-light.png",
-    "problems": [
-     "shape disagrees with reference: 53.724% of artwork beyond 0.27% of width",
-     "aspect ratio disagrees with reference (420.69%)"
-    ],
-    "beyond_pct": 53.7245,
-    "aspect_diff": 4.2069
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-dark.png",
-    "problems": [
-     "shape disagrees with reference: 57.060% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (14.94%)"
-    ],
-    "beyond_pct": 57.06,
-    "aspect_diff": 0.1494
-   },
-   {
-    "master": "website/logo-2.svg",
-    "reference": "brandfetch/logo-light.png",
-    "problems": [
-     "shape disagrees with reference: 57.060% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (14.94%)"
-    ],
-    "beyond_pct": 57.06,
-    "aspect_diff": 0.1494
-   }
-  ],
+  "pairs": [],
   "proposal": null,
-  "status": "no agreeing pair"
+  "status": "single origin only"
  },
  "nikola": {
   "candidates": [
@@ -6901,49 +7151,49 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-light.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    },
    {
     "file": "brandfetch/logo-light.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": true
    }
   ],
   "pairs": [
-   {
-    "master": "brandfetch/logo-light.svg",
-    "reference": "website/logo-1.png",
-    "problems": [
-     "shape disagrees with reference: 50.984% of artwork beyond 0.48% of width",
-     "aspect ratio disagrees with reference (9.38%)"
-    ],
-    "beyond_pct": 50.9838,
-    "aspect_diff": 0.0938
-   },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.png",
@@ -6951,6 +7201,7 @@
      "shape disagrees with reference: 51.054% of artwork beyond 0.48% of width",
      "aspect ratio disagrees with reference (9.23%)"
     ],
+    "full_logo": true,
     "beyond_pct": 51.0536,
     "aspect_diff": 0.0923
    }
@@ -6964,47 +7215,59 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
-    "error": "TypeError: 'NoneType' object is not subscriptable"
+    "error": "TypeError: 'NoneType' object is not subscriptable",
+    "reversed": false
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
-    "error": "TypeError: 'NoneType' object is not subscriptable"
+    "error": "TypeError: 'NoneType' object is not subscriptable",
+    "reversed": false
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
-    "error": "TypeError: 'NoneType' object is not subscriptable"
+    "error": "TypeError: 'NoneType' object is not subscriptable",
+    "reversed": false
    },
    {
     "file": "website/logo-4.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
     "flags": [],
-    "error": "TypeError: 'NoneType' object is not subscriptable"
+    "error": "TypeError: 'NoneType' object is not subscriptable",
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -7017,22 +7280,28 @@
     "file": "website/logo-1.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-2.png",
     "origin": "website",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [],
@@ -7045,43 +7314,55 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-2.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-3.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "website/logo-4.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -7091,6 +7372,7 @@
     "problems": [
      "aspect ratio disagrees with reference (1.17%)"
     ],
+    "full_logo": true,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0117
    },
@@ -7100,6 +7382,7 @@
     "problems": [
      "aspect ratio disagrees with reference (1.69%)"
     ],
+    "full_logo": true,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0169
    },
@@ -7109,6 +7392,7 @@
     "problems": [
      "aspect ratio disagrees with reference (1.66%)"
     ],
+    "full_logo": true,
     "beyond_pct": 0.0,
     "aspect_diff": 0.0166
    },
@@ -7116,90 +7400,99 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [
-     "shape disagrees with reference: 41.299% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 40.924% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (288.78%)"
     ],
-    "beyond_pct": 41.2993,
+    "full_logo": true,
+    "beyond_pct": 40.9242,
     "aspect_diff": 2.8878
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 42.821% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (74.28%)"
-    ],
-    "beyond_pct": 42.8208,
-    "aspect_diff": 0.7428
    },
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 42.900% of artwork beyond 0.19% of width",
+     "shape disagrees with reference: 42.443% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (74.41%)"
     ],
-    "beyond_pct": 42.9004,
+    "full_logo": true,
+    "beyond_pct": 42.443,
     "aspect_diff": 0.7441
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 42.511% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (74.28%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 42.5115,
+    "aspect_diff": 0.7428
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-2.svg",
     "problems": [
-     "shape disagrees with reference: 58.717% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 58.265% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (291.84%)"
     ],
-    "beyond_pct": 58.7168,
+    "full_logo": true,
+    "beyond_pct": 58.2648,
     "aspect_diff": 2.9184
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 61.367% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 61.181% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (74.48%)"
     ],
-    "beyond_pct": 61.3668,
+    "full_logo": true,
+    "beyond_pct": 61.1808,
     "aspect_diff": 0.7448
    },
    {
     "master": "website/logo-2.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 61.398% of artwork beyond 0.19% of width",
+     "shape disagrees with reference: 61.205% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (74.61%)"
     ],
-    "beyond_pct": 61.3975,
+    "full_logo": true,
+    "beyond_pct": 61.2045,
     "aspect_diff": 0.7461
    },
    {
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-3.svg",
     "problems": [
-     "shape disagrees with reference: 63.042% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 62.693% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (254.59%)"
     ],
-    "beyond_pct": 63.0421,
+    "full_logo": true,
+    "beyond_pct": 62.6929,
     "aspect_diff": 2.5459
    },
    {
     "master": "website/logo-3.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 65.231% of artwork beyond 0.19% of width",
+     "shape disagrees with reference: 65.073% of artwork beyond 0.19% of width",
      "aspect ratio disagrees with reference (71.94%)"
     ],
-    "beyond_pct": 65.231,
+    "full_logo": true,
+    "beyond_pct": 65.0727,
     "aspect_diff": 0.7194
    },
    {
     "master": "website/logo-3.svg",
     "reference": "brandfetch/logo-dark.svg",
     "problems": [
-     "shape disagrees with reference: 65.269% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 65.163% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (71.80%)"
     ],
-    "beyond_pct": 65.2685,
+    "full_logo": true,
+    "beyond_pct": 65.1629,
     "aspect_diff": 0.718
    }
   ],
@@ -7212,22 +7505,28 @@
     "file": "website/logo-1.svg",
     "origin": "website",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.png",
     "origin": "brandfetch",
     "kind": "raster",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    },
    {
     "file": "brandfetch/logo-dark.svg",
     "origin": "brandfetch",
     "kind": "svg",
+    "role": "logo",
     "historical": false,
-    "flags": []
+    "flags": [],
+    "reversed": false
    }
   ],
   "pairs": [
@@ -7235,31 +7534,34 @@
     "master": "brandfetch/logo-dark.svg",
     "reference": "website/logo-1.svg",
     "problems": [
-     "shape disagrees with reference: 44.465% of artwork beyond 0.15% of width",
+     "shape disagrees with reference: 33.644% of artwork beyond 0.15% of width",
      "aspect ratio disagrees with reference (33.06%)"
     ],
-    "beyond_pct": 44.4651,
+    "full_logo": true,
+    "beyond_pct": 33.6438,
     "aspect_diff": 0.3306
-   },
-   {
-    "master": "website/logo-1.svg",
-    "reference": "brandfetch/logo-dark.svg",
-    "problems": [
-     "shape disagrees with reference: 45.462% of artwork beyond 0.15% of width",
-     "aspect ratio disagrees with reference (24.85%)"
-    ],
-    "beyond_pct": 45.4624,
-    "aspect_diff": 0.2485
    },
    {
     "master": "website/logo-1.svg",
     "reference": "brandfetch/logo-dark.png",
     "problems": [
-     "shape disagrees with reference: 45.474% of artwork beyond 0.18% of width",
+     "shape disagrees with reference: 35.044% of artwork beyond 0.18% of width",
      "aspect ratio disagrees with reference (24.24%)"
     ],
-    "beyond_pct": 45.4735,
+    "full_logo": true,
+    "beyond_pct": 35.0444,
     "aspect_diff": 0.2424
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 35.597% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (24.85%)"
+    ],
+    "full_logo": true,
+    "beyond_pct": 35.5971,
+    "aspect_diff": 0.2485
    }
   ],
   "proposal": null,

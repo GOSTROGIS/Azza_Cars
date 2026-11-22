@@ -10,7 +10,7 @@
   "agreement_max_outlier_pct": 0.01,
   "agreement_max_aspect_diff": 0.01,
   "max_flat_colors": 12,
-  "reversed_min_luminance": 0.8
+  "reversed_min_invisible_edge": 0.3
  },
  "flags": [],
  "fidelity": {
@@ -23,6 +23,7 @@
   "aspect_diff": 0.0,
   "max_channel_diff": 0,
   "pixels_changed_pct": 0.0,
+  "reversed_master": false,
   "colors_master": {
    "#000000": 0.9832
   },
@@ -40,13 +41,14 @@
   "#ffffff"
  ],
  "agreement": {
-  "max_deviation_px": 2,
+  "max_deviation_px": 3,
   "pixels_beyond_tolerance_pct": 0.0,
   "tolerance_px": 4,
-  "iou": 0.9732,
+  "iou": 0.9715,
   "aspect_a": 7.3071,
   "aspect_b": 7.2811,
   "aspect_diff": 0.0036,
+  "shape_basis": "appearance on white",
   "tolerance_frac_of_width": 0.0015,
   "reference_native_width_px": null,
   "colors_reference": {

@@ -1,0 +1,99 @@
+{
+ "slug": "bmw",
+ "master": "commons/BMW_logo_(gray).svg",
+ "reference": "brandfetch/logo-dark.png",
+ "note": "reviewed proposal",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_invisible_edge": 0.3
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 1,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 1.0,
+  "aspect_b": 1.0,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 255,
+  "pixels_changed_pct": 0.0202,
+  "reversed_master": false,
+  "colors_master": {
+   "#0166b1": 0.3366,
+   "#6f6f6f": 0.3554,
+   "#ffffff": 0.3004
+  },
+  "colors_rebuilt": {
+   "#0166b1": 0.3366,
+   "#6f6f6f": 0.3554,
+   "#ffffff": 0.3004
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#0166b1",
+  "#6f6f6f",
+  "#ffffff"
+ ],
+ "brandfetch_palette": [
+  "#1b69d4",
+  "#262626",
+  "#ffffff"
+ ],
+ "agreement": {
+  "max_deviation_px": 15,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 17,
+  "iou": 0.9307,
+  "aspect_a": 1.0,
+  "aspect_b": 1.0,
+  "aspect_diff": 0.0,
+  "shape_basis": "appearance on white",
+  "tolerance_frac_of_width": 0.00789,
+  "reference_native_width_px": 190,
+  "colors_reference": {
+   "#0066b2": 0.006,
+   "#0067b2": 0.0111,
+   "#0067b3": 0.1163,
+   "#0067b4": 0.0068,
+   "#0068b4": 0.0023,
+   "#0068b5": 0.0076,
+   "#0068b6": 0.0095,
+   "#0166b0": 0.0021,
+   "#0166b1": 0.1778,
+   "#0166b2": 0.0118,
+   "#0167b2": 0.0031,
+   "#0266af": 0.0021,
+   "#707070": 0.1001,
+   "#70716e": 0.0045,
+   "#717171": 0.0192,
+   "#727272": 0.0155,
+   "#737373": 0.0129,
+   "#747474": 0.0105,
+   "#757575": 0.0086,
+   "#767676": 0.0072,
+   "#777777": 0.0053,
+   "#787878": 0.0037,
+   "#797979": 0.0028,
+   "#7a7a7a": 0.002
+  }
+ },
+ "color_audit": {
+  "#0166b1": [
+   "reference render"
+  ],
+  "#6f6f6f": [],
+  "#ffffff": [
+   "brandfetch palette"
+  ]
+ },
+ "result": "flagged",
+ "reasons": [
+  "fill colours not found in an independent source: #6f6f6f"
+ ]
+}

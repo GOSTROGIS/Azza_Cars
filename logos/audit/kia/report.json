@@ -1,0 +1,63 @@
+{
+ "slug": "kia",
+ "master": "brandfetch/logo-dark.svg",
+ "reference": "website/logo-1.svg",
+ "note": "reviewed proposal",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_invisible_edge": 0.3
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 0,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 4.2402,
+  "aspect_b": 4.2402,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 0,
+  "pixels_changed_pct": 0.0,
+  "reversed_master": false,
+  "colors_master": {
+   "#05141f": 0.9927
+  },
+  "colors_rebuilt": {
+   "#05141f": 0.9927
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#05141f"
+ ],
+ "brandfetch_palette": [
+  "#05141f",
+  "#ffffff"
+ ],
+ "agreement": {
+  "max_deviation_px": ">4",
+  "pixels_beyond_tolerance_pct": 0.0002,
+  "tolerance_px": 4,
+  "iou": 0.9839,
+  "aspect_a": 4.2536,
+  "aspect_b": 4.2231,
+  "aspect_diff": 0.0072,
+  "shape_basis": "silhouette",
+  "tolerance_frac_of_width": 0.0015,
+  "reference_native_width_px": null,
+  "colors_reference": {
+   "#ffffff": 0.9767
+  }
+ },
+ "color_audit": {
+  "#05141f": []
+ },
+ "result": "flagged",
+ "reasons": [
+  "fill colours not found in an independent source: #05141f"
+ ]
+}

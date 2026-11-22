@@ -50,7 +50,7 @@ PASS = {                 # thresholds a rebuild must meet to ship
     "agreement_max_outlier_pct": 0.01,      # share of artwork pixels allowed beyond that tolerance
     "agreement_max_aspect_diff": 0.01,      # relative difference in width/height ratio
     "max_flat_colors": 12,                  # more painted colours than this means gradients or shading
-    "reversed_min_luminance": 0.8,          # artwork painted only in colours this light is a light-on-dark variant
+    "reversed_min_invisible_edge": 0.3,     # if this share of the artwork's edge vanishes on white, it is a dark-background variant
 }
 COLOR_ATTRS = ("fill", "stroke", "stop-color", "color", "flood-color", "lighting-color")
 HEX = re.compile(r"#[0-9a-fA-F]{6}\b|#[0-9a-fA-F]{3}\b")
@@ -128,7 +128,21 @@ def checkerboard(size, square=12, dark=False):
 
 
 def is_reversed_image(img):
-    return img is not None and is_reversed(rendered_colors(img))
+    """True for a variant made for dark backgrounds: much of its edge would vanish on a white page.
+
+    The edge is every artwork pixel next to a non-artwork pixel (outer outline and holes such as
+    letter counters). "Vanishes on white" is the same test the agreement check uses
+    (on_white_mask), so the two can never disagree about what is visible. Light areas enclosed
+    by darker artwork, like the white text in Peterbilt's oval, are not on the edge.
+    """
+    if img is None:
+        return False
+    art = artwork_mask(img)
+    edge = art & dilate(~art)
+    if not edge.any():
+        return False
+    invisible = edge & ~on_white_mask(img)
+    return float(invisible.sum() / edge.sum()) >= PASS["reversed_min_invisible_edge"]
 
 
 def backdrop_for(img, size, square=12):
@@ -142,8 +156,12 @@ def artwork_mask(img):
     if a[..., 3].min() < 250:
         return a[..., 3] >= FG_ALPHA
     border = np.concatenate([a[0, :, :3], a[-1, :, :3], a[:, 0, :3], a[:, -1, :3]])
-    bg = np.median(border, axis=0)
-    return np.linalg.norm(a[..., :3].astype(float) - bg, axis=2) > BG_DISTANCE
+    return differs_from(a[..., :3], np.median(border, axis=0))
+
+
+def differs_from(rgb, background):
+    """Pixels whose colour is more than BG_DISTANCE away from the background colour."""
+    return np.linalg.norm(np.asarray(rgb, dtype=float) - background, axis=2) > BG_DISTANCE
 
 
 def crop_to_artwork(img):
@@ -238,13 +256,19 @@ def deviation_map(ma, mb, max_px=16):
     return dist
 
 
-def compare(a, b, tolerance):
-    """Shape and colour comparison of two artwork crops rendered at the same scale."""
+def on_white_mask(img):
+    """Pixels that would be visible on a white page: white areas count the same as transparent ones."""
+    on_white = Image.alpha_composite(Image.new("RGBA", img.size, "white"), img.convert("RGBA"))
+    return differs_from(np.asarray(on_white)[..., :3], 255)
+
+
+def compare(a, b, tolerance, mask=artwork_mask):
+    """Shape comparison of two artwork crops rendered at the same scale, using the given mask."""
     aspect_a, aspect_b = a.width / a.height, b.width / b.height
     if b.size != a.size:
         b = b.resize(a.size, Image.LANCZOS)
-    ma, mb = artwork_mask(a), artwork_mask(b)
-    dist = deviation_map(ma, mb)
+    ma, mb = mask(a), mask(b)
+    dist = deviation_map(ma, mb, max_px=tolerance + 1)  # measure past the tolerance, so "too far" is always counted
     mism = dist > 0
     art = max(int((ma | mb).sum()), 1)
     beyond = dist > tolerance
@@ -252,7 +276,8 @@ def compare(a, b, tolerance):
     heat[ma | mb] = (0, 0, 0, 40)        # faint outline of the artwork for orientation
     heat[mism] = (255, 170, 0, 255)
     heat[beyond] = (220, 0, 0, 255)
-    return {"max_deviation_px": int(dist.max()),
+    worst = int(dist.max())
+    return {"max_deviation_px": worst if worst <= tolerance else ">%d" % tolerance,
             "pixels_beyond_tolerance_pct": round(100 * float(beyond.sum()) / art, 4),
             "tolerance_px": tolerance,
             "iou": round(float((ma & mb).sum()) / art, 4),
@@ -260,25 +285,24 @@ def compare(a, b, tolerance):
             "aspect_diff": round(abs(aspect_a - aspect_b) / aspect_b, 4)}, Image.fromarray(heat), b
 
 
-def is_reversed(colors):
-    """True when every painted colour is very light: a white/light variant meant for dark backgrounds."""
-    def lum(hexcol):
-        r, g, b = (int(hexcol[i:i + 2], 16) / 255 for i in (1, 3, 5))
-        return 0.2126 * r + 0.7152 * g + 0.0722 * b
-    return bool(colors) and all(lum(c) >= PASS["reversed_min_luminance"] for c in colors)
-
-
 def agreement_verdict(rebuilt_art, ref_art, ref_native_w=None):
     """Compare a rebuild with an independent reference, both cropped to artwork at the same width.
 
     Tolerances are fractions of the artwork width, so the verdict is the same at any
-    render size. Returns (metrics, problems, deviation heat map, scaled reference).
+    render size. The comparison basis follows from the reference: against a reversed
+    (white) reference only the silhouette can be compared, otherwise both are compared
+    as they look on a white page, which also treats painted white and transparent alike.
+    Returns (metrics, problems, deviation heat map, scaled reference).
     """
     tol_frac = PASS["agreement_tolerance_frac"]
     if ref_native_w:
         tol_frac = max(tol_frac, PASS["agreement_raster_px"] / ref_native_w)
     tol = max(1, int(np.ceil(tol_frac * rebuilt_art.width)))
-    metrics, heat, ref_scaled = compare(rebuilt_art, ref_art, tol)
+    # a reversed reference can only confirm the silhouette, a positive one is compared as it looks on a white page
+    basis, mask = (("silhouette", artwork_mask) if is_reversed_image(ref_art)
+                   else ("appearance on white", on_white_mask))
+    metrics, heat, ref_scaled = compare(rebuilt_art, ref_art, tol, mask)
+    metrics["shape_basis"] = basis
     metrics["tolerance_frac_of_width"] = round(tol_frac, 5)
     metrics["reference_native_width_px"] = ref_native_w
     problems = []
@@ -370,6 +394,7 @@ def audit(row, palette):
     report["fidelity"]["pixels_changed_pct"] = round(100 * float((diff > 0).mean()), 4)
     # rebuilt's viewBox is the artwork box, so these renders already show the artwork at ART_W
     master_art, rebuilt_art = crop_to_artwork(master_full)[0], crop_to_artwork(rebuilt_full)[0]
+    reversed_master = report["fidelity"]["reversed_master"] = is_reversed_image(master_art)
     report["fidelity"]["colors_master"] = rendered_colors(master_art)
     report["fidelity"]["colors_rebuilt"] = rendered_colors(rebuilt_art)
     rebuilt_full.resize((RENDER_W, round(rebuilt_full.height * RENDER_W / rebuilt_full.width)),
@@ -378,8 +403,7 @@ def audit(row, palette):
     # 2. agreement with an independent reference
     report["declared_colors_rebuilt"] = svg_colors(rebuilt)
     report["brandfetch_palette"] = sorted({c["hex"].lower() for c in palette})
-    panels = [("master (source)", master_art, is_reversed(report["fidelity"]["colors_master"])),
-              ("rebuilt", rebuilt_art, is_reversed(report["fidelity"]["colors_rebuilt"]))]
+    panels = [("master (source)", master_art, reversed_master), ("rebuilt", rebuilt_art, reversed_master)]
     ref_colors, agreement_problems = {}, ["no independent reference"]
     report["agreement"] = None
     if ref_path and not independent(row["master"], row["reference"]):
@@ -392,7 +416,7 @@ def audit(row, palette):
             report["agreement"], agreement_problems, heat, ref_scaled = agreement_verdict(rebuilt_art, ref_art, native)
             ref_colors = report["agreement"]["colors_reference"] = rendered_colors(ref_scaled)
             heat.save(out_dir / "shape_diff.png")
-            panels += [("reference (independent)", ref_scaled, is_reversed(ref_colors)),
+            panels += [("reference (independent)", ref_scaled, is_reversed_image(ref_scaled)),
                        ("deviation: orange within tol, red beyond", heat, False)]
 
     # 3. colour audit on the rendered fills of the rebuild
@@ -405,13 +429,13 @@ def audit(row, palette):
 
     fails = []
     fid = report["fidelity"]
-    if fid["max_deviation_px"] > PASS["fidelity_max_deviation_px"]:
-        fails.append("rebuild moves edges by %d px vs master" % fid["max_deviation_px"])
+    if fid["pixels_beyond_tolerance_pct"] > 0:
+        fails.append("rebuild moves edges by %s px vs master" % fid["max_deviation_px"])
     if set(fid["colors_master"]) != set(painted):
         fails.append("rebuild changed the fill colours")
     ag = report["agreement"]
     fails += agreement_problems
-    if is_reversed(painted):
+    if reversed_master:
         fails.append("master is a reversed (light-on-dark) variant, not the primary logo")
     if len(painted) > PASS["max_flat_colors"]:
         fails.append("%d flat colours: gradient or shading, needs manual colour review" % len(painted))
@@ -423,7 +447,7 @@ def audit(row, palette):
     report["reasons"] = fails
 
     lines = ["%s: %s" % (slug, report["result"].upper())] + ["- " + f for f in fails] + [
-        "fidelity (master vs rebuild): max edge shift %d px at %d px artwork width"
+        "fidelity (master vs rebuild): max edge shift %s px at %d px artwork width"
         % (fid["max_deviation_px"], ART_W),
         "agreement (rebuild vs reference): %s" % ("none" if not ag else json.dumps(
             {k: v for k, v in ag.items() if k != "colors_reference"})),
