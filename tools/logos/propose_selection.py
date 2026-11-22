@@ -117,10 +117,13 @@ def accept(slugs):
             print("%s has no proposal. Add it to selection.csv by hand after review." % s)
             continue
         rows[s] = {"slug": s, "master": p["master"], "reference": p["reference"], "note": "reviewed proposal"}
-    with open(SELECTION, "w", newline="", encoding="utf-8") as f:
+    # write to a temporary file and rename, so a failure can never leave selection.csv truncated
+    tmp = SELECTION.with_suffix(".csv.tmp")
+    with open(tmp, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["slug", "master", "reference", "note"])
         w.writeheader()
         w.writerows(sorted(rows.values(), key=lambda r: r["slug"]))
+    tmp.replace(SELECTION)
 
 
 def main(args):

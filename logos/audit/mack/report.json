@@ -1,0 +1,111 @@
+{
+ "slug": "mack",
+ "master": "website/logo-1.svg",
+ "reference": "brandfetch/logo-dark.png",
+ "note": "reviewed: closest pair, sources disagree, see audit sheet",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_invisible_edge": 0.3,
+  "color_note_max_delta_e": 2.0
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 1,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 0.9386,
+  "aspect_b": 0.9386,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 16,
+  "pixels_changed_pct": 0.0006,
+  "reversed_master": false,
+  "colors_master": {
+   "#000000": 0.9925
+  },
+  "colors_rebuilt": {
+   "#000000": 0.9925
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#000000"
+ ],
+ "brandfetch_palette": [
+  "#141414",
+  "#6f542a",
+  "#e1c18f"
+ ],
+ "agreement": {
+  "max_deviation_px": ">21",
+  "pixels_beyond_tolerance_pct": 1.2089,
+  "tolerance_px": 21,
+  "iou": 0.854,
+  "aspect_a": 0.9385,
+  "aspect_b": 0.9499,
+  "aspect_diff": 0.012,
+  "shape_basis": "appearance on white",
+  "tolerance_frac_of_width": 0.00987,
+  "reference_native_width_px": 152,
+  "aspect_tolerance": 0.0192,
+  "colors_reference": {
+   "#1a1617": 0.0024,
+   "#1b1718": 0.0032,
+   "#1c1819": 0.0047,
+   "#1d191a": 0.0061,
+   "#1e1a1b": 0.0081,
+   "#1f1a1b": 0.0021,
+   "#1f1b1c": 0.0109,
+   "#201c1d": 0.012,
+   "#211c1d": 0.0021,
+   "#211d1e": 0.0138,
+   "#211e1f": 0.0022,
+   "#221d1e": 0.0021,
+   "#221e1f": 0.0189,
+   "#221f20": 0.0021,
+   "#231f20": 0.4882,
+   "#232021": 0.003,
+   "#242021": 0.0452,
+   "#242122": 0.0031,
+   "#252122": 0.0235,
+   "#252223": 0.0032,
+   "#262223": 0.0114,
+   "#262324": 0.0028,
+   "#272324": 0.0053,
+   "#f0f0f0": 0.002,
+   "#f3f3f3": 0.0022,
+   "#f4f4f4": 0.0026,
+   "#f5f5f5": 0.0025,
+   "#f6f6f6": 0.0027,
+   "#f7f7f7": 0.0029,
+   "#f8f8f8": 0.0035,
+   "#f9f9f9": 0.0038,
+   "#fafafa": 0.0044,
+   "#fbfbfb": 0.0061,
+   "#fcfcfc": 0.0097,
+   "#fdfdfd": 0.0243,
+   "#fefefe": 0.0628,
+   "#ffffff": 1.5711
+  }
+ },
+ "color_audit": {
+  "#000000": []
+ },
+ "color_near_matches": {
+  "#000000": {
+   "nearest": "#141414",
+   "source": "brandfetch palette",
+   "delta_e_2000": 3.718
+  }
+ },
+ "notes": [],
+ "result": "flagged",
+ "reasons": [
+  "shape disagrees with reference: 1.209% of artwork beyond 0.99% of width",
+  "fill colours not confirmed by an independent source: #000000 (nearest dE00 3.72 to #141414)"
+ ]
+}

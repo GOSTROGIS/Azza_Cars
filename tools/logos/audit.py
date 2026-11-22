@@ -156,12 +156,18 @@ def backdrop_for(img, size, square=12):
 
 
 def artwork_mask(img):
-    """Boolean mask of artwork pixels. Opaque rasters use distance from the border colour."""
+    """Boolean mask of artwork pixels.
+
+    When the image border is mostly opaque, the file has a solid background (an opaque
+    raster, or an SVG with a full-size background rectangle), and artwork is whatever differs
+    from the border colour. Otherwise artwork is what has alpha. Judging by the border rather
+    than by the single most transparent pixel keeps one anti-aliased edge from flipping the mode.
+    """
     a = np.asarray(img)
-    if a[..., 3].min() < 250:
+    border = np.concatenate([a[0], a[-1], a[:, 0], a[:, -1]])
+    if np.median(border[:, 3]) < 250:
         return a[..., 3] >= FG_ALPHA
-    border = np.concatenate([a[0, :, :3], a[-1, :, :3], a[:, 0, :3], a[:, -1, :3]])
-    return differs_from(a[..., :3], np.median(border, axis=0))
+    return differs_from(a[..., :3], np.median(border[:, :3], axis=0))
 
 
 def differs_from(rgb, background):
@@ -299,9 +305,12 @@ def agreement_verdict(rebuilt_art, ref_art, ref_native_w=None):
     as they look on a white page, which also treats painted white and transparent alike.
     Returns (metrics, problems, deviation heat map, scaled reference).
     """
-    tol_frac = PASS["agreement_tolerance_frac"]
+    # a raster can only pin its shape, width and height to about one of its own pixels
+    tol_frac, aspect_tol = PASS["agreement_tolerance_frac"], PASS["agreement_max_aspect_diff"]
     if ref_native_w:
+        ref_native_h = ref_native_w * ref_art.height / ref_art.width
         tol_frac = max(tol_frac, PASS["agreement_raster_px"] / ref_native_w)
+        aspect_tol = max(aspect_tol, PASS["agreement_raster_px"] * (1 / ref_native_w + 1 / ref_native_h))
     tol = max(1, int(np.ceil(tol_frac * rebuilt_art.width)))
     # a reversed reference can only confirm the silhouette, a positive one is compared as it looks on a white page
     basis, mask = (("silhouette", artwork_mask) if is_reversed_image(ref_art)
@@ -314,8 +323,10 @@ def agreement_verdict(rebuilt_art, ref_art, ref_native_w=None):
     if metrics["pixels_beyond_tolerance_pct"] > PASS["agreement_max_outlier_pct"]:
         problems.append("shape disagrees with reference: %.3f%% of artwork beyond %.2f%% of width"
                         % (metrics["pixels_beyond_tolerance_pct"], 100 * tol_frac))
-    if metrics["aspect_diff"] > PASS["agreement_max_aspect_diff"]:
-        problems.append("aspect ratio disagrees with reference (%.2f%%)" % (100 * metrics["aspect_diff"]))
+    metrics["aspect_tolerance"] = round(aspect_tol, 4)
+    if metrics["aspect_diff"] > aspect_tol:
+        problems.append("aspect ratio disagrees with reference (%.2f%%, tolerance %.2f%%)"
+                        % (100 * metrics["aspect_diff"], 100 * aspect_tol))
     return metrics, problems, heat, ref_scaled
 
 

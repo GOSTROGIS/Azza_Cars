@@ -1,0 +1,77 @@
+{
+ "slug": "dina",
+ "master": "website/logo-4.svg",
+ "reference": "brandfetch/logo-dark.png",
+ "note": "reviewed: closest pair, sources disagree, see audit sheet",
+ "thresholds": {
+  "fidelity_max_deviation_px": 1,
+  "agreement_tolerance_frac": 0.0015,
+  "agreement_raster_px": 1.5,
+  "agreement_max_outlier_pct": 0.01,
+  "agreement_max_aspect_diff": 0.01,
+  "max_flat_colors": 12,
+  "reversed_min_invisible_edge": 0.3,
+  "color_note_max_delta_e": 2.0
+ },
+ "flags": [],
+ "fidelity": {
+  "max_deviation_px": 0,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 1,
+  "iou": 1.0,
+  "aspect_a": 3.9767,
+  "aspect_b": 3.9767,
+  "aspect_diff": 0.0,
+  "max_channel_diff": 0,
+  "pixels_changed_pct": 0.0,
+  "reversed_master": false,
+  "colors_master": {
+   "#e13b2f": 0.9942
+  },
+  "colors_rebuilt": {
+   "#e13b2f": 0.9942
+  }
+ },
+ "declared_colors_rebuilt": [
+  "#e13b2f"
+ ],
+ "brandfetch_palette": [
+  "#892a23",
+  "#e63c2f",
+  "#fb6962"
+ ],
+ "agreement": {
+  "max_deviation_px": 2,
+  "pixels_beyond_tolerance_pct": 0.0,
+  "tolerance_px": 4,
+  "iou": 0.9932,
+  "aspect_a": 4.0,
+  "aspect_b": 3.9309,
+  "aspect_diff": 0.0176,
+  "shape_basis": "appearance on white",
+  "tolerance_frac_of_width": 0.00185,
+  "reference_native_width_px": 810,
+  "aspect_tolerance": 0.01,
+  "colors_reference": {
+   "#e53c2f": 0.002,
+   "#e63c2f": 0.9274
+  }
+ },
+ "color_audit": {
+  "#e13b2f": []
+ },
+ "color_near_matches": {
+  "#e13b2f": {
+   "nearest": "#e53c2f",
+   "source": "reference render",
+   "delta_e_2000": 0.928
+  }
+ },
+ "notes": [
+  "colour not 100% verified: #e13b2f matches #e53c2f (reference render) only to CIEDE2000 0.93, not exactly"
+ ],
+ "result": "flagged",
+ "reasons": [
+  "aspect ratio disagrees with reference (1.76%, tolerance 1.00%)"
+ ]
+}
