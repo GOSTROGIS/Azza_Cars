@@ -46,5 +46,49 @@
     "retrieved_utc": "2026-11-22T20:01:35Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://koenigsegg.com",
+  "retrieved_utc": "2026-11-22T20:13:02.335Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     159,
+     40
+    ],
+    "sha256": "59a7302211ba4442d5125b98292a3fb24d94bc1f7ababe4a23521537350dd362",
+    "bytes": 6812
+   },
+   {
+    "saved_as": "website/logo-2.jpg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://koenigsegg-cdn-g7eehhd6f0ewcaff.z02.azurefd.net/drupal/styles/1920x1400/azure/2026-08/KG15-27%20copy.jpeg",
+    "displayed_px": [
+     1584,
+     990
+    ],
+    "sha256": "2a2df8bbae8d18740c7ffff220b8e963fd8fe0fc5f9d87d6c00cb2f81ac794bc",
+    "bytes": 572731
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://koenigsegg-cdn-g7eehhd6f0ewcaff.z02.azurefd.net/drupal/2026-08/CCGT1_250917_FINAL_0.svg",
+    "displayed_px": [
+     253,
+     70
+    ],
+    "sha256": "602f23f527ba93ee14bac81e9a968182c77c4695f14726185c2be8b6fbc86287",
+    "bytes": 2026
+   }
+  ],
+  "page_final": "https://www.koenigsegg.com/",
+  "http_status": 200
  }
 }

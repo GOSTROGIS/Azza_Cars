@@ -9,7 +9,11 @@
     "start": null,
     "end": null,
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/ALFA_ROMEO_badge_on_a_car_%28cropped%29.jpg",
-    "error": "HTTP 429"
+    "saved_as": "commons/ALFA_ROMEO_badge_on_a_car_(cropped).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:ALFA_ROMEO_badge_on_a_car_%28cropped%29.jpg",
+    "sha256": "dd6db07da7b468b848c0f8e00a93124089a38993c579379873b4aea94f0b78aa",
+    "bytes": 2721882,
+    "retrieved_utc": "2026-11-22T20:12:22Z"
    }
   ]
  },
@@ -44,12 +48,5 @@
     "retrieved_utc": "2026-11-22T20:01:08Z"
    }
   ]
- },
- "website": {
-  "page_requested": "https://alfaromeo.com",
-  "retrieved_utc": "2026-11-22T20:10:58.458Z",
-  "files": [],
-  "page_final": "https://alfaromeo.com/",
-  "http_status": 502
  }
 }

@@ -100,5 +100,61 @@
     "retrieved_utc": "2026-11-22T20:01:27Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://hyundai.com",
+  "retrieved_utc": "2026-11-22T20:12:29.619Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     34,
+     18
+    ],
+    "sha256": "0c94303b90e5101076a4ad2a6da2d1699b63fc71e77c8c87b7f3ec46057ef1f5",
+    "bytes": 3061
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     28,
+     18
+    ],
+    "sha256": "8d66e693b478a87aac892f28105fe0dc319771cb6892ef81926d64ae30f977b3",
+    "bytes": 1318
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     66,
+     18
+    ],
+    "sha256": "64cc7e69613b93ef94eb08d078ec8cf7ef598be4f2d9d0c3f4c7a3bcd29b1d21",
+    "bytes": 3120
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     26,
+     16
+    ],
+    "sha256": "622683cf15f6838715ec4114757a72782a1c96870efe916f3623001a17617c8c",
+    "bytes": 390
+   }
+  ],
+  "page_final": "https://www.hyundaiusa.com/us/en",
+  "http_status": 200
  }
 }

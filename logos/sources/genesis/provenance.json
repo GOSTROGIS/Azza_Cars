@@ -30,5 +30,61 @@
     "retrieved_utc": "2026-11-22T20:01:25Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://genesis.com",
+  "retrieved_utc": "2026-11-22T20:12:12.803Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.webp",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://s7d1.scene7.com/is/image/hyundai/2027-gv60-pst-awd-tromsogreen-obsidianblackmonotone-frontdrvrangle-studio-gnav:16-9?wid=700&hei=394&fmt=webp",
+    "displayed_px": [
+     296,
+     167
+    ],
+    "sha256": "c537f524f3981bc4a46d68537beb25946d1213bea8823bbcaa566a0757cbf6c7",
+    "bytes": 12346
+   },
+   {
+    "saved_as": "website/logo-2.webp",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://s7d1.scene7.com/is/image/hyundai/2027-gv60-pst-awd-tromsogreen-obsidianblackmonotone-profilepass-studio-gnav:16-9?wid=700&hei=394&fmt=webp",
+    "displayed_px": [
+     296,
+     167
+    ],
+    "sha256": "174566eed9c3d6f116b5ebecd9793f854157fc4a30743e5f7df575bc7a6efb65",
+    "bytes": 14236
+   },
+   {
+    "saved_as": "website/logo-3.webp",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://s7d1.scene7.com/is/image/hyundai/my27-gv60-magma-gnav-drvrangle:16-9?wid=700&hei=394&fmt=webp",
+    "displayed_px": [
+     296,
+     167
+    ],
+    "sha256": "b58126abe2358a748f533c87db677c32a3777cb54da9dcf1bb303807cace55bb",
+    "bytes": 14136
+   },
+   {
+    "saved_as": "website/logo-4.webp",
+    "kind": "img",
+    "selector": "header img",
+    "src": "https://s7d1.scene7.com/is/image/hyundai/my27-gv60-magma-gnav-drvrpro:16-9?wid=700&hei=394&fmt=webp",
+    "displayed_px": [
+     296,
+     167
+    ],
+    "sha256": "4e1808b14a1f65187222ecf20c2acd01f5997ff50654ec291eecd818baffdd3e",
+    "bytes": 15384
+   }
+  ],
+  "page_final": "https://www.genesis.com/us/en/home",
+  "http_status": 200
  }
 }

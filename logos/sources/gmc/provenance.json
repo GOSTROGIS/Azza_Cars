@@ -30,5 +30,12 @@
     "retrieved_utc": "2026-11-22T20:01:25Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://gmc.com",
+  "retrieved_utc": "2026-11-22T20:12:20.420Z",
+  "files": [],
+  "page_final": "https://www.gmc.com/",
+  "http_status": 403
  }
 }

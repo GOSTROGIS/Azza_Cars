@@ -60,5 +60,12 @@
     "retrieved_utc": "2026-11-22T20:01:20Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://ferrari.com",
+  "retrieved_utc": "2026-11-22T20:11:57.428Z",
+  "files": [],
+  "page_final": "https://www.ferrari.com/",
+  "http_status": 202
  }
 }

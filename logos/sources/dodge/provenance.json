@@ -40,5 +40,12 @@
     "retrieved_utc": "2026-11-22T20:01:20Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://dodge.com",
+  "retrieved_utc": "2026-11-22T20:11:52.765Z",
+  "files": [],
+  "page_final": "https://www.dodge.com/",
+  "http_status": 403
  }
 }

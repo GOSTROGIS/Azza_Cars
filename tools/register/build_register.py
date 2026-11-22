@@ -26,7 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 REG = ROOT / "register"
 SRC = REG / "sources"
-UA = "AzzaCarsLogoAudit/0.1 (brand-register provenance; python-urllib)"
+UA = "AzzaCarsLogoAudit/0.1 (https://github.com/GOSTROGIS/Azza_Cars) python-urllib"
 VPIC_ALL = "https://vpic.nhtsa.dot.gov/api/vehicles/GetAllMakes?format=json"
 INEGI_ZIP = ("https://www.inegi.org.mx/contenidos/investigacion/datosprimarios/raiavl/"
              "datosabiertos/conjunto_de_datos_raiavl_mensual_venta_csv.zip")

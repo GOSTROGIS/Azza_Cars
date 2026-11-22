@@ -60,5 +60,12 @@
     "retrieved_utc": "2026-11-22T20:01:22Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://ford.com",
+  "retrieved_utc": "2026-11-22T20:12:08.140Z",
+  "files": [],
+  "page_final": "https://www.ford.com/",
+  "http_status": 403
  }
 }

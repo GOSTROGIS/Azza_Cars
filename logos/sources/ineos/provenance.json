@@ -1,0 +1,22 @@
+{
+ "website": {
+  "page_requested": "https://www.ineos.com",
+  "retrieved_utc": "2026-11-22T20:12:45.435Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.ineos.com/contentassets/416ec8a86e714e04870994301eb7dcb9/new-ineos-logo-2024.svg",
+    "displayed_px": [
+     158,
+     40
+    ],
+    "sha256": "bf3bdc94029e0ff1edb9683ede4c5561fb0dc2d8ecd443a293c08625aad85c5d",
+    "bytes": 1985
+   }
+  ],
+  "page_final": "https://www.ineos.com/",
+  "http_status": 200
+ }
+}

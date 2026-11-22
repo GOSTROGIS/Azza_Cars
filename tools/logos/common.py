@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 SOURCES = ROOT / "logos" / "sources"
-UA = "AzzaCarsLogoAudit/0.1 (logo provenance; python-urllib)"
+UA = "AzzaCarsLogoAudit/0.1 (https://github.com/GOSTROGIS/Azza_Cars) python-urllib"
 ORIGINS = ("website", "brandfetch", "commons")   # also the order of preference for a master
 RASTER = {".png", ".jpg", ".jpeg", ".webp"}
 

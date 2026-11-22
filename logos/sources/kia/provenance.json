@@ -56,5 +56,25 @@
     "retrieved_utc": "2026-11-22T20:01:34Z"
    }
   ]
+ },
+ "website": {
+  "page_requested": "https://kia.com",
+  "retrieved_utc": "2026-11-22T20:12:55.821Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     62,
+     31
+    ],
+    "sha256": "731ef13d3a2b4636cac94f7d97dd9b8cc53e213732fe4d6bffea90c59b04389c",
+    "bytes": 1782
+   }
+  ],
+  "page_final": "https://www.kia.com/us/en",
+  "http_status": 200
  }
 }
