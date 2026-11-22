@@ -1,0 +1,311 @@
+{
+  "retrieved": "2026-11-22",
+  "tool": "mcp__GoDaddy__domains_check_availability",
+  "searchKeywords": "flaredrive.com, flaredrive.ca, forgedrive.com, forgedrive.ca, kineticrent.com, kineticrent.ca, pacerdrive.com, pacerdrive.ca, stridedrive.com, stridedrive.ca, kestrelrentals.com, kestrelrentals.ca, tandemdrive.com, tandemdrive.ca, rovecars.com, rovecars.ca, emberrentals.com, emberrentals.ca, flintrentals.com, flintrentals.ca, kilndrive.com, kilndrive.ca, cinderrentals.com, cinderrentals.ca, keyhanddrive.com, keyhanddrive.ca, kiln.ca, keyhand.co, emberdrive.co, flintdrive.co",
+  "results": [
+    {
+      "searchedDomain": "flaredrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "flaredrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "flaredrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "flaredrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "forgedrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "forgedrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "forgedrive.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "kineticrent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kineticrent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kineticrent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kineticrent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "pacerdrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "pacerdrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "pacerdrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "pacerdrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "stridedrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "stridedrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "stridedrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kestrelrentals.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "kestrelrentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kestrelrentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "tandemdrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "tandemdrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "tandemdrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "rovecars.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "rovecars.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "rovecars.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "emberrentals.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "emberrentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "emberrentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "flintrentals.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "flintrentals.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "flintrentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "flintrentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kilndrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "kilndrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kilndrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "cinderrentals.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "cinderrentals.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "cinderrentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "cinderrentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "keyhanddrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "keyhanddrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "keyhanddrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "keyhanddrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kiln.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "keyhand.co",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "keyhand.co",
+        "tld": "co",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "emberdrive.co",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "emberdrive.co",
+        "tld": "co",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "flintdrive.co",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "flintdrive.co",
+        "tld": "co",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    }
+  ]
+}

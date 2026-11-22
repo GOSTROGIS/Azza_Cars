@@ -1,0 +1,54 @@
+{
+ "note": "Hashes are of the files as kept here. Times are when each file was written, which is shortly after its checks ran on 2026-11-22.",
+ "files": [
+  {
+   "file": "godaddy_batch1.tsv",
+   "bytes": 3338,
+   "sha256": "6dafadc68c9d4f8dbb50ee85d868e9e6bb8631082be8bc390eb4727d88a3e303",
+   "file_written_utc": "2026-11-22T22:37:44Z",
+   "content": "summary table derived from godaddy_batch1_raw.json"
+  },
+  {
+   "file": "godaddy_batch1_raw.json",
+   "bytes": 16707,
+   "sha256": "032a10a397885dfa0974dd7da3e775759ec66d0ba889d6561fff1e69d1cfb8a0",
+   "file_written_utc": "2026-11-22T22:42:48Z",
+   "content": "GoDaddy domains_check_availability responses, trimmed to the per-domain fields (not the full responses as received)"
+  },
+  {
+   "file": "godaddy_batch2.tsv",
+   "bytes": 908,
+   "sha256": "575d0c0bca4f2194800beb9a8bb58a4449e4a0e63135ff969163f2e6decb7c95",
+   "file_written_utc": "2026-11-22T22:38:03Z",
+   "content": "summary table derived from godaddy_batch2_raw.json"
+  },
+  {
+   "file": "godaddy_batch2_raw.json",
+   "bytes": 7189,
+   "sha256": "cc4c03afd5b4a1ecb7801b8e7446bf445f032ef9fa2e582236624e7e79774404",
+   "file_written_utc": "2026-11-22T22:42:48Z",
+   "content": "GoDaddy domains_check_availability responses, trimmed to the per-domain fields (not the full responses as received)"
+  },
+  {
+   "file": "godaddy_batch3.tsv",
+   "bytes": 296,
+   "sha256": "fbcb42a27610891fe047730a44f2d40b2f8b5687d28fdc1a7951fcd061d97843",
+   "file_written_utc": "2026-11-22T22:42:48Z",
+   "content": "summary of a third GoDaddy check whose raw response was not kept"
+  },
+  {
+   "file": "google_autocomplete.txt",
+   "bytes": 9265,
+   "sha256": "e18bbe1f6007aa19c7efdafde04d95194d83ee9dc425498456ec147fa013a924",
+   "file_written_utc": "2026-11-22T22:37:23Z",
+   "content": "Google autocomplete suggestions for rental search phrases (qualitative, no volumes)"
+  },
+  {
+   "file": "social_probe.tsv",
+   "bytes": 2607,
+   "sha256": "dec9a85ba26dcffbad41e6fb6e8dda1fc6677be45cd37f1b8122948439a7637a",
+   "file_written_utc": "2026-11-22T22:42:48Z",
+   "content": "HTTP status and page title per social profile URL (bodies not kept)"
+  }
+ ]
+}

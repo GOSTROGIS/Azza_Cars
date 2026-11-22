@@ -1,0 +1,723 @@
+{
+  "retrieved": "2026-11-22",
+  "tool": "mcp__GoDaddy__domains_check_availability",
+  "searchKeywords": "emberline.com, emberline.ca, emberdrive.com, emberdrive.ca, emberrent.com, emberrent.ca, cinderdrive.com, cinderdrive.ca, flintdrive.com, flintdrive.ca, kilnrentals.com, kilnrentals.ca, rovedrive.com, rovedrive.ca, rentrove.com, rentrove.ca, striderent.com, striderent.ca, pacerrent.com, pacerrent.ca, kestreldrive.com, kestreldrive.ca, saltway.com, saltway.ca, harbourline.com, harbourline.ca, northpace.com, northpace.ca, wayfaredrive.com, wayfaredrive.ca, vermiliondrive.com, vermiliondrive.ca, ironbarkrentals.com, ironbarkrentals.ca, keyhand.com, keyhand.ca, tandemrent.com, tandemrent.ca, drivewell.com, drivewell.ca, rentwell.com, rentwell.ca, halfmilerentals.com, halfmilerentals.ca, roadmark.com, roadmark.ca, torqrent.com, torqrent.ca, drivo.com, drivo.ca, rentora.com, rentora.ca, velorarent.com, velorarent.ca, kovadrive.com, kovadrive.ca, motivrent.com, motivrent.ca, revla.com, revla.ca, vantadrive.com, vantadrive.ca, ferrodrive.com, ferrodrive.ca, boneandcarbon.com, boneandcarbon.ca, carbonandbone.com, carbonandbone.ca, cinderrent.com, cinderrent.ca, emberfleet.com, emberfleet.ca, keyhandrentals.com, keyhandrentals.ca, northpacerentals.com, northpacerentals.ca",
+  "results": [
+    {
+      "searchedDomain": "emberline.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "emberline.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "emberdrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "emberdrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "emberdrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "emberrent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "emberrent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "emberrent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "emberrent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "cinderdrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "cinderdrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "cinderdrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "flintdrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "flintdrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "flintdrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "flintdrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kilnrentals.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kilnrentals.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kilnrentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kilnrentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "rovedrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "rovedrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "rovedrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "rovedrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "rentrove.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "rentrove.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "rentrove.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "striderent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "striderent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "striderent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "striderent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "pacerrent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "pacerrent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "pacerrent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "pacerrent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kestreldrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kestreldrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kestreldrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kestreldrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "saltway.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "saltway.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "saltway.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "harbourline.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "harbourline.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "northpace.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "northpace.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "wayfaredrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "wayfaredrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "wayfaredrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "wayfaredrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "vermiliondrive.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "vermiliondrive.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "vermiliondrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "vermiliondrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "ironbarkrentals.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "ironbarkrentals.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "ironbarkrentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "ironbarkrentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "keyhand.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "keyhand.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "keyhand.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "keyhand.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "tandemrent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "tandemrent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "tandemrent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "tandemrent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "drivewell.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "drivewell.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "drivewell.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "rentwell.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "rentwell.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "halfmilerentals.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "halfmilerentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "halfmilerentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "roadmark.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "roadmark.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "torqrent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "torqrent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "torqrent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "torqrent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "drivo.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "drivo.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "rentora.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "rentora.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "velorarent.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "velorarent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "velorarent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "kovadrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "kovadrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "kovadrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "motivrent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "motivrent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "motivrent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "motivrent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "revla.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "revla.ca",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "vantadrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "vantadrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "vantadrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "ferrodrive.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "ferrodrive.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "ferrodrive.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "boneandcarbon.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "boneandcarbon.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "boneandcarbon.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "boneandcarbon.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "carbonandbone.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "carbonandbone.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "carbonandbone.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "cinderrent.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "cinderrent.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "cinderrent.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "cinderrent.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "emberfleet.com",
+      "available": false,
+      "exact": null
+    },
+    {
+      "searchedDomain": "emberfleet.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "emberfleet.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "keyhandrentals.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "keyhandrentals.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "keyhandrentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "keyhandrentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "northpacerentals.com",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "northpacerentals.com",
+        "tld": "com",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    },
+    {
+      "searchedDomain": "northpacerentals.ca",
+      "available": true,
+      "exact": {
+        "id": "1",
+        "name": "northpacerentals.ca",
+        "tld": "ca",
+        "available": true,
+        "priceInfo": null,
+        "isExactMatch": true
+      }
+    }
+  ]
+}

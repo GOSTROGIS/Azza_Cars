@@ -1,0 +1,34 @@
+# Social handle probe 2026-11-22T22:41Z. curl -A 'Mozilla/5.0', HTTP code and <title>. Instagram 302 and Facebook 302 are login redirects and are INCONCLUSIVE. TikTok returns a generic title for every handle and is INCONCLUSIVE. X 404 'User Profile Not Found' = handle not in use (could still be reserved or suspended).
+nike	https://www.instagram.com/nike/	302	
+nike	https://x.com/nike	200	Nike (@Nike) / X
+zq8xk2vtq9w	https://www.instagram.com/zq8xk2vtq9w/	302	
+zq8xk2vtq9w	https://x.com/zq8xk2vtq9w	404	User Profile Not Found - X | 404 Error
+keyhand	https://www.instagram.com/keyhand/	302	
+keyhand	https://x.com/keyhand	200	keyhand (@keyhand) / X
+keyhandrentals	https://www.instagram.com/keyhandrentals/	302	
+keyhandrentals	https://x.com/keyhandrentals	404	User Profile Not Found - X | 404 Error
+flintdrive	https://www.instagram.com/flintdrive/	302	
+flintdrive	https://x.com/flintdrive	404	User Profile Not Found - X | 404 Error
+emberdrive	https://www.instagram.com/emberdrive/	302	
+emberdrive	https://x.com/emberdrive	200	Katya (@EmberDrive) / X
+emberrent	https://www.instagram.com/emberrent/	302	
+emberrent	https://x.com/emberrent	404	User Profile Not Found - X | 404 Error
+kestreldrive	https://www.instagram.com/kestreldrive/	302	
+kestreldrive	https://x.com/kestreldrive	404	User Profile Not Found - X | 404 Error
+pacerdrive	https://www.instagram.com/pacerdrive/	302	
+pacerdrive	https://x.com/pacerdrive	404	User Profile Not Found - X | 404 Error
+flaredrive	https://www.instagram.com/flaredrive/	302	
+flaredrive	https://x.com/flaredrive	200	김홍석 (@flaredrive) / X
+torqrent	https://www.instagram.com/torqrent/	200	Instagram
+torqrent	https://x.com/torqrent	404	User Profile Not Found - X | 404 Error
+kilnrentals	https://www.instagram.com/kilnrentals/	302	
+kilnrentals	https://x.com/kilnrentals	404	User Profile Not Found - X | 404 Error
+cinderdrive	https://www.instagram.com/cinderdrive/	302	
+cinderdrive	https://x.com/cinderdrive	200	Marie Taylor (@cinderdrive) / X
+vermiliondrive	https://www.instagram.com/vermiliondrive/	302	
+vermiliondrive	https://x.com/vermiliondrive	200	創作 (@vermiliondrive) / X
+keyhandco	https://www.instagram.com/keyhandco/	302	
+keyhandco	https://x.com/keyhandco	404	User Profile Not Found - X | 404 Error
+drivekeyhand	https://www.instagram.com/drivekeyhand/	302	
+drivekeyhand	https://x.com/drivekeyhand	404	User Profile Not Found - X | 404 Error
+flintdrive	https://www.instagram.com/flintdrive/	200	Maureen A Gustafson (&#064;flintdrive) • Instagram photos and videos  [from first probe run at the same session, before calibration showed Instagram usually redirects]
