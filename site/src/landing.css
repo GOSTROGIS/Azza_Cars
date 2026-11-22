@@ -193,3 +193,9 @@ h3 { font-size: 1.25rem; font-weight: 700; }
   .hero__car { animation: none; }
   .btn { transition: none; }
 }
+
+/* ---- Project status page ---- */
+.status h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); font-stretch: 118%; font-weight: 900; margin-bottom: var(--space-4); }
+.status h2 { margin-top: var(--space-7); font-size: 1.6rem; }
+.status__list { padding-left: 1.2em; display: grid; gap: var(--space-3); max-width: 900px; }
+.status code { font-family: var(--font-mono); font-size: 0.9em; color: var(--bone-50); }

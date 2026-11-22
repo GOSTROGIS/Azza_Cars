@@ -1,0 +1,56 @@
+name: Website preview
+
+# Builds the site and publishes it to GitHub Pages on every push to main, so people can follow progress.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install and build
+        working-directory: site
+        run: |
+          npm ci
+          npm run build
+      - name: Keep the preview out of search results until launch
+        working-directory: site/dist
+        run: |
+          find . -name '*.html' -exec sed -i 's#<head>#<head><meta name="robots" content="noindex">#' {} +
+          # Every page must carry the tag. A page without a plain <head> would otherwise slip through.
+          if grep -L 'name="robots" content="noindex"' $(find . -name '*.html') | grep .; then exit 1; fi
+      - name: Stamp the status page with the commit and build time
+        working-directory: site/dist
+        run: sed -i "s#Local build, not published.#Built from commit ${GITHUB_SHA::7} on $(date -u '+%Y-%m-%d %H:%M UTC').#" status.html
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

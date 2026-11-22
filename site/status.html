@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project status | Ember Rent</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <script type="module" src="/src/landing.js"></script>
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="./" aria-label="Ember Rent home">
+      <svg viewBox="0 0 120 120" width="36" height="36" aria-hidden="true"><path d="M60 22 A 38 38 0 1 0 98 60" stroke="currentColor" stroke-width="10" stroke-linecap="round" fill="none"/><path d="M60 40 A 20 20 0 1 0 80 60" stroke="currentColor" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.55"/><circle cx="96" cy="24" r="13" fill="#ff4b1f"/><circle cx="60" cy="60" r="6" fill="#ff4b1f"/></svg>
+      <span class="brand__word">EMBER</span><span class="brand__tag">RENT</span>
+    </a>
+    <nav aria-label="Main">
+      <a href="./market/map.html">Market map</a>
+      <a href="./explorer.html">Model explorer</a>
+    </nav>
+  </header>
+
+  <main class="section status">
+    <p class="eyebrow">Work in progress</p>
+    <h1>Project status</h1>
+    <p>This preview is rebuilt from the repository every time work is pushed to <code>main</code>. It is a placeholder, not the launched business. Rates, address, hours and booking are not live yet.</p>
+
+    <p class="build" id="build">Local build, not published.</p>
+
+    <h2>Done</h2>
+    <ul class="status__list">
+      <li><strong>Market gap analysis.</strong> Metro Vancouver rental supply against population and business counts. The largest gap is south of the Fraser, Surrey first. <a href="./market/map.html">Open the map</a>.</li>
+      <li><strong>TAM, SAM and SOM.</strong> BC rental and leasing revenue C$1.32B (StatCan, 2024 preliminary), Metro Vancouver C$647M to C$698M. The obtainable share depends on owner inputs that are still open.</li>
+      <li><strong>Name and logo.</strong> Ember Rent, with the ignition ring mark. emberrent.com and emberrent.ca were unregistered on 22 November 2026.</li>
+      <li><strong>Marketing review.</strong> Go-to-market plan: own the local map results, lead with vans and trucks, all-in prices, business accounts.</li>
+      <li><strong>Website preview.</strong> The <a href="./">landing page</a>, built on that plan, with credited open-licence vehicle photos.</li>
+    </ul>
+
+    <h2>Needs the owner</h2>
+    <ul class="status__list">
+      <li>Trademark search for "Ember Rent" by a trademark agent (CIPO and USPTO) before filing or signage.</li>
+      <li>Register the domains and social handles.</li>
+      <li>Rates, first location address, hours, phone and booking system.</li>
+      <li>Confirm which service promises on the page will be delivered from day one.</li>
+      <li>Fleet size, daily rates and utilisation targets, to turn the SOM scenarios into a plan.</li>
+    </ul>
+
+    <h2>Source documents</h2>
+    <p>The full write-ups live in the repository: <code>market/GAP_ANALYSIS.md</code>, <code>market/TAM_SAM_SOM.md</code>, <code>brand/NAMING.md</code> and <code>brand/MARKETING_REVIEW.md</code>. The repository is private, so they open only for people with access.</p>
+  </main>
+</body>
+</html>

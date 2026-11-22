@@ -2,6 +2,7 @@
 //   catalog/models.json + catalog/brands.json -> public/data/catalog.json (compact keys)
 //   logos/svg/<slug>.svg for audited logos     -> public/logos/<slug>.svg
 //   vehicles/manifest.json + GLB files          -> public/vehicles/
+//   market/map.html (self-contained Leaflet map) -> public/market/map.html
 // Nothing here creates data. It only reshapes and copies files produced elsewhere.
 import fs from "node:fs";
 import path from "node:path";
@@ -57,3 +58,7 @@ for (const v of vehicles) {
 const out = { built: report, brands, models: compact, vehicles };
 fs.writeFileSync(path.join(pub, "data", "catalog.json"), JSON.stringify(out));
 console.log(`catalog.json: ${brands.length} brands, ${compact.length} models, ${vehicles.length} 3D vehicles`);
+
+// The market gap map embeds its own data, so it can be served as it is.
+fs.mkdirSync(path.join(pub, "market"), { recursive: true });
+fs.copyFileSync(path.join(root, "market", "map.html"), path.join(pub, "market", "map.html"));

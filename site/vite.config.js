@@ -11,6 +11,6 @@ export default defineConfig({
   build: {
     chunkSizeWarningLimit: 1200,
     // The landing page is plain HTML for speed and search. The model explorer stays a React app.
-    rollupOptions: { input: { index: path.resolve(__dirname, "index.html"), explorer: path.resolve(__dirname, "explorer.html") } },
+    rollupOptions: { input: { index: path.resolve(__dirname, "index.html"), explorer: path.resolve(__dirname, "explorer.html"), status: path.resolve(__dirname, "status.html") } },
   },
 });
