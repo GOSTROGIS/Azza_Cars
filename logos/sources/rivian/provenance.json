@@ -1,0 +1,68 @@
+{
+ "brandfetch": {
+  "brand_id": "idqxjbqPJk",
+  "name": "Rivian",
+  "domain": "rivian.com",
+  "claimed_by_brand": true,
+  "colors": [
+   {
+    "hex": "#FFB100",
+    "type": "accent"
+   },
+   {
+    "hex": "#212121",
+    "type": "dark"
+   },
+   {
+    "hex": "#A05842",
+    "type": "brand"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idqxjbqPJk/theme/light/logo.svg",
+    "sha256": "ff6aafe0202f6722cec0e19430c4b6411f7fca0aad1449b28bd69e0c8dbb1e77",
+    "bytes": 1240,
+    "retrieved_utc": "2026-11-22T20:01:58Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idqxjbqPJk/w/800/h/111/theme/light/logo.png",
+    "sha256": "88298eb42bbfe95cad592b3ad24920daa8eb1bc341cbf4e2955092026ee0343d",
+    "bytes": 3603,
+    "retrieved_utc": "2026-11-22T20:01:58Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idqxjbqPJk/theme/dark/logo.svg",
+    "sha256": "3203536855c54d1eac1a55bb8d89762b77d276094cc18f90a5b3bfa3c85b9452",
+    "bytes": 1240,
+    "retrieved_utc": "2026-11-22T20:01:58Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idqxjbqPJk/w/800/h/111/theme/dark/logo.png",
+    "sha256": "df9d09fc2eeea5a641d71b19419c359bd9f4f88983399247b85beda8d09ceb2d",
+    "bytes": 3603,
+    "retrieved_utc": "2026-11-22T20:01:58Z"
+   }
+  ]
+ }
+}

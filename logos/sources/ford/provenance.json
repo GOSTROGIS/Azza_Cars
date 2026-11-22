@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idy8eQmfJp",
+  "name": "Ford Motor Company",
+  "domain": "ford.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#047AF2",
+    "type": "accent"
+   },
+   {
+    "hex": "#00095B",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idy8eQmfJp/theme/light/logo.svg",
+    "sha256": "339f71fe9702f6467317672b387c8f67672b38c054577e406d286b1524f85625",
+    "bytes": 7266,
+    "retrieved_utc": "2026-11-22T20:01:21Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idy8eQmfJp/w/800/h/310/theme/light/logo.png",
+    "sha256": "f9cac8219ddafa514af79731184037ca505295a531066377a38aafafc6fedbf6",
+    "bytes": 9827,
+    "retrieved_utc": "2026-11-22T20:01:21Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idy8eQmfJp/theme/dark/logo.svg",
+    "sha256": "87420c19c43bea0d99679c95804a4f22e4eeacc55f7cdf98ac5292736676c870",
+    "bytes": 7300,
+    "retrieved_utc": "2026-11-22T20:01:22Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idy8eQmfJp/w/800/h/310/theme/dark/logo.png",
+    "sha256": "364f30dab8365be238dea6d2fe0648efd6ce9035d365f470fbe2a464c2e38bfa",
+    "bytes": 9606,
+    "retrieved_utc": "2026-11-22T20:01:22Z"
+   }
+  ]
+ }
+}

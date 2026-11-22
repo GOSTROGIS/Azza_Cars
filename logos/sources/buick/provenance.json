@@ -1,0 +1,61 @@
+{
+ "brandfetch": {
+  "brand_id": "idLDlqUvtv",
+  "name": "Buick",
+  "domain": "buick.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#FF5510",
+    "type": "accent"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#343233",
+    "type": "brand"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idLDlqUvtv/w/310/h/89/theme/dark/logo.png",
+    "sha256": "de642d22c6c926b1813894218ca68bdd462dd91fa3ce2f9d2c17508320e156e1",
+    "bytes": 5167,
+    "retrieved_utc": "2026-11-22T20:01:14Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idLDlqUvtv/theme/dark/symbol.svg",
+    "sha256": "18d21469b7030b87d4b44e8629ac32bf04d52e39dd5ef5500452dc595eb8d535",
+    "bytes": 5169,
+    "retrieved_utc": "2026-11-22T20:01:14Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idLDlqUvtv/w/800/h/793/theme/dark/symbol.png",
+    "sha256": "dfb2ceedf589d50fef31687d9c4be5f78b4d44895a0a4b0cd699f6fbbead8f09",
+    "bytes": 20741,
+    "retrieved_utc": "2026-11-22T20:01:15Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://buick.com",
+  "retrieved_utc": "2026-11-22T20:11:33.792Z",
+  "files": [],
+  "page_final": "https://www.buick.com/",
+  "http_status": 403
+ }
+}

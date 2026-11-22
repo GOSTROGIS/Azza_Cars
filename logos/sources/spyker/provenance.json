@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id706PROjM",
+  "name": "Spyker",
+  "domain": "spykercars.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#666666",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id706PROjM/w/820/h/790/theme/light/logo.png",
+    "sha256": "190353f39ab343ca273186dff058f01a60c98cfbc5e548af99bcf60991e7797c",
+    "bytes": 13098,
+    "retrieved_utc": "2026-11-22T20:02:04Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id706PROjM/theme/light/logo.svg",
+    "sha256": "a3102dcce683325b9f8789976d81772e74b1afd6da0b6aad79884ceecca9ccfc",
+    "bytes": 5028,
+    "retrieved_utc": "2026-11-22T20:02:05Z"
+   }
+  ]
+ }
+}

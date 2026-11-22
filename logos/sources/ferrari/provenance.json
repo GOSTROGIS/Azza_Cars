@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idhiG18qpz",
+  "name": "Ferrari",
+  "domain": "ferrari.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#DA291C",
+    "type": "accent"
+   },
+   {
+    "hex": "#181818",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idhiG18qpz/theme/light/logo.svg",
+    "sha256": "117d10159a948a95d53df9a96a1f25b32dc5d08cf57e720b45d4d09492498581",
+    "bytes": 19891,
+    "retrieved_utc": "2026-11-22T20:01:20Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idhiG18qpz/w/800/h/1110/theme/light/logo.png",
+    "sha256": "74c5a28da8a6d4895558d022ae8f3f90af70300a2e05e1827d618c845d5d74f6",
+    "bytes": 30631,
+    "retrieved_utc": "2026-11-22T20:01:20Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idhiG18qpz/theme/dark/logo.svg",
+    "sha256": "c8f2b12134cd7c5624de82afb8045c249d633faf2d3cc646531311fcf139dfde",
+    "bytes": 19810,
+    "retrieved_utc": "2026-11-22T20:01:20Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idhiG18qpz/w/800/h/1110/theme/dark/logo.png",
+    "sha256": "46a2376195fc88ef58a3bbd0c62548c4b195a7ef1f18df632325609e67d00c0e",
+    "bytes": 30623,
+    "retrieved_utc": "2026-11-22T20:01:20Z"
+   }
+  ]
+ }
+}

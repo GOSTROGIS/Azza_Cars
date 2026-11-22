@@ -1,0 +1,26 @@
+{
+ "brandfetch": {
+  "brand_id": "idp0J4K1oj",
+  "name": null,
+  "domain": "changan.com.cn",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#4c4c4c",
+    "type": "dark"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idp0J4K1oj/w/435/h/91/theme/light/logo.png",
+    "sha256": "de03f6b2662bf5a618fbe88b318acd099f39b07fef370e812541d0b06e0a1c98",
+    "bytes": 2022,
+    "retrieved_utc": "2026-11-22T20:01:16Z"
+   }
+  ]
+ }
+}

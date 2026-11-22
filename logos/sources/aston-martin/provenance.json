@@ -1,0 +1,118 @@
+{
+ "wikidata": {
+  "qid": "Q27074",
+  "property": "P154",
+  "files": [
+   {
+    "file": "Aston Martin wordmark.svg",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Aston_Martin_wordmark.svg",
+    "saved_as": "commons/Aston_Martin_wordmark.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Aston_Martin_wordmark.svg",
+    "sha256": "75359240f0809c3301e41b2aabe40c9c05e3a0ce3282f9b60fe193ad87298f0c",
+    "bytes": 5560,
+    "retrieved_utc": "2026-11-22T19:52:49Z"
+   }
+  ]
+ },
+ "brandfetch": {
+  "brand_id": "idZsNImIdo",
+  "name": "Aston Martin",
+  "domain": "astonmartinlagonda.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#bc8966",
+    "type": "accent"
+   },
+   {
+    "hex": "#00665e",
+    "type": "dark"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idZsNImIdo/w/820/h/189/theme/dark/logo.png",
+    "sha256": "e481f760a193eeeb7467d3fa32ef2778afdf04bd510834772527d0a02becd7a1",
+    "bytes": 8551,
+    "retrieved_utc": "2026-11-22T20:01:09Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idZsNImIdo/theme/dark/logo.svg",
+    "sha256": "d874b2ebdf707a57aef4f6579480512d611b952ae6539e1d8f9fb91ac6bba2ee",
+    "bytes": 6230,
+    "retrieved_utc": "2026-11-22T20:01:09Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://astonmartinlagonda.com",
+  "retrieved_utc": "2026-11-22T20:11:03.087Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "[class*=\"logo\" i] svg",
+    "src": null,
+    "displayed_px": [
+     139,
+     32
+    ],
+    "sha256": "8ebdfbf68c222890dd7a572b22c2d750889144dfce260a271398b3ce08502419",
+    "bytes": 6732
+   },
+   {
+    "saved_as": "website/logo-2.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "f46f738c4b51c6c2d93e816fed09e2441fb02b017ee15515038a81ccfebdc9b4",
+    "bytes": 541
+   },
+   {
+    "saved_as": "website/logo-3.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "b79feb291238bafbf3c89a167b8371773b72433b86fbd9a486ec4ecf9ce7ee77",
+    "bytes": 536
+   },
+   {
+    "saved_as": "website/logo-4.svg",
+    "kind": "svg",
+    "selector": "header svg",
+    "src": null,
+    "displayed_px": [
+     24,
+     24
+    ],
+    "sha256": "b79feb291238bafbf3c89a167b8371773b72433b86fbd9a486ec4ecf9ce7ee77",
+    "bytes": 536
+   }
+  ],
+  "page_final": "https://www.astonmartin.com/en/corporate",
+  "http_status": 200
+ }
+}

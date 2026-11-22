@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idN_0Rt82i",
+  "name": "Scout Motors",
+  "domain": "scoutmotors.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#1b1817",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffaa99",
+    "type": "light"
+   },
+   {
+    "hex": "#ff5432",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idN_0Rt82i/w/820/h/238/theme/dark/logo.png",
+    "sha256": "d5f3d3886a2ceeb010497aad35a5ac4efbc5b2fc11300789779c92e221ca8d86",
+    "bytes": 5909,
+    "retrieved_utc": "2026-11-22T20:02:01Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idN_0Rt82i/theme/dark/logo.svg",
+    "sha256": "2c6c297d49d0629011b861485784f07ecd17166d1ced3afc4e472cf4779d6344",
+    "bytes": 2391,
+    "retrieved_utc": "2026-11-22T20:02:01Z"
+   }
+  ]
+ }
+}

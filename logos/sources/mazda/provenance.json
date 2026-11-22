@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "idI_p8sN6E",
+  "name": "Mazda Motor Corp.",
+  "domain": "mazda.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#535B69",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/theme/light/logo.svg",
+    "sha256": "15d07683871eb69a362d960aba9589a59e114c268f1585b4572ade911b108ef4",
+    "bytes": 1047,
+    "retrieved_utc": "2026-11-22T20:01:44Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/w/800/h/112/theme/light/logo.png",
+    "sha256": "b0aa4b5ebd7b525089c42373fd6382ab80c66076ba15bc1a5232958f738108b9",
+    "bytes": 5439,
+    "retrieved_utc": "2026-11-22T20:01:44Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/theme/dark/logo.svg",
+    "sha256": "c78a995d9968c67e8964270b862532d7abe3872db7c95cc7d7d2a28152b74fd2",
+    "bytes": 1047,
+    "retrieved_utc": "2026-11-22T20:01:45Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/w/800/h/112/theme/dark/logo.png",
+    "sha256": "3a2521f521b728d0d4fcd64b6d682a94b4e5b37c4eafa823e0a3c2d002fa980d",
+    "bytes": 5357,
+    "retrieved_utc": "2026-11-22T20:01:45Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/theme/light/symbol.svg",
+    "sha256": "c9be4a5bfb8eba76702d20e8f1df968db6decdaa54ea9bde2a8398ac6b2d4dde",
+    "bytes": 1721,
+    "retrieved_utc": "2026-11-22T20:01:45Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/w/800/h/652/theme/light/symbol.png",
+    "sha256": "55050f8592fc1cc2190b1369862d7f1e1953a5e2acd2ac0676b136d3d62df0a3",
+    "bytes": 8581,
+    "retrieved_utc": "2026-11-22T20:01:45Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/theme/dark/symbol.svg",
+    "sha256": "27862fe0608b796580ed293d1f0d70dc59f1a6fb6385d2d7743a1fb0c185962d",
+    "bytes": 1721,
+    "retrieved_utc": "2026-11-22T20:01:46Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idI_p8sN6E/w/800/h/652/theme/dark/symbol.png",
+    "sha256": "c053d935176b0bbe45c46b4ebf923c8543d6c7377a47b76f6915d20f654cd39a",
+    "bytes": 8579,
+    "retrieved_utc": "2026-11-22T20:01:46Z"
+   }
+  ]
+ }
+}

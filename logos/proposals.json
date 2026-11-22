@@ -1,0 +1,3430 @@
+{
+ "acura": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "commons/Acura_logo.svg",
+    "origin": "commons",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "commons/Acura_logo.svg",
+    "problems": [],
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
+   },
+   {
+    "master": "commons/Acura_logo.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [],
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
+   },
+   {
+    "master": "commons/Acura_logo.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [],
+    "beyond_pct": 0.0,
+    "aspect_diff": 0.0
+   }
+  ],
+  "proposal": {
+   "master": "brandfetch/logo-dark.svg",
+   "reference": "commons/Acura_logo.svg",
+   "problems": [],
+   "beyond_pct": 0.0,
+   "aspect_diff": 0.0
+  },
+  "status": "agreeing pair"
+ },
+ "alfa-romeo": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "aston-martin": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "commons/Aston_Martin_wordmark.svg",
+    "origin": "commons",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [
+   {
+    "master": "commons/Aston_Martin_wordmark.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "beyond_pct": 61.2111,
+    "max_dev": 17,
+    "aspect_diff": 1.3158
+   },
+   {
+    "master": "commons/Aston_Martin_wordmark.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "beyond_pct": 61.2513,
+    "max_dev": 17,
+    "aspect_diff": 1.3158
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "commons/Aston_Martin_wordmark.svg",
+    "beyond_pct": 70.6463,
+    "max_dev": 17,
+    "aspect_diff": 0.5682
+   }
+  ],
+  "proposal": null,
+  "status": "no agreeing pair"
+ },
+ "audi": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "commons/Audi-Logo_2016.svg",
+    "origin": "commons",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [
+   {
+    "master": "brandfetch/logo-light.svg",
+    "reference": "commons/Audi-Logo_2016.svg",
+    "beyond_pct": 9.6276,
+    "max_dev": 11,
+    "aspect_diff": 0.015
+   },
+   {
+    "master": "commons/Audi-Logo_2016.svg",
+    "reference": "brandfetch/logo-light.svg",
+    "beyond_pct": 9.6725,
+    "max_dev": 11,
+    "aspect_diff": 0.0148
+   },
+   {
+    "master": "commons/Audi-Logo_2016.svg",
+    "reference": "brandfetch/logo-light.png",
+    "beyond_pct": 9.732,
+    "max_dev": 11,
+    "aspect_diff": 0.0148
+   }
+  ],
+  "proposal": null,
+  "status": "no agreeing pair"
+ },
+ "bentley": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "commons/Bentley,_Theaterplaz-102.jpg",
+    "origin": "commons",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "bmw": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "commons/BMW.svg",
+    "origin": "commons",
+    "kind": "svg",
+    "historical": true,
+    "flags": []
+   },
+   {
+    "file": "commons/BMW_logo_(gray).svg",
+    "origin": "commons",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "commons/Logo_BMW_Group_2021.svg",
+    "origin": "commons",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [
+   {
+    "master": "commons/BMW_logo_(gray).svg",
+    "reference": "brandfetch/logo-light.png",
+    "beyond_pct": 0.1085,
+    "max_dev": 4,
+    "aspect_diff": 0.0078
+   },
+   {
+    "master": "brandfetch/logo-light.svg",
+    "reference": "commons/BMW_logo_(gray).svg",
+    "beyond_pct": 0.2224,
+    "max_dev": 5,
+    "aspect_diff": 0.0079
+   },
+   {
+    "master": "commons/BMW_logo_(gray).svg",
+    "reference": "brandfetch/logo-light.svg",
+    "beyond_pct": 0.2276,
+    "max_dev": 5,
+    "aspect_diff": 0.0078
+   },
+   {
+    "master": "commons/BMW_logo_(gray).svg",
+    "reference": "brandfetch/logo-dark.png",
+    "beyond_pct": 28.5105,
+    "max_dev": 17,
+    "aspect_diff": 0.0
+   },
+   {
+    "master": "brandfetch/logo-light.svg",
+    "reference": "commons/BMW.svg",
+    "beyond_pct": 45.6073,
+    "max_dev": 17,
+    "aspect_diff": 0.0066
+   },
+   {
+    "master": "commons/Logo_BMW_Group_2021.svg",
+    "reference": "brandfetch/logo-light.png",
+    "beyond_pct": 70.5162,
+    "max_dev": 17,
+    "aspect_diff": 0.9002
+   },
+   {
+    "master": "commons/Logo_BMW_Group_2021.svg",
+    "reference": "brandfetch/logo-light.svg",
+    "beyond_pct": 70.573,
+    "max_dev": 17,
+    "aspect_diff": 0.9002
+   },
+   {
+    "master": "brandfetch/logo-light.svg",
+    "reference": "commons/Logo_BMW_Group_2021.svg",
+    "beyond_pct": 71.6863,
+    "max_dev": 17,
+    "aspect_diff": 0.4738
+   },
+   {
+    "master": "commons/Logo_BMW_Group_2021.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "beyond_pct": 77.1685,
+    "max_dev": 17,
+    "aspect_diff": 0.9152
+   }
+  ],
+  "proposal": null,
+  "status": "no agreeing pair"
+ },
+ "bugatti": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "buick": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "cadillac": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "chevrolet": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "chrysler": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "dodge": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "ferrari": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "fiat": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "ford": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "genesis": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "gmc": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "honda": {
+  "candidates": [
+   {
+    "file": "website/logo-1.svg",
+    "origin": "website",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "website/logo-3.svg",
+    "origin": "website",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "website/logo-4.svg",
+    "origin": "website",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 54.057% of artwork beyond 0.18% of width",
+     "aspect ratio disagrees with reference (30.99%)"
+    ],
+    "beyond_pct": 54.0573,
+    "aspect_diff": 0.3099
+   },
+   {
+    "master": "website/logo-1.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 54.448% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (30.82%)"
+    ],
+    "beyond_pct": 54.4484,
+    "aspect_diff": 0.3082
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.svg",
+    "problems": [
+     "shape disagrees with reference: 56.543% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (23.56%)"
+    ],
+    "beyond_pct": 56.5431,
+    "aspect_diff": 0.2356
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-3.svg",
+    "problems": [
+     "shape disagrees with reference: 62.392% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (726.88%)"
+    ],
+    "beyond_pct": 62.3923,
+    "aspect_diff": 7.2688
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-4.svg",
+    "problems": [
+     "shape disagrees with reference: 62.392% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (726.88%)"
+    ],
+    "beyond_pct": 62.3923,
+    "aspect_diff": 7.2688
+   },
+   {
+    "master": "website/logo-3.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 69.569% of artwork beyond 0.18% of width",
+     "aspect ratio disagrees with reference (87.89%)"
+    ],
+    "beyond_pct": 69.5688,
+    "aspect_diff": 0.8789
+   },
+   {
+    "master": "website/logo-4.svg",
+    "reference": "brandfetch/logo-dark.png",
+    "problems": [
+     "shape disagrees with reference: 69.569% of artwork beyond 0.18% of width",
+     "aspect ratio disagrees with reference (87.89%)"
+    ],
+    "beyond_pct": 69.5688,
+    "aspect_diff": 0.8789
+   },
+   {
+    "master": "website/logo-3.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 69.616% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (87.91%)"
+    ],
+    "beyond_pct": 69.6161,
+    "aspect_diff": 0.8791
+   },
+   {
+    "master": "website/logo-4.svg",
+    "reference": "brandfetch/logo-dark.svg",
+    "problems": [
+     "shape disagrees with reference: 69.616% of artwork beyond 0.15% of width",
+     "aspect ratio disagrees with reference (87.91%)"
+    ],
+    "beyond_pct": 69.6161,
+    "aspect_diff": 0.8791
+   }
+  ],
+  "proposal": null,
+  "status": "no agreeing pair"
+ },
+ "hyundai": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "infiniti": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "ineos": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "jaguar": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "jeep": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "kia": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "koenigsegg": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "lamborghini": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "land-rover": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "lexus": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "lincoln": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "lotus": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "lucid": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "maserati": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "mazda": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "mclaren": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "mercedes-benz": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "maybach": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "mini": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "mitsubishi": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "morgan": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "nissan": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "pagani": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "polestar": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "porsche": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "ram": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "rimac": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "rivian": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "rolls-royce": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "subaru": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "tesla": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "toyota": {
+  "candidates": [
+   {
+    "file": "website/logo-1.png",
+    "origin": "website",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "website/logo-2.png",
+    "origin": "website",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-1.png",
+    "problems": [
+     "shape disagrees with reference: 46.409% of artwork beyond 0.40% of width",
+     "aspect ratio disagrees with reference (237.80%)"
+    ],
+    "beyond_pct": 46.4087,
+    "aspect_diff": 2.378
+   },
+   {
+    "master": "brandfetch/logo-dark.svg",
+    "reference": "website/logo-2.png",
+    "problems": [
+     "shape disagrees with reference: 61.174% of artwork beyond 0.36% of width",
+     "aspect ratio disagrees with reference (202.36%)"
+    ],
+    "beyond_pct": 61.1736,
+    "aspect_diff": 2.0236
+   }
+  ],
+  "proposal": null,
+  "status": "no agreeing pair"
+ },
+ "vinfast": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "volkswagen": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "volvo": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "scout": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "slate": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "czinger": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "saleen": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "ssc": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "glickenhaus": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "mahindra": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "zeekr": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "byd": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "kandi": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "karma": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "fisker": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "canoo": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "lordstown": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "brightdrop": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "seat": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "cupra": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "peugeot": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "renault": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "suzuki": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "isuzu": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "mg": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "chirey": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "omoda": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "jaecoo": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "jac": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "gwm": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "haval": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "tank": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "ora": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "changan": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "deepal": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "geely": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "lynk-co": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "leapmotor": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "gac": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "jetour": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "soueast": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "baic": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "dfsk": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "jmc": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "seres": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "foton": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "amc": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "eagle": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "plymouth": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "oldsmobile": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "pontiac": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "saturn": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "mercury": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "hummer": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "geo": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "scion": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "saab": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "daewoo": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "merkur": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "sterling-cars": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "yugo": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "datsun": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "daihatsu": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "smart": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "asuna": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "passport": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "lada": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "delorean": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "avanti": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "checker": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "lancia": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "triumph": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "rover": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "opel": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "holden": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "srt": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "coda": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "think": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "panoz": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "mosler": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "vector": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "shelby": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "spyker": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "vam": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "mastretta": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "freightliner": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "western-star": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "peterbilt": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "kenworth": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "mack": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "volvo-trucks": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "international": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "hino": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "fuso": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "ud-trucks": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "sterling-trucks": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "autocar": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "white": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "whitegmc": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "diamond-reo": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "marmon": {
+  "status": "no sources downloaded",
+  "proposal": null
+ },
+ "oshkosh": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "workhorse": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/symbol-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "nikola": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-light.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "xos": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "lion": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "no usable vector source"
+ },
+ "dina": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ },
+ "iveco": {
+  "candidates": [
+   {
+    "file": "brandfetch/logo-dark.png",
+    "origin": "brandfetch",
+    "kind": "raster",
+    "historical": false,
+    "flags": []
+   },
+   {
+    "file": "brandfetch/logo-dark.svg",
+    "origin": "brandfetch",
+    "kind": "svg",
+    "historical": false,
+    "flags": []
+   }
+  ],
+  "pairs": [],
+  "proposal": null,
+  "status": "single origin only"
+ }
+}

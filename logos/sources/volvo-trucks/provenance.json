@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idk_iVkGSv",
+  "name": "Volvo Trucks",
+  "domain": "volvotrucks.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#040607",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#014fbc",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idk_iVkGSv/w/820/h/68/theme/dark/logo.png",
+    "sha256": "d10e3710d76220b65be34d092b3e2c72276c4d8f07955f9be9bdef628668f51c",
+    "bytes": 2449,
+    "retrieved_utc": "2026-11-22T20:02:10Z"
+   }
+  ]
+ }
+}

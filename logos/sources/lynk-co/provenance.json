@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idPc6_WdWT",
+  "name": "Lynk Co",
+  "domain": "lynkco.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#339586",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPc6_WdWT/w/820/h/117/theme/dark/logo.png",
+    "sha256": "5bf10be3b8fcd169eebb506ec6737ca23ed4ec65764ad2e812bac7c04327b2b7",
+    "bytes": 4355,
+    "retrieved_utc": "2026-11-22T20:01:42Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPc6_WdWT/theme/dark/logo.svg",
+    "sha256": "115d60310ec924be875bb4dbe39e5f20ab99e7e1cfaff377f66922c6bd037554",
+    "bytes": 3029,
+    "retrieved_utc": "2026-11-22T20:01:42Z"
+   }
+  ]
+ }
+}

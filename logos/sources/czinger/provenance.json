@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "id0IQs3LKi",
+  "name": "Carl",
+  "domain": "czinger.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#ca2417",
+    "type": "accent"
+   },
+   {
+    "hex": "#710b09",
+    "type": "dark"
+   },
+   {
+    "hex": "#afdadc",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id0IQs3LKi/w/820/h/40/theme/light/logo.png",
+    "sha256": "c12d9cfbd572cd93d37c67990ebf905c4b277a008cc6e371760200a0ce004008",
+    "bytes": 2147,
+    "retrieved_utc": "2026-11-22T20:01:18Z"
+   }
+  ]
+ }
+}

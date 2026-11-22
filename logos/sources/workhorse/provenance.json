@@ -1,0 +1,68 @@
+{
+ "brandfetch": {
+  "brand_id": "id-yjO3mTG",
+  "name": "Workhorse",
+  "domain": "workhorse.com",
+  "claimed_by_brand": true,
+  "colors": [
+   {
+    "hex": "#D0D0D6",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#f93622",
+    "type": "accent"
+   },
+   {
+    "hex": "#53565a",
+    "type": "brand"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id-yjO3mTG/w/3433/h/329/theme/light/logo.png",
+    "sha256": "4f15e5999156e388ed6b852ffefa1e3fb9c687b1ec82135592571562329c75d0",
+    "bytes": 37509,
+    "retrieved_utc": "2026-11-22T20:02:10Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id-yjO3mTG/w/3433/h/329/theme/dark/logo.png",
+    "sha256": "853743d69abf68ef71be62351f1926751f0924f9b73cb8c252d679400e241cbb",
+    "bytes": 54637,
+    "retrieved_utc": "2026-11-22T20:02:10Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id-yjO3mTG/w/556/h/329/theme/light/symbol.png",
+    "sha256": "bc77f1f393ec2f916d762eef81c7786ce83e4afe0ca49c00139cd4cd1b22d7d2",
+    "bytes": 6877,
+    "retrieved_utc": "2026-11-22T20:02:11Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id-yjO3mTG/w/556/h/329/theme/dark/symbol.png",
+    "sha256": "cf3f7105b762c414ee27f4ee201d99134e5b6c3bf5b5af4d5b04e2d404912f8d",
+    "bytes": 8309,
+    "retrieved_utc": "2026-11-22T20:02:11Z"
+   }
+  ]
+ }
+}

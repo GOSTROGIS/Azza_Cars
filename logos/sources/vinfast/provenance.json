@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idKaxgh0r7",
+  "name": "VinFast",
+  "domain": "vinfastauto.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#1464f4",
+    "type": "accent"
+   },
+   {
+    "hex": "#004282",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idKaxgh0r7/w/820/h/820/theme/dark/logo.png",
+    "sha256": "c1ac0b495e74eff2e84fcafc04efe5f6ad711558e3b54aed2fe58006e9ddefb4",
+    "bytes": 15991,
+    "retrieved_utc": "2026-11-22T20:02:07Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idKaxgh0r7/theme/dark/logo.svg",
+    "sha256": "2bfc62c110b6eabe44e4fd1e1cc2f66e7fdddf819f944b04bd7315d58952c3d3",
+    "bytes": 5650,
+    "retrieved_utc": "2026-11-22T20:02:08Z"
+   }
+  ]
+ }
+}

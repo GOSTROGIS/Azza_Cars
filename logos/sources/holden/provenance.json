@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idJGrvcvlx",
+  "name": "Holden",
+  "domain": "holden.com.au",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#9d2628",
+    "type": "dark"
+   },
+   {
+    "hex": "#f08a24",
+    "type": "light"
+   },
+   {
+    "hex": "#d10000",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idJGrvcvlx/w/528/h/189/theme/dark/logo.png",
+    "sha256": "6a93178b9dec29a99754c90c5d0ec1b2af2cc035e00b5cce30901eedf188cb52",
+    "bytes": 15657,
+    "retrieved_utc": "2026-11-22T20:01:26Z"
+   }
+  ]
+ }
+}

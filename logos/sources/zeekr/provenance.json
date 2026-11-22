@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "idV6c4bL0n",
+  "name": "Zeekr",
+  "domain": "zeekrlife.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#F76400",
+    "type": "accent"
+   },
+   {
+    "hex": "#25292B",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/theme/light/logo.svg",
+    "sha256": "0f4154f409162b56ba5f540b037ba66a0330ba896d5abc210879cc92eccbb2d0",
+    "bytes": 1147,
+    "retrieved_utc": "2026-11-22T20:02:12Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/w/800/h/98/theme/light/logo.png",
+    "sha256": "27f72b7658ec1d8f2cbf7844ddd9150ba6a8e34e114fc0850d2dc6a551fca76b",
+    "bytes": 2403,
+    "retrieved_utc": "2026-11-22T20:02:12Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/theme/dark/logo.svg",
+    "sha256": "fb53a0aff60c616bdde55c9b606b3cb80c8b40105c16f66dfa8139929961be83",
+    "bytes": 1136,
+    "retrieved_utc": "2026-11-22T20:02:12Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/w/800/h/98/theme/dark/logo.png",
+    "sha256": "1a5d2d2155475515afd9961b27465e9dfcfa87117ee07ef78da65a9c68391aeb",
+    "bytes": 2376,
+    "retrieved_utc": "2026-11-22T20:02:12Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/theme/light/symbol.svg",
+    "sha256": "abbc0761b3b9815da3de550334b25f64bc1596a7bbca075b2c0024cf87bfe69b",
+    "bytes": 356,
+    "retrieved_utc": "2026-11-22T20:02:13Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/w/800/h/800/theme/light/symbol.png",
+    "sha256": "717b0392946c4da8e85f272449209c5de4f79dd019eb2864776f5754b9c37b43",
+    "bytes": 4317,
+    "retrieved_utc": "2026-11-22T20:02:13Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/theme/dark/symbol.svg",
+    "sha256": "b05ea91bdd7cb5b7af72ed384d9fbdafd46ceba358531554ada4808bfb8509a0",
+    "bytes": 345,
+    "retrieved_utc": "2026-11-22T20:02:13Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idV6c4bL0n/w/800/h/800/theme/dark/symbol.png",
+    "sha256": "0c30c00a65ed87fd2028e8796c5931cc11829029fb4ea2aa49a184269f785791",
+    "bytes": 4317,
+    "retrieved_utc": "2026-11-22T20:02:13Z"
+   }
+  ]
+ }
+}

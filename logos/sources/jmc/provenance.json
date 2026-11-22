@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idgcJ2Vovd",
+  "name": "Jiangling Motors",
+  "domain": "jmc.com.cn",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#1a73e8",
+    "type": "accent"
+   },
+   {
+    "hex": "#202124",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idgcJ2Vovd/w/648/h/977/theme/dark/logo.png",
+    "sha256": "df5142bf64fe44b8f9a4c8e883c0def81d7236bb992fbbdce5782cdfa5fbbc0a",
+    "bytes": 17818,
+    "retrieved_utc": "2026-11-22T20:01:33Z"
+   }
+  ]
+ }
+}

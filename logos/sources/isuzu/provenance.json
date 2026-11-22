@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idmcQ3M0IU",
+  "name": "Isuzu",
+  "domain": "isuzu.co.jp",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#262626",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#AD0003",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idmcQ3M0IU/theme/light/logo.svg",
+    "sha256": "13ca493938358b00db4ef0cb37f006364f4087b3d1703a2c05f9353ef8870d94",
+    "bytes": 5182,
+    "retrieved_utc": "2026-11-22T20:01:30Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idmcQ3M0IU/w/800/h/140/theme/light/logo.png",
+    "sha256": "f853325d9081a5882c92769964d79720ba360b427ab208d39da5f1a5fbef2e5b",
+    "bytes": 9940,
+    "retrieved_utc": "2026-11-22T20:01:30Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idmcQ3M0IU/theme/dark/logo.svg",
+    "sha256": "112118db84428ab83f52e2c355531d0101c2302206060a104e9db0a3c96f8b5e",
+    "bytes": 5182,
+    "retrieved_utc": "2026-11-22T20:01:30Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idmcQ3M0IU/w/800/h/140/theme/dark/logo.png",
+    "sha256": "3600a273f5862da27e8958b75674dbdbdb40c554908e619e29ee700cd514a552",
+    "bytes": 13102,
+    "retrieved_utc": "2026-11-22T20:01:31Z"
+   }
+  ]
+ }
+}

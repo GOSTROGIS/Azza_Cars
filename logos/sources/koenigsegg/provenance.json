@@ -1,0 +1,50 @@
+{
+ "brandfetch": {
+  "brand_id": "id5X4C9Oft",
+  "name": "Koenigsegg",
+  "domain": "koenigsegg.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id5X4C9Oft/w/820/h/205/theme/light/logo.png",
+    "sha256": "482f2f110d67d735267dff14aede50d7214210e53715310473ebff2fd037c35b",
+    "bytes": 7716,
+    "retrieved_utc": "2026-11-22T20:01:34Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id5X4C9Oft/theme/dark/logo.svg",
+    "sha256": "c22bac30bcdeac0e1411aa5f8e84668e2cebf95cb3018c23150c7a418440f751",
+    "bytes": 8469,
+    "retrieved_utc": "2026-11-22T20:01:35Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id5X4C9Oft/w/800/h/200/theme/dark/logo.png",
+    "sha256": "196bbd83a0ea123faa48d7425db5fdbe95bc381ab3a10f814b17a6c9008ebe34",
+    "bytes": 7480,
+    "retrieved_utc": "2026-11-22T20:01:35Z"
+   }
+  ]
+ }
+}

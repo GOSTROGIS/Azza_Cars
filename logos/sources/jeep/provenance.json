@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idPY6AZfq2",
+  "name": "Jeep",
+  "domain": "jeep.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#477F70",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPY6AZfq2/theme/light/logo.svg",
+    "sha256": "9c33f99e57587def5d7abbd67734997c4fd9f607d68c15d2f36f83dada66b9d6",
+    "bytes": 2031,
+    "retrieved_utc": "2026-11-22T20:01:31Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPY6AZfq2/w/800/h/317/theme/light/logo.png",
+    "sha256": "27faea0bc5ffc7d00d9033575b91a71f38993088cf2ce8dc06be498a76792273",
+    "bytes": 6038,
+    "retrieved_utc": "2026-11-22T20:01:32Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPY6AZfq2/theme/dark/logo.svg",
+    "sha256": "f6ba3e2c5c4518d36f9a4f80e7175d31efecbe09234d8ad926c5098310281b39",
+    "bytes": 1902,
+    "retrieved_utc": "2026-11-22T20:01:32Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPY6AZfq2/w/800/h/317/theme/dark/logo.png",
+    "sha256": "b26650d88d225193794891b163a7b45ddc1ac0ae6d50f0b62a8daed1010d8112",
+    "bytes": 6037,
+    "retrieved_utc": "2026-11-22T20:01:32Z"
+   }
+  ]
+ }
+}

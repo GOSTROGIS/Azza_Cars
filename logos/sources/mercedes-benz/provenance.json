@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "idsWGwlSmy",
+  "name": "Mercedes-Benz",
+  "domain": "mercedes-benz.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#00ADEF",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/theme/light/symbol.svg",
+    "sha256": "ee2148f1d99eda754ea90b29c00d079f07d5f5d2874df9cb21f10f2dd5e4cb5b",
+    "bytes": 1176,
+    "retrieved_utc": "2026-11-22T20:01:47Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/w/800/h/773/theme/light/symbol.png",
+    "sha256": "2a89a395ebc3b43ac2ab993af1c95de85bf307772fc88a8350cbd51621eaf815",
+    "bytes": 13264,
+    "retrieved_utc": "2026-11-22T20:01:47Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/theme/dark/symbol.svg",
+    "sha256": "6b11c7cca2226ed19b9152bb8f39a063868501beab23ff381e19decddbd0dd74",
+    "bytes": 16550,
+    "retrieved_utc": "2026-11-22T20:01:47Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/w/800/h/800/theme/dark/symbol.png",
+    "sha256": "4d2d9bd61069dfd4c3ad573020e986e4c0c09cf1809acb2d6798923996e40ef5",
+    "bytes": 78766,
+    "retrieved_utc": "2026-11-22T20:01:47Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/theme/light/logo.svg",
+    "sha256": "1a34b39fde4fc0e8751fc22821b162e7c97e386f1079a8e8880eaeff24c0457c",
+    "bytes": 9427,
+    "retrieved_utc": "2026-11-22T20:01:48Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/w/800/h/541/theme/light/logo.png",
+    "sha256": "660f5956966646bce5afdf4b99c6438210242ff3b5a65354537ebc4559a83bb4",
+    "bytes": 10531,
+    "retrieved_utc": "2026-11-22T20:01:48Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/theme/dark/logo.svg",
+    "sha256": "8a7916438917e548d069828f1f6fd21263c9062ace27da816a71cd410b76ec4b",
+    "bytes": 20870,
+    "retrieved_utc": "2026-11-22T20:01:48Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idsWGwlSmy/w/800/h/551/theme/dark/logo.png",
+    "sha256": "6c7e3cec4bc54c71515418eae88d326104439a68b7fc47a7d8e5f246329b8ee0",
+    "bytes": 32904,
+    "retrieved_utc": "2026-11-22T20:01:48Z"
+   }
+  ]
+ }
+}

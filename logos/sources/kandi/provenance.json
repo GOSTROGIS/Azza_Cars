@@ -1,0 +1,38 @@
+{
+ "brandfetch": {
+  "brand_id": "idjdxfHBEv",
+  "name": "Kandi Technology Group",
+  "domain": "kandivehicle.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#BF1876",
+    "type": "accent"
+   },
+   {
+    "hex": "#337AB7",
+    "type": "dark"
+   },
+   {
+    "hex": "#F3F3F3",
+    "type": "brand"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idjdxfHBEv/w/796/h/107/theme/dark/logo.png",
+    "sha256": "33e53930ca4ab399736b91de93a062e9e2675829bd6804c4db737bcf5c85fe8e",
+    "bytes": 28510,
+    "retrieved_utc": "2026-11-22T20:01:33Z"
+   }
+  ]
+ }
+}

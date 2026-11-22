@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idPo-rq5rw",
+  "name": "Lamborghini",
+  "domain": "lamborghini.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#181818",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#FFC001",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPo-rq5rw/theme/light/logo.svg",
+    "sha256": "ff5c5c87b57a00bba6c131124c19a455061765028db6b5a58ed7ff9676ad87f4",
+    "bytes": 14944,
+    "retrieved_utc": "2026-11-22T20:01:35Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPo-rq5rw/w/800/h/823/theme/light/logo.png",
+    "sha256": "c9078cf627bf7f08c34ce3d0f01661c0053f4d0cf1b36cd444b43b2231990d9d",
+    "bytes": 14023,
+    "retrieved_utc": "2026-11-22T20:01:36Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPo-rq5rw/theme/dark/logo.svg",
+    "sha256": "a7b362deebf0ec785bc7846a02dfe513df06679c9c7c0d1441fbe6c380ca5d9d",
+    "bytes": 14944,
+    "retrieved_utc": "2026-11-22T20:01:36Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPo-rq5rw/w/800/h/823/theme/dark/logo.png",
+    "sha256": "06e6bcebe0312ca3b1408e1e1402c7823a5f3d7992275a94b6c7796e8b669cbc",
+    "bytes": 14018,
+    "retrieved_utc": "2026-11-22T20:01:36Z"
+   }
+  ]
+ }
+}

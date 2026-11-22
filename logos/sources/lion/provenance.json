@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idSgrWRokT",
+  "name": null,
+  "domain": "lionbuses.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#4164ff",
+    "type": "accent"
+   },
+   {
+    "hex": "#1f2124",
+    "type": "dark"
+   },
+   {
+    "hex": "#d7ebf9",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idSgrWRokT/w/2560/h/1458/theme/dark/logo.png",
+    "sha256": "76452b13165e1d8e304ad9cf98ab83efe229767193ee1e1558c8f937a2b779bd",
+    "bytes": 12075,
+    "retrieved_utc": "2026-11-22T20:01:39Z"
+   }
+  ]
+ }
+}

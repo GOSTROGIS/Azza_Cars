@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idGhAppgv9",
+  "name": "Toyota",
+  "domain": "global.toyota",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#212121",
+    "type": "dark"
+   },
+   {
+    "hex": "#f1777c",
+    "type": "light"
+   },
+   {
+    "hex": "#eb0a1e",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idGhAppgv9/w/800/h/138/theme/dark/logo.png",
+    "sha256": "d866186f0450ee84e8cc030020cfda0c06940434a7f7c854cf78ebfb6253ba02",
+    "bytes": 12787,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idGhAppgv9/theme/dark/logo.svg",
+    "sha256": "2142959b5ba9694c749832391cb612fdfda108350ab97fb7145357ef4b05f09e",
+    "bytes": 2784,
+    "retrieved_utc": "2026-11-22T20:02:07Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "ideZgYuTtA",
+  "name": "Oshkosh Corporation",
+  "domain": "oshkoshcorp.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#d9583e",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/ideZgYuTtA/w/820/h/273/theme/dark/logo.png",
+    "sha256": "8643a94956ca7788dea6b19d0c5cb4936e620578b1995c40a67b95ee9cc1d05f",
+    "bytes": 4949,
+    "retrieved_utc": "2026-11-22T20:01:54Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/ideZgYuTtA/theme/dark/logo.svg",
+    "sha256": "72317a5f73379f5b1573035b3001d54279299e89536559b0ad15d625331eddcd",
+    "bytes": 7190,
+    "retrieved_utc": "2026-11-22T20:01:54Z"
+   }
+  ]
+ }
+}

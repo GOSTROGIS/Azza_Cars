@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id6m263YAz",
+  "name": "Opel",
+  "domain": "opel.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#6a0d0d",
+    "type": "dark"
+   },
+   {
+    "hex": "#efbe73",
+    "type": "light"
+   },
+   {
+    "hex": "#52a2de",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id6m263YAz/w/820/h/726/theme/dark/logo.png",
+    "sha256": "aec38b6b1c8c3388695146b45e8e00c26fbe588a46423a54276d53c5755b7479",
+    "bytes": 8840,
+    "retrieved_utc": "2026-11-22T20:01:53Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id6m263YAz/theme/dark/logo.svg",
+    "sha256": "c6bf3f23c8619b482de9cc4a5529298e0807dcc053cb705d75f554f29217634d",
+    "bytes": 2541,
+    "retrieved_utc": "2026-11-22T20:01:54Z"
+   }
+  ]
+ }
+}

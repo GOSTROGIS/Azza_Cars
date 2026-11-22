@@ -1,0 +1,68 @@
+{
+ "brandfetch": {
+  "brand_id": "id7rz18ymJ",
+  "name": "MINI",
+  "domain": "miniusa.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#00779C",
+    "type": "brand"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#00A7AC",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id7rz18ymJ/theme/light/logo.svg",
+    "sha256": "1db49ad71c53799dbde0f54358d07b369d558aa0d919739c23a0d6a3890f1fca",
+    "bytes": 1795,
+    "retrieved_utc": "2026-11-22T20:01:49Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id7rz18ymJ/w/800/h/351/theme/light/logo.png",
+    "sha256": "6146f95ae3e736d7fef13b38a7cfb023483d6c8edb5d4f8215938867c6d92dc3",
+    "bytes": 5421,
+    "retrieved_utc": "2026-11-22T20:01:49Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id7rz18ymJ/theme/dark/logo.svg",
+    "sha256": "5e564200df284db0c680a1e6e16ca398d55d5cfe717d18f9223c35a2bcf9409e",
+    "bytes": 1782,
+    "retrieved_utc": "2026-11-22T20:01:50Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id7rz18ymJ/w/800/h/351/theme/dark/logo.png",
+    "sha256": "89311e8ff4b1062125b5d8c20a50539e247be3a8554c72e01ff9022eb82729db",
+    "bytes": 5427,
+    "retrieved_utc": "2026-11-22T20:01:50Z"
+   }
+  ]
+ }
+}

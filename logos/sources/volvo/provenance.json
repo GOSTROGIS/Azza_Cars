@@ -1,0 +1,90 @@
+{
+ "brandfetch": {
+  "brand_id": "id46Eadm1_",
+  "name": "Volvo Cars",
+  "domain": "volvocars.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id46Eadm1_/w/300/h/23/theme/light/logo.png",
+    "sha256": "3032e6272b328725f0a3760047d4960d3748692e4e8268c2bc0b72cb63264a7a",
+    "bytes": 1079,
+    "retrieved_utc": "2026-11-22T20:02:08Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id46Eadm1_/theme/dark/logo.svg",
+    "sha256": "99b7901829469a908ca952201aabfd89fbfd5b855a86892221abecb81704ed4f",
+    "bytes": 1631,
+    "retrieved_utc": "2026-11-22T20:02:09Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id46Eadm1_/w/800/h/62/theme/dark/logo.png",
+    "sha256": "10531df266a5865c6024ceda5d395f9618770ee41e7601728a442fbc7226a17c",
+    "bytes": 2821,
+    "retrieved_utc": "2026-11-22T20:02:09Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id46Eadm1_/theme/light/symbol.svg",
+    "sha256": "d59933ab2611710ae43dbbd42de8dfadf952dafa81db11b87e41cf2ade9d320b",
+    "bytes": 2273,
+    "retrieved_utc": "2026-11-22T20:02:09Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id46Eadm1_/w/800/h/800/theme/light/symbol.png",
+    "sha256": "993df40da62aa5f9d7ba9be065fb2e5f4196a67dc0ab70851d210aa14c1bcf59",
+    "bytes": 27260,
+    "retrieved_utc": "2026-11-22T20:02:09Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id46Eadm1_/theme/dark/symbol.svg",
+    "sha256": "e33f1796de28f825acbecad6f35f6777b83224c1f0bd3fb764f7195a69d20897",
+    "bytes": 2112,
+    "retrieved_utc": "2026-11-22T20:02:09Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id46Eadm1_/w/800/h/800/theme/dark/symbol.png",
+    "sha256": "fe33ca9e14971b290c5d1fa48d4bf07ff1fa97213d5bda28f7ae8ba2cf3b2fed",
+    "bytes": 26857,
+    "retrieved_utc": "2026-11-22T20:02:10Z"
+   }
+  ]
+ }
+}

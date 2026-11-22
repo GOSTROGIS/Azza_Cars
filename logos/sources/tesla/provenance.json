@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "id2S-kXbuK",
+  "name": "Tesla",
+  "domain": "tesla.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#3E6AE1",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/theme/light/logo.svg",
+    "sha256": "0af3d7dd7f644ec5107332c94715a4a9708905936226abc2afacd9f71fc9d3ef",
+    "bytes": 827,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/w/800/h/82/theme/light/logo.png",
+    "sha256": "a5ba33c302fb54cf272412df8452ef8c05fb1ef5b9df58ab61147c9a842bc17c",
+    "bytes": 1550,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/theme/dark/logo.svg",
+    "sha256": "f4836d44e077e46ea20719c23abf86b6cbe72a718ae21c3e3698dc4a628b272e",
+    "bytes": 830,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/w/800/h/82/theme/dark/logo.png",
+    "sha256": "bfcd880874f52c7ce7298857c6d688d317e3272ba8ee2a23adb63a77faa6c777",
+    "bytes": 1536,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/theme/light/symbol.svg",
+    "sha256": "dfe122d5c5c64afe4d6af77dd8d3119c976a603cf055400f15808230c475bd7a",
+    "bytes": 1034,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/w/800/h/796/theme/light/symbol.png",
+    "sha256": "121b57fc3172cf7a8c9a199a9df2254c206563f7c6d828028e351f53b307e97b",
+    "bytes": 7928,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/theme/dark/symbol.svg",
+    "sha256": "d3f6c73931f48fdb801912a83d30f7a2c38c2f2aab1e5f69beb788be4a73f61d",
+    "bytes": 1034,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id2S-kXbuK/w/800/h/796/theme/dark/symbol.png",
+    "sha256": "0514e7df8f0eebb698ddcc4edb9715a60bbbc79ce6fff66d30593952a4f13238",
+    "bytes": 8573,
+    "retrieved_utc": "2026-11-22T20:02:06Z"
+   }
+  ]
+ }
+}

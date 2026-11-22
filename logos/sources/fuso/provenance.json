@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idTgCynIp6",
+  "name": "Mitsubishi Fuso",
+  "domain": "mitsubishi-fuso.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#e10202",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#beaa39",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idTgCynIp6/w/820/h/158/theme/dark/logo.png",
+    "sha256": "825a0137efd699a40c4583aea0f90d70ad2b27c6845c01d53202f2d910054244",
+    "bytes": 3478,
+    "retrieved_utc": "2026-11-22T20:01:23Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idTgCynIp6/theme/dark/logo.svg",
+    "sha256": "98c7aaaf961098b328f8c18aadd30181e89a0be0c56c44116e4bc13cf725b0ee",
+    "bytes": 3689,
+    "retrieved_utc": "2026-11-22T20:01:23Z"
+   }
+  ]
+ }
+}

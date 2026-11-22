@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "ida_HqcXq2",
+  "name": "Leapmotor",
+  "domain": "leapmotor.net",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#10500F",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/ida_HqcXq2/theme/light/logo.svg",
+    "sha256": "b9ea2699120185be12225fad72967221ac5550cf0620f1c011dcf8113b585796",
+    "bytes": 4843,
+    "retrieved_utc": "2026-11-22T20:01:36Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/ida_HqcXq2/w/800/h/100/theme/light/logo.png",
+    "sha256": "ca38331bfb1c1f06591f9863a770c768a55cfe3604ddd13818321dc79479cc64",
+    "bytes": 3467,
+    "retrieved_utc": "2026-11-22T20:01:36Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/ida_HqcXq2/theme/dark/logo.svg",
+    "sha256": "98f11b1ea9e7618dcc23a36269b71c7a8038f2d4a91bd2cbc582e79ae10f1af3",
+    "bytes": 12315,
+    "retrieved_utc": "2026-11-22T20:01:37Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/ida_HqcXq2/w/800/h/100/theme/dark/logo.png",
+    "sha256": "015124ca9057ae6730eb509ef5d5abf0f6928fbdbbcc06fb32582cea66f5e54b",
+    "bytes": 3447,
+    "retrieved_utc": "2026-11-22T20:01:37Z"
+   }
+  ]
+ }
+}

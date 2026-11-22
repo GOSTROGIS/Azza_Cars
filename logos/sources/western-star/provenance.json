@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idrAln-CK4",
+  "name": "Western Star Trucks",
+  "domain": "westernstartrucks.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#0b1d29",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#ea5b1f",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idrAln-CK4/w/200/h/130/theme/dark/logo.png",
+    "sha256": "4e43d721f61ddf72731da3c486ad45028fc346491fea611756bbf4e89bedb933",
+    "bytes": 4340,
+    "retrieved_utc": "2026-11-22T20:02:10Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idAfYJ2X2Y",
+  "name": "McLaren",
+  "domain": "mclaren.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#FF9E1C",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idAfYJ2X2Y/theme/light/logo.svg",
+    "sha256": "9c82d4dcc7da01696cda139e679f48446bedac505c09a735344c43f9ae771b39",
+    "bytes": 1980,
+    "retrieved_utc": "2026-11-22T20:01:46Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idAfYJ2X2Y/w/800/h/116/theme/light/logo.png",
+    "sha256": "cf187939671752707e561e1cac9dd382af468a2f1941bede3cb50e582c29f27a",
+    "bytes": 3265,
+    "retrieved_utc": "2026-11-22T20:01:46Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idAfYJ2X2Y/theme/dark/logo.svg",
+    "sha256": "ad9c0e6638a6a87501b01eedc9d584e544b20de64db4641d3e6634b3983ea6aa",
+    "bytes": 1807,
+    "retrieved_utc": "2026-11-22T20:01:46Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idAfYJ2X2Y/w/800/h/116/theme/dark/logo.png",
+    "sha256": "f216bf5dfd11f77c5888f58caf0513d3b989fe2db7a58c1fc155732944d9f922",
+    "bytes": 3271,
+    "retrieved_utc": "2026-11-22T20:01:47Z"
+   }
+  ]
+ }
+}

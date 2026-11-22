@@ -1,0 +1,60 @@
+{
+ "brandfetch": {
+  "brand_id": "idYZ-4Cs-J",
+  "name": "Polestar",
+  "domain": "polestar.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idYZ-4Cs-J/theme/light/logo.svg",
+    "sha256": "7263861beed8cc3fe52362fa671f8c23972df5ee59e9c3a09e7f7e60d5369ea2",
+    "bytes": 5775,
+    "retrieved_utc": "2026-11-22T20:01:55Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idYZ-4Cs-J/w/800/h/177/theme/light/logo.png",
+    "sha256": "7271a74a967e8e93f762dd9456ac106525204b8c191e3eda7cfab43274015fd6",
+    "bytes": 5991,
+    "retrieved_utc": "2026-11-22T20:01:55Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idYZ-4Cs-J/theme/dark/logo.svg",
+    "sha256": "4c281630c6f573d6df354bc0c9f9709de1cc440cc5a38b30be50989626ad3328",
+    "bytes": 5760,
+    "retrieved_utc": "2026-11-22T20:01:56Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idYZ-4Cs-J/w/800/h/177/theme/dark/logo.png",
+    "sha256": "cacc59dbbed3f257206d2fa1558a922cd03e6bdcc9df8bf9844f9c36113ed41d",
+    "bytes": 5994,
+    "retrieved_utc": "2026-11-22T20:01:56Z"
+   }
+  ]
+ }
+}

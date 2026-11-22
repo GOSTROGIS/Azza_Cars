@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idzC0F-NOl",
+  "name": "Panoz LLC",
+  "domain": "panoz.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#7c0904",
+    "type": "dark"
+   },
+   {
+    "hex": "#e79fda",
+    "type": "light"
+   },
+   {
+    "hex": "#0032cb",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idzC0F-NOl/w/104/h/150/theme/dark/logo.png",
+    "sha256": "b6385e41a9396c0e6f316f254355ed812b2484ffec5afc4ec8947a4dc4a53be0",
+    "bytes": 7293,
+    "retrieved_utc": "2026-11-22T20:01:54Z"
+   }
+  ]
+ }
+}

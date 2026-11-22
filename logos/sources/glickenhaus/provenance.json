@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "id06cPZFmZ",
+  "name": "Scuderia Cameron Glickenhaus",
+  "domain": "glickenhausracing.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#ff781b",
+    "type": "accent"
+   },
+   {
+    "hex": "#9c4d10",
+    "type": "dark"
+   },
+   {
+    "hex": "#73beef",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id06cPZFmZ/w/276/h/361/theme/light/logo.png",
+    "sha256": "dec94aefbdb05f919c6b3bbd894a6b7f5141ff1adf217df887bfb5e27e6de227",
+    "bytes": 20359,
+    "retrieved_utc": "2026-11-22T20:01:25Z"
+   }
+  ]
+ }
+}

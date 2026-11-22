@@ -1,0 +1,100 @@
+{
+ "brandfetch": {
+  "brand_id": "idXsxJOrRY",
+  "name": "International",
+  "domain": "international.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#272623",
+    "type": "brand"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/theme/light/symbol.svg",
+    "sha256": "256d2b8392ad2254afc3f07c46f26fa92a21fd7393bf51dae5aa8e0cfc6a599b",
+    "bytes": 286,
+    "retrieved_utc": "2026-11-22T20:01:28Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/w/800/h/696/theme/light/symbol.png",
+    "sha256": "d92b0551b36b9c95b74ed73bbf7baad4daaf07c79e138f2f786e6f481d53db19",
+    "bytes": 7091,
+    "retrieved_utc": "2026-11-22T20:01:28Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/theme/dark/symbol.svg",
+    "sha256": "2779cbad629e6ae8b652a4cf53b7b3b93eab764c699ff5417011f0a86e66de1d",
+    "bytes": 286,
+    "retrieved_utc": "2026-11-22T20:01:28Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/w/800/h/696/theme/dark/symbol.png",
+    "sha256": "d6df8b0d38e2f4d01693b798ae532d9bb61c2031fc0aec10f3483dd25b2c9b88",
+    "bytes": 7067,
+    "retrieved_utc": "2026-11-22T20:01:29Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/theme/light/logo.svg",
+    "sha256": "0329c9e73fd24417a6180c80abc5d88acac4d13651a8d5c29754f693bc870eec",
+    "bytes": 2334,
+    "retrieved_utc": "2026-11-22T20:01:29Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/w/800/h/82/theme/light/logo.png",
+    "sha256": "e6d8d5e63c14ea995ac770f2f93152421b7f40d548db4f2b68b512a0cbbf96d1",
+    "bytes": 3599,
+    "retrieved_utc": "2026-11-22T20:01:29Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/theme/dark/logo.svg",
+    "sha256": "cf25451822f5ca0562d1865ae11983348e146e286cbe98d3b81e04ede7b48d87",
+    "bytes": 2334,
+    "retrieved_utc": "2026-11-22T20:01:29Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idXsxJOrRY/w/800/h/82/theme/dark/logo.png",
+    "sha256": "c7938e3fb10de974e95d46f098cf4738a40a90c4b740e0367f43262daaa9eeb9",
+    "bytes": 3530,
+    "retrieved_utc": "2026-11-22T20:01:29Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idezWwG5Be",
+  "name": "CHERY",
+  "domain": "chery.cn",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#c30d23",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#f1f1f1",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idezWwG5Be/w/820/h/315/theme/dark/logo.png",
+    "sha256": "2f6ac3e2f4e8b19b356b536922892fe15a6ac5a0989722a8f31d557c84df1e2e",
+    "bytes": 5284,
+    "retrieved_utc": "2026-11-22T20:01:17Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idezWwG5Be/theme/dark/logo.svg",
+    "sha256": "3750fa0669747782bf78904df0aee94d7bb6c89e16d7f7699840089ba5d7354a",
+    "bytes": 3486,
+    "retrieved_utc": "2026-11-22T20:01:17Z"
+   }
+  ]
+ }
+}

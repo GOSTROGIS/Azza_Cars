@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idImzo1xhR",
+  "name": "Peugeot Brasil",
+  "domain": "peugeot.com.br",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#0074e8",
+    "type": "accent"
+   },
+   {
+    "hex": "#5b6a0d",
+    "type": "dark"
+   },
+   {
+    "hex": "#f2d5a7",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idImzo1xhR/w/100/h/110/theme/light/logo.png",
+    "sha256": "f92a1bc03da5c73317fdc8225f9c6c0fa741af9698ea8a308846ea6c529c2805",
+    "bytes": 1713,
+    "retrieved_utc": "2026-11-22T20:01:55Z"
+   }
+  ]
+ }
+}

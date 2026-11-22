@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idtFaRXnlR",
+  "name": "Mack Trucks",
+  "domain": "macktrucks.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#141414",
+    "type": "dark"
+   },
+   {
+    "hex": "#e1c18f",
+    "type": "light"
+   },
+   {
+    "hex": "#6f542a",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idtFaRXnlR/w/180/h/180/theme/dark/logo.png",
+    "sha256": "44c8a7adc2d618e553edce3c4453eb899a421b19ea62c229ddead316a898b59f",
+    "bytes": 4380,
+    "retrieved_utc": "2026-11-22T20:01:42Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "wikidata": {
+  "qid": "Q23317",
+  "property": "P154",
+  "files": [
+   {
+    "file": "Audi.png",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Audi.png",
+    "error": "HTTP 429"
+   },
+   {
+    "file": "2808 audi logo nuevo th 2.jpg",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2808_audi_logo_nuevo_th_2.jpg",
+    "error": "HTTP 429"
+   },
+   {
+    "file": "Audi logo detail.svg",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Audi_logo_detail.svg",
+    "error": "HTTP 429"
+   },
+   {
+    "file": "Audi-Logo 2016.svg",
+    "rank": "PreferredRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Audi-Logo_2016.svg",
+    "saved_as": "commons/Audi-Logo_2016.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Audi-Logo_2016.svg",
+    "sha256": "0277502116b0ef3486e9b5002bbf45dfcabf7246614a84744ac3ff25c3e77d38",
+    "bytes": 4788,
+    "retrieved_utc": "2026-11-22T19:53:37Z"
+   }
+  ]
+ },
+ "brandfetch": {
+  "brand_id": "idW2NumpEj",
+  "name": "Audisouthafrica",
+  "domain": "audi.co.za",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#2c343f",
+    "type": "dark"
+   },
+   {
+    "hex": "#bec0c5",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idW2NumpEj/w/820/h/285/theme/light/logo.png",
+    "sha256": "821ca227a54faeae3a4ed3c19b3c5632e61dc4fc4fcc82f3884d92927428f374",
+    "bytes": 7834,
+    "retrieved_utc": "2026-11-22T20:01:10Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idW2NumpEj/theme/light/logo.svg",
+    "sha256": "b85752880cd8a2b268f4eca8e184ce7edc7a463bf708719eb32041959ef23ef5",
+    "bytes": 2647,
+    "retrieved_utc": "2026-11-22T20:01:10Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://audi.co.za",
+  "retrieved_utc": "2026-11-22T20:11:11.164Z",
+  "files": [],
+  "page_final": "https://www.audi.co.za/",
+  "http_status": 403
+ }
+}

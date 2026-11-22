@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idYkKuNweq",
+  "name": "Shelby",
+  "domain": "shelby.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#ffb871",
+    "type": "light"
+   },
+   {
+    "hex": "#115489",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idYkKuNweq/w/275/h/66/theme/dark/logo.png",
+    "sha256": "422b77fce589564bc4212fb20156146c8e37378a05ce6318a73e4e471c6dc347",
+    "bytes": 12453,
+    "retrieved_utc": "2026-11-22T20:02:02Z"
+   }
+  ]
+ }
+}

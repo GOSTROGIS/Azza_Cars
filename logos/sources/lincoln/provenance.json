@@ -1,0 +1,40 @@
+{
+ "brandfetch": {
+  "brand_id": "ideuNLYrQg",
+  "name": "Lincoln",
+  "domain": "lincoln.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#22292b",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/ideuNLYrQg/theme/dark/logo.svg",
+    "sha256": "bd07c7366474645c0ac72c4ed6312a66ead4b8049b980c0abe6a1ca5b135c3c4",
+    "bytes": 7866,
+    "retrieved_utc": "2026-11-22T20:01:38Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/ideuNLYrQg/w/820/h/289/theme/dark/logo.png",
+    "sha256": "9edc24d507aae6b58d61d52de1300bc9f19881fd14392464bd23fc5900ce4342",
+    "bytes": 4900,
+    "retrieved_utc": "2026-11-22T20:01:38Z"
+   }
+  ]
+ }
+}

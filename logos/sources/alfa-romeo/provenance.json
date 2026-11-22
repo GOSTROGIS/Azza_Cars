@@ -1,0 +1,55 @@
+{
+ "wikidata": {
+  "qid": "Q26921",
+  "property": "P154",
+  "files": [
+   {
+    "file": "ALFA ROMEO badge on a car (cropped).jpg",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/ALFA_ROMEO_badge_on_a_car_%28cropped%29.jpg",
+    "error": "HTTP 429"
+   }
+  ]
+ },
+ "brandfetch": {
+  "brand_id": "idemhYdTUh",
+  "name": "Alfa Romeo",
+  "domain": "alfaromeo.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#292B35",
+    "type": "brand"
+   },
+   {
+    "hex": "#BA0816",
+    "type": "accent"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idemhYdTUh/w/144/h/120/theme/dark/logo.png",
+    "sha256": "10820afe1b841f996d89fb051885b6c41d9f8a5257a901303d5391d17cc44d09",
+    "bytes": 3138,
+    "retrieved_utc": "2026-11-22T20:01:08Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://alfaromeo.com",
+  "retrieved_utc": "2026-11-22T20:10:58.458Z",
+  "files": [],
+  "page_final": "https://alfaromeo.com/",
+  "http_status": 502
+ }
+}

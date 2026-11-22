@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idWpwxSA3p",
+  "name": "Volkswagen",
+  "domain": "vw.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#FFD100",
+    "type": "accent"
+   },
+   {
+    "hex": "#1B2236",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idWpwxSA3p/theme/light/logo.svg",
+    "sha256": "8d890372f9d408f42e0bc77bccf11cafa863b89861c457c383b6ef7946a8a35e",
+    "bytes": 1219,
+    "retrieved_utc": "2026-11-22T20:02:08Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idWpwxSA3p/w/800/h/800/theme/light/logo.png",
+    "sha256": "b755173cc1e2c37a311ab880d7e25472b815bc29c72131493c07e8fdfe9aebaf",
+    "bytes": 30007,
+    "retrieved_utc": "2026-11-22T20:02:08Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idWpwxSA3p/theme/dark/logo.svg",
+    "sha256": "af495395c7ff9933cf7cee4eef358fc840a8386d6e5a0cbf294d16a4c845e895",
+    "bytes": 1219,
+    "retrieved_utc": "2026-11-22T20:02:08Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idWpwxSA3p/w/800/h/800/theme/dark/logo.png",
+    "sha256": "0895b50ffd9342cd0555cbd27e7a57e5d7ed72741121bb8e7e38579e9479e873",
+    "bytes": 31804,
+    "retrieved_utc": "2026-11-22T20:02:08Z"
+   }
+  ]
+ }
+}

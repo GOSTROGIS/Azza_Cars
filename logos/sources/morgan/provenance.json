@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id951nfCWT",
+  "name": "Morgan Motor Company",
+  "domain": "morgan-motor.co.uk",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#0052b4",
+    "type": "dark"
+   },
+   {
+    "hex": "#d4b2b5",
+    "type": "light"
+   },
+   {
+    "hex": "#d80027",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id951nfCWT/theme/light/logo.svg",
+    "sha256": "ace9cbf48b6eb74dc28eb7546fbb008b5dfab6a21ff457d2bcb385631f9e3a97",
+    "bytes": 14516,
+    "retrieved_utc": "2026-11-22T20:01:51Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id951nfCWT/w/820/h/367/theme/light/logo.png",
+    "sha256": "0e5f8e92baacdf65fa29f49a4ac128810cbb6b86fc28f65e3c7f393493e4c2cb",
+    "bytes": 10721,
+    "retrieved_utc": "2026-11-22T20:01:51Z"
+   }
+  ]
+ }
+}

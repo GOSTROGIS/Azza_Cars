@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id7SCzqasa",
+  "name": "UD Trucks",
+  "domain": "udtrucks.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#d2090f",
+    "type": "accent"
+   },
+   {
+    "hex": "#010101",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id7SCzqasa/w/820/h/241/theme/dark/logo.png",
+    "sha256": "5957ae4ebf033d7e562ae759725e754853174081a654354ea6405a4e85bc2c9d",
+    "bytes": 10334,
+    "retrieved_utc": "2026-11-22T20:02:07Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id7SCzqasa/theme/dark/logo.svg",
+    "sha256": "bfd0084c137a5eef7d7853d328574725ceae3b9563dbbd3b0104a8706d360ae8",
+    "bytes": 13512,
+    "retrieved_utc": "2026-11-22T20:02:07Z"
+   }
+  ]
+ }
+}

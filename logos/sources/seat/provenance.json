@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idKPMU549q",
+  "name": "SEAT",
+  "domain": "seat.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#0c0b19",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#666666",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idKPMU549q/w/820/h/804/theme/dark/logo.png",
+    "sha256": "720e25008708d633233f7d102ad55f7402f68b4e3266d3a0eee22b4380e83d18",
+    "bytes": 5915,
+    "retrieved_utc": "2026-11-22T20:02:01Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idKPMU549q/theme/dark/logo.svg",
+    "sha256": "e72897302941f416e09430fa26d2dc4b75790e87959664d3e904d801cba8d66e",
+    "bytes": 1351,
+    "retrieved_utc": "2026-11-22T20:02:02Z"
+   }
+  ]
+ }
+}

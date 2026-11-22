@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idXYGjoJSI",
+  "name": "Mahindra Rise",
+  "domain": "mahindra.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#333333",
+    "type": "dark"
+   },
+   {
+    "hex": "#ee6c73",
+    "type": "light"
+   },
+   {
+    "hex": "#e31837",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idXYGjoJSI/w/820/h/223/theme/dark/logo.png",
+    "sha256": "5388c76a9480f9c0d69d2ceb11e11975ca829faa15fe3a44a9dbd141c0ca998e",
+    "bytes": 13655,
+    "retrieved_utc": "2026-11-22T20:01:42Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idXYGjoJSI/theme/dark/logo.svg",
+    "sha256": "f9e2f554a9f77525f1e4fa2836a6b4fe1f6dafe5041f1fc652cb3c6ca4072ec5",
+    "bytes": 10694,
+    "retrieved_utc": "2026-11-22T20:01:42Z"
+   }
+  ]
+ }
+}

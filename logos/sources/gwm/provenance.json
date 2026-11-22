@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idBorQRb0g",
+  "name": "Great Wall Motor Co., Ltd.",
+  "domain": "gwm.com.cn",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#d7000f",
+    "type": "accent"
+   },
+   {
+    "hex": "#444444",
+    "type": "dark"
+   },
+   {
+    "hex": "#c1c1c1",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idBorQRb0g/w/1234/h/331/theme/dark/logo.png",
+    "sha256": "40635cee674dbad03a54eb20282700994d8651579f046c8d93269eec5361c6e1",
+    "bytes": 8599,
+    "retrieved_utc": "2026-11-22T20:01:25Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idW7y_kCul",
+  "name": "GMC",
+  "domain": "gmc.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#d81921",
+    "type": "accent"
+   },
+   {
+    "hex": "#944910",
+    "type": "dark"
+   },
+   {
+    "hex": "#fcfcfc",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idW7y_kCul/w/926/h/167/theme/dark/logo.png",
+    "sha256": "eb1fb608f9cb0906299ae21320f969d0dd16a72353f2a157fccc4d29e367662e",
+    "bytes": 27877,
+    "retrieved_utc": "2026-11-22T20:01:25Z"
+   }
+  ]
+ }
+}

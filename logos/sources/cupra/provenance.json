@@ -1,0 +1,40 @@
+{
+ "brandfetch": {
+  "brand_id": "id2cUz71hO",
+  "name": "CUPRA",
+  "domain": "cupra.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#15181e",
+    "type": "dark"
+   },
+   {
+    "hex": "#fafafa",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id2cUz71hO/w/820/h/139/theme/light/logo.png",
+    "sha256": "dee8b75f50afe74194e3fa4ddd5b0ccd69506355b6c5b2b7dfdf915afb896526",
+    "bytes": 2509,
+    "retrieved_utc": "2026-11-22T20:01:18Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id2cUz71hO/theme/light/logo.svg",
+    "sha256": "968a03aff9854e859ef2392b40e9bd7aeeabe66a159df626515b9312a8c3f50b",
+    "bytes": 2874,
+    "retrieved_utc": "2026-11-22T20:01:18Z"
+   }
+  ]
+ }
+}

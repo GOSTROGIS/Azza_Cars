@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idPMedq_sc",
+  "name": "FIAT",
+  "domain": "fiat.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#AD0C33",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPMedq_sc/theme/light/logo.svg",
+    "sha256": "c560f93e9e90b96e4bd7a1e33f7d758398ab4c21d20af3ceb14ec023d09c7653",
+    "bytes": 1108,
+    "retrieved_utc": "2026-11-22T20:01:20Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPMedq_sc/w/800/h/606/theme/light/logo.png",
+    "sha256": "c2f894efd159195591ce784a4f44a19f77020391b2fb713406457949a0d2cfde",
+    "bytes": 6368,
+    "retrieved_utc": "2026-11-22T20:01:21Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPMedq_sc/theme/dark/logo.svg",
+    "sha256": "e52ae44bfe47ba74f9b0fe36729306211f7624e1a0467356eb2583d22bbb5aeb",
+    "bytes": 1108,
+    "retrieved_utc": "2026-11-22T20:01:21Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPMedq_sc/w/800/h/606/theme/dark/logo.png",
+    "sha256": "d6150f603e47d46652a55508eb99b945a4d13fb3759d60a8c1eb0b221a67c909",
+    "bytes": 6327,
+    "retrieved_utc": "2026-11-22T20:01:21Z"
+   }
+  ]
+ }
+}

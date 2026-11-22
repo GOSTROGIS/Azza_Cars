@@ -1,0 +1,135 @@
+{
+ "wikidata": {
+  "qid": "Q26678",
+  "property": "P154",
+  "files": [
+   {
+    "file": "BMW.svg",
+    "rank": "NormalRank",
+    "start": "1997",
+    "end": "2020",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg",
+    "saved_as": "commons/BMW.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:BMW.svg",
+    "sha256": "b2226efc7bfb81d6b4f6d3002205ff2d2da2e5eb75455694dcd9645ba6e460a7",
+    "bytes": 12190,
+    "retrieved_utc": "2026-11-22T19:53:39Z"
+   },
+   {
+    "file": "BMW 1936-1963 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1936",
+    "end": "1963",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/BMW_1936-1963_Logo.svg",
+    "error": "HTTP 429"
+   },
+   {
+    "file": "Logo BMW Group 2021.svg",
+    "rank": "PreferredRank",
+    "start": "2021",
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_BMW_Group_2021.svg",
+    "saved_as": "commons/Logo_BMW_Group_2021.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Logo_BMW_Group_2021.svg",
+    "sha256": "d887c0dc33063aec344eefb296c5cd4f877195fb9df1345c4f4482fdb2f2b50e",
+    "bytes": 5787,
+    "retrieved_utc": "2026-11-22T19:53:57Z"
+   },
+   {
+    "file": "BMW 1970-1989 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1970",
+    "end": "1989",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/BMW_1970-1989_Logo.svg",
+    "error": "HTTP 429"
+   },
+   {
+    "file": "BMW logo (gray).svg",
+    "rank": "DeprecatedRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg",
+    "saved_as": "commons/BMW_logo_(gray).svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:BMW_logo_%28gray%29.svg",
+    "sha256": "d797f1774d210ba5d2854dfca6927ca95e8fa3c464efb1800bd2f4b90b91413a",
+    "bytes": 6044,
+    "retrieved_utc": "2026-11-22T19:54:15Z"
+   },
+   {
+    "file": "BMW 1916-1933 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1916",
+    "end": "1933",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/BMW_1916-1933_Logo.svg",
+    "error": "HTTP 429"
+   },
+   {
+    "file": "BMW 1963-1997 Logo.svg",
+    "rank": "NormalRank",
+    "start": "1963",
+    "end": "1997",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/BMW_1963-1997_Logo.svg",
+    "error": "HTTP 429"
+   }
+  ]
+ },
+ "brandfetch": {
+  "brand_id": "idX0fsMOpE",
+  "name": "BMW",
+  "domain": "bmw.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#262626",
+    "type": "brand"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#1B69D4",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idX0fsMOpE/theme/light/logo.svg",
+    "sha256": "d846cc17048a783c4dcccae38a5da9332a784c810ed8360dda5d04bcb3167701",
+    "bytes": 2169,
+    "retrieved_utc": "2026-11-22T20:01:12Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idX0fsMOpE/w/800/h/789/theme/light/logo.png",
+    "sha256": "d80b76d06ad56e22ab12b59bb3df0a1caff557c8db31a87358a33cc81e6daae4",
+    "bytes": 14215,
+    "retrieved_utc": "2026-11-22T20:01:12Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idX0fsMOpE/w/192/h/192/theme/dark/logo.png",
+    "sha256": "d1be757e5b110db3a74350be9c19aac6fdf2e5d776cd7d2b0e7131da1721c3f5",
+    "bytes": 4129,
+    "retrieved_utc": "2026-11-22T20:01:12Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://bmw.com",
+  "retrieved_utc": "2026-11-22T20:11:22.643Z",
+  "files": [],
+  "page_final": "https://www.bmwusa.com/en/home.html",
+  "http_status": 404
+ }
+}

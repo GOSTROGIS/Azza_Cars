@@ -1,0 +1,40 @@
+{
+ "brandfetch": {
+  "brand_id": "idT1k4R0SI",
+  "name": "OMODA UK",
+  "domain": "omodajaecoo.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#295061",
+    "type": "dark"
+   },
+   {
+    "hex": "#e8e9ea",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idT1k4R0SI/w/820/h/127/theme/dark/logo.png",
+    "sha256": "5fa1cb07ff304502a5240f45723ee6ceac5b1d3486150d7fdb283ff7e2bdf843",
+    "bytes": 2885,
+    "retrieved_utc": "2026-11-22T20:01:53Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idT1k4R0SI/theme/dark/logo.svg",
+    "sha256": "4218040ac2ab9b1e5b6f414587b3ad006ee933ad3215f18b13a1c3600e5f1b20",
+    "bytes": 2438,
+    "retrieved_utc": "2026-11-22T20:01:53Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "brandfetch": {
+  "brand_id": "idXPqT-KEy",
+  "name": "Kia",
+  "domain": "kia.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#05141F",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idXPqT-KEy/theme/light/logo.svg",
+    "sha256": "2808a7bb0a9813bc7fa4100274d6219eaf6855e21470f307e9acf0932a857a55",
+    "bytes": 1309,
+    "retrieved_utc": "2026-11-22T20:01:34Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idXPqT-KEy/w/800/h/188/theme/light/logo.png",
+    "sha256": "5970700b653a61a4de36586d931603bd056edfcb7c188694fa4ce4ee18608282",
+    "bytes": 3311,
+    "retrieved_utc": "2026-11-22T20:01:34Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idXPqT-KEy/theme/dark/logo.svg",
+    "sha256": "d827b24e059b962b3ae0ee9ad16ae994a5aa2f5470978aa12f4480e640f43b20",
+    "bytes": 1309,
+    "retrieved_utc": "2026-11-22T20:01:34Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idXPqT-KEy/w/800/h/188/theme/dark/logo.png",
+    "sha256": "fda5657981a0411bcd92a9527e8a5ca63874b36d87972769883d375b387eda97",
+    "bytes": 3311,
+    "retrieved_utc": "2026-11-22T20:01:34Z"
+   }
+  ]
+ }
+}

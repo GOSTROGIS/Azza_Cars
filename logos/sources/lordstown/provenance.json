@@ -1,0 +1,60 @@
+{
+ "brandfetch": {
+  "brand_id": "idKsfGWM78",
+  "name": "Lordstown Motors",
+  "domain": "lordstownmotors.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#4b3937",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idKsfGWM78/theme/light/logo.svg",
+    "sha256": "feac095b5f67052411ce82aaa51d359b4801712724cfed5deb717a6b6e99ef39",
+    "bytes": 3204,
+    "retrieved_utc": "2026-11-22T20:01:39Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idKsfGWM78/w/800/h/76/theme/light/logo.png",
+    "sha256": "001848001694fd5f5a60c7cfa083516936bbe3e6f9058faab96cdeab23ae475b",
+    "bytes": 6311,
+    "retrieved_utc": "2026-11-22T20:01:39Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idKsfGWM78/theme/dark/logo.svg",
+    "sha256": "4dea7f4ea7ee5b702e546842c71aa68116be8bc36199da3d3b81c243296bed7c",
+    "bytes": 2971,
+    "retrieved_utc": "2026-11-22T20:01:39Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idKsfGWM78/w/800/h/76/theme/dark/logo.png",
+    "sha256": "738a2104d713e72e33c68b23ec2dbdf8f0b4ab2179301e7b5f127ac79c3cf23b",
+    "bytes": 6495,
+    "retrieved_utc": "2026-11-22T20:01:39Z"
+   }
+  ]
+ }
+}

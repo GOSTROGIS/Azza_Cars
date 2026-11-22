@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "idatoDC6-X",
+  "name": "Geely",
+  "domain": "geely.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#0160E6",
+    "type": "accent"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/theme/light/logo.svg",
+    "sha256": "cc5392c443e0c653ae691497b6c07593e6293c1b91e1f199fb6544973f39f2ad",
+    "bytes": 4202,
+    "retrieved_utc": "2026-11-22T20:01:23Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/w/800/h/87/theme/light/logo.png",
+    "sha256": "58c856163c8f053a7c18b343340429efa4fa78a7611acf07d4c70b0a06a06fb5",
+    "bytes": 2733,
+    "retrieved_utc": "2026-11-22T20:01:23Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/theme/dark/logo.svg",
+    "sha256": "bd5858a59711b274b34ab8ce3b26686fd7ddf9373b4c99a10e0832281eaae3b3",
+    "bytes": 3983,
+    "retrieved_utc": "2026-11-22T20:01:23Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/w/800/h/87/theme/dark/logo.png",
+    "sha256": "b99b2adcb81b935a74657b42c2faff42d4ca59856a1081d9941674e525171832",
+    "bytes": 2683,
+    "retrieved_utc": "2026-11-22T20:01:24Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/theme/light/symbol.svg",
+    "sha256": "5b5f9aa6cfb7639d83ef2aeabcdb81785726e92fa21694b06e3542657d71177d",
+    "bytes": 3016,
+    "retrieved_utc": "2026-11-22T20:01:24Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/w/800/h/236/theme/light/symbol.png",
+    "sha256": "33cf1c93a9e4cc154113da20a2771f0acd25cb7f11058416e5242003c76e9da1",
+    "bytes": 4034,
+    "retrieved_utc": "2026-11-22T20:01:24Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/theme/dark/symbol.svg",
+    "sha256": "53dc681f65b63daebdb00d1af4a5c58e31be5525944210876222107be990fcdb",
+    "bytes": 2857,
+    "retrieved_utc": "2026-11-22T20:01:24Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idatoDC6-X/w/800/h/236/theme/dark/symbol.png",
+    "sha256": "f5cf04369586be067432104d3104288c6b8e1f69d8886f6b923f0afc6c801847",
+    "bytes": 4033,
+    "retrieved_utc": "2026-11-22T20:01:24Z"
+   }
+  ]
+ }
+}

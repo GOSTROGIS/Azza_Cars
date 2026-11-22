@@ -1,0 +1,69 @@
+{
+ "wikidata": {
+  "qid": "Q27224",
+  "property": "P154",
+  "files": [
+   {
+    "file": "Bentley, Theaterplaz-102.jpg",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bentley%2C_Theaterplaz-102.jpg",
+    "saved_as": "commons/Bentley,_Theaterplaz-102.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bentley%2C_Theaterplaz-102.jpg",
+    "sha256": "fdf9c6590324c6397f45b93ca2851e37bea36ac8e1b6a31957582d270eeb6dc3",
+    "bytes": 3552074,
+    "retrieved_utc": "2026-11-22T19:53:39Z"
+   }
+  ]
+ },
+ "brandfetch": {
+  "brand_id": "idBM67A4sF",
+  "name": "Bentley Motors",
+  "domain": "bentleymotors.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#173318",
+    "type": "brand"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#384D45",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idBM67A4sF/w/1000/h/500/theme/light/logo.png",
+    "sha256": "0ed6779510fc75d311df97da5455190ed2e7fd11ff877d4363e5b97f223f437b",
+    "bytes": 22811,
+    "retrieved_utc": "2026-11-22T20:01:11Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idBM67A4sF/w/1000/h/500/theme/dark/logo.png",
+    "sha256": "14d697bf41d6e94d3912fe7f8cd36d65c635047ad4c63a9eee687f0477ab91b2",
+    "bytes": 16103,
+    "retrieved_utc": "2026-11-22T20:01:11Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://bentleymotors.com",
+  "retrieved_utc": "2026-11-22T20:11:18.342Z",
+  "files": [],
+  "page_final": "https://bentleymotors.com/",
+  "http_status": 403
+ }
+}

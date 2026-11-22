@@ -1,0 +1,71 @@
+{
+ "brandfetch": {
+  "brand_id": "idjcY_09lV",
+  "name": "Cadillac",
+  "domain": "cadillac.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#0D0D0D",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#211FAB",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idjcY_09lV/theme/light/logo.svg",
+    "sha256": "4003d0269116c9b1cf16e78a4ada2ddafbfe9aae1b46541b8323f3ed4109cc62",
+    "bytes": 1780,
+    "retrieved_utc": "2026-11-22T20:01:15Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idjcY_09lV/w/800/h/301/theme/light/logo.png",
+    "sha256": "ea0b9347c3ae736de4ec7fecd44b0328dcf345275fea6a802a96fbccd7b9b85e",
+    "bytes": 5348,
+    "retrieved_utc": "2026-11-22T20:01:15Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idjcY_09lV/theme/dark/logo.svg",
+    "sha256": "3df1982ad077e9eb3e6ab18b7e2be75a3e0900816f6c88782e33aa01f317bc3c",
+    "bytes": 1711,
+    "retrieved_utc": "2026-11-22T20:01:16Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idjcY_09lV/w/800/h/301/theme/dark/logo.png",
+    "sha256": "45cf84bafed16128b4c75a9af8ba1f5845a9435044f14c727961765e0f2cd775",
+    "bytes": 5347,
+    "retrieved_utc": "2026-11-22T20:01:16Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://cadillac.com",
+  "retrieved_utc": "2026-11-22T20:11:38.394Z",
+  "files": [],
+  "page_final": "https://www.cadillac.com/",
+  "http_status": 403
+ }
+}

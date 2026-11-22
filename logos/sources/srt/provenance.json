@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id3_mHybWv",
+  "name": "Dodge",
+  "domain": "dodge.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#224362",
+    "type": "dark"
+   },
+   {
+    "hex": "#efba6b",
+    "type": "light"
+   },
+   {
+    "hex": "#e02826",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id3_mHybWv/w/820/h/144/theme/light/logo.png",
+    "sha256": "091009bfd6b19bdbbeebce36a86615c7c7a55f7629729d745448972979a6d9f2",
+    "bytes": 3569,
+    "retrieved_utc": "2026-11-22T20:02:05Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id3_mHybWv/theme/light/logo.svg",
+    "sha256": "e7566ac2c3cb134002d951a3448ebaabc7c6baecf8b2f7f04f57e03a21034a06",
+    "bytes": 2792,
+    "retrieved_utc": "2026-11-22T20:02:05Z"
+   }
+  ]
+ }
+}

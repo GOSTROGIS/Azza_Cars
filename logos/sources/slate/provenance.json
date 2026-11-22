@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idmNXV-Cnc",
+  "name": "Slate Auto",
+  "domain": "slate.auto",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#ff4f00",
+    "type": "accent"
+   },
+   {
+    "hex": "#f9f9f9",
+    "type": "light"
+   },
+   {
+    "hex": "#262626",
+    "type": "dark"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idmNXV-Cnc/theme/light/logo.svg",
+    "sha256": "d29adaf19dbfd859b24bd49865ca43b7b6568462b8f32abe1c9b8a480fb689da",
+    "bytes": 830,
+    "retrieved_utc": "2026-11-22T20:02:02Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idmNXV-Cnc/w/800/h/103/theme/light/logo.png",
+    "sha256": "43df4092f09b3522d610eb7c046db2cc2045fafea054c65a8160875a7ce38b61",
+    "bytes": 2260,
+    "retrieved_utc": "2026-11-22T20:02:03Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idmNXV-Cnc/theme/dark/logo.svg",
+    "sha256": "4c8ab494ceae371e41d2ef4de40d46054f27a1d88f8c3607de4a99f9021dbb64",
+    "bytes": 873,
+    "retrieved_utc": "2026-11-22T20:02:03Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idmNXV-Cnc/w/800/h/104/theme/dark/logo.png",
+    "sha256": "1a9ffe09f418f38ca698ec061852eb00913c7647fb375dfe2e27f49e3f47f46d",
+    "bytes": 2119,
+    "retrieved_utc": "2026-11-22T20:02:03Z"
+   }
+  ]
+ }
+}

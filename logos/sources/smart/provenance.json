@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idwda_9fcc",
+  "name": "smart Europe",
+  "domain": "smart.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#141413",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#D7E600",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idwda_9fcc/theme/light/logo.svg",
+    "sha256": "40854731d44188b0b916fd11113c929e34b3226395a399641d5f4776465a7ed8",
+    "bytes": 3285,
+    "retrieved_utc": "2026-11-22T20:02:03Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idwda_9fcc/w/800/h/206/theme/light/logo.png",
+    "sha256": "b38551fb23bc897333382611c60303a54ae5c563e882a275ab523db050c97804",
+    "bytes": 5000,
+    "retrieved_utc": "2026-11-22T20:02:03Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idwda_9fcc/theme/dark/logo.svg",
+    "sha256": "d739ad9a42188bb51d200115233ce75653a826ad2a2e22a9271f1f1663fd094e",
+    "bytes": 3180,
+    "retrieved_utc": "2026-11-22T20:02:04Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idwda_9fcc/w/800/h/206/theme/dark/logo.png",
+    "sha256": "f1cbd8ffc450b72f240de5eb023d7ef06184e0cef4038b660dddc5e4c72e1850",
+    "bytes": 5000,
+    "retrieved_utc": "2026-11-22T20:02:04Z"
+   }
+  ]
+ }
+}

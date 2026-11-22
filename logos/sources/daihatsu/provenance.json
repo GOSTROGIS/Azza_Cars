@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "iddGETUv79",
+  "name": "Daihatsu",
+  "domain": "daihatsu.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#ff0000",
+    "type": "accent"
+   },
+   {
+    "hex": "#202124",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/iddGETUv79/w/820/h/149/theme/dark/logo.png",
+    "sha256": "33460771921d9dcb34d23fabde9255d30c700c689d6d758c5d892639ab434aca",
+    "bytes": 4102,
+    "retrieved_utc": "2026-11-22T20:01:18Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/iddGETUv79/theme/dark/logo.svg",
+    "sha256": "052f43607439f369c972c5171cb8072ed6a66f5c71976586e1918bf2c9f86d4d",
+    "bytes": 3815,
+    "retrieved_utc": "2026-11-22T20:01:19Z"
+   }
+  ]
+ }
+}

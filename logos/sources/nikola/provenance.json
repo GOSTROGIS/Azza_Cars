@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "iddaPgFA_B",
+  "name": "Nikola Motor Company",
+  "domain": "nikolamotor.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#b5a130",
+    "type": "dark"
+   },
+   {
+    "hex": "#b6b6b6",
+    "type": "light"
+   },
+   {
+    "hex": "#00aeef",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/iddaPgFA_B/theme/light/logo.svg",
+    "sha256": "44866086da47200cacdab9b3b65ca7bb537a111f5ed90d67e8d2571d1e84875c",
+    "bytes": 2154,
+    "retrieved_utc": "2026-11-22T20:01:52Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/iddaPgFA_B/w/800/h/227/theme/light/logo.png",
+    "sha256": "9b77b8dd6478426e0f1a0a64e712d5b436fa11e089ceb96ebccba2edda4804db",
+    "bytes": 4798,
+    "retrieved_utc": "2026-11-22T20:01:52Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/iddaPgFA_B/theme/dark/logo.svg",
+    "sha256": "35f8e3ea8895926d86306dd067e58e9af73af12ef0ec69cf7763ed22b1f20b6d",
+    "bytes": 2533,
+    "retrieved_utc": "2026-11-22T20:01:52Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/iddaPgFA_B/w/800/h/227/theme/dark/logo.png",
+    "sha256": "eec7e04f1b0324b43ff1ab11eef6c878f366e5bb105e47cb921767d2af8f3a63",
+    "bytes": 4490,
+    "retrieved_utc": "2026-11-22T20:01:52Z"
+   }
+  ]
+ }
+}

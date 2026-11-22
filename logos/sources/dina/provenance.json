@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id1D9qGRxz",
+  "name": "DINA",
+  "domain": "dina.com.mx",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#892a23",
+    "type": "dark"
+   },
+   {
+    "hex": "#fb6962",
+    "type": "light"
+   },
+   {
+    "hex": "#e63c2f",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id1D9qGRxz/w/820/h/215/theme/dark/logo.png",
+    "sha256": "243cfd67c6456c07ccfb84ed748eaa466e1ca1daa56986f22dee2978a4bb44af",
+    "bytes": 6304,
+    "retrieved_utc": "2026-11-22T20:01:19Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id1D9qGRxz/theme/dark/logo.svg",
+    "sha256": "7cecc105100e127c4bc94589ada01ce38227af890240bf78f09ac6084f5a62cf",
+    "bytes": 3637,
+    "retrieved_utc": "2026-11-22T20:01:19Z"
+   }
+  ]
+ }
+}

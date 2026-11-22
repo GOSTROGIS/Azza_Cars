@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "id9J8em7XB",
+  "name": "Mitsubishi Motors",
+  "domain": "mitsubishi-motors.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#2B2B2B",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#E60012",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id9J8em7XB/theme/light/logo.svg",
+    "sha256": "f105b6f4b0eba7f4b96f43fab682a1de481b49b08cb83916b89e19a635019a14",
+    "bytes": 6853,
+    "retrieved_utc": "2026-11-22T20:01:50Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id9J8em7XB/w/800/h/770/theme/light/logo.png",
+    "sha256": "83efda209b4bbd9911bd00a2fb7d4979b2c3481187fefd95ddcb4e8233b1767c",
+    "bytes": 31745,
+    "retrieved_utc": "2026-11-22T20:01:50Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id9J8em7XB/theme/dark/logo.svg",
+    "sha256": "3ab4181b62d7a13ceb4b1d07eff5e0af0903810addf9ffa0c78aa17250cfd03f",
+    "bytes": 6874,
+    "retrieved_utc": "2026-11-22T20:01:51Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id9J8em7XB/w/800/h/770/theme/dark/logo.png",
+    "sha256": "3b392f9a057e5c325869240c39d5d07cd231ce26d91c7739cac8b1227631c748",
+    "bytes": 35722,
+    "retrieved_utc": "2026-11-22T20:01:51Z"
+   }
+  ]
+ }
+}

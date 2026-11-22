@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idq3jf_Vhf",
+  "name": "Rimac Automobili",
+  "domain": "rimac-automobili.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#1d6fb8",
+    "type": "accent"
+   },
+   {
+    "hex": "#07232e",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idq3jf_Vhf/w/820/h/202/theme/dark/logo.png",
+    "sha256": "be96652fd78c0a8733060a17f195ea8d10804c077c1803f3499cc21f6a1b423c",
+    "bytes": 3628,
+    "retrieved_utc": "2026-11-22T20:01:57Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idq3jf_Vhf/theme/dark/logo.svg",
+    "sha256": "481abb9111489969af39f7da8e365fac80a9b96c1300ce44e3ba6176f6f2486d",
+    "bytes": 3417,
+    "retrieved_utc": "2026-11-22T20:01:58Z"
+   }
+  ]
+ }
+}

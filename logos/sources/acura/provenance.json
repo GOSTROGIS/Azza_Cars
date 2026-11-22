@@ -1,0 +1,69 @@
+{
+ "wikidata": {
+  "qid": "Q53097",
+  "property": "P154",
+  "files": [
+   {
+    "file": "Acura logo.svg",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Acura_logo.svg",
+    "saved_as": "commons/Acura_logo.svg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Acura_logo.svg",
+    "sha256": "d178901b8c56de85ea135c47ed196f9aa0f8e973a5c2d90feb89e46b82d1851f",
+    "bytes": 3038,
+    "retrieved_utc": "2026-11-22T19:52:32Z"
+   }
+  ]
+ },
+ "brandfetch": {
+  "brand_id": "idQm7VRjgI",
+  "name": "Acura",
+  "domain": "acura.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#1881b6",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idQm7VRjgI/w/820/h/443/theme/dark/logo.png",
+    "sha256": "8b7435f16ae1055d8f2c213f4793bac2720bbee777bb88a919d2d06fbe2b8202",
+    "bytes": 8271,
+    "retrieved_utc": "2026-11-22T19:57:31Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idQm7VRjgI/theme/dark/logo.svg",
+    "sha256": "c7b31310c73cede1ed2f138e1ea691161f980d1d28ae631c69bf37213736d1ec",
+    "bytes": 3075,
+    "retrieved_utc": "2026-11-22T19:57:32Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://acura.com",
+  "retrieved_utc": "2026-11-22T20:10:53.407Z",
+  "files": [],
+  "page_final": "https://www.acura.com/",
+  "http_status": 403
+ }
+}

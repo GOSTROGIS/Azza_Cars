@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id9dMdUtvp",
+  "name": "Freightliner",
+  "domain": "freightliner.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#6F87A6",
+    "type": "accent"
+   },
+   {
+    "hex": "#393939",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id9dMdUtvp/w/820/h/169/theme/dark/logo.png",
+    "sha256": "a07ba81c177381b92804cd9bf3e91aa9b27206d5f6440cf844184002ea231163",
+    "bytes": 19980,
+    "retrieved_utc": "2026-11-22T20:01:22Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id9dMdUtvp/theme/dark/logo.svg",
+    "sha256": "44611dffc09397dcb32f53ed48585c207402ee214fcad7dd46bff1980be37cce",
+    "bytes": 454109,
+    "retrieved_utc": "2026-11-22T20:01:22Z"
+   }
+  ]
+ }
+}

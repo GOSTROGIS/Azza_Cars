@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id5WVyfdJ2",
+  "name": "Saleen",
+  "domain": "saleen.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#c3002f",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id5WVyfdJ2/w/820/h/219/theme/dark/logo.png",
+    "sha256": "0f72c6870f07153954c5da8509c086f0f7ae569cf8f301506cfadbe7c5f4a9fa",
+    "bytes": 3636,
+    "retrieved_utc": "2026-11-22T20:02:00Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id5WVyfdJ2/theme/dark/logo.svg",
+    "sha256": "6cdf4cc9281e486bf77468b6a1639dd9f4b060cf269cf919f6b848a546e8fc2a",
+    "bytes": 3585,
+    "retrieved_utc": "2026-11-22T20:02:01Z"
+   }
+  ]
+ }
+}

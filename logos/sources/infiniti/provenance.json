@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idr0d8kaDP",
+  "name": "INFINITI",
+  "domain": "infiniti.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#020b24",
+    "type": "dark"
+   },
+   {
+    "hex": "#fefefe",
+    "type": "light"
+   },
+   {
+    "hex": "#be7447",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idr0d8kaDP/w/820/h/321/theme/dark/logo.png",
+    "sha256": "8526d0d9eeb8100f035c6d335e5c89f88a788a1fbba819b83d2d9bc03650fe7d",
+    "bytes": 4282,
+    "retrieved_utc": "2026-11-22T20:01:28Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idr0d8kaDP/theme/dark/logo.svg",
+    "sha256": "da6f645d56b2e36a0198745fd497986fc8eda959f7545e1ea68ae88c16bba81c",
+    "bytes": 1135,
+    "retrieved_utc": "2026-11-22T20:01:28Z"
+   }
+  ]
+ }
+}

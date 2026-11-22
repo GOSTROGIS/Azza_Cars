@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "idg7hwdIMC",
+  "name": "Maserati",
+  "domain": "maserati.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#FFC846",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/theme/light/logo.svg",
+    "sha256": "f7315233d6f88381e05259b1272b83143281952e262198a99c50ed932ca386ea",
+    "bytes": 14934,
+    "retrieved_utc": "2026-11-22T20:01:43Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/w/800/h/333/theme/light/logo.png",
+    "sha256": "9592a45babccefa1d3d7274855998a186cab2e86bdc3b7fd3306e812521d7d74",
+    "bytes": 4899,
+    "retrieved_utc": "2026-11-22T20:01:43Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/w/820/h/333/theme/dark/logo.png",
+    "sha256": "3b5266e7100978e231eb77d7c6862cc49ba33c9ca3c257188df69909d30026f1",
+    "bytes": 5070,
+    "retrieved_utc": "2026-11-22T20:01:43Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/theme/dark/logo.svg",
+    "sha256": "11d5664dc75c926f8fdada1fe7d2dcbad2800ce649cd4f8da6b39321fbdd13fe",
+    "bytes": 5386,
+    "retrieved_utc": "2026-11-22T20:01:43Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/theme/light/symbol.svg",
+    "sha256": "3de15a2afd5cc18f12b136bdb402cd0bc5ec91264da5ac203ca3f6e92a2fb660",
+    "bytes": 5407,
+    "retrieved_utc": "2026-11-22T20:01:43Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/w/800/h/1100/theme/light/symbol.png",
+    "sha256": "e2747d3f200a0f5cb5253c5835d3c191a4ab9b5d2210caee088c2994264d5481",
+    "bytes": 12703,
+    "retrieved_utc": "2026-11-22T20:01:44Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/theme/dark/symbol.svg",
+    "sha256": "856f83b695ffcd6cfc08b5e48c102b7117bc0782f0ef408d55fd20462f62cfd9",
+    "bytes": 5404,
+    "retrieved_utc": "2026-11-22T20:01:44Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idg7hwdIMC/w/800/h/1100/theme/dark/symbol.png",
+    "sha256": "94e38a287598a28d506b0e99d6e4a797d25fad1a4f19ba14d57c9f996d934303",
+    "bytes": 12680,
+    "retrieved_utc": "2026-11-22T20:01:44Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idwzRUxg9W",
+  "name": "SOUEAST MOTOR",
+  "domain": "soueast-motor.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#FE7600",
+    "type": "accent"
+   },
+   {
+    "hex": "#444444",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idwzRUxg9W/w/964/h/63/theme/light/logo.png",
+    "sha256": "17ed618b381738221107c592d5efeeb61c3f2d0da5296ff17a50538b25ac3d65",
+    "bytes": 4145,
+    "retrieved_utc": "2026-11-22T20:02:04Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idwzRUxg9W/w/254/h/17/theme/dark/logo.png",
+    "sha256": "17c19c9156808dda76dd5db851671fb82162b182fbf0e20f1d505b3f5344f2d0",
+    "bytes": 1493,
+    "retrieved_utc": "2026-11-22T20:02:04Z"
+   }
+  ]
+ }
+}

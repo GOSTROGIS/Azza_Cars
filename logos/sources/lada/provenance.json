@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id1_qiIDND",
+  "name": "LADA",
+  "domain": "lada.ru",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#d27f7e",
+    "type": "light"
+   },
+   {
+    "hex": "#cc0000",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id1_qiIDND/w/820/h/173/theme/light/logo.png",
+    "sha256": "fd5b101f1f0a129faf5515abc270004089f269e168ce48275fee4795b2e3b84d",
+    "bytes": 5137,
+    "retrieved_utc": "2026-11-22T20:01:35Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id1_qiIDND/theme/light/logo.svg",
+    "sha256": "e169f19a7f52763ca161ba9bfbc45542bb3bd0843cfbc0ef3cb6fe4ddafd4f29",
+    "bytes": 3430,
+    "retrieved_utc": "2026-11-22T20:01:35Z"
+   }
+  ]
+ }
+}

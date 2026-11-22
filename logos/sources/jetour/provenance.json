@@ -1,0 +1,40 @@
+{
+ "brandfetch": {
+  "brand_id": "id1podPAw-",
+  "name": "JETOUR",
+  "domain": "jetour.com.cn",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#101010",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id1podPAw-/w/820/h/134/theme/dark/logo.png",
+    "sha256": "d3e8c61f9a18051549460324270698b5a83b66f0aaf50195e74185f25858971c",
+    "bytes": 1782,
+    "retrieved_utc": "2026-11-22T20:01:32Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id1podPAw-/theme/dark/logo.svg",
+    "sha256": "96861473f483116edc89c563ab25e48d321616a554a5b401ffdf52c7fdf79309",
+    "bytes": 5574,
+    "retrieved_utc": "2026-11-22T20:01:33Z"
+   }
+  ]
+ }
+}

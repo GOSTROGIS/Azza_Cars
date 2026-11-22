@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "id8xE5OHKB",
+  "name": "Rolls-Royce Motor Cars",
+  "domain": "rolls-roycemotorcars.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#151515",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#6D30A7",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/theme/light/logo.svg",
+    "sha256": "e10f84b2322f2546212fd6d1701c0575625bb0b03a1002f7ca875f870325052f",
+    "bytes": 1988,
+    "retrieved_utc": "2026-11-22T20:01:59Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/w/800/h/1055/theme/light/logo.png",
+    "sha256": "766d0d5d8b02019532d91e777f9d8a3ea73b403a29385388e41edac772323c12",
+    "bytes": 14281,
+    "retrieved_utc": "2026-11-22T20:01:59Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/theme/dark/logo.svg",
+    "sha256": "687e49d7fe3e08a22413ef06fe32c568497cfaa67ddd4daf07b336c5625f152c",
+    "bytes": 1988,
+    "retrieved_utc": "2026-11-22T20:01:59Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/w/800/h/1055/theme/dark/logo.png",
+    "sha256": "19d98b7e474dd901373de2b1b28c89c77913dd93d469adecc640646279767a86",
+    "bytes": 14213,
+    "retrieved_utc": "2026-11-22T20:01:59Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/theme/light/symbol.svg",
+    "sha256": "ca584d9b7913a971720ce2e6e5013f8c6f77c614df542f0619ccccc0c163d516",
+    "bytes": 2772,
+    "retrieved_utc": "2026-11-22T20:01:59Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/w/800/h/1037/theme/light/symbol.png",
+    "sha256": "7404d8e196b14015d9e5f463c68bfc4c05316c07372d2a449e9ad8dd5f685290",
+    "bytes": 11681,
+    "retrieved_utc": "2026-11-22T20:02:00Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/theme/dark/symbol.svg",
+    "sha256": "ac79f3889256dfdd459ab9e8462ba647b1cb8538feefd3355663e70a44458f54",
+    "bytes": 2772,
+    "retrieved_utc": "2026-11-22T20:02:00Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id8xE5OHKB/w/800/h/1037/theme/dark/symbol.png",
+    "sha256": "411e91b06b93079a0e276fc8d9ab6ddf9eeda717e3359d2a9e8d813fcac1a181",
+    "bytes": 11388,
+    "retrieved_utc": "2026-11-22T20:02:00Z"
+   }
+  ]
+ }
+}

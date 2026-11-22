@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idOY1utEQq",
+  "name": "Nissan Motor",
+  "domain": "nissan-global.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#5795BB",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idOY1utEQq/theme/light/logo.svg",
+    "sha256": "24c8a78303cb2b75d73adabed0181f0a55e8eab12e4d6886430a8881793018a9",
+    "bytes": 6918,
+    "retrieved_utc": "2026-11-22T20:01:52Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idOY1utEQq/w/800/h/181/theme/light/logo.png",
+    "sha256": "c15ee43d996444ffb06c5eb2e149900b17191d15b49b9da83682542878224cfc",
+    "bytes": 7239,
+    "retrieved_utc": "2026-11-22T20:01:53Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idOY1utEQq/theme/dark/logo.svg",
+    "sha256": "8c63b20da68d8a1090addb6ae0a49b7129ea87f5eb6c57d57907fef437f1ab8c",
+    "bytes": 7065,
+    "retrieved_utc": "2026-11-22T20:01:53Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idOY1utEQq/w/800/h/181/theme/dark/logo.png",
+    "sha256": "2a471c8c8c271fca5dfec51ecdef23e1eeb7876c79b63bef08f765a106a17740",
+    "bytes": 9516,
+    "retrieved_utc": "2026-11-22T20:01:53Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "id9GnxU3pT",
+  "name": "Global",
+  "domain": "global.honda",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#042965",
+    "type": "dark"
+   },
+   {
+    "hex": "#e57f7f",
+    "type": "light"
+   },
+   {
+    "hex": "#cc0000",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/id9GnxU3pT/w/820/h/105/theme/dark/logo.png",
+    "sha256": "13b14211258ce3102e9e7dacb4cf603f7de40c67d4057635936540a861c87223",
+    "bytes": 3539,
+    "retrieved_utc": "2026-11-22T20:01:26Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/id9GnxU3pT/theme/dark/logo.svg",
+    "sha256": "93bb94cf6dcb05ff2b781f7e5f9ba64ce564ab62460a623b3ec6b493666c3bbf",
+    "bytes": 2689,
+    "retrieved_utc": "2026-11-22T20:01:26Z"
+   }
+  ]
+ }
+}

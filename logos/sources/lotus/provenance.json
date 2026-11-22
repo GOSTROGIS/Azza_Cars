@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idcVo14xKT",
+  "name": "Lotus Cars",
+  "domain": "lotuscars.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#FDEF01",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idcVo14xKT/theme/light/logo.svg",
+    "sha256": "f2901b07148268114bb7f4a3253507bcc0cdb793996277d9869c80bbef0cfe63",
+    "bytes": 6119,
+    "retrieved_utc": "2026-11-22T20:01:40Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idcVo14xKT/w/800/h/179/theme/light/logo.png",
+    "sha256": "370be6e77cb30e550c7a2cb50d8326f133ec3f1d90b382baf03dcc986734a779",
+    "bytes": 5072,
+    "retrieved_utc": "2026-11-22T20:01:40Z"
+   }
+  ]
+ }
+}

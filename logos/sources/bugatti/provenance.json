@@ -1,0 +1,125 @@
+{
+ "wikidata": {
+  "qid": "Q2308012",
+  "property": "P154",
+  "files": [
+   {
+    "file": "2022 Bugatti wordmark.svg",
+    "rank": "NormalRank",
+    "start": null,
+    "end": null,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/2022_Bugatti_wordmark.svg",
+    "error": "HTTP 429"
+   }
+  ]
+ },
+ "brandfetch": {
+  "brand_id": "idFjUAepvr",
+  "name": "Bugatti",
+  "domain": "bugatti.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#004CFA",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/theme/light/logo.svg",
+    "sha256": "8654e861824a6166edc7a7676c2d0ff2455adfdc3bb177f880269015e15055c7",
+    "bytes": 1917,
+    "retrieved_utc": "2026-11-22T20:01:12Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/w/800/h/184/theme/light/logo.png",
+    "sha256": "8edf6f1404bdd25e2ae5663a832bdcdb282ec5155546ca2f9603878dc0f34d9c",
+    "bytes": 4678,
+    "retrieved_utc": "2026-11-22T20:01:13Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/theme/dark/logo.svg",
+    "sha256": "97bdfc6043bbd571557172ac6edd39c44995b27e3e86392069860eaa171a4f64",
+    "bytes": 1927,
+    "retrieved_utc": "2026-11-22T20:01:13Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/w/800/h/184/theme/dark/logo.png",
+    "sha256": "df4ac7668c37758a9e5d449b83ec33f15791f0297758fba2b47c33e8a9da9d76",
+    "bytes": 4680,
+    "retrieved_utc": "2026-11-22T20:01:13Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/theme/light/symbol.svg",
+    "sha256": "93bcdffa5edfbaef39c9126b1d4408ef5db667ee0d379122255c4ea173444e85",
+    "bytes": 2024,
+    "retrieved_utc": "2026-11-22T20:01:13Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/w/800/h/601/theme/light/symbol.png",
+    "sha256": "6f670979602105c3669a5388d1e97b1b34153fcf72f897915f19ae47661946ea",
+    "bytes": 5277,
+    "retrieved_utc": "2026-11-22T20:01:13Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/theme/dark/symbol.svg",
+    "sha256": "d7114d0ca55a2d4e5d72f79452977613748f7876edd794d032887d5ac00f897b",
+    "bytes": 2034,
+    "retrieved_utc": "2026-11-22T20:01:14Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idFjUAepvr/w/800/h/602/theme/dark/symbol.png",
+    "sha256": "e249b865b537d115876ab7267a5845837065184f900c78fdb7c4303f48e471ba",
+    "bytes": 5276,
+    "retrieved_utc": "2026-11-22T20:01:14Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://bugatti.com",
+  "retrieved_utc": "2026-11-22T20:11:29.539Z",
+  "files": [],
+  "page_final": "https://bugatti.com/",
+  "http_status": 429
+ }
+}

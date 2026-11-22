@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idVXGpRY2R",
+  "name": "IVECO",
+  "domain": "iveco.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#011321",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#1554ff",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idVXGpRY2R/w/820/h/133/theme/dark/logo.png",
+    "sha256": "77dc85d4d904b3fec1d9691a4e02bd90b012fb00da411e4fb972524ff94847e4",
+    "bytes": 3133,
+    "retrieved_utc": "2026-11-22T20:01:31Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idVXGpRY2R/theme/dark/logo.svg",
+    "sha256": "04fa22d02d1be9bbf9aca7218ab1d3b312828362a69f55c768f378d9986e9062",
+    "bytes": 3939,
+    "retrieved_utc": "2026-11-22T20:01:31Z"
+   }
+  ]
+ }
+}

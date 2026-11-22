@@ -1,0 +1,75 @@
+{
+ "brandfetch": {
+  "brand_id": "idnsJwFYs4",
+  "name": "Chevrolet",
+  "domain": "chevrolet.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#CD9834",
+    "type": "accent"
+   },
+   {
+    "hex": "#556357",
+    "type": "dark"
+   },
+   {
+    "hex": "#0077D9",
+    "type": "brand"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idnsJwFYs4/theme/light/logo.svg",
+    "sha256": "a94a8333a4e8d0052056e9ab13aea0559341d0c6b0035f51d8a78a3e3f75e291",
+    "bytes": 370,
+    "retrieved_utc": "2026-11-22T20:01:16Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idnsJwFYs4/w/800/h/256/theme/light/logo.png",
+    "sha256": "44817f9895b71ab0c7fe72df6feca78d05614a7189ce0179b066215b0792c2ed",
+    "bytes": 1885,
+    "retrieved_utc": "2026-11-22T20:01:17Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idnsJwFYs4/theme/dark/logo.svg",
+    "sha256": "5415445cb0f6cd7631f98adf08a2308496fa9cff72972d567cd4c076936058a8",
+    "bytes": 7509,
+    "retrieved_utc": "2026-11-22T20:01:17Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idnsJwFYs4/w/800/h/800/theme/dark/logo.png",
+    "sha256": "268b827d04b28dab112925f6cc790960c0b65498c0264f25535a05fc14b8b54a",
+    "bytes": 7167,
+    "retrieved_utc": "2026-11-22T20:01:17Z"
+   }
+  ]
+ },
+ "website": {
+  "page_requested": "https://chevrolet.com",
+  "retrieved_utc": "2026-11-22T20:11:43.110Z",
+  "files": [],
+  "page_final": "https://www.chevrolet.com/",
+  "http_status": 403
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idTJKnnDcz",
+  "name": "Renault Group",
+  "domain": "renaultgroup.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   },
+   {
+    "hex": "#978B7F",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idTJKnnDcz/theme/light/logo.svg",
+    "sha256": "5fe6dd12b8180d7be00a210e1706d11435d53b6f778deec3b7a721851011c758",
+    "bytes": 5184,
+    "retrieved_utc": "2026-11-22T20:01:57Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idTJKnnDcz/w/800/h/362/theme/light/logo.png",
+    "sha256": "4ec15ea010aca1f14e72e9bb66f8e009d081a04576f49608bb45fefcf5d5f964",
+    "bytes": 8592,
+    "retrieved_utc": "2026-11-22T20:01:57Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idTJKnnDcz/theme/dark/logo.svg",
+    "sha256": "34ab3702245bfeba076e8d14a169914ee4faa09b2bd86a32c73ba6a1f729deae",
+    "bytes": 5115,
+    "retrieved_utc": "2026-11-22T20:01:57Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idTJKnnDcz/w/800/h/362/theme/dark/logo.png",
+    "sha256": "8dd549071321e7aec3d07e749a0b8013f7eb145b8562ee1e8236e53acf87ae6c",
+    "bytes": 8590,
+    "retrieved_utc": "2026-11-22T20:01:57Z"
+   }
+  ]
+ }
+}

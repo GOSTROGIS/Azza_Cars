@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idPWtJpPcA",
+  "name": "Lexus",
+  "domain": "discoverlexus.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#7ab6e9",
+    "type": "accent"
+   },
+   {
+    "hex": "#333333",
+    "type": "dark"
+   },
+   {
+    "hex": "#8ec9f6",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idPWtJpPcA/w/820/h/179/theme/dark/logo.png",
+    "sha256": "18474e3cf1e9657816d3ae6f4c668b900e9b7bff3b91e4b84f9b71d16ad8da02",
+    "bytes": 3910,
+    "retrieved_utc": "2026-11-22T20:01:37Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idPWtJpPcA/theme/dark/logo.svg",
+    "sha256": "3dc0b2696851c4eab429ccbbc41b8114d86ef091a32b7854839f79ea4507469c",
+    "bytes": 3449,
+    "retrieved_utc": "2026-11-22T20:01:37Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "brandfetch": {
+  "brand_id": "idOSUjsXG-",
+  "name": "Porsche",
+  "domain": "porsche.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#D5001C",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idOSUjsXG-/theme/dark/logo.svg",
+    "sha256": "438ad91261b5766c55a2a5f4123b23e553117262db5e57ea77c1fa51e7e6ef35",
+    "bytes": 2158,
+    "retrieved_utc": "2026-11-22T20:01:56Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idOSUjsXG-/w/800/h/53/theme/dark/logo.png",
+    "sha256": "818e6222c77c0221cd041ea23b98e806f15978351722a7df989e7a3bfdb7e57a",
+    "bytes": 1491,
+    "retrieved_utc": "2026-11-22T20:01:56Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idOSUjsXG-/theme/dark/symbol.svg",
+    "sha256": "66c631bacf993a9446f5a35482e1538786c7d75325deba425b2bdf86d69bf972",
+    "bytes": 798732,
+    "retrieved_utc": "2026-11-22T20:01:56Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idOSUjsXG-/w/800/h/1032/theme/dark/symbol.png",
+    "sha256": "b9eef18c9009effecc792824a088901c9af0d146e87987cb89c3053cd4efc689",
+    "bytes": 116311,
+    "retrieved_utc": "2026-11-22T20:01:56Z"
+   }
+  ]
+ }
+}

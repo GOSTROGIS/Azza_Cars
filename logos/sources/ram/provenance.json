@@ -1,0 +1,34 @@
+{
+ "brandfetch": {
+  "brand_id": "idqrJ7qipe",
+  "name": "Ram Trucks",
+  "domain": "ramtrucks.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#880d00",
+    "type": "dark"
+   },
+   {
+    "hex": "#f0ad4e",
+    "type": "light"
+   },
+   {
+    "hex": "#000000",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idqrJ7qipe/w/225/h/62/theme/dark/logo.png",
+    "sha256": "3f536f5ece86044a97295b2508b4f4f36c45aca64922223f8a73168b0270c1b4",
+    "bytes": 2900,
+    "retrieved_utc": "2026-11-22T20:01:56Z"
+   }
+  ]
+ }
+}

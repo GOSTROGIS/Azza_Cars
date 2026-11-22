@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idWzrOMVF7",
+  "name": "MG Motor UK",
+  "domain": "mg.co.uk",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#cd1316",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idWzrOMVF7/w/820/h/820/theme/dark/logo.png",
+    "sha256": "67ac9ce7e89b72fb52b5181fb52da57703ebf890aa8bdf5d044117be54e59afc",
+    "bytes": 12277,
+    "retrieved_utc": "2026-11-22T20:01:49Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idWzrOMVF7/theme/dark/logo.svg",
+    "sha256": "2efd736f90191f558f11936794c244ccc9af317cd8d7b08b9d44358edc8158a5",
+    "bytes": 5900,
+    "retrieved_utc": "2026-11-22T20:01:49Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "brandfetch": {
+  "brand_id": "idI7D59ses",
+  "name": null,
+  "domain": "seres.cn",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#c4001c",
+    "type": "accent"
+   },
+   {
+    "hex": "#2d2d2d",
+    "type": "dark"
+   },
+   {
+    "hex": "#ffffff",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idI7D59ses/w/820/h/266/theme/dark/logo.png",
+    "sha256": "3094f64c64fd443e3d2f5eea50103d602ef426b736026bf74f71cbed5b69ccf5",
+    "bytes": 10344,
+    "retrieved_utc": "2026-11-22T20:02:02Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idI7D59ses/theme/dark/logo.svg",
+    "sha256": "968f317b22c5aed3aa6a97bde5e5c20b23aec737d5924f4106595edc14ba8f4e",
+    "bytes": 4611,
+    "retrieved_utc": "2026-11-22T20:02:02Z"
+   }
+  ]
+ }
+}

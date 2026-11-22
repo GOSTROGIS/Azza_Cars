@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "idNi8EP0AY",
+  "name": "Lucid Motors",
+  "domain": "lucidmotors.com",
+  "claimed_by_brand": false,
+  "colors": [
+   {
+    "hex": "#1B1B1B",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   },
+   {
+    "hex": "#D7BE96",
+    "type": "accent"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/theme/light/logo.svg",
+    "sha256": "422ac64b268b6345cfbcaa0ea5704f50415ce24bb09d0432d80274a2222fc8f9",
+    "bytes": 1062,
+    "retrieved_utc": "2026-11-22T20:01:40Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/w/800/h/47/theme/light/logo.png",
+    "sha256": "e3353b4342e260f45e844a5a370ce4862fc62645b56ae13c4e25e070ad8caaf6",
+    "bytes": 1283,
+    "retrieved_utc": "2026-11-22T20:01:40Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/theme/dark/logo.svg",
+    "sha256": "fdc7b17abeaefb7f98e5bc63a4654f99abc539d5312f022966bc59ab07aa7e51",
+    "bytes": 1062,
+    "retrieved_utc": "2026-11-22T20:01:41Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/w/800/h/47/theme/dark/logo.png",
+    "sha256": "551e0c18ff96fbdd06d267bd593494ca6f8d9d77984e6670f6a1ba02c1411d01",
+    "bytes": 1257,
+    "retrieved_utc": "2026-11-22T20:01:41Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/theme/light/symbol.svg",
+    "sha256": "97d2c1dfac4b376f1a09498b924558a20c3abf74fbd035d4b2b24d26677f791a",
+    "bytes": 7410,
+    "retrieved_utc": "2026-11-22T20:01:41Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/w/800/h/364/theme/light/symbol.png",
+    "sha256": "c23e11990df1b5d6551fa1e48795b3c7cb2b72a08308a1ce8258eedddba65a58",
+    "bytes": 4927,
+    "retrieved_utc": "2026-11-22T20:01:41Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/theme/dark/symbol.svg",
+    "sha256": "57e0816666f31b7f66ed7f4db12043ff6c854e4e9167f0a942352a0770fe2a6e",
+    "bytes": 7410,
+    "retrieved_utc": "2026-11-22T20:01:41Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idNi8EP0AY/w/800/h/364/theme/dark/symbol.png",
+    "sha256": "3ba9578cacb3eb4733beb2ddd56b52b0408ac15346cac23b716e8d9ae499f86b",
+    "bytes": 4930,
+    "retrieved_utc": "2026-11-22T20:01:41Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "brandfetch": {
+  "brand_id": "idZAAlb6l9",
+  "name": "Hyundai",
+  "domain": "hyundai.com",
+  "claimed_by_brand": true,
+  "colors": [
+   {
+    "hex": "#002C5F",
+    "type": "accent"
+   },
+   {
+    "hex": "#000000",
+    "type": "dark"
+   },
+   {
+    "hex": "#FFFFFF",
+    "type": "light"
+   }
+  ],
+  "files": [
+   {
+    "saved_as": "brandfetch/logo-light.svg",
+    "type": "logo",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/theme/light/logo.svg",
+    "sha256": "eb5117ab53943bcc7b12f376718084c4aa50064c92e2263429954656178f9780",
+    "bytes": 5437,
+    "retrieved_utc": "2026-11-22T20:01:26Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-light.png",
+    "type": "logo",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/w/800/h/110/theme/light/logo.png",
+    "sha256": "22e0763fad1ddd45fb316aa7d38a48838561965a22def85ba3c226870e10c38d",
+    "bytes": 3675,
+    "retrieved_utc": "2026-11-22T20:01:26Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.svg",
+    "type": "logo",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/theme/dark/logo.svg",
+    "sha256": "c384fed506b259ff9a9885e0a26b45e06259345a909c53b11ca3d276b4a5e478",
+    "bytes": 5336,
+    "retrieved_utc": "2026-11-22T20:01:27Z"
+   },
+   {
+    "saved_as": "brandfetch/logo-dark.png",
+    "type": "logo",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/w/800/h/110/theme/dark/logo.png",
+    "sha256": "2eafb92b9c5059d5119f6fd2c8f79b97c2aa4354371379057e0fa146946514f0",
+    "bytes": 3601,
+    "retrieved_utc": "2026-11-22T20:01:27Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.svg",
+    "type": "symbol",
+    "theme": "light",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/theme/light/symbol.svg",
+    "sha256": "1a74683628fd4a90e52f57d24c82f2347f7530a36d9b64ec295aba08af44492c",
+    "bytes": 1745,
+    "retrieved_utc": "2026-11-22T20:01:27Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-light.png",
+    "type": "symbol",
+    "theme": "light",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/w/800/h/411/theme/light/symbol.png",
+    "sha256": "9b0231f3a02904084362239cf43e4fba2f92cc092365ae820d9d3f871caa7834",
+    "bytes": 11947,
+    "retrieved_utc": "2026-11-22T20:01:27Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.svg",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "svg",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/theme/dark/symbol.svg",
+    "sha256": "a457b738c541cb87c4366fe5c31a1ae59aaa26e44b487ca60fa1df54c3d94599",
+    "bytes": 1745,
+    "retrieved_utc": "2026-11-22T20:01:27Z"
+   },
+   {
+    "saved_as": "brandfetch/symbol-dark.png",
+    "type": "symbol",
+    "theme": "dark",
+    "format": "png",
+    "url_unsigned": "https://cdn.brandfetch.io/idZAAlb6l9/w/800/h/411/theme/dark/symbol.png",
+    "sha256": "5d915f3f5c74452557e07b8e0078c455a7b46f549de7f42b4ee163e6e5d24a8d",
+    "bytes": 12921,
+    "retrieved_utc": "2026-11-22T20:01:27Z"
+   }
+  ]
+ }
+}
