@@ -1,0 +1,17 @@
+{
+ "note": "The three roadmaps in plan/RENTAL_PLAN.md, section 4, in months from the first rental. A plan, not data. Each phase is [label, start month, end month]. Each gate is [month, condition] and must be passed before the next phase starts. tools/market/rental_charts.py draws site/charts/rental-roadmap.svg from this file. Edit the gates here and in the section 4 table together.",
+ "roadmaps": [
+  {"name": "A. Counter first (recommended)", "colour": "ORANGE",
+   "phases": [["Set-up: insurance, licences, site, fleet", -6, 0], ["Staffed Surrey counter, vans, pickups, trucks, cars", 0, 12],
+              ["Trade accounts and monthly van hire", 3, 24], ["After-hours key boxes, then app self-service", 9, 24],
+              ["Second site, Langley Township", 18, 30]],
+   "gates": [[12, "Break-even utilisation held 3 months"], [18, "Surrey cash-positive 6 months"]]},
+  {"name": "B. Self-service van share", "colour": "STEEL",
+   "phases": [["Set-up plus telematics and remote ID checks", -6, 0], ["24/7 app pickup at one Surrey lot, vans and pickups", 0, 12],
+              ["Hourly stations where no car share runs (Langley, White Rock)", 9, 24]],
+   "gates": [[9, "Damage and no-show costs within budget"]]},
+  {"name": "C. Fleet-light", "colour": "SAND",
+   "phases": [["Own fleet on Turo, winter idle days", 0, 6], ["Owner-supplied vehicles under Ember Rent's brand", 12, 30]],
+   "gates": [[12, "ICBC, PVRT and Surrey licence answers in writing"]]}
+ ]
+}

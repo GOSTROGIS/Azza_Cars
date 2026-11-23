@@ -1,0 +1,244 @@
+{
+ "note": "Inputs for the car sharing and rental tab of the plan (plan/RENTAL_PLAN.md) and its charts (tools/market/rental_charts.py). Every figure carries its source. Retrieved 23 November 2026.",
+ "trip_costs": {
+  "note": "Published prices only, before GST and PST, for a member who already holds an account (one-time fees excluded). Modo trips are daytime, gas car (C$3 innovation fee). Whether Modo adds the innovation fee to a Day Tripper booking is not stated; it is added here. Home Depot prices are the Toronto store's: BC store prices load by script and were not read.",
+  "trips": [
+   {
+    "key": "car3h",
+    "label": "Car, 3 hours, 30 km"
+   },
+   {
+    "key": "car24h",
+    "label": "Car, 24 hours, 100 km"
+   },
+   {
+    "key": "van4h",
+    "label": "Van or pickup, 4 hours, 40 km"
+   }
+  ],
+  "rows": [
+   {
+    "operator": "Evo",
+    "trip": "car3h",
+    "cad": 55.82,
+    "math": "3 h × 17.99 + 1.85 trip fee",
+    "source": "https://evo.ca/rates"
+   },
+   {
+    "operator": "Modo Plus",
+    "trip": "car3h",
+    "cad": 28.5,
+    "math": "3 h × 5 + 30 km × 0.35 + 3",
+    "source": "https://www.modo.coop/plans"
+   },
+   {
+    "operator": "Modo Monthly",
+    "trip": "car3h",
+    "cad": 31.5,
+    "math": "3 h × 6 + 30 km × 0.35 + 3",
+    "source": "https://www.modo.coop/plans"
+   },
+   {
+    "operator": "Evo",
+    "trip": "car24h",
+    "cad": 108.34,
+    "math": "104.99 day + 1.85 trip fee + 1.50 PVRT",
+    "source": "https://evo.ca/rates"
+   },
+   {
+    "operator": "Modo Plus",
+    "trip": "car24h",
+    "cad": 104.5,
+    "math": "100 Day Tripper + 3 + 1.50 PVRT",
+    "source": "https://www.modo.coop/plans"
+   },
+   {
+    "operator": "Modo Monthly",
+    "trip": "car24h",
+    "cad": 104.5,
+    "math": "100 Day Tripper + 3 + 1.50 PVRT",
+    "source": "https://www.modo.coop/plans"
+   },
+   {
+    "operator": "Modo Plus, pickup",
+    "trip": "van4h",
+    "cad": 45.0,
+    "math": "4 h × 7 + 40 km × 0.35 + 3",
+    "source": "https://www.modo.coop/plans"
+   },
+   {
+    "operator": "Modo Plus, cargo van",
+    "trip": "van4h",
+    "cad": 57.0,
+    "math": "4 h × 10 + 40 km × 0.35 + 3",
+    "source": "https://www.modo.coop/plans"
+   },
+   {
+    "operator": "Modo Monthly, cargo van",
+    "trip": "van4h",
+    "cad": 61.0,
+    "math": "4 h × 11 + 40 km × 0.35 + 3",
+    "source": "https://www.modo.coop/plans"
+   },
+   {
+    "operator": "Home Depot, cargo van (Toronto prices)",
+    "trip": "van4h",
+    "cad": 99.95,
+    "math": "4-hour rate, unlimited km",
+    "source": "https://www.homedepot.ca/en/home/tool-and-vehicle-rental.html",
+    "caveat": "Toronto store price, BC store prices could not be read"
+   }
+  ]
+ },
+ "canada_rental_revenue": {
+  "note": "Automotive equipment rental and leasing (NAICS 5321), Canada, operating revenue, C$ billion, as first published in each StatCan Daily release. Covers cars, vans, trucks, trailers and RVs. StatCan later revised 2022 and 2023 and states only that 2024 was 4.3% above revised 2023. 2019 is derived from the 2023 release (9.8 / 1.235).",
+  "rows": [
+   {
+    "label": "2019",
+    "cad_b": 7.9,
+    "source": "https://www150.statcan.gc.ca/n1/daily-quotidien/250117/dq250117e-eng.htm",
+    "caveat": "Derived: 2023 was 23.5% above 2019"
+   },
+   {
+    "label": "2022",
+    "cad_b": 8.6,
+    "source": "https://www150.statcan.gc.ca/n1/daily-quotidien/231120/dq231120e-eng.htm"
+   },
+   {
+    "label": "2023",
+    "cad_b": 9.8,
+    "source": "https://www150.statcan.gc.ca/n1/daily-quotidien/250117/dq250117e-eng.htm"
+   },
+   {
+    "label": "2024",
+    "cad_b": 10.7,
+    "source": "https://www150.statcan.gc.ca/n1/daily-quotidien/260309/dq260309b-eng.htm"
+   }
+  ]
+ },
+ "americas_rpd": {
+  "note": "Hertz Americas RAC Total RPD, US$ per transaction day. 2021-2023 from the FY2023 10-K, 2024-2025 from the FY2025 10-K. Avis Americas revenue per day excluding exchange rate effects was US$70.94 (2024) and US$68.80 (2025) per its 18 February 2026 release; earlier Avis years could not be read and are left out.",
+  "rows": [
+   {
+    "label": "2021",
+    "hertz": 61.99
+   },
+   {
+    "label": "2022",
+    "hertz": 65.03
+   },
+   {
+    "label": "2023",
+    "hertz": 61.65
+   },
+   {
+    "label": "2024",
+    "hertz": 59.17
+   },
+   {
+    "label": "2025",
+    "hertz": 56.49
+   }
+  ],
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/47129/000165785324000022/htz-20231231.htm",
+   "https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm",
+   "https://www.avisbudgetgroup.com/content/dam/avisbudgetgroup/press_pdf/2025/Press%20Release%20F25%20-%20Final%20-%202.18.2026.pdf"
+  ]
+ },
+ "americas_utilisation": {
+  "note": "Hertz Americas RAC vehicle utilisation, %. Same sources. Avis Americas: 68.7% (2024), 69.9% (2025).",
+  "rows": [
+   {
+    "label": "2021",
+    "hertz": 79
+   },
+   {
+    "label": "2022",
+    "hertz": 79
+   },
+   {
+    "label": "2023",
+    "hertz": 81
+   },
+   {
+    "label": "2024",
+    "hertz": 80
+   },
+   {
+    "label": "2025",
+    "hertz": 82
+   }
+  ]
+ },
+ "canada_carshare": {
+  "note": "Canadian round-trip and one-way car sharing members and vehicles, excludes peer-to-peer. July of each year to 2016, January for 2017 and 2018. TSRC (Shaheen and Cohen) outlooks. No later series was found.",
+  "rows": [
+   {
+    "members": 26878,
+    "vehicles": 1388,
+    "label": "2007"
+   },
+   {
+    "members": 39664,
+    "vehicles": 1667,
+    "label": "2008"
+   },
+   {
+    "members": 53916,
+    "vehicles": 2046,
+    "label": "2009"
+   },
+   {
+    "members": 67526,
+    "vehicles": 2285,
+    "label": "2010"
+   },
+   {
+    "members": 78856,
+    "vehicles": 2605,
+    "label": "2011"
+   },
+   {
+    "members": 101502,
+    "vehicles": 3143,
+    "label": "2012"
+   },
+   {
+    "members": 147794,
+    "vehicles": 3933,
+    "label": "2013"
+   },
+   {
+    "members": 281675,
+    "vehicles": 5048,
+    "label": "2014"
+   },
+   {
+    "members": 344403,
+    "vehicles": 5881,
+    "label": "2015"
+   },
+   {
+    "members": 477528,
+    "vehicles": 7093,
+    "label": "2016"
+   },
+   {
+    "members": 511654,
+    "vehicles": 7412,
+    "label": "Jan 2017"
+   },
+   {
+    "members": 642472,
+    "vehicles": 8052,
+    "label": "Jan 2018"
+   }
+  ],
+  "sources": [
+   "https://19january2025snapshot.epa.gov/sites/default/files/2017-06/documents/05312017-shaheen.pdf (2007-2016 and January 2017 table)",
+   "https://escholarship.org/content/qt1mw8n13h/qt1mw8n13h.pdf (January 2017)",
+   "https://escholarship.org/content/qt9jh432pm/qt9jh432pm_noSplash_52e573489ebfdc635da0ba59ac48db87.pdf (January 2018)"
+  ]
+ }
+}

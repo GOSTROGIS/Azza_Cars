@@ -40,7 +40,8 @@ DISPLAY = "Archivo, Inter, sans-serif"
 CATS = [("car_rental", "Car"), ("truck_rental", "Truck and van"), ("rv_rental", "RV"), ("carshare", "Car share")]
 # What each outlet rents out, for the mix chart: truck rental is split into U-Haul (consumer moving) and the rest.
 MIX = [("car_rental", "Car"), ("moving", "U-Haul moving"), ("commercial", "Commercial truck and van"), ("rv_rental", "RV"), ("carshare", "Car share")]
-CAT_FILL = {"car_rental": "#eee8dc", "moving": "#8a847a", "commercial": "#ff4b1f", "rv_rental": "#6f8fd0", "carshare": "#b08a3a"}
+ORANGE, STEEL, SAND, STONE = "#ff4b1f", "#6f8fd0", "#b08a3a", "#8a847a"
+CAT_FILL = {"car_rental": BONE, "moving": STONE, "commercial": ORANGE, "rv_rental": STEEL, "carshare": SAND}
 SHORT = {"north-vancouver-city": "N. Van City", "north-vancouver-district": "N. Van District", "langley-district": "Langley Twp",
          "langley-city": "Langley City", "new-westminster": "New West", "port-coquitlam": "Port Coquitlam",
          "west-vancouver": "West Van", "mvrd-ea-a": "Electoral Area A", "pitt-meadows": "Pitt Meadows",
@@ -118,6 +119,21 @@ def expected(fit, x):
 
 def esc(s):
     return str(s).replace("&", "&amp;").replace("<", "&lt;")
+
+
+# ---- SVG helpers, shared with tools/market/rental_charts.py ----
+def svg_open(w, h, label):
+    return [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" role="img" aria-label="{esc(label)}" class="chart">']
+
+
+def text(x, y, s, anchor="start", fill=INK, size=13, weight=400, family=FONT):
+    return (f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="{anchor}" font-family="{family}" font-size="{size}" '
+            f'font-weight="{weight}" fill="{fill}">{esc(s)}</text>')
+
+
+def save(name, o):
+    o.append("</svg>")
+    (OUT / name).write_text("".join(o) + "\n")
 
 
 # ---- charts ----

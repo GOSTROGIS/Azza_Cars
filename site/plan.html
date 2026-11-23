@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Business plan | Ember Rent</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
-  <script type="module" src="/src/landing.js"></script>
+  <script type="module" src="/src/plan.js"></script>
 </head>
 <body>
   <header class="top">
@@ -18,7 +18,16 @@
   </header>
   <main class="section doc">
     <p class="eyebrow"><span class="dial">BP</span>Business plan</p>
+    <div class="tabs" role="tablist" aria-label="Plan sections">
+      <button class="tabs__tab" role="tab" id="tab-plan" aria-controls="plan" aria-selected="true">Business plan</button>
+      <button class="tabs__tab" role="tab" id="tab-rental" aria-controls="rental" aria-selected="false" tabindex="-1">Car sharing and rental</button>
+    </div>
+    <section class="tabs__panel" role="tabpanel" id="plan" aria-labelledby="tab-plan">
     %PLAN_HTML%
+    </section>
+    <section class="tabs__panel" role="tabpanel" id="rental" aria-labelledby="tab-rental" hidden>
+    %RENTAL_HTML%
+    </section>
   </main>
 </body>
 </html>

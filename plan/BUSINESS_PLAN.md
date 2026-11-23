@@ -106,10 +106,10 @@ Counted rental locations (`counted = true`) in the Ember Rent service area (Surr
 | Discount Car and Truck Rentals | 6 | 1 | 1 | Independent car and truck | Direct like-for-like rival. Benchmark its rates |
 | Routes | 2 | 1 | 1 | Independent car | Shows independents appear in local search |
 | Independents and unbranded | 59 | 15 | 4 | Mixed | Win on reviews, price clarity and handover |
-| Evo, Modo, Zipcar, Car2Go (carshare) | 6 points | 0 | 0 | Trips of a few hours, Vancouver and Burnaby. Evo about 2,300 and Modo 1,000 vehicles in August 2023 | Target the day, week and the jobs car share cannot do |
+| Evo, Modo, Zipcar, Car2Go (carshare) | 6 points | 0 | 0 | Trips of a few hours, Vancouver and Burnaby. Evo about 2,300 and Modo 1,000 vehicles in August 2023. Since 20 July 2026 Evo has one-way zones at Surrey Central and Guildford, and Modo lists Surrey, with pickups and cargo vans. Zipcar left BC in 2020 and Car2Go in 2020 | Target the day, week and the jobs car share cannot do. See the car sharing and rental tab |
 | Turo (peer to peer) | not counted | not counted | not counted | Marketplace with ICBC blanket insurance for BC hosts. Median Canadian host earning C$657 a month, January to October 2025 | Competitor on price and a channel for idle days. See section 4.3 |
 
-Positioning and carshare figures are from [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md) and [GAP_ANALYSIS](../market/GAP_ANALYSIS.md). Zipcar and Car2Go records may be stale. Turo listing counts were not sourced. The majors' local rates are unknown, and a rate survey is the first open item in section 13.
+Positioning and carshare figures are from [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md) and [GAP_ANALYSIS](../market/GAP_ANALYSIS.md). The carshare counts are from those records and do not include Evo's and Modo's Surrey locations. The 2026 carshare position, comparable businesses, roadmaps and the rental operations checklist are in the [car sharing and rental tab](RENTAL_PLAN.md). Zipcar and Car2Go records may be stale. Turo listing counts were not sourced. The majors' local rates are unknown, and a rate survey is the first open item in section 13.
 
 ### 4.1 Where competition is thin
 

@@ -9,10 +9,11 @@ const serviceArea = JSON.parse(fs.readFileSync(path.resolve(__dirname, "public/s
 const facts = { INDUSTRIAL_TOTAL: () => serviceArea.industrial_buildings_total.toLocaleString("en-CA") };
 // %BRAND_LINK% is the logo and wordmark link shared by every page header.
 facts.BRAND_LINK = () => fs.readFileSync(path.resolve(__dirname, "partials/brand-link.html"), "utf8").trim();
-// %PLAN_HTML% is plan/BUSINESS_PLAN.md rendered to HTML, read at build time so the page follows every edit.
-// Links to other repository files become GitHub links, since only the site itself is published.
+// renderPlan turns a file in plan/ into HTML at build time, so the plan page follows every edit.
+// Links to the plan files shown on the page become tab links. Links to other repository files become GitHub links,
+// since only the site itself is published.
 const REPO = "https://github.com/GOSTROGIS/Azza_Cars/blob/main/";
-// Charts from tools/market/competition.py (site/charts/) are inlined, so their hover titles work and they take the page fonts.
+// Charts in site/charts/ (tools/market/*.py) are inlined, so their hover titles work and they take the page fonts.
 const CHART = /^\.\.\/site\/charts\/([\w-]+\.svg)$/;
 marked.use({
   renderer: {
@@ -23,10 +24,14 @@ marked.use({
     },
   },
 });
-facts.PLAN_HTML = () => marked.parse(fs.readFileSync(path.resolve(__dirname, "../plan/BUSINESS_PLAN.md"), "utf8"))
+const renderPlan = (file) => marked.parse(fs.readFileSync(path.resolve(__dirname, "../plan", file), "utf8"))
   .replace(/<p>(<figure class="chart-fig">[\s\S]*?<\/figure>)<\/p>/g, "$1")
+  .replace(/href="(BUSINESS|RENTAL)_PLAN\.md"/g, (m, p) => `href="#${p === "RENTAL" ? "rental" : "plan"}"`)
   .replace(/href="\.\.\/site\/public\//g, 'href="./')
   .replace(/href="\.\.\/([^"#]+)/g, (m, p) => `href="${REPO}${p}`);
+// %PLAN_HTML% and %RENTAL_HTML% are the two tabs of the plan page.
+facts.PLAN_HTML = () => renderPlan("BUSINESS_PLAN.md");
+facts.RENTAL_HTML = () => renderPlan("RENTAL_PLAN.md");
 // %PHOTO_CREDITS% credits every hero cutout the page references, from public/hero/provenance.json (tools/hero/cutouts.py).
 const heroImages = JSON.parse(fs.readFileSync(path.resolve(__dirname, "public/hero/provenance.json"), "utf8")).images;
 const LICENCE_URL = { "CC BY 2.0": "https://creativecommons.org/licenses/by/2.0/", "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/" };
