@@ -93,7 +93,7 @@ h3 { font-size: 1.25rem; font-weight: 700; }
     radial-gradient(40% 40% at 10% 10%, rgba(238, 232, 220, 0.06), transparent 70%),
     var(--carbon-900);
 }
-/* ---- Hero vehicle: crisp at the front, the rear and underside dissolve into the page ---- */
+/* ---- Hero vehicle: faces right, crisp at the front, the rear and underside dissolve into the page ---- */
 .hero__car {
   position: absolute;
   z-index: 1;
@@ -115,8 +115,8 @@ h3 { font-size: 1.25rem; font-weight: 700; }
 .hero__car::after {
   content: "";
   position: absolute;
-  left: 4%;
-  right: 22%;
+  left: 22%;
+  right: 4%;
   bottom: -3%;
   height: 12%;
   background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.7), transparent 70%);
@@ -127,7 +127,7 @@ h3 { font-size: 1.25rem; font-weight: 700; }
   width: 100%;
   height: auto;
   filter: brightness(1.18) contrast(1.06) saturate(0.9);
-  --fade: linear-gradient(to left, transparent 0%, #000 30%), linear-gradient(to bottom, #000 78%, transparent 100%);
+  --fade: linear-gradient(to right, transparent 0%, #000 20%), linear-gradient(to bottom, #000 82%, transparent 100%);
   -webkit-mask-image: var(--fade);
   -webkit-mask-composite: source-in;
   mask-image: var(--fade);
@@ -207,7 +207,7 @@ h3 { font-size: 1.25rem; font-weight: 700; }
   .brand__word { font-size: 1.2rem; }
   .top .brand__tag { display: none; }
   .hero { align-items: flex-start; padding-top: 48px; padding-bottom: 46vw; min-height: 720px; }
-  .hero__car { width: 100vw; right: -6vw; bottom: 2%; }
+  .hero__car { width: 100vw; right: 0; bottom: 2%; }
   .top { backdrop-filter: none; background: var(--carbon-900); }
 }
 

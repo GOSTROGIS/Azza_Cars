@@ -7,6 +7,9 @@ For each entry in tools/hero/cutouts.json:
   3. Remove the background with rembg (isnet-general-use) and keep the largest region.
   4. Clear any listed boxes (fractions of the cutout) that still hold fragments of other objects,
      keep the largest region again and crop to the vehicle.
+  4b. Fill any listed glass polygons (fractions of the cutout) with a flat tint, so reflections of the
+     photo's surroundings in a window do not read as dirt. The tint is sampled from clean glass on the
+     same vehicle and recorded in cutouts.json.
   5. Resize to at most MAX_WIDTH and save WebP with alpha.
 
 The fade into the page is a CSS mask on the site, not baked into the files.
@@ -77,6 +80,16 @@ def source(item, cache):
     return got, raw
 
 
+def glass_filled(rgba, panes):
+    h, w = rgba.shape[:2]
+    for pane in panes:
+        mask = np.zeros((h, w), np.uint8)
+        cv2.fillPoly(mask, [np.array([[x * w, y * h] for x, y in pane["polygon"]], np.int32)], 255)
+        soft = cv2.GaussianBlur(mask, (5, 5), 0)[..., None] / 255.0
+        rgba[..., :3] = (rgba[..., :3] * (1 - soft) + np.array(pane["tint"]) * soft).astype(np.uint8)
+    return rgba
+
+
 def main(cache=None):
     cfg = json.loads(CONFIG.read_text())
     session = new_session(MODEL)
@@ -94,6 +107,7 @@ def main(cache=None):
         rgba = largest_region(np.array(remove(src, session=session, post_process_mask=True)))
         for boxes in item.get("clear_passes", []):
             rgba = boxes_cleared(rgba, boxes)
+        rgba = glass_filled(rgba, item.get("glass", []))
         out = Image.fromarray(rgba)
         if out.width > MAX_WIDTH:
             out = out.resize((MAX_WIDTH, round(out.height * MAX_WIDTH / out.width)), Image.LANCZOS)

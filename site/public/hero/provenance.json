@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-23T01:20:30Z",
+ "generated_utc": "2026-11-23T02:56:33Z",
  "generator": "tools/hero/cutouts.py with tools/hero/cutouts.json",
  "tools": {
   "rembg": "2.0.87",
@@ -8,6 +8,21 @@
  },
  "licence_note": "Each cutout is an adaptation of its source photo. CC BY-SA sources are shared under the same licence. Credit is shown on the page where the images appear.",
  "images": [
+  {
+   "slug": "silverado-ev",
+   "label": "Chevrolet Silverado EV",
+   "vehicle_type": "pickup truck",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:2024_Silverado_EV_WT,_side.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/2024_Silverado_EV_WT%2C_side.jpg",
+   "author": "Kaundike",
+   "license": "CC BY-SA 4.0",
+   "date_taken": "2025-10-03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2024_Silverado_EV_WT%2C_side.jpg/1920px-2024_Silverado_EV_WT%2C_side.jpg",
+   "retrieved_utc": "2026-11-23T02:56:16Z",
+   "sha256": "27db41066b56d11fc99c7ceaffbe47f8dff1e4964e0d6cf1806db0fd0f7a1b93",
+   "bytes": 529982,
+   "file": "silverado-ev.webp"
+  },
   {
    "slug": "ford-f150",
    "label": "Ford F-150",

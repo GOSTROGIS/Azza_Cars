@@ -1,6 +1,66 @@
 {
  "images": [
   {
+   "slug": "silverado-ev",
+   "label": "Chevrolet Silverado EV",
+   "vehicle_type": "pickup truck",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:2024_Silverado_EV_WT,_side.jpg",
+   "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/2024_Silverado_EV_WT%2C_side.jpg",
+   "author": "Kaundike",
+   "license": "CC BY-SA 4.0",
+   "date_taken": "2025-10-03",
+   "clear_passes": [
+    [
+     [
+      0.39,
+      0.0,
+      0.47,
+      0.018
+     ]
+    ]
+   ],
+   "glass": [
+    {
+     "note": "front door window: background scene showing through replaced with the tint of the clean rear window",
+     "polygon": [
+      [
+       0.5608,
+       0.0593
+      ],
+      [
+       0.6208,
+       0.0617
+      ],
+      [
+       0.6583,
+       0.0988
+      ],
+      [
+       0.7042,
+       0.1975
+      ],
+      [
+       0.7067,
+       0.2346
+      ],
+      [
+       0.6983,
+       0.2988
+      ],
+      [
+       0.5608,
+       0.2988
+      ]
+     ],
+     "tint": [
+      88,
+      94,
+      111
+     ]
+    }
+   ]
+  },
+  {
    "slug": "ford-f150",
    "label": "Ford F-150",
    "vehicle_type": "pickup truck",
@@ -9,7 +69,59 @@
    "author": "Tony Webster",
    "license": "CC BY 2.0",
    "date_taken": "16 August 2023, 15:47",
-   "clear_passes": []
+   "clear_passes": [],
+   "glass": [
+    {
+     "note": "front door window: reflection of a rock face replaced with the tint of the clean rear window",
+     "polygon": [
+      [
+       0.315,
+       0.3049
+      ],
+      [
+       0.3208,
+       0.2634
+      ],
+      [
+       0.3317,
+       0.2049
+      ],
+      [
+       0.3458,
+       0.161
+      ],
+      [
+       0.3708,
+       0.1171
+      ],
+      [
+       0.44,
+       0.1
+      ],
+      [
+       0.4433,
+       0.1463
+      ],
+      [
+       0.4433,
+       0.3146
+      ],
+      [
+       0.3583,
+       0.3195
+      ],
+      [
+       0.3333,
+       0.3146
+      ]
+     ],
+     "tint": [
+      8,
+      14,
+      25
+     ]
+    }
+   ]
   },
   {
    "slug": "honda-crv",
