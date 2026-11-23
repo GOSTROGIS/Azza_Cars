@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-22T22:59:40Z",
+ "generated_utc": "2026-11-23T01:20:30Z",
  "generator": "tools/hero/cutouts.py with tools/hero/cutouts.json",
  "tools": {
   "rembg": "2.0.87",
@@ -10,6 +10,7 @@
  "images": [
   {
    "slug": "ford-f150",
+   "label": "Ford F-150",
    "vehicle_type": "pickup truck",
    "commons_page": "https://commons.wikimedia.org/wiki/File:Ford_F-150_4x4_Pickup_Truck_(53149801149).jpg",
    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ford_F-150_4x4_Pickup_Truck_%2853149801149%29.jpg",
@@ -25,6 +26,7 @@
   },
   {
    "slug": "honda-crv",
+   "label": "Honda SUV",
    "vehicle_type": "SUV",
    "commons_page": "https://commons.wikimedia.org/wiki/File:Honda_CRV_1.5_VX_AWD_2024_(9).jpg",
    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Honda_CRV_1.5_VX_AWD_2024_%289%29.jpg",
@@ -40,6 +42,7 @@
   },
   {
    "slug": "toyota-camry",
+   "label": "Toyota Camry",
    "vehicle_type": "sedan",
    "commons_page": "https://commons.wikimedia.org/wiki/File:Toyota_Camry_2.5_V_HEV_Hybrid_2025_(32).jpg",
    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Toyota_Camry_2.5_V_HEV_Hybrid_2025_%2832%29.jpg",

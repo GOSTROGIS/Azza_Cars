@@ -9,7 +9,7 @@ The site fades them into the page with a CSS mask.
 python3 tools/hero/cutouts.py
 ```
 
-`cutouts.json` lists each image: the Wikimedia Commons page, author, licence, an optional source crop,
+`cutouts.json` lists each image: the credit label shown on the page, the Wikimedia Commons page, author, licence, an optional source crop,
 and `clear_passes`. Each pass is a list of boxes, given as fractions of the cutout, where fragments of
 other objects survived background removal. After each pass only the largest region is kept.
 
@@ -24,6 +24,9 @@ standard thumbnail widths), retries on HTTP 429, 5xx and network errors (the sha
 
 Each cutout is an adaptation of its photo. CC BY-SA sources are shared under the same licence.
 The site must show credit (author, licence, link) wherever the images appear.
+The landing page builds both its random vehicle pool and its footer photo credits from `provenance.json`
+(`site/vite.config.js`, using each entry's `label`), so every cutout in the pool is credited. The build
+fails if an image has a licence without a known licence link.
 
 ## Choosing photos
 

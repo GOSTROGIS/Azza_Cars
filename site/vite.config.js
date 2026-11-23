@@ -16,6 +16,19 @@ const REPO = "https://github.com/GOSTROGIS/Azza_Cars/blob/main/";
 facts.PLAN_HTML = () => marked.parse(fs.readFileSync(path.resolve(__dirname, "../plan/BUSINESS_PLAN.md"), "utf8"))
   .replace(/href="\.\.\/site\/public\//g, 'href="./')
   .replace(/href="\.\.\/([^"#]+)/g, (m, p) => `href="${REPO}${p}`);
+// The hero showroom pool and its photo credits both come from public/hero/provenance.json (tools/hero/cutouts.py),
+// so a new cutout can never appear on the page without its CC credit.
+const hero = JSON.parse(fs.readFileSync(path.resolve(__dirname, "public/hero/provenance.json"), "utf8")).images;
+facts.HERO_POOL = () => JSON.stringify(hero.map((i) => i.file));
+const LICENCE_URL = { "CC BY 2.0": "https://creativecommons.org/licenses/by/2.0/", "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/" };
+facts.PHOTO_CREDITS = () => {
+  const missing = hero.filter((i) => !LICENCE_URL[i.license]).map((i) => i.license);
+  if (missing.length) throw new Error(`No licence URL for ${missing.join(", ")}: add it to LICENCE_URL in vite.config.js`);
+  const lines = hero.map((i) => `${i.label} by <a href="${i.commons_page}">${i.author}</a>, ${i.license}.`);
+  const sa = [...new Set(hero.map((i) => i.license).filter((l) => l.includes("BY-SA")))];
+  if (sa.length) lines.push(`The CC BY-SA adaptations are shared under ${sa.map((l) => `<a href="${LICENCE_URL[l]}">${l}</a>`).join(", ")}.`);
+  return lines.join("\n        ");
+};
 const factsPlugin = {
   name: "facts",
   transformIndexHtml: (html) => html.replace(/%([A-Z_]+)%/g, (m, k) => facts[k]?.() ?? m),

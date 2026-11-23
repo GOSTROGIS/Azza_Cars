@@ -62,10 +62,28 @@
         <circle class="ring__ember" cx="520" cy="80" r="26" fill="#ff4b1f"/>
         <circle cx="300" cy="300" r="14" fill="#ff4b1f"/>
       </svg>
-      <div class="hero__fleet" aria-hidden="true">
-        <img class="hero__car hero__car--a" src="./hero/ford-f150.webp" fetchpriority="high" decoding="async" alt="" width="1200" height="410" />
-        <img class="hero__car hero__car--b" src="./hero/honda-crv.webp" loading="lazy" decoding="async" alt="" width="1200" height="470" />
-        <img class="hero__car hero__car--c" src="./hero/toyota-camry.webp" loading="lazy" decoding="async" alt="" width="1200" height="423" />
+      <!-- A random vehicle from hero/provenance.json turns on the turntable. The pick runs inline, before the
+           first paint, so only one car downloads. Two lagging exposures give the slow-shutter trail. -->
+      <div class="showroom" aria-hidden="true">
+        <div class="showroom__car">
+          <noscript><img class="exposure exposure--0" src="./hero/ford-f150.webp" alt="" /></noscript>
+          <script>
+            (() => {
+              const pool = %HERO_POOL%;
+              const src = "./hero/" + pool[Math.floor(Math.random() * pool.length)];
+              const car = document.currentScript.parentElement;
+              for (const n of [2, 1, 0]) {
+                const img = new Image();
+                img.className = "exposure exposure--" + n;
+                img.alt = "";
+                if (n === 0) img.fetchPriority = "high";
+                img.src = src;
+                car.append(img);
+              }
+            })();
+          </script>
+        </div>
+        <div class="showroom__shutter"></div>
       </div>
       <div class="hero__copy">
         <p class="eyebrow">Surrey · Delta · White Rock · Langley</p>
@@ -194,10 +212,7 @@
     </div>
     <div class="foot__credits">
       <p><strong>Photo credits.</strong> Vehicle images are cut-out adaptations of photos from Wikimedia Commons:
-        Ford F-150 by <a href="https://commons.wikimedia.org/wiki/File:Ford_F-150_4x4_Pickup_Truck_(53149801149).jpg">Tony Webster</a>, CC BY 2.0.
-        Honda SUV by <a href="https://commons.wikimedia.org/wiki/File:Honda_CRV_1.5_VX_AWD_2024_(9).jpg">Captainmorlypogi1959</a>, CC BY-SA 4.0.
-        Toyota Camry by <a href="https://commons.wikimedia.org/wiki/File:Toyota_Camry_2.5_V_HEV_Hybrid_2025_(32).jpg">Captainmorlypogi1959</a>, CC BY-SA 4.0.
-        The CC BY-SA adaptations are shared under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+        %PHOTO_CREDITS%
         Vehicles shown illustrate types of vehicle and do not imply any manufacturer's endorsement.</p>
       <p><a href="./plan.html">Business plan</a> · <a href="./status.html">Project status</a> · <a href="./explorer.html">Model explorer</a></p>
     </div>

@@ -99,7 +99,7 @@ def main(cache=None):
             out = out.resize((MAX_WIDTH, round(out.height * MAX_WIDTH / out.width)), Image.LANCZOS)
         dst = OUT / f"{item['slug']}.webp"
         out.save(dst, "WEBP", **WEBP)
-        images.append({k: item[k] for k in ("slug", "vehicle_type", "commons_page", "original_url", "author", "license", "date_taken")}
+        images.append({k: item[k] for k in ("slug", "label", "vehicle_type", "commons_page", "original_url", "author", "license", "date_taken")}
                       | got | {"sha256": sha256(raw),
                          "bytes": len(raw), "file": dst.name})
         print(item["slug"], out.size, dst.stat().st_size, "bytes")
