@@ -14,9 +14,9 @@ Why this is the right first move:
 4. **Surrey is short of exactly what Ember Rent rents.** Against logarithmic curves fitted across Metro, Surrey has 20 car outlets where 28.7 are expected and 0.49 commercial truck and van outlets per 1,000 trade businesses against 1.32 Metro wide, while its truck supply is 34 of 37 U-Haul (section 4.1).
 5. **The airport is the wrong fight.** 18 counted car rental locations sit within 3 km of YVR, almost all majors ([GAP_ANALYSIS](../market/GAP_ANALYSIS.md)).
 
-What could sink it: under-utilised vehicles financed with debt, rates set without a local survey, insurance cost and availability for a small U-Drive fleet, and the closed ICBC replacement-rental channel (ICBC's preferred suppliers are Budget and Enterprise from 1 September 2026, per [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)). Section 6 states these plainly.
+What could sink it: under-utilised vehicles financed with debt, rates set without a full survey (only U-Haul and Home Depot publish Surrey prices, section 4.2), insurance cost and availability for a small U-Drive fleet, and the closed ICBC replacement-rental channel (ICBC's preferred suppliers are Budget and Enterprise from 1 September 2026, per [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)). Section 6 states these plainly.
 
-Decisions before launch: fleet size and mix, capital and financing, site, insurance carrier, legal entity.
+Decisions before launch: fleet size and mix, capital and financing (Ford Credit excludes rental units from commercial purchase financing, section 11.6), site, insurance carrier, legal entity. Turo is both a price competitor and a channel for idle winter days, and owner-sourced vehicles are a phase 2 option for summer capacity (section 4.3).
 
 ## 2. Business strategy
 
@@ -107,7 +107,7 @@ Counted rental locations (`counted = true`) in the Ember Rent service area (Surr
 | Routes | 2 | 1 | 1 | Independent car | Shows independents appear in local search |
 | Independents and unbranded | 59 | 15 | 4 | Mixed | Win on reviews, price clarity and handover |
 | Evo, Modo, Zipcar, Car2Go (carshare) | 6 points | 0 | 0 | Trips of a few hours, Vancouver and Burnaby. Evo about 2,300 and Modo 1,000 vehicles in August 2023 | Target the day, week and the jobs car share cannot do |
-| Turo (peer to peer) | not counted | not counted | not counted | Marketplace with ICBC blanket insurance for BC hosts. Median Canadian host earning C$657 a month, January to October 2025 | Competitor on price and a possible channel for spare cars |
+| Turo (peer to peer) | not counted | not counted | not counted | Marketplace with ICBC blanket insurance for BC hosts. Median Canadian host earning C$657 a month, January to October 2025 | Competitor on price and a channel for idle days. See section 4.3 |
 
 Positioning and carshare figures are from [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md) and [GAP_ANALYSIS](../market/GAP_ANALYSIS.md). Zipcar and Car2Go records may be stale. Turo listing counts were not sourced. The majors' local rates are unknown, and a rate survey is the first open item in section 13.
 
@@ -169,6 +169,64 @@ The index is the mean of three scores, each the distance from its curve in units
 
 **What this means for the launch.** Surrey's index is neutral because a surplus of U-Haul dealers offsets a shortage of cars and commercial vehicles. Ember Rent's fleet is cars, vans and pickups for trade, the two kinds Surrey is short of, and nothing that competes with U-Haul's one-way moves. The deepest bone-white areas, North Vancouver District and Coquitlam, are resident car markets with little trade base. They suit the phase 3 Tri-Cities car location, not a trade fleet. The index counts outlets, not vehicles, and treats a two-truck dealer the same as a large depot.
 
+### 4.2 Published rates
+
+Retrieved 23 November 2026. Before tax.
+
+Sources: [U-Haul](https://www.uhaul.com/Truck-Rentals/) Surrey in-town quote for a 3 December 2026 pickup. [Home Depot](https://www.homedepot.ca/en/home/tool-and-vehicle-rental.html) national page, Surrey store not confirmed. [DOZR](https://dozr.com/rent/truck/cargo-van/Surrey-BC) listing from an unnamed Surrey supplier.
+
+| Operator | Vehicle | Rate | Kilometres |
+|---|---|---:|---|
+| U-Haul | Cargo van | C$19.95 per rental | C$0.99/km |
+| U-Haul | 10 ft truck | C$19.95 per rental | C$1.09/km |
+| U-Haul | 15 ft truck | C$29.95 per rental | C$1.09/km |
+| Home Depot | Small cargo van, pickup | C$24.95 first 90 min, C$79.95 4 h, C$119.95/day | Unlimited |
+| Home Depot | Large cargo van | C$39.00 first 90 min, C$94.00 4 h, C$139.95/day | Unlimited |
+| DOZR | Cargo van | C$126/day, C$756/week, C$3,024/4 weeks | Not stated |
+
+U-Haul adds a C$1.00 environmental fee per rental.
+
+Enterprise, Budget, Penske and Discount publish no Surrey rates outside their booking engines. KAYAK shows user-found Surrey car rates of C$24 to C$33 a day for small and midsize cars, and C$53 to C$92 for pickups, over the last 12 months ([KAYAK](https://www.ca.kayak.com/Surrey-Pickup-Truck-Rentals.6168.cpk.ksp)). These are historical searches, not quotes.
+
+| Policy | Enterprise Surrey | Home Depot Canada |
+|---|---|---|
+| Minimum age | 21 | 21 |
+| Under 25 | C$20/day, vans and pickups up to ¾ ton only | |
+| Deposit | C$300 (non-commercial renters) | C$500 |
+| Damage waiver | C$9.99 to 52.99/day, trucks. C$32.99 to 79.99/day, cars | Not sold. Renter must carry non-owned auto liability |
+| Source | [Truck](https://www.enterprise.com/en/car-rental-locations/ca/bc/surrey-truck-rental-c45t.html), [cars](https://www.enterprise.com/en/car-rental-locations/ca/bc/surrey-newton-c402.html) | [Home Depot](https://www.homedepot.ca/en/home/tool-and-vehicle-rental.html) |
+
+**Where Ember Rent sits.** U-Haul and Home Depot lead with short-hire prices under C$25. Ember Rent's all-in daily price competes against Home Depot's C$119.95 to C$139.95 day rate with unlimited kilometres and against Enterprise's day rate plus its waiver, not against U-Haul's per-rental headline.
+
+### 4.3 Rent-by-owner
+
+Rent-by-owner is the Airbnb model for vehicles: private owners list their own cars, vans and trucks on a platform, which takes a share and supplies insurance during the trip.
+
+**The market in BC.** Turo is the only peer-to-peer vehicle platform found operating in BC ([Turo eligibility](https://help.turo.com/en_us/meeting-vehicle-requirements-or-canada-ryYjTRW8c.md)). Getaround wound down its US business in February 2025 ([PYMNTS](https://www.pymnts.com/transportation/ridesharing/2025/carsharing-marketplaces-getaround-and-hyrecar-wind-down-us-operations/)). No Canadian operation was found for Getaround or Fluid Truck. Evo, Modo and Communauto run their own fleets. Turo reported a 73% rise in Vancouver vehicles listed in March 2026 against a year earlier ([Canadian Auto Dealer](https://canadianautodealer.ca/?p=76738)). Canadian hosts passed C$300 million in cumulative earnings by July 2025 ([Auto Remarketing](https://www.autoremarketing.com/arcanada/canadian-car-owners-earnings-through-turo-reach-300-million-milestone/)). Canada is under 10% of Turo's net revenue ([Turo S-1/A](https://www.sec.gov/Archives/edgar/data/1514587/000162828024047889/turoinc-sx1a12.htm)). No BC host or vehicle count is published.
+
+**How the host model works in BC.**
+
+| Item | Terms | Source |
+|---|---|---|
+| Host share of trip price | 85%, 75% or 65%, by plan, since 31 March 2026 | [Turo](https://help.turo.com/en_us/earnings-plans-in-detail-canada-hosts-Hk8uLEgEq.md) |
+| Host damage responsibility per claim, during the trip | C$2,000, C$250 or none, by plan | same |
+| Third-party liability | C$2,000,000 through ICBC during the trip. None while the host delivers the vehicle in BC | same |
+| ICBC blanket | Turo holds ICBC Basic and Optional blanket coverage. Basic blanket gives accident benefits and C$200,000 third-party liability. Owners must still declare the use to their Autoplan broker | [ICBC](https://icbc.com/insurance/commercial/peer-to-peer-vehicle-rental) |
+| Weight limit | Peer-to-peer use only for vehicles of 5,000 kg GVW or less, and not for vehicles owned by or leased to the platform | [ICBC tariff, s. 2.15](https://www.icbc.com/assets/en/6PyY5DEcoIT7z2ujjlwb3d/basic-tariff.pdf) |
+| Vehicle limits | Up to 12 years old, under 200,000 km, 9 seats or fewer, no commercial licence. Box trucks in BC up to 5,000 kg and under 26 ft | [Turo eligibility](https://help.turo.com/en_us/meeting-vehicle-requirements-or-canada-ryYjTRW8c.md), [box trucks](https://help.turo.com/en_us/box-trucks-hosts-Sk111wtlkl.md) |
+| Account closure | Immediate for fraud or safety reasons. A cancellation rate above 5% unlists vehicles for 7 days, above 10% starts closure | [Turo](https://help.turo.com/en_us/turo-initiated-account-closures-hosts-H1VFT5tQp.md), [cancellations](https://help.turo.com/en_us/canceling-a-trip-with-your-guest-hosts-HkkzLVlE5.md) |
+| BC rental tax | PVRT applies (R4), plus PST of 7% to 20% by vehicle value | [BC PST 116](https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-116-motor-vehicle-dealers-leasing-companies.pdf) |
+
+**Turo prices for vans in Metro Vancouver.** One snapshot of 3-day trips: Ford Transit from C$70 to C$267 a day ([Turo](https://turo.com/ca/en/van-rental/canada/vancouver-bc), cached 10 November 2026). Hosts set prices, so this is a range, not an average.
+
+**Three ways Ember Rent can use it.**
+
+1. **Competitor.** Turo vans and pickups compete on price for residents and small jobs. The limits in the table above leave large vans, commercial-licence vehicles, heavier trucks and delivery outside what a Turo host can offer safely. Ember Rent's account billing and trade fleet are outside it too.
+2. **Channel for idle days.** Cars that meet Turo's limits can be listed in the winter trough (section 6). On the highest-share plan Ember Rent keeps 85% of the trip price and carries up to C$2,000 per claim. A vehicle rated U-Drive for Ember Rent's own rentals and also used under Turo's blanket needs its use confirmed with an Autoplan broker first (ICBC tariff s. 2.15).
+3. **Fleet-light sourcing, the host-management model.** Ember Rent rents owners' vehicles under its brand and splits revenue, as Airbnb management companies do for homes. The only published splits are Turo's US passive-income program, 70% to the owner and 30% to the manager ([Turo](https://turo.com/blog/news/turo-launches-passive-income-hosting-in-the-united-states/)), and one US manager's 30% fee. The program is US only. Ember Rent's 30% would have to cover cleaning, handover, claims handling and damage responsibility. It adds vehicles without capital, which matters most for the summer peak. Three questions decide whether it is legal and insurable: whether owners' vehicles rented through Ember Rent's own booking channel must each be rated U-Drive by ICBC, who collects PVRT and PST, and which Surrey licence class applies.
+
+**What this changes in the plan.** Phase 1 keeps an owned or leased trade fleet. The winter idle days go to Turo where vehicles qualify (go-to-market step 7). Fleet-light sourcing is a phase 2 option for summer capacity, after an ICBC broker and a lawyer answer the three questions above.
+
 ## 5. Why it wins
 
 1. **It enters where supply is thinnest and business demand is densest.** Surrey has 6.0 truck rental locations per 1,000 trucking, warehousing and construction businesses against 9.0 Metro wide ([GAP_ANALYSIS](../market/GAP_ANALYSIS.md)).
@@ -191,7 +249,7 @@ In rough order of how likely each is to end the business.
 7. **The ICBC channel stays closed.** Only preferred suppliers bill ICBC directly, and ICBC does not authorise EV loss-of-use rentals ([MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)). Replacement-rental revenue may be small.
 8. **The name has to be changed.** The trademark search for Ember Rent is pending, and a UK transport company called Ember operates intercity buses ([NAMING](../brand/NAMING.md)). A forced rebrand after launch would waste the review history tied to the Google profile name.
 9. **Wrong site.** Zoning, visibility and parking capacity are not covered by any data in this repository ([GAP_ANALYSIS](../market/GAP_ANALYSIS.md)).
-10. **Seasonality.** Not measured in any source. Moving and construction demand may peak in summer.
+10. **Seasonality.** Demand peaks in summer. Canada's CPI for passenger vehicle rental ran 170.6 in June to August 2025 against 135.4 in January and February ([StatCan 18-10-0004](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401)). Overnight non-resident tourists entering through BC peaked at 728,338 in July 2025 against 258,141 in November ([StatCan 24-10-0053](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410005301)). BC construction employment ranged from 250,600 in February 2025 to 284,900 in July 2026 ([StatCan 14-10-0022](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002201)). A fleet sized for July sits idle in winter.
 
 ## 7. Risk matrix
 
@@ -208,15 +266,17 @@ In rough order of how likely each is to end the business.
 | R9 | Trademark conflict over "Ember" | Med | High | CIPO and USPTO searches by a trademark agent in Nice classes 12, 35 and 39 before signage and the Google profile go live ([NAMING](../brand/NAMING.md)) | Agent |
 | R10 | Damage, theft, unpaid invoices | Med | Med | Deposits, driver checks, telematics, credit limits and terms for accounts | Operations lead |
 | R11 | Majors cut prices locally | Med | Med | Compete on vans, trade accounts and service rather than car price | — |
-| R12 | Marketplace dependence | Low | Med | Cap the share of fleet days sold through marketplaces | — |
+| R12 | Marketplace dependence, including Turo (R14) | Low | Med | Cap the share of fleet days sold through marketplaces | — |
 | R13 | Privacy of driver licence and payment data | Med | Med | Obtain legal advice on BC private-sector privacy law and payment-card rules before collecting customer data | Lawyer |
+| R14 | **Turo account closure or plan change.** Closure can be immediate and host shares are set by Turo (section 4.3) | Low | Med | Keep Turo to idle days only. Keep cancellations under 5%. Keep direct booking as the main channel | — |
+| R15 | **Owner-sourced vehicles uninsured for rental use.** An owner who does not declare rental use risks the policy being cancelled for misrepresentation ([Turo S-1/A](https://www.sec.gov/Archives/edgar/data/1514587/000162828024047889/turoinc-sx1a12.htm)) | Med | High | No fleet-light vehicle goes live until ICBC rating, owner declaration and endorsements are confirmed by a broker | Broker |
 
 ## 8. Prerequisites and launch checklist
 
 | Area | Item | Status | Note |
 |---|---|---|---|
 | Market | Gap analysis and market sizing | done | [GAP_ANALYSIS](../market/GAP_ANALYSIS.md), [TAM_SAM_SOM](../market/TAM_SAM_SOM.md) |
-| Market | Competitor rate survey | open | No rate data exists |
+| Market | Competitor rate survey | partial | U-Haul and Home Depot published (section 4.2). Enterprise, Budget, Penske and Discount must be quoted by hand |
 | Market | 10 to 20 customer interviews with trades and logistics firms | open | Tests segments 1 and 4 |
 | Legal | Legal entity (sole proprietorship, partnership, corporation) | decision | |
 | Legal | BC Registry name approval and registration as "Ember Rent" | open | Name must match signage and Google profile ([MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)) |
@@ -230,7 +290,8 @@ In rough order of how likely each is to end the business.
 | Financing | Capital available and financing structure (cash, lease, loan, fleet line) | decision | |
 | Fleet | Size and mix by class | decision | Section 10 |
 | Location | Site in Surrey near industrial employment | decision | 1,616 mapped industrial buildings in Surrey ([service-area.json](../site/public/service-area.json)) |
-| Systems | Booking, fleet and payments system | decision | Section 10 |
+| Systems | Booking, fleet and payments system | decision | Vendor prices in section 10.4 |
+| Insurance | Broker confirms Turo listing of U-Drive-rated vehicles, and the rating for owner-sourced vehicles | open | Section 4.3, R15 |
 | Brand | Name chosen: Ember Rent | done | [NAMING](../brand/NAMING.md) recommended Keyhand, with Ember second |
 | Brand | Trademark search (CIPO, USPTO) | open | Pending ([NAMING](../brand/NAMING.md)) |
 | Brand | emberrent.com and emberrent.ca registered | open | Reported available by GoDaddy on 22 November 2026, which is not a reservation ([NAMING](../brand/NAMING.md)) |
@@ -254,7 +315,7 @@ Taken from the prioritised plan in [MARKETING_REVIEW](../brand/MARKETING_REVIEW.
 | 4 | Months 0 to 3 | Search ads on van and truck terms around Surrey, location assets with call buttons, manual or maximise-conversions bidding first | Cost per booking, revenue per day |
 | 5 | Months 0 to 3 | Text a review link at every return. Steady weekly flow, never paid reviews | Reviews per week, rating |
 | 6 | Months 0 to 6 | Field sales to 30 trade, production and property-management accounts, and body shops for non-ICBC repairs, with monthly invoicing | Active accounts, share of revenue |
-| 7 | Months 3 to 9 | List cars, not trucks, on one marketplace for weekday and shoulder-season fill. Consider Turo for spare units | Utilisation, marketplace share of days |
+| 7 | First winter | List vehicles that meet Turo's limits (section 4.3) on Turo, and cars on one rental marketplace, to fill the winter trough | Utilisation, marketplace share of days |
 | 8 | Months 3 to 9 | Referral credit for customers and accounts | Referred bookings |
 | 9 | Phase 2 | Repeat steps 2 to 6 for Langley Township | Same |
 
@@ -291,7 +352,14 @@ Roles: counter and handover, cleaning and turnaround, maintenance coordination, 
 
 ### 10.4 Booking system
 
-Requirements: online booking with all-in prices, PVRT and taxes as separate government charges, deposits and card pre-authorisation, driver licence capture, account billing for trade customers, utilisation and revenue-per-day reporting by class, and a marketplace connection later. No vendor evaluated yet.
+Requirements: online booking with all-in prices, PVRT and taxes as separate government charges, deposits and card pre-authorisation, driver licence capture, account billing for trade customers, utilisation and revenue-per-day reporting by class, and a marketplace connection later.
+
+| Vendor | Published price | Source |
+|---|---|---|
+| HQ Rental Software | US$120/month up to 10 vehicles, US$175 up to 25, US$250 up to 50. Onboarding US$550 to 1,500. Currency shown by a US flag, not stated | [HQ](https://hqrentalsoftware.com/pricing) |
+| RentSyst | €55/month flat to 15 vehicles, then €3.00 per vehicle to 50. Excludes VAT | [RentSyst](https://rentsyst.com/price/) |
+| Booqable | 35, 87 or 187 a month by tier. Currency not shown | [Booqable](https://booqable.com/pricing) |
+| Rent Centric, TSD, RENTALL | Quote on request. RENTALL needs at least 10 vehicles | [Rent Centric](https://www.rentcentric.com/), [TSD](https://www.tsdweb.com/), [RENTALL](https://www.navotar.com/pricing) |
 
 ### 10.5 Maintenance
 
@@ -307,9 +375,9 @@ Inputs stay blank until costs are quoted. Cited inputs carry their source.
 |---|---|---|---|
 | N | Fleet size | ___ | |
 | U | Time utilisation (rented days ÷ available days) | ___ | Benchmark only: 81%, Hertz company-wide 2025 ([TAM_SAM_SOM](../market/TAM_SAM_SOM.md)) |
-| R | Average daily rate, all-in, excluding taxes and PVRT | ___ | No local rate found |
+| R | Average daily rate, all-in, excluding taxes and PVRT | ___ | Benchmarks in section 4.2 |
 | v | Variable cost per rented day (cleaning, card fees, wear, fuel loss, marketplace commission) | ___ | |
-| H | Annual holding cost per vehicle (depreciation or lease, interest, ICBC and optional insurance, registration, scheduled maintenance) | ___ | |
+| H | Annual holding cost per vehicle (depreciation or lease, interest, ICBC and optional insurance, registration, scheduled maintenance) | ___ | Vehicle prices, finance and residuals in section 11.6 |
 | F | Annual fixed cost (rent, wages, software, marketing, professional fees) | ___ | |
 | t | PVRT per passenger-vehicle rental day | C$1.50 | Pass-through, not revenue (R4) |
 
@@ -351,12 +419,34 @@ Build one grid per vehicle class: vans, pickups and cars will not share R, v or 
 
 Start-up capital = vehicle down payments or purchase + site fit-out and deposit + insurance deposits + systems setup + pre-launch marketing + working capital for the months to break-even.
 
+### 11.6 Vehicle cost benchmarks
+
+Retrieved 23 November 2026. Base MSRP before freight, PDI and taxes.
+
+| Vehicle | Base MSRP (C$) | Freight and PDI (C$) | Source |
+|---|---:|---:|---|
+| Mercedes-Benz Sprinter cargo, 144 in | 58,990 | 6,995 | [Mercedes-Benz Vans](https://www.mercedes-benz-vans.ca/en/sprinter), freight via [Driving.ca](https://driving.ca/mercedes-benz/sprinter-cargo-van) |
+| Ram ProMaster 1500 Tradesman, low roof 118 in | 58,520 | 3,095 | [Ram window sticker](https://www.ramtruck.ca/en/windowsticker/3c6lrvngxte202580?&campaign=) |
+| Ford Transit T-150 cargo, low roof 130 in | 59,900 | 2,995 | [Driving.ca](https://driving.ca/ford/transit-van/2026) |
+| Ford F-150 XL regular cab | 52,690 | 2,695 | [Driving.ca](https://driving.ca/ford/f-150/2026) |
+| Ram 1500 Tradesman quad cab 4x4 | 59,495 | 2,695 | [Driving.ca](https://driving.ca/2026/cheapest-ram-cars) |
+| Chevrolet Silverado 1500 WT regular cab | 48,999 | 2,700 | [Driving.ca](https://driving.ca/chevrolet/silverado-1500/2026) |
+| Hyundai Elantra Essential | 23,499 | 1,900 | [Driving.ca](https://driving.ca/hyundai/elantra) |
+| Toyota Corolla L | 25,020 | 1,760 | [Driving.ca](https://driving.ca/2026/cheapest-sedans). Toyota's launch release said 24,520 ([Toyota](https://media.toyota.ca/en/releases/2025/what-s-new--the-2026-toyota-corolla.html)) |
+| Honda Civic LX | 28,440 | 1,830 | [Driving.ca](https://driving.ca/2026/cheapest-honda-cars) |
+
+Driving.ca rows are not confirmed on the manufacturer's own price builder.
+
+**Financing.** Prime was 4.70% on 18 November 2026 ([Bank of Canada](https://www.bankofcanada.ca/valet/observations/V39079,V80691311/json)). Ford Credit Canada lists "Rental units" as ineligible for Commercial Purchase financing ([Ford Credit](https://www.ford.ca/finance/commercial-financing/commercial-purchase)), so retail captive offers cannot be assumed for a rental fleet. Mercedes-Benz advertises 2.99% over 60 months on the Sprinter 2500 144 in cargo to 31 December 2026 ([Mercedes-Benz Vans](https://www.mercedes-benz-vans.ca/en/home)), eligibility for rental use not stated. An equipment-finance broker quotes 6.5% to 10% for credit scores of 700 and up ([Iron Finance](https://www.ironfinance.ca/guides/compare-equipment-loan-rates-canada)).
+
+**Residual value.** Canadian Black Book: 2023 vehicles kept 57.0% of MSRP after 4 years on average, down from 67.5% a year earlier ([CBB](https://www.canadianblackbook.com/canadian-black-book-announces-2026-best-retained-value-awards/)). Published 36-month lease residuals: Elantra 53% to 56%, Civic 56% to 60%, Ram 1500 Tradesman 42% to 45%, Silverado WT 40% to 43%, depending on kilometres ([drivemybudget.ca](https://drivemybudget.ca/ca/on/ram/2026-1500dt-tradesman/), Ontario rate sheets). These are subsidised retail lease figures, not resale values for high-kilometre rental units. Model-level residuals for the cargo vans were not found.
+
 ## 12. Milestones and KPIs
 
 | Milestone | Target date | Exit criterion |
 |---|---|---|
 | Name cleared and registered | — | Agent's clearance, domains held, BC Registry name |
-| Rate survey and customer interviews done | — | Rates and segment priorities set |
+| Majors' rate survey and customer interviews done | — | Rates and segment priorities set |
 | Site signed | — | Zoning confirmed, licence applied |
 | Insurance bound and fleet registered | — | ICBC U-Drive cover in force |
 | Launch | — | Profile verified, booking live |
@@ -375,16 +465,19 @@ Start-up capital = vehicle down payments or purchase + site fit-out and deposit 
 
 ## 13. Open questions
 
-1. What do Enterprise, Budget, U-Haul, Penske and Discount charge in Surrey for the same dates? This sets R.
+1. What do Enterprise, Budget, Penske and Discount charge in Surrey for the same dates? Their booking engines must be quoted by hand (section 4.2 has U-Haul and Home Depot). This sets R.
 2. What will ICBC U-Drive Basic and optional coverage cost per class for a fleet under 20? This sets most of H.
 3. How do the PVRT 8-hour and 28-day rules and the "passenger vehicle" definition apply to vans and pickups?
 4. Does the rental company or the renter need the NSC certificate for a rented truck over 5,000 kg?
 5. Will trades actually rent on account? Interview 10 to 20 Surrey firms.
 6. Does "Ember Rent" clear CIPO and USPTO in classes 12, 35 and 39?
-7. What capital is available, and on what financing terms?
+7. What capital is available, and on what financing terms? Captive retail offers may not apply to rental units (section 11.6).
 8. Which sites in Surrey pass the zoning inquiry, and what do they cost?
-9. How strong is seasonality? No source measures it.
+9. How large is the winter trough for vans and pickups specifically? National proxies show a summer peak (section 6), not a fleet-level figure.
 10. How does a non-preferred supplier get paid on ICBC claims, and does ICBC run a supplier selection process ([MARKETING_REVIEW](../brand/MARKETING_REVIEW.md))?
+11. Must owners' vehicles rented through Ember Rent's own booking channel each be rated U-Drive by ICBC?
+12. On owner-sourced and Turo rentals, who collects and remits PVRT and PST?
+13. Which Surrey business licence class covers vehicle rental, and owner-sourced rental?
 
 ## 14. Sources
 
