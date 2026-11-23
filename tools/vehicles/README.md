@@ -2,6 +2,8 @@
 
 Scripts that turn reference photos into 3D vehicle recreations for the site viewer.
 
+The site no longer has a 3D viewer: the popular-models page uses real photos instead (see tools/models/build.py).
+
 The models are faithful recreations built from photos and cited dimensions. They are not factory CAD
 and are never described as identical to the real vehicle.
 

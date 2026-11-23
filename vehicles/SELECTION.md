@@ -2,6 +2,8 @@
 
 Which vehicles got 3D recreations first, and the data behind the choice.
 
+The site no longer has a 3D viewer: the popular-models page uses real photos instead (see tools/models/build.py).
+
 ## Rule
 
 1. Rank the nameplates in the collected US sales data by 2024 calendar-year US sales.

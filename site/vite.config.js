@@ -1,5 +1,4 @@
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
 import path from "node:path";
 import fs from "node:fs";
 import { marked } from "marked";
@@ -48,12 +47,11 @@ const factsPlugin = {
 // base "./" keeps the build portable: it works from any sub-path or straight from disk hosting.
 export default defineConfig({
   base: "./",
-  plugins: [react(), factsPlugin],
+  plugins: [factsPlugin],
   resolve: { alias: { "@design": path.resolve(__dirname, "../design") } },
   server: { fs: { allow: [".."] } },
   build: {
-    chunkSizeWarningLimit: 1200,
-    // The landing page is plain HTML for speed and search. The model explorer stays a React app.
+    // Every page is plain HTML with a small script, for speed and search.
     rollupOptions: { input: Object.fromEntries(["index", "explorer", "status", "plan"].map((n) => [n, path.resolve(__dirname, `${n}.html`)])) },
   },
 });

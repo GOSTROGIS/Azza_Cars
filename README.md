@@ -5,9 +5,9 @@ Everything for Azza Cars, a car and truck rental business, built from scratch.
 The first workstream is a verified library of automotive brand logos in SVG,
 for use in documents and on the website.
 
-The second is the customer-facing website, which doubles as the dashboard: a brand
-selector, a cited catalog of every model with fuzzy search and filters, a design
-system, and 3D vehicles recreated from traced reference images.
+The second is the customer-facing website: the Ember Rent landing page, the business plan,
+the market map and a popular-models page with real photos of Canada's 2025 best sellers.
+The cited catalog of every model and the 3D vehicles below are kept as data, but the site no longer shows them.
 
 ## Repository layout
 
@@ -31,7 +31,7 @@ Azza_Cars/
 ├── market/                Metro Vancouver gap analysis, TAM/SAM/SOM, map and GIS layers (see market/README.md)
 ├── plan/                  Business plan, rendered as plan.html on the website (plan/BUSINESS_PLAN.md)
 ├── brand/                 Naming and marketing research, with sources (see brand/README.md)
-├── site/                  Website and dashboard, Vite + React + three.js (see site/README.md)
+├── site/                  Website, Vite with plain HTML pages (see site/README.md)
 └── tools/                 Scripts, grouped by workstream
     ├── register/          Builds register/brands.csv
     ├── logos/             Fetches, rebuilds and audits logos

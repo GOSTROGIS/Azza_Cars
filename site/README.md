@@ -1,30 +1,22 @@
 # Website and dashboard
 
-The public Ember Rent website, which is also the internal dashboard: brand selector, model search,
-filters and a 3D viewer. It is a static site, so it can be hosted anywhere (no server code).
+The public Ember Rent website: landing page, business plan, project status, market map and a popular-models page. It is a static site, so it can be hosted anywhere (no server code).
 
 ## Stack and why
 
-- **Vite + React.** Fast static builds and a small first load (about 55 kB gzipped of JavaScript before the 3D viewer).
-- **three.js through react-three-fiber and drei.** three.js has the most complete glTF/GLB support on the web.
-  react-three-fiber keeps the viewer declarative inside React. The viewer is lazy-loaded, so the page
-  does not download three.js until a 3D vehicle is on screen.
-- **No search library.** `src/search.js` is a small fuzzy matcher tuned for vehicle names: it ignores
-  punctuation and spacing ("crv" finds CR-V, "f150" finds F-150), tolerates one or two typos ("camery"),
-  combines brand and model words ("toyota rav") and treats a four-digit year as a filter ("civic 1998").
+- **Vite, plain HTML and small scripts.** No framework: each page is HTML that search engines can read, with a few kilobytes of JavaScript.
+- **Real photos only.** The popular-models page shows open-licence Wikimedia Commons photos with the background removed by `tools/models/build.py`. White and silver photos carry a paint mask, so the page can multiply another colour into the real paint.
 
 ## Layout
 
 | Path | What it is |
 |---|---|
-| `src/App.jsx` | Page: hero search, featured 3D, brand grid, filters, results, model detail |
-| `src/search.js` | Fuzzy search index and scoring |
-| `src/Viewer.jsx` | 3D viewer: studio lighting from local light panels (no HDR download), orbit, zoom, turntable, paint presets |
-| `src/labels.js` | Display labels for body types, markets, sources |
-| `src/app.css` | Page layout. Colours, depth and components come from `design/` |
-| `scripts/copy-data.mjs` | Copies `catalog/`, audited `logos/svg/` files and `vehicles/` output into `public/` |
-
-`public/data`, `public/logos` and `public/vehicles` are generated at build time and are not committed.
+| `index.html`, `src/landing.js` | Landing page |
+| `explorer.html`, `src/explorer.js` | Popular models: Canada's 2025 best sellers, search, type filter, detail with colour swatches and PNG download |
+| `plan.html`, `status.html` | Business plan (rendered from `plan/BUSINESS_PLAN.md`) and project status |
+| `src/landing.css` | Styles for every page. Colours and type come from `design/` |
+| `scripts/copy-data.mjs` | Copies `market/map.html` into `public/` |
+| `public/models/` | Cutouts and `models.json`, written by `tools/models/build.py` |
 
 ## Run
 
@@ -37,14 +29,13 @@ npm run build    # copies data, writes dist/
 
 ## Accessibility
 
-- The search is a WAI-ARIA combobox: `/` focuses it, arrow keys move, Enter opens, Escape closes or clears.
-- Every control is a real button with `aria-pressed` state. Focus rings are always visible.
-- Result counts are announced to screen readers. The 3D canvas has a text label.
-- Layout works from 320 px phones (single column, detail as a full-screen sheet) to wide desktops (three columns).
+- The model search is a labelled search field and the type filters are real buttons with `aria-pressed` state. Focus rings are always visible.
+- The model count is announced to screen readers. The model detail is a native `<dialog>`, closed with Escape or the close button.
+- Layout works from 320 px phones to wide desktops.
 
 ## Ember Rent landing page
 
-`index.html` is the Ember Rent landing page: plain HTML and CSS (`src/landing.js`, `src/landing.css`) so it loads fast and is easy for search engines to read. The model explorer React app moved to `explorer.html`, unchanged apart from the name in its header.
+`index.html` is the Ember Rent landing page: plain HTML and CSS (`src/landing.js`, `src/landing.css`) so it loads fast and is easy for search engines to read.
 
 The page follows the marketing plan in `brand/MARKETING_REVIEW.md`: vans and trucks first, Surrey first, all-in prices, business accounts, local business and FAQ structured data, and photo credits for the hero images.
 

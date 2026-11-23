@@ -7,7 +7,6 @@
   "CarGurus": "https://partnercontent.cargurus.ca/research/articles/best-selling-cars-canada",
   "BSCB": "https://bestsellingcarsblog.com/2026/01/canada-full-year-2025-ford-f-series-celebrates-60-years-as-1-pick-up-truck-in-strongest-market-in-6-years",
   "DesRosiers via Canadian Auto Dealer": "https://canadianautodealer.ca/2026/01/f-series-stays-on-top-as-2025-model-race-reshuffles/",
-  "GCBC pattern": "https://www.goodcarbadcar.net/{make}-{model}-sales-figures/",
   "FCA": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26909",
   "MAZ": "https://www.newswire.ca/news-releases/mazda-canada-reports-sales-for-december-and-full-year-2025-800117733.html",
   "KIA": "https://www.finanzen.net/nachricht/aktien/kia-canada-achieves-another-all-time-sales-record-in-2025-with-nearly-1-5-million-units-sold-to-date-15400007",
@@ -15,7 +14,8 @@
   "TCI": "https://media.toyota.ca/en/releases/2026/record-electrified-vehicle-sales-power-toyota-canada-inc--to-rec.html",
   "MB": "https://www.finanzen.net/nachricht/aktien/mercedes-benz-canada-reports-2025-sales-results-15409267",
   "GM Canada": "https://news.gm.ca/en/home.detail.html/Pages/news/ca/en/2026/jan/0105_gm-leads-canadian-auto-sales-for-third-straight-year.html",
-  "Discontinuations": "https://www.cars.com/articles/these-cars-have-been-discontinued-for-2026-517150"
+  "Discontinuations": "https://www.cars.com/articles/these-cars-have-been-discontinued-for-2026-517150",
+  "GCBC": "https://www.goodcarbadcar.net/"
  },
  "models": [
   {
@@ -835,5 +835,22 @@
    "type": "3P",
    "notes": "Discontinued."
   }
- ]
+ ],
+ "source_names": {
+  "GA10": "The Car Guide, top 10 of 2025",
+  "GAB": "The Car Guide, each brand's best seller",
+  "HON": "The Car Guide, Honda and Toyota 2025",
+  "GCBC": "GoodCarBadCar (Canadian model pages are members-only)",
+  "FCA": "Stellantis Canada",
+  "MAZ": "Mazda Canada",
+  "KIA": "Kia Canada",
+  "FORD": "Ford Canada",
+  "TCI": "Toyota Canada",
+  "MB": "Mercedes-Benz Canada",
+  "BSCB": "Best Selling Cars Blog",
+  "GM Authority": "GM Authority",
+  "CarGurus": "CarGurus",
+  "DesRosiers via Canadian Auto Dealer": "DesRosiers, via Canadian Auto Dealer",
+  "GM Canada": "GM Canada"
+ }
 }

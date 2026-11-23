@@ -1,5 +1,6 @@
 /* Ember Rent landing page. Colours, type and spacing come from the shared design tokens. */
 @import "@design/tokens.css";
+@import "@design/components.css";
 
 *,
 *::before,
@@ -216,7 +217,7 @@ h3 { font-size: 1.25rem; font-weight: 700; }
 }
 
 /* ---- Project status page ---- */
-.status h1, .doc h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); font-stretch: 118%; font-weight: 900; line-height: 1.02; margin: 0 0 var(--space-4); }
+.status h1, .doc h1, .models h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); font-stretch: 118%; font-weight: 900; line-height: 1.02; margin: 0 0 var(--space-4); }
 .status h2 { margin-top: var(--space-7); font-size: 1.6rem; }
 .status__list { padding-left: 1.2em; display: grid; gap: var(--space-3); max-width: 900px; }
 .status code, .doc code { font-family: var(--font-mono); font-size: 0.9em; color: var(--bone-50); }
@@ -378,3 +379,41 @@ body {
 .chart-fig svg { min-width: 680px; display: block; width: 100%; height: auto; background: var(--carbon-950); border: 1px solid var(--carbon-700); border-radius: var(--radius-md); }
 .chart-fig figcaption { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--carbon-300); }
 .chart-fig svg g:hover > path, .chart-fig svg g:hover > circle:last-of-type, .chart-fig svg g:hover > rect { stroke: #f7f4ee; stroke-width: 2; }
+
+/* ---- Popular models page (explorer.html, src/explorer.js) ---- */
+.models__lede { color: var(--carbon-300); max-width: 60ch; margin: 0 0 var(--space-5); }
+.models__tools { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center; margin-bottom: var(--space-3); }
+.models__search { min-width: min(320px, 100%); }
+.models__types { display: flex; flex-wrap: wrap; gap: 8px; }
+.models__count { color: var(--carbon-300); font-size: 0.9rem; margin: 0 0 var(--space-4); }
+.models__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: var(--space-4); }
+.mcard {
+  width: 100%; display: grid; gap: 6px; text-align: left; padding: var(--space-4); cursor: pointer; color: inherit; font: inherit;
+  background: radial-gradient(80% 60% at 50% 70%, color-mix(in srgb, var(--orange-500) 10%, transparent), transparent 70%), var(--carbon-950);
+  border: 1px solid var(--carbon-700); border-radius: var(--radius-md);
+}
+.mcard:hover, .mcard:focus-visible { border-color: var(--carbon-500); }
+.mcard img { width: 100%; height: auto; aspect-ratio: 3 / 1; object-fit: contain; margin-bottom: var(--space-2); }
+.mcard__name { font-family: var(--font-display); font-weight: 800; font-size: 1.05rem; }
+.mcard__meta { color: var(--carbon-300); font-size: 0.85rem; }
+.model {
+  width: min(1100px, calc(100vw - 32px)); max-height: calc(100vh - 32px); padding: var(--space-5); border-radius: var(--radius-md);
+  border: 1px solid var(--carbon-700); background: var(--carbon-900); color: var(--bone-50);
+}
+.model::backdrop { background: color-mix(in srgb, var(--carbon-950) 80%, transparent); }
+.model h2 { margin: 0 0 var(--space-4); font-size: 1.6rem; }
+.model__close { position: absolute; top: 12px; right: 12px; width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--carbon-500); background: transparent; color: var(--bone-50); font-size: 1.4rem; cursor: pointer; }
+.model__car { position: relative; height: 0; }
+.model__car img, .model__tint { position: absolute; inset: 0; width: 100%; height: 100%; }
+/* The chosen colour multiplies into the white or silver paint, so shading and reflections stay from the photo. */
+.model__tint { -webkit-mask-size: 100% 100%; mask-size: 100% 100%; -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat; mix-blend-mode: multiply; background: transparent; }
+.model__paint { display: flex; flex-wrap: wrap; gap: 10px; margin: var(--space-4) 0; }
+.swatch { width: 36px; height: 36px; border-radius: 50%; border: 2px solid var(--carbon-700); background: var(--c); cursor: pointer; }
+.swatch[aria-pressed="true"] { border-color: var(--bone-50); box-shadow: 0 0 0 2px var(--carbon-900), 0 0 0 4px var(--bone-50); }
+.model__note { color: var(--carbon-300); font-size: 0.9rem; margin: 0; }
+.model__facts { display: grid; gap: var(--space-2); margin: 0 0 var(--space-3); }
+.model__facts div { display: grid; grid-template-columns: 180px 1fr; gap: var(--space-3); }
+.model__facts dt { color: var(--carbon-300); }
+.model__facts dd { margin: 0; }
+.model__credit { color: var(--carbon-300); font-size: 0.85rem; margin: 0; }
+@media (max-width: 640px) { .model__facts div { grid-template-columns: 1fr; gap: 2px; } }
