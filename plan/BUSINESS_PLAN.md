@@ -223,7 +223,7 @@ Rent-by-owner is the Airbnb model for vehicles: private owners list their own ca
 
 1. **Competitor.** Turo vans and pickups compete on price for residents and small jobs. The limits in the table above leave large vans, commercial-licence vehicles, heavier trucks and delivery outside what a Turo host can offer safely. Ember Rent's account billing and trade fleet are outside it too.
 2. **Channel for idle days.** Cars that meet Turo's limits can be listed in the winter trough (section 6). On the highest-share plan Ember Rent keeps 85% of the trip price and carries up to C$2,000 per claim. A vehicle rated U-Drive for Ember Rent's own rentals and also used under Turo's blanket needs its use confirmed with an Autoplan broker first (ICBC tariff s. 2.15).
-3. **Fleet-light sourcing, the host-management model.** Ember Rent rents owners' vehicles under its brand and splits revenue, as Airbnb management companies do for homes. The only published splits are Turo's US passive-income program, 70% to the owner and 30% to the manager ([Turo](https://turo.com/blog/news/turo-launches-passive-income-hosting-in-the-united-states/)), and one US manager's 30% fee. The program is US only. Ember Rent's 30% would have to cover cleaning, handover, claims handling and damage responsibility. It adds vehicles without capital, which matters most for the summer peak. Three questions decide whether it is legal and insurable: whether owners' vehicles rented through Ember Rent's own booking channel must each be rated U-Drive by ICBC, who collects PVRT and PST, and which Surrey licence class applies.
+3. **Fleet-light sourcing, the host-management model.** Ember Rent rents owners' vehicles under its brand and splits revenue, as Airbnb management companies do for homes. The only published splits are Turo's US passive-income program, 70% to the owner and 30% to the manager ([Turo](https://turo.com/blog/news/turo-launches-passive-income-hosting-in-the-united-states/)), and one US manager's 30% fee. The program is US only. Ember Rent's 30% would have to cover cleaning, handover, claims handling and damage responsibility. It adds vehicles without capital, which matters most for the summer peak. Three questions decide whether it is legal and insurable: whether owners' vehicles rented through Ember Rent's own booking channel must each be rated U-Drive by ICBC, who collects PVRT and PST, and whether Surrey's Automobile/Truck Rental licence covers it.
 
 **What this changes in the plan.** Phase 1 keeps an owned or leased trade fleet. The winter idle days go to Turo where vehicles qualify (go-to-market step 7). Fleet-light sourcing is a phase 2 option for summer capacity, after an ICBC broker and a lawyer answer the three questions above.
 
@@ -248,7 +248,7 @@ In rough order of how likely each is to end the business.
 6. **The majors respond.** Enterprise, Hertz and Alamo already have Surrey locations, and U-Haul has 34 ([supply.geojson](../market/supply.geojson)). They can discount locally.
 7. **The ICBC channel stays closed.** Only preferred suppliers bill ICBC directly, and ICBC does not authorise EV loss-of-use rentals ([MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)). Replacement-rental revenue may be small.
 8. **The name has to be changed.** The trademark search for Ember Rent is pending, and a UK transport company called Ember operates intercity buses ([NAMING](../brand/NAMING.md)). A forced rebrand after launch would waste the review history tied to the Google profile name.
-9. **Wrong site.** Zoning, visibility and parking capacity are not covered by any data in this repository ([GAP_ANALYSIS](../market/GAP_ANALYSIS.md)).
+9. **Wrong site.** Only zone CHI expressly permits vehicle rental (R7). Visibility and parking capacity are not covered by any data in this repository ([GAP_ANALYSIS](../market/GAP_ANALYSIS.md)).
 10. **Seasonality.** Demand peaks in summer. Canada's CPI for passenger vehicle rental ran 170.6 in June to August 2025 against 135.4 in January and February ([StatCan 18-10-0004](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401)). Overnight non-resident tourists entering through BC peaked at 728,338 in July 2025 against 258,141 in November ([StatCan 24-10-0053](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410005301)). BC construction employment ranged from 250,600 in February 2025 to 284,900 in July 2026 ([StatCan 14-10-0022](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002201)). A fleet sized for July sits idle in winter.
 
 ## 7. Risk matrix
@@ -258,10 +258,10 @@ In rough order of how likely each is to end the business.
 | R1 | Utilisation below break-even | High | High | Start with a small fleet, lease or finance on short terms, list cars on one marketplace for fill, add vehicles only when utilisation holds | — |
 | R2 | Rates set without a benchmark | High | Med | Rate survey of Enterprise, Budget, U-Haul, Penske and two independents for identical dates before launch | — |
 | R3 | **Drip pricing.** Under Competition Act amendments in force since June 2022, mandatory fees must be in the advertised price and only government-imposed charges such as sales tax may be added. Car rental companies have paid a total of C$5.95 million in penalties over drip pricing ([Competition Bureau, 2022](https://www.canada.ca/en/competition-bureau/news/2022/06/important-amendments-to-the-competition-act-come-into-effect.html), [Competition Bureau, 2018](https://www.canada.ca/en/competition-bureau/news/2018/10/discount-car-rental-penalised-for-advertising-unattainable-prices.html), via [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)) | Low if designed in | High | Every advertised and quoted price includes all mandatory fees. Legal review of the booking flow, ads and marketplace listings | Lawyer |
-| R4 | **BC Passenger Vehicle Rental Tax.** C$1.50 per day or portion of a day on passenger vehicles rented for more than 8 consecutive hours and 28 consecutive days or less, collected on top of PST and remitted on the PST return, with GST charged on it ([BC PST small business guide](https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst/publications/small-business-guide)). The page returned HTTP 503 when fetched on 22 November 2026, so this rests on its indexed text and on [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md) | Med | Med | Register for PST before launch. Confirm PVRT scope (which vehicle classes count as passenger vehicles, the 8-hour and 28-day rules) with the Ministry of Finance. Build it into the booking system as a separate government charge | Accountant |
-| R5 | **ICBC rental-vehicle insurance and licensing.** ICBC's Basic Insurance Tariff rates "U-Drive" vehicles, defined as "a vehicle available for hire or rental, without driver, by the hour or otherwise, for a period of less than one month", in their own rate classes (including 008, 018, 058, 160, 161 and 170), split by vehicle type and gross vehicle weight ([ICBC Basic Insurance Tariff](https://www.icbc.com/assets/en/6PyY5DEcoIT7z2ujjlwb3d/basic-tariff.pdf)). Fleetplan "is required for customers with more than 20 eligible vehicles", and non-fleet commercial coverage applies below that ([ICBC commercial insurance](https://icbc.com/insurance/commercial)) | Med | High | Quote U-Drive Basic and optional coverage through an Autoplan broker before ordering vehicles. Plan for the switch to Fleetplan above 20 vehicles. Rentals of a month or more fall outside the U-Drive definition, so price and insure long-term rentals separately | Broker |
-| R6 | **Commercial vehicle safety.** Commercial vehicles licensed above 5,000 kg gross vehicle weight need a National Safety Code certificate in BC ([CVSE](https://www.cvse.ca/national_safety_code.htm)). How the rule applies to a rental company versus its renter was not found in any source | Med | Med | Keep the launch truck fleet at or below 5,000 kg GVW until a CVSE or legal opinion is in hand | — |
-| R7 | Surrey zoning and business licence. Surrey advises a Zoning Inquiry Form before signing any lease, and all open permits must be finalised before a licence is issued ([City of Surrey](https://www.surrey.ca/business-economy/business-licensing)) | Med | High | Zoning inquiry on every shortlisted site before a lease is signed | — |
+| R4 | **BC Passenger Vehicle Rental Tax.** C$1.50 per day or portion of a day on passenger vehicles rented for more than 8 consecutive hours and 28 consecutive days or less, collected on top of PST and with GST charged on it ([PST 116](https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-116-motor-vehicle-dealers-leasing-companies.pdf)). Passenger vehicles include trucks and vans of ¾ ton or less, so 1500- and 2500-series vans and pickups carry PVRT. Trucks and vans larger than ¾ ton do not ([PST 308](https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-308-vehicles.pdf)) | Med | Med | Register for PST before launch. Charge PVRT on every car and on ¾-ton-or-smaller vans and pickups as a separate government charge. Get a Consumer Taxation Branch ruling on borderline models | Accountant |
+| R5 | **ICBC rental-vehicle insurance and licensing.** ICBC rates "U-Drive" vehicles, defined as "a vehicle available for hire or rental, without driver, by the hour or otherwise, for a period of less than one month", in class 008 for passenger vehicles and 018 for commercial vehicles of 5,000 kg GVW or less ([ICBC Basic Insurance Tariff](https://www.icbc.com/assets/en/6PyY5DEcoIT7z2ujjlwb3d/basic-tariff.pdf)). Fleetplan: optional from 5 vehicles, mandatory above 19 (tariff) or 20 ([ICBC page](https://icbc.com/insurance/commercial)). Estimated Basic: C$3,699 a vehicle a year (base rate C$903.55 × class 008 Lower Mainland factor 4.094), before fleet and vehicle multipliers and before optional coverage from ICBC or a private broker | Med | High | Quote U-Drive Basic and optional coverage through an Autoplan broker before ordering vehicles, and confirm Surrey's territory and the Fleetplan threshold. Rentals of a month or more fall outside the U-Drive definition, so price and insure long-term rentals separately | Broker |
+| R6 | **Commercial vehicle safety.** A truck licensed above 5,000 kg GVW and used in business is a commercial motor vehicle, and its owner is a carrier that must hold a National Safety Code certificate. A lessee becomes a carrier only on a lease of one month or more ([MVA Regulations, Division 37](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/26_58_12)). Trailers count toward licensed GVW | Med | Med | Licence every launch truck under 5,000 kg GVW, including any trailer, which also keeps it within zone CHI (R7). Ask the NSC Program Office whether a short-term business renter needs its own certificate before going heavier | — |
+| R7 | **Surrey zoning and business licence.** The Automobile/Truck Rental licence is C$481 a year ([Business License By-law 13680](https://www.surrey.ca/city-government/bylaws/13680)). Zone CHI, outside the City Centre, permits "Sales and rentals of vehicles, less than 5,000 kg G.V.W." ([Zoning By-law 12000](https://www.surrey.ca/city-government/bylaws/12000)). Other zones allow "general service uses", defined to include rentals, unconfirmed for vehicle rental. Surrey advises a Zoning Inquiry Form before signing any lease ([City of Surrey](https://www.surrey.ca/business-economy/business-licensing)) | Med | High | Shortlist CHI sites first. Zoning inquiry on every shortlisted site before a lease is signed | — |
 | R8 | Insurance cost too high for a small fleet | Med | High | Get two or more quotes for optional and garage coverage. Model the premium per vehicle in section 11 before committing | Broker |
 | R9 | Trademark conflict over "Ember" | Med | High | CIPO and USPTO searches by a trademark agent in Nice classes 12, 35 and 39 before signage and the Google profile go live ([NAMING](../brand/NAMING.md)) | Agent |
 | R10 | Damage, theft, unpaid invoices | Med | Med | Deposits, driver checks, telematics, credit limits and terms for accounts | Operations lead |
@@ -283,9 +283,9 @@ In rough order of how likely each is to end the business.
 | Legal | Rental agreement, damage policy, deposit terms, privacy policy | open | Lawyer to draft |
 | Legal | All-in pricing review of site, ads and listings | open | R3 |
 | Tax | GST and PST registration, PVRT setup | open | R4 |
-| Licensing | Surrey zoning inquiry and business licence | open | R7 |
+| Licensing | Surrey zoning inquiry, CHI sites first, and Automobile/Truck Rental licence (C$481 a year) | open | R7 |
 | Licensing | ICBC U-Drive registration and insurance for each vehicle | open | R5 |
-| Licensing | National Safety Code certificate, if any vehicle over 5,000 kg GVW | open | R6 |
+| Licensing | National Safety Code certificate, if any vehicle over 5,000 kg GVW including its trailer | open | R6 |
 | Insurance | Carrier or broker for optional, garage and general liability coverage | decision | |
 | Financing | Capital available and financing structure (cash, lease, loan, fleet line) | decision | |
 | Fleet | Size and mix by class | decision | Section 10 |
@@ -329,7 +329,7 @@ Search volumes and cost per click were not available, so no ad budget is set her
 |---|---|---|---|
 | Cargo vans | Trade, moving, hourly jobs | — | Lead class, from segment 1 |
 | Pickups | Hauling, trade | — | Autocomplete shows distinct pickup demand ([NAMING](../brand/NAMING.md)) |
-| Light trucks, 5,000 kg GVW or less | Moving, logistics | — | Weight cap avoids NSC uncertainty (R6) |
+| Light trucks, under 5,000 kg GVW including any trailer | Moving, logistics | — | Stays outside NSC (R6), in ICBC class 018 (R5) and within zone CHI's rental limit (R7) |
 | Cars, good, better, best classes | Residents, repair-period renters | — | ICBC loss-of-use rentals are limited to similar-size vehicles and exclude EVs ([MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)) |
 
 Total fleet, makes and models, buy versus lease, and the year 1 to 3 growth path are not set. The SOM placeholders range from 15 to 40 vehicles in year 1 ([som_inputs.json](../tools/market/som_inputs.json)). The vehicles modelled in [SELECTION.md](../vehicles/SELECTION.md) were chosen by US and Mexico sales rank for the website's 3D catalogue and are not a BC fleet recommendation.
@@ -339,7 +339,7 @@ Total fleet, makes and models, buy versus lease, and the year 1 to 3 growth path
 | Requirement | Specification |
 |---|---|
 | Area | Surrey, near industrial and trucking employment |
-| Zoning | Confirmed through Surrey's Zoning Inquiry Form before a lease ([City of Surrey](https://www.surrey.ca/business-economy/business-licensing)) |
+| Zoning | Confirmed through Surrey's Zoning Inquiry Form before a lease. Zone CHI first (R7) |
 | Parking | Space for the full fleet plus customer vehicles |
 | Access | Clearance and turning room for trucks |
 | Visibility | Signage matching the registered name ([MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)) |
@@ -379,7 +379,7 @@ Inputs stay blank until costs are quoted. Cited inputs carry their source.
 | v | Variable cost per rented day (cleaning, card fees, wear, fuel loss, marketplace commission) | ___ | |
 | H | Annual holding cost per vehicle (depreciation or lease, interest, ICBC and optional insurance, registration, scheduled maintenance) | ___ | Vehicle prices, finance and residuals in section 11.6 |
 | F | Annual fixed cost (rent, wages, software, marketing, professional fees) | ___ | |
-| t | PVRT per passenger-vehicle rental day | C$1.50 | Pass-through, not revenue (R4) |
+| t | PVRT per rental day on cars and on vans and pickups of ¾ ton or less | C$1.50 | Pass-through, not revenue (R4) |
 
 ### 11.2 Unit economics
 
@@ -466,9 +466,9 @@ Driving.ca rows are not confirmed on the manufacturer's own price builder.
 ## 13. Open questions
 
 1. What do Enterprise, Budget, Penske and Discount charge in Surrey for the same dates? Their booking engines must be quoted by hand (section 4.2 has U-Haul and Home Depot). This sets R.
-2. What will ICBC U-Drive Basic and optional coverage cost per class for a fleet under 20? This sets most of H.
-3. How do the PVRT 8-hour and 28-day rules and the "passenger vehicle" definition apply to vans and pickups?
-4. Does the rental company or the renter need the NSC certificate for a rented truck over 5,000 kg?
+2. What will ICBC U-Drive Basic and optional coverage cost per class below the Fleetplan threshold (R5)? This sets most of H.
+3. Does PVRT apply to rentals through Turo, and who collects it? The PST Act makes a registered online marketplace facilitator the collector, but no bulletin covers vehicles.
+4. Does a short-term business renter of a truck over 5,000 kg need its own NSC certificate as well as Ember Rent's? The regulation and CVSE's guide differ.
 5. Will trades actually rent on account? Interview 10 to 20 Surrey firms.
 6. Does "Ember Rent" clear CIPO and USPTO in classes 12, 35 and 39?
 7. What capital is available, and on what financing terms? Captive retail offers may not apply to rental units (section 11.6).
@@ -476,8 +476,8 @@ Driving.ca rows are not confirmed on the manufacturer's own price builder.
 9. How large is the winter trough for vans and pickups specifically? National proxies show a summer peak (section 6), not a fleet-level figure.
 10. How does a non-preferred supplier get paid on ICBC claims, and does ICBC run a supplier selection process ([MARKETING_REVIEW](../brand/MARKETING_REVIEW.md))?
 11. Must owners' vehicles rented through Ember Rent's own booking channel each be rated U-Drive by ICBC?
-12. On owner-sourced and Turo rentals, who collects and remits PVRT and PST?
-13. Which Surrey business licence class covers vehicle rental, and owner-sourced rental?
+12. On owner-sourced vehicles rented through Ember Rent, does Ember Rent or the owner collect and remit PVRT and PST?
+13. Does the Automobile/Truck Rental licence cover renting owner-sourced vehicles, and does Surrey Planning treat vehicle rental as a general service use outside zone CHI?
 
 ## 14. Sources
 
@@ -498,6 +498,18 @@ Web sources checked while writing this plan, 22 November 2026:
 * CVSE, National Safety Code: https://www.cvse.ca/national_safety_code.htm
 * City of Surrey, applying for a business licence: https://www.surrey.ca/business-economy/business-licensing
 * Government of BC, PST small business guide, PVRT text (page returned HTTP 503 on fetch, text read from its search index): https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/pst/publications/small-business-guide
+
+Web sources checked 23 November 2026 (sections 4.2, 4.3, 10.4, 11.6 and R4 to R7):
+
+* BC Bulletin PST 116, PVRT and rental PST: https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-116-motor-vehicle-dealers-leasing-companies.pdf
+* BC Bulletin PST 308, passenger vehicle definition: https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-308-vehicles.pdf
+* BC Motor Vehicle Act Regulations, Division 37 (NSC carriers): https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/26_58_12
+* City of Surrey, Business License By-law 13680: https://www.surrey.ca/city-government/bylaws/13680
+* City of Surrey, Zoning By-law 12000: https://www.surrey.ca/city-government/bylaws/12000
+* ICBC, peer-to-peer vehicle rental: https://icbc.com/insurance/commercial/peer-to-peer-vehicle-rental
+* Turo, Canadian host earnings plans: https://help.turo.com/en_us/earnings-plans-in-detail-canada-hosts-Hk8uLEgEq.md
+* Turo, S-1/A amendment 12: https://www.sec.gov/Archives/edgar/data/1514587/000162828024047889/turoinc-sx1a12.htm
+* Rate, cost and seasonality sources are linked in their tables in sections 4.2, 6, 10.4 and 11.6
 
 Web sources cited through [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md):
 
