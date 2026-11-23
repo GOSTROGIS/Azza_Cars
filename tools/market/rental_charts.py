@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """Charts for the car sharing and rental tab of the plan (plan/RENTAL_PLAN.md).
 
-Reads market/rental_stats.json (every figure there carries its source) and plan/rental_roadmap.json (a plan,
-not data). Writes site/charts/rental-*.svg with the helpers and palette of tools/market/competition.py, so
+Reads market/rental_stats.json (every figure there carries its source), market/trip_rates.json (published
+rates, priced by the trip planner's site/src/pricing.js) and plan/rental_roadmap.json (a plan, not data). Writes site/charts/rental-*.svg with the helpers and palette of tools/market/competition.py, so
 the plan page inlines them and their hover titles work. A row with a "caveat" is drawn dashed and pale, and
 the caveat is added to its hover title.
 
 Usage:  python3 tools/market/rental_charts.py
 """
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -17,7 +18,20 @@ import competition as c  # noqa: E402
 from competition import BONE, DISPLAY, GRID, INK, MUTED, ORANGE, ROOT, SURFACE, esc, save, svg_open, text  # noqa: E402
 
 STATS = json.loads((ROOT / "market/rental_stats.json").read_text())
+RATES = json.loads((ROOT / "market/trip_rates.json").read_text())
 ROADMAPS = json.loads((ROOT / "plan/rental_roadmap.json").read_text())["roadmaps"]
+
+
+def trip_prices():
+    """Price of each standard trip for each of its operators, from site/src/pricing.js (the trip planner's own code)
+    run under node, so the plan chart and the planner cannot disagree."""
+    js = ('import { price } from "./site/src/pricing.js"; import fs from "node:fs";'
+          'const r = JSON.parse(fs.readFileSync("market/trip_rates.json", "utf8"));'
+          'console.log(JSON.stringify(r.standard_trips.map((t) => t.operators.map((k) => price(r.operators[k], t.hours, t.km, r.pvrt_from_hours)))));')
+    out = json.loads(subprocess.run(["node", "--input-type=module", "-e", js], cwd=ROOT, check=True, capture_output=True, text=True).stdout)
+    if any(v is None for row in out for v in row):
+        raise SystemExit("site/src/pricing.js returned no price for an operator: check its model in market/trip_rates.json")
+    return out
 
 
 def bar(r, fill, x, y, w, h, tip):
@@ -29,21 +43,22 @@ def bar(r, fill, x, y, w, h, tip):
 
 
 def trip_cost_chart():
-    """One panel per standard trip, one bar per operator. A single series, so one fill and no legend."""
-    tc = STATS["trip_costs"]
-    W, L, R, rowh, head = 1000, 300, 90, 30, 34
-    vmax = max(r["cad"] for r in tc["rows"]) * 1.05
+    """One panel per standard trip in market/trip_rates.json, one bar per operator, priced by trip_prices()."""
+    trips = [(t, [(RATES["operators"][k], v) for k, v in zip(t["operators"], prices)])
+             for t, prices in zip(RATES["standard_trips"], trip_prices())]
+    W, L, R, rowh, head = 1000, 330, 90, 30, 34
+    vmax = max(v for _, rows in trips for _, v in rows) * 1.05
     sx = lambda v: v / vmax * (W - L - R)
     y = 10
     body = []
-    for trip in tc["trips"]:
+    for trip, rows in trips:
         body.append(text(0, y + 18, trip["label"], weight=700, family=DISPLAY, size=14))
         y += head
-        for r in sorted((r for r in tc["rows"] if r["trip"] == trip["key"]), key=lambda r: r["cad"]):
-            w = sx(r["cad"])
-            body.append(text(L - 12, y + 17, r["operator"], anchor="end"))
-            body.append(bar(r, BONE, L, y + 4, w, rowh - 10, f'{r["operator"]}: C${r["cad"]:.2f} ({r["math"]})'))
-            body.append(text(L + w + 8, y + 17, f"C${r['cad']:.2f}", fill=MUTED))
+        for o, v in sorted(rows, key=lambda r: r[1]):
+            w = sx(v)
+            body.append(text(L - 12, y + 17, o["name"], anchor="end"))
+            body.append(bar(o, BONE, L, y + 4, w, rowh - 10, f'{o["name"]}: C${v:.2f}. {o["terms"]}'))
+            body.append(text(L + w + 8, y + 17, f"C${v:.2f}", fill=MUTED))
             y += rowh
         y += 14
     save("rental-trip-cost.svg", svg_open(W, y, "Cost of three standard trips by operator, published prices") + body)

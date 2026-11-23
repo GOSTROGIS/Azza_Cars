@@ -1,6 +1,6 @@
 # Car sharing and rental plan
 
-How Ember Rent competes with car sharing and app-based rental in Metro Vancouver, what similar businesses did, the roadmaps open to it, and every point needed to run actual rentals. Retrieved 23 November 2026. Prices exclude GST and PST unless noted. The main business plan is in the first tab.
+How Ember Rent competes with car sharing and app-based rental in Metro Vancouver, what similar businesses did, the roadmaps open to it, every point needed to run actual rentals, and the compliance, startup costs, SWOT and AI operations specific to this line. Retrieved 23 November 2026. Prices exclude GST and PST unless noted. The main business plan is in the first tab.
 
 ## 1. The answer
 
@@ -33,14 +33,14 @@ The majors' counters (Enterprise, Hertz, Avis, Budget, Penske and others) are co
 
 ### 2.2 What a trip costs
 
-![Cost of three standard trips at published prices, before tax. The dashed Home Depot bar uses the Toronto store's prices](../site/charts/rental-trip-cost.svg)
+![Cost of three standard trips at published prices, before tax. Computed from market/trip_rates.json, the same rates the trip planner uses](../site/charts/rental-trip-cost.svg)
 
 Arithmetic and assumptions:
 - Members who already hold an account. One-time fees are left out: Evo C$35 registration, Modo C$500 refundable share or C$6 a month.
 - Evo bills the cheapest of its minute, hour and day rates, plus a C$1.85 trip fee. Gas, insurance, parking and kilometres are included. PVRT of C$1.50 applies from 8 hours ([Evo](https://evo.ca/rates)).
 - Modo charges by the hour plus C$0.35 a km plus a C$3 fee per trip for gas cars. Whole-day bookings get the Day Tripper rate (C$100 for cars, including km). Modo does not state whether the C$3 fee applies to Day Tripper bookings. It is added here ([Modo](https://www.modo.coop/plans)).
-- Home Depot's BC store prices load by script and could not be read. The bar uses the Toronto store's 4-hour rate of C$99.95 with unlimited kilometres. The renter must carry their own non-owned vehicle liability insurance.
-- U-Haul's in-town rate starts at C$19.95 plus a per-km charge that varies by store and date. A 40 km total is not calculable from published figures. Turo prices are set by hosts.
+- Home Depot: the national price page's large cargo van 4-hour rate, C$94.00 with unlimited kilometres (business plan, section 4.2). The Surrey store is not confirmed, and the Toronto store's own page listed C$99.95. The renter must carry their own non-owned vehicle liability insurance.
+- U-Haul: the Surrey in-town quote for 3 December 2026, C$19.95 plus C$0.99 a km plus a C$1 environmental fee, so C$60.55 for 40 km (business plan, section 4.2). Rates vary by store and date. Turo prices are set by hosts.
 
 **Damage exposure changes the comparison.** Evo charges a C$250 damage fee, or up to C$750 if damage is not reported ([Evo FAQ](https://evo.ca/faq)). Its business FAQ says up to C$1,000. Modo charges up to C$1,000, or C$2,500 for new members or after a large loss, and credit card collision cover does not apply to its trucks or cargo vans ([Modo](https://www.modo.coop/faqs/what-is-modos-damage-fee)).
 
@@ -218,7 +218,72 @@ The business plan's KPIs (section 12) apply. Add for car sharing and self-servic
 - **No-show and late-return rate**, the measure that gates roadmap B.
 - **Share of bookings from Langley, White Rock and south Surrey**, the areas no car share serves.
 
-## 6. Open questions
+## 6. Compliance for car sharing and self-service
+
+The full register is in the business plan, section 14. These are the points that change when Ember Rent adds hourly, app-based or unattended rentals (roadmaps B and C).
+
+| Point | What it means for self-service | Source |
+|---|---|---|
+| Licence inspection and record book, Motor Vehicle Act s.56 | Before each rental the business must inspect the renter's licence and take a signed record-book entry with name, address and licence number. Unattended app pickup needs a legal opinion on whether a remote check satisfies "inspection". U-Haul's Truck Share 24/7 uses a live remote agent to verify each renter. **Ask a lawyer** before any unattended pickup | [MVA](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_01), [U-Haul](https://www.uhaul.com/Tips/Loading/What-Is-U-Haul-Truck-Share-247-27466) |
+| ICBC car-share rating (class 018) | Only for an operator renting to members by the hour or day, mostly local residents, with a signed application, restrictive driving-record criteria, a yearly re-check and a membership fee, and not generally to tourists. An open app product stays U-Drive (class 008 or 018) | [ICBC tariff](https://www.icbc.com/assets/en/6PyY5DEcoIT7z2ujjlwb3d/basic-tariff.pdf) |
+| PVRT on short trips | PVRT applies from 8 hours, as Evo and Modo show on their rate pages. Hourly trips under 8 hours carry none | [Evo](https://evo.ca/rates), [Modo](https://www.modo.coop/plans) |
+| Location data | Telematics location is personal information under BC PIPA. Tell renters in the agreement what is tracked, why and for how long. No commissioner guidance specific to customer GPS was found | Business plan 14.2 |
+| Automated screening | No AI refusal without a person. Human Rights Code risk from proxies, and Bill C-36 would add disclosure and review rights | Business plan 14.1 and 14.2 |
+| Damage charges after return | Self-service has no joint walk-around, so Budget's undertaking on unsigned damage and the card networks' delayed-charge rules bite harder. Timed app photos at pickup and return are the evidence | Section 5.4 |
+| Driverless delivery | Illegal in BC (MVA Part 12.1). Delivery and repositioning stay human-driven | Business plan 14.2 |
+| Owner-supplied vehicles (roadmap C) | ICBC rating, owner declaration, PVRT and licence answers in writing first (business plan 4.3, R15) | Business plan 4.3 |
+
+## 7. Startup costs by roadmap
+
+The base costs are in the business plan, section 15. Roadmaps B and C change these lines. Unit prices are sourced, fleet counts are **ASSUMPTION**.
+
+| Line | A. Counter first | B. Self-service van share | C. Fleet-light | Unit price and source |
+|---|---|---|---|---|
+| Staffed counter and opening hours | Yes | Minimal, remote verification instead | Turnover only | Wages, section 5.6 |
+| Telematics per vehicle | Optional at launch | Required | Required on own vehicles | Geotab via reseller US$17 to 28 a month plus US$100 hardware ([Fleet Wolf](https://fleetwolf.com/content/geotab-vs-samsara.html)) |
+| Keyless per vehicle | Key boxes after hours | Required | Turo Go where compatible | Smartcar from US$1.99 a month on compatible models. INVERS CloudBoxx €635 plus €17.90 a month ([fleetster](https://www.fleetster.net/fleet-hardware/invers-cloudboxx)) |
+| Remote ID and selfie checks | At the counter | Every booking | Turo runs them | Stripe Identity US$1.50 a check ([Stripe](https://stripe.com/identity)) |
+| Damage photo app | Optional | Required | Turo requires host photos | Record360, a third-party review site lists US$195 a month |
+| Key lockers at a hub | Optional | Required | Optional | KeyNest 9-slot C$1,949 plus C$149 a month, Keycafe US$2,750 plus US$59 to 175 a month (business plan 4.4) |
+| Fleet capital | Highest | Same vehicles, fewer staff | Lowest | Business plan 11.6, 15.1 |
+
+**Worked example, roadmap B, 10 vans. ASSUMPTION.**
+- Telematics: 10 × (US$28 a month + US$100 once) = US$280 a month and US$1,000 once.
+- Keyless (INVERS CloudBoxx): 10 × €635 = €6,350 once, plus 10 × €17.90 = €179 a month.
+- ID checks: 300 bookings a month × US$1.50 = US$450 a month.
+- Damage photo app: US$195 a month.
+- Monthly total: US$925 plus €179. One-time: US$1,000 plus €6,350.
+
+## 8. SWOT for the car sharing and self-service line
+
+| Strengths | Weaknesses |
+|---|---|
+| Vans and pickups by the hour, which only Modo offers today, and only round trip from fixed spots (section 2) | No membership base. Evo has 2,500 vehicles and Modo about 1,000 (section 2.1) |
+| Langley, White Rock and south Surrey have no car share (section 2.1) | Unattended pickup needs a legal answer on MVA s.56 first (section 6) |
+| An AI layer can run bookings around the clock at a cost per month below one agent's wages (business plan 17.4) | Self-service carries the damage and fraud costs that ended Fluid Truck and Getaround (section 3) |
+
+| Opportunities | Threats |
+|---|---|
+| Construction and infrastructure through 2031 need short van hires near sites (business plan 16.3) | Evo may expand south once its Surrey usage proves out (section 2.1) |
+| Surrey's truck route and closure data, live in the trip planner, can be built into booking and dispatch | Synthetic-ID vehicle fraud up 72% nationally in 2025 (business plan 16.4) |
+| ICBC car-share rating could lower insurance cost if a membership model fits (section 6) | A Hertz-style backlash if automated damage billing errs (business plan 16.4) |
+| Turo's customer base for idle days (business plan 4.3) | Turo can close accounts or change shares (R14) |
+
+**What follows.** Start self-service with existing trade customers who have passed a counter rental, so identity and conduct are known, before opening it to the public.
+
+## 9. AI operations for self-service
+
+Self-service is where continuous AI work matters most, because no one stands at the counter. The model roles, costs and controls are in the business plan, section 17. Specific to this line:
+
+| Task at any hour | Agent work | Person |
+|---|---|---|
+| Booking request at 2 am | Sol checks identity results, payment signals and account history, and holds a vehicle | A remote verifier confirms the licence by video where the law requires it (section 6) |
+| Vehicle not returned | Sol reads telematics, messages the renter, re-plans the next booking | Owner decides on recovery or police report |
+| Damage reported in photos | Opus builds the evidence file, Astra checks it | Owner approves any charge |
+| Road closure on a renter's route | Sol reads Surrey closures and DriveBC events, as the trip planner does, and messages the renter | None needed for a notice |
+| Usage pattern | Fable reviews trips per vehicle, hours on rent and no-shows weekly against the roadmap B gate (section 4) | Owner decides to extend or stop roadmap B |
+
+## 10. Open questions
 
 1. Does a damage waiver need the restricted insurance agency licence from 1 January 2027? **Ask a lawyer.**
 2. How does a fleet's own ICBC or private policy recover renter-caused damage? **Ask a broker.**

@@ -16,6 +16,8 @@ Why this is the right first move:
 
 What could sink it: under-utilised vehicles financed with debt, rates set without a full survey (only U-Haul and Home Depot publish Surrey prices, section 4.2), insurance cost and availability for a small U-Drive fleet, and the closed ICBC replacement-rental channel (ICBC's preferred suppliers are Budget and Enterprise from 1 September 2026, per [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)). Section 6 states these plainly.
 
+Operations are planned AI-first: several frontier models watch bookings, prices, telematics and road data continuously, and a small crew does the handovers, driving and cleaning and approves every charge, refund and purchase (section 17). The compliance framework, startup costs and SWOT are in sections 14 to 16.
+
 Decisions before launch: fleet size and mix, capital and financing (Ford Credit excludes rental units from commercial purchase financing, section 11.6), site, insurance carrier, legal entity. Turo is both a price competitor and a channel for idle winter days, and owner-sourced vehicles are a phase 2 option for summer capacity, viable only on vehicles grossing about C$1,473 a month or more (sections 4.3, 4.4).
 
 ## 2. Business strategy
@@ -312,7 +314,7 @@ In rough order of how likely each is to end the business.
 |---|---|---|---|---|---|
 | R1 | Utilisation below break-even | High | High | Start with a small fleet, lease or finance on short terms, list cars on one marketplace for fill, add vehicles only when utilisation holds | — |
 | R2 | Rates set without a benchmark | High | Med | Rate survey of Enterprise, Budget, U-Haul, Penske and two independents for identical dates before launch | — |
-| R3 | **Drip pricing.** Under Competition Act amendments in force since June 2022, mandatory fees must be in the advertised price and only government-imposed charges such as sales tax may be added. Car rental companies have paid a total of C$5.95 million in penalties over drip pricing ([Competition Bureau, 2022](https://www.canada.ca/en/competition-bureau/news/2022/06/important-amendments-to-the-competition-act-come-into-effect.html), [Competition Bureau, 2018](https://www.canada.ca/en/competition-bureau/news/2018/10/discount-car-rental-penalised-for-advertising-unattainable-prices.html), via [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)) | Low if designed in | High | Every advertised and quoted price includes all mandatory fees. Legal review of the booking flow, ads and marketplace listings | Lawyer |
+| R3 | **Drip pricing.** Under Competition Act amendments in force since June 2022, mandatory fees must be in the advertised price and only government-imposed charges such as sales tax may be added. Car rental companies have paid a total of C$5.95 million in penalties over drip pricing ([Competition Bureau, 2022](https://www.canada.ca/en/competition-bureau/news/2022/06/important-amendments-to-the-competition-act-come-into-effect.html), [Competition Bureau, 2018](https://www.canada.ca/en/competition-bureau/news/2018/10/discount-car-rental-penalised-for-advertising-unattainable-prices.html), via [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)) | Low if designed in | High | Every advertised and quoted price includes all mandatory fees. Legal review of the booking flow, ads and marketplace listings. Since June 2024 only government-imposed charges may sit outside the headline price, and since 20 June 2025 private parties can bring cases (section 14.1). AI-generated quotes and chatbot replies count as representations | Lawyer |
 | R4 | **BC Passenger Vehicle Rental Tax.** C$1.50 per day or portion of a day on passenger vehicles rented for more than 8 consecutive hours and 28 consecutive days or less, collected on top of PST and with GST charged on it ([PST 116](https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-116-motor-vehicle-dealers-leasing-companies.pdf)). Passenger vehicles include trucks and vans of ¾ ton or less, so 1500- and 2500-series vans and pickups carry PVRT. Trucks and vans larger than ¾ ton do not ([PST 308](https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-308-vehicles.pdf)) | Med | Med | Register for PST before launch. Charge PVRT on every car and on ¾-ton-or-smaller vans and pickups as a separate government charge. Get a Consumer Taxation Branch ruling on borderline models | Accountant |
 | R5 | **ICBC rental-vehicle insurance and licensing.** ICBC rates "U-Drive" vehicles, defined as "a vehicle available for hire or rental, without driver, by the hour or otherwise, for a period of less than one month", in class 008 for passenger vehicles and 018 for commercial vehicles of 5,000 kg GVW or less ([ICBC Basic Insurance Tariff](https://www.icbc.com/assets/en/6PyY5DEcoIT7z2ujjlwb3d/basic-tariff.pdf)). Fleetplan: optional from 5 vehicles, mandatory above 19 (tariff) or 20 ([ICBC page](https://icbc.com/insurance/commercial)). Estimated Basic: C$3,699 a vehicle a year (base rate C$903.55 × class 008 Lower Mainland factor 4.094), before fleet and vehicle multipliers and before optional coverage from ICBC or a private broker | Med | High | Quote U-Drive Basic and optional coverage through an Autoplan broker before ordering vehicles, and confirm Surrey's territory and the Fleetplan threshold. Rentals of a month or more fall outside the U-Drive definition, so price and insure long-term rentals separately | Broker |
 | R6 | **Commercial vehicle safety.** A truck licensed above 5,000 kg GVW and used in business is a commercial motor vehicle, and its owner is a carrier that must hold a National Safety Code certificate. A lessee becomes a carrier only on a lease of one month or more ([MVA Regulations, Division 37](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/26_58_12)). Trailers count toward licensed GVW | Med | Med | Licence every launch truck under 5,000 kg GVW, including any trailer, which also keeps it within zone CHI (R7). Ask the NSC Program Office whether a short-term business renter needs its own certificate before going heavier | — |
@@ -322,10 +324,13 @@ In rough order of how likely each is to end the business.
 | R10 | Damage, theft, unpaid invoices | Med | Med | Deposits, driver checks, telematics, credit limits and terms for accounts | Operations lead |
 | R11 | Majors cut prices locally | Med | Med | Compete on vans, trade accounts and service rather than car price | — |
 | R12 | Marketplace dependence, including Turo (R14) | Low | Med | Cap the share of fleet days sold through marketplaces | — |
-| R13 | Privacy of driver licence and payment data | Med | Med | Obtain legal advice on BC private-sector privacy law and payment-card rules before collecting customer data | Lawyer |
+| R13 | Privacy of driver licence and payment data, and fairness of automated screening and pricing | Med | Med | Obtain legal advice on BC private-sector privacy law and payment-card rules before collecting customer data. Test AI screening and pricing for indirect discrimination under the Human Rights Code, and prepare for Bill C-36's automated-decision rules (section 14) | Lawyer |
 | R14 | **Turo account closure or plan change.** Closure can be immediate and host shares are set by Turo (section 4.3) | Low | Med | For Ember Rent's own fleet, keep Turo to idle days and direct booking as the main channel. For owner-sourced vehicles Turo is the main channel (section 4.4), so keep cancellations under 5% and keep a direct channel ready | — |
 | R15 | **Owner-sourced vehicles uninsured for rental use.** An owner who does not declare rental use risks the policy being cancelled for misrepresentation ([Turo S-1/A](https://www.sec.gov/Archives/edgar/data/1514587/000162828024047889/turoinc-sx1a12.htm)) | Med | High | No fleet-light vehicle goes live until ICBC rating, owner declaration and endorsements are confirmed by a broker | Broker |
 | R16 | **Owner-vehicle logistics cost more than the manager share.** About C$516 a vehicle a month against a C$657 median host month (section 4.4) | High | Med | Accept only vehicles whose expected gross clears the section 4.4 break-even. Self-service handover at one hub, little delivery | — |
+| R17 | **Lessor liability above ICBC Basic.** The owner is liable for a renter's driving (MVA s.86), with a rental owner's exposure limited by Insurance (Vehicle) Act s.82.1, reported at C$1 million per incident. ICBC Basic covers C$200,000 (section 14.2) | Med | High | Excess third-party liability on every vehicle before the first rental. Confirm the cap with a lawyer | Broker, lawyer |
+| R18 | **AI agent error reaches a customer.** A wrong price, charge, refusal or statement made by an agent binds the business (Moffatt v. Air Canada, 2024 BCCRT 149) | Med | High | Approval gates, a second maker's model checking each gated decision, AI disclosure and a human contact (section 17.6) | Owner |
+| R19 | **Fleet cost shock.** Canada's 25% tariff on non-CUSMA US-built vehicles, US auto tariffs rising to 50% on 1 January 2027, and a Bank of Canada rate rise on 28 October 2026 (section 16.4) | High | Med | Check where each model is built before ordering. Buy used where retention has fallen. Fixed-rate CSBFP financing (section 15.3) | — |
 
 ## 8. Prerequisites and launch checklist
 
@@ -405,7 +410,7 @@ Total fleet, makes and models, buy versus lease, and the year 1 to 3 growth path
 
 ### 10.3 Staffing
 
-Roles: counter and handover, cleaning and turnaround, maintenance coordination, B2B sales, bookkeeping. Headcount, hours and wages are not set.
+Roles: counter and handover, cleaning and turnaround, maintenance coordination, B2B sales, bookkeeping. Headcount, hours and wages are not set. Section 17 sets out how frontier AI models take the analysis, scheduling and correspondence, and which tasks stay with named people.
 
 ### 10.4 Booking system
 
@@ -538,7 +543,275 @@ Driving.ca rows are not confirmed on the manufacturer's own price builder.
 14. What does Turo Go cost Canadian hosts, and which vans and pickups does it support? Check in the Turo app per vehicle before accepting an owner's car.
 15. What does a per-turnover cleaner and a delivery driver's return trip cost in Surrey? These are the largest unpriced lines in section 4.4.
 
-## 14. Sources
+## 14. Compliance framework
+
+Every law, regulator and standard that applies to Ember Rent, by layer. Retrieved 23 November 2026. Items already in the risk matrix are referenced, not repeated. **Ask a lawyer** marks points that need legal confirmation before launch.
+
+### 14.1 Federal
+
+| Instrument | What it requires of Ember Rent | Trigger | Source |
+|---|---|---|---|
+| Competition Act, drip pricing (s.52(1.3), s.74.01(1.1)) | The advertised price includes every fixed mandatory fee. Only amounts a federal or provincial Act imposes on the buyer (GST, PST, PVRT) may be added. A seller's own "licence recovery" or "facility" fee counts as drip pricing. Corporate penalties up to the greater of C$10 million or 3 times the benefit. Discount claims must be provable. Private parties can bring cases to the Competition Tribunal since 20 June 2025 | Every ad, quote and chatbot reply | [Competition Bureau](https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/guide-june-2024-amendments-competition-act), [Norton Rose Fulbright](https://www.nortonrosefulbright.com/en/knowledge/publications/c5f0e8cd/competition-act-expanded-private-enforcement-rights-now-in-force), R3 |
+| Competition Act and algorithmic pricing | AI-generated prices and chatbot statements are representations under the Act. A pricing tool must not use competitors' non-public data | AI pricing agent (section 17) | [Competition Bureau, January 2026](https://www.canada.ca/en/competition-bureau/news/2026/01/competition-bureau-report-highlights-public-feedback-on-algorithmic-pricing-and-competition.html) |
+| PIPEDA | Applies alongside BC PIPA when personal information crosses a provincial or national border, for example renter data sent to a US-hosted AI model, ID-check vendor or card processor. Consent, limited collection, safeguards and accountability for processors | Any data leaving BC | [OPC](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/prov-pipeda) |
+| Bill C-36 (proposed) | Would require disclosure of significant automated decisions about a person, an explanation on request and a route to human review, and would restrict "surveillance pricing". Not law: second reading as of 14 November 2026 | AI screening and pricing | [LEGISinfo](https://www.parl.ca/legisinfo/en/bill/45-1/c-36) |
+| Privacy commissioners' generative AI principles (7 December 2023, with BC's OIPC) | Guidance, not law: the organisation stays accountable for decisions, people can challenge significant decisions and ask for human review, and are told when they deal with AI | Any AI touching personal information | [OPC](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai) |
+| CASL | Express or implied consent for commercial emails and texts. Implied consent lasts 2 years after a rental, 6 months after an inquiry. Sender identification and a working unsubscribe honoured within 10 business days. Booking confirmations are not commercial messages | Any marketing message, AI-sent included | [CRTC](https://crtc.gc.ca/eng/com500/guide.htm) |
+| Excise Tax Act (GST) | Register once taxable revenue passes C$30,000 in a quarter or four quarters. GST applies on rentals and on PVRT | C$30,000 | [CRA](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/when-register-charge.html) |
+| Income Tax Act, capital cost allowance | Daily-rental vehicles go in Class 16 at 40%, without the passenger-vehicle cost ceiling. Zero-emission rental vehicles go in Class 55. Sale above undepreciated cost is recaptured | Fleet purchases | [CRA](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/claiming-capital-cost-allowance/classes-depreciable-property.html) |
+| FINTRAC | Vehicle rental is not a reporting entity. Financing and leasing entities have had obligations since 1 April 2025, so a lease-to-own or purchase-option product needs a legal check first | Only with financing products. **Ask a lawyer** | [FINTRAC](https://fintrac-canafe.canada.ca/businesses-entreprises/changes-changements-eng) |
+
+### 14.2 British Columbia
+
+| Instrument | What it requires | Trigger | Source |
+|---|---|---|---|
+| Motor Vehicle Act s.56 | Before each rental: inspect the renter's licence, and have the renter sign a record book with name, address and licence number, shown to police on demand. Whether a remote or digital check satisfies "inspection" is not settled. **Ask a lawyer** | Every rental | [MVA](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_01) |
+| Motor Vehicle Act s.86 and Insurance (Vehicle) Act s.82.1 | The owner is deemed liable for a consenting driver's use of the vehicle. A rental owner's exposure is limited by s.82.1, reported at C$1 million per incident ([Canadian Underwriter](https://canadianunderwriter.ca/news/claims/living-vicariously)). ICBC Basic gives C$200,000 third-party liability, so excess liability cover is needed (R17). **Ask a broker and a lawyer** | Every rental | [MVA s.86](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_01) |
+| Motor Vehicle Act Part 12.1 | Level 3 to 5 automated vehicles may not be driven on BC highways. Driverless delivery of rentals is illegal | Any driverless handover | [BC Laws](https://free.bcpublications.ca/civix/document/id/complete/statreg/96318_13j) |
+| Commercial Transport Act s.6 | Commercial vehicles registered, licensed by licensed GVW and insured before use. Periodic inspection from 8,200 kg | Trucks and commercial-plated vans | [BC Laws](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96058_01), R6 |
+| ICBC tariff, U-Drive and Fleetplan | Section 7, R5. Car-share rating (class 018) only with a membership model that does not rent to tourists (car sharing tab, section 7) | Fleet registration | [ICBC tariff](https://www.icbc.com/assets/en/6PyY5DEcoIT7z2ujjlwb3d/basic-tariff.pdf) |
+| PST and PVRT | R4. Confirm whether fleet purchases are PST-exempt with PVRT charged instead (PST 116) | Fleet purchases | [PST 116](https://www2.gov.bc.ca/assets/gov/taxes/sales-taxes/publications/pst-116-motor-vehicle-dealers-leasing-companies.pdf) |
+| Restricted insurance agency licence | From 1 January 2027 for rental agencies selling insurance to renters. C$1,000 application, C$650 a year for 1 to 10 representatives, C$25 BCFSA fee, C$320 designated representative course, E&O of C$1M per claim and C$2M aggregate | Selling insurance at the counter. **Ask a lawyer** whether a damage waiver counts | [Insurance Council of BC](https://www.insurancecouncilofbc.com/restricted-insurance-agency-licence/get-licensed), car sharing tab 5.1 |
+| Business Practices and Consumer Protection Act | Unfair contract terms, distance sales contracts, no bans on reviews or forced arbitration from 1 August 2026, deceptive acts including AI statements | Every consumer contract | Car sharing tab 5.3 |
+| BC PIPA | Reasonable purposes, consent, security, access requests answered within 30 business days. Breach reporting is voluntary in BC but recommended | All renter data | [BC Gov](https://www2.gov.bc.ca/gov/content/employment-business/business/managing-a-business/running-a-business/protect-personal-information) |
+| Human Rights Code s.8 | No discrimination in services on protected grounds, including age from 19. An AI screening, fraud or pricing model with an indirect discriminatory effect is a risk, as are under-25 surcharges without a bona fide justification. **Ask a lawyer** | Screening and pricing rules | [BC Human Rights Commissioner](https://bchumanrights.ca/human-rights/rights-and-responsibilities/responsibilities-under-the-code-as-a-service-provider/) |
+| Employment Standards Act | Minimum wage C$18.25 from 1 June 2026, overtime after 8 hours a day and 40 a week, 4% vacation pay, statutory holidays, paid sick days, records kept 4 years | First employee | [BC Gov poster, June 2026](https://www2.gov.bc.ca/assets/gov/employment-business-and-economic-development/employment-standards-workplace-safety/employment-standards/factsheets-pdfs/working_in_bc_poster.pdf) |
+| Workers Compensation Act | Register before hiring. Classification unit 741006 "Car or Truck Rental", 2026 base rate 1.28% of assessable payroll. Duties cover yard vehicle movement, lifting, cleaning chemicals, working alone and counter violence risk | First worker | [WorkSafeBC](https://www.worksafebc.com/en/resources/law-policy/board-of-directors-decisions/bod-2025-10-20-01-2026-employer-classification-units-base-assessment-rates?lang=en&direct) |
+| Environmental Management Act, Fisheries Act | No oil, fluids or wash water to storm drains or creeks. Spills reported. Waste fluids through licensed carriers | On-site washing or servicing | [Surrey vehicle-washing guide](https://www.surrey.ca/sites/default/files/media/documents/09272_BMP_Vehicle_Washing_FINAL.pdf) |
+| Accessible British Columbia Act | Not applicable to private businesses now. Human Rights Code accommodation duties still apply | Watch for private-sector standards | [BC Laws](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/105_2022) |
+
+### 14.3 Surrey and Metro Vancouver
+
+| Instrument | Requires | Trigger | Source |
+|---|---|---|---|
+| Business licence and zoning | R7. C$481 a year, zone CHI first | Before opening | R7 |
+| Sign permit | C$216 to 818 per sign by area, plus C$177 electrical permit if lit | Exterior signs | [Fee-Setting By-law 14577](https://www.surrey.ca/sites/default/files/bylaws/BYL_reg_14577.pdf) |
+| Stormwater By-law 16610 | Nothing harmful into storm drains. A bermed wash bay draining to sanitary sewer through an oil-water separator, never washing over a storm drain | On-site washing | [Surrey](https://www.surrey.ca/sites/default/files/bylaws/BYL_reg_16610.pdf) |
+| Metro Vancouver Sewer Use Bylaw 299 | Limits on oil, grease and grit to sanitary sewer. Interceptor inspected weekly. A discharge permit above 300 m³ a month | Wash bay on sanitary sewer | [Metro Vancouver](https://metrovancouver.org/services/liquid-waste/Documents/guide-managing-wastewater-vehicle-wash-industry.pdf) |
+| Highway and Traffic Bylaw, truck routes | Trucks keep to designated truck routes. Surrey publishes 886 truck route segments, including 54 with restrictions, which the trip planner page checks on every route | Truck rentals and deliveries | [Surrey open data](https://opendata-surrey.hub.arcgis.com/datasets/b346c40c37e6413ba56306bfe19cae8f) |
+
+### 14.4 Payment cards and insurance
+
+| Standard | Requires | Source |
+|---|---|---|
+| PCI DSS v4.0.1 | Use a hosted or iframe checkout to qualify for SAQ A, confirm the site is protected against script attacks, quarterly scans. Never let AI agents or chat logs receive card numbers | [PCI Security Standards Council](https://blog.pcisecuritystandards.org/important-updates-announced-for-merchants-validating-to-self-assessment-questionnaire-a) |
+| Visa and Mastercard rules on damage charges after return | Car sharing tab 5.4 | [Visa rules](https://usa.visa.com/dam/VCOM/download/about-visa/visa-rules-public.pdf) |
+| Excess liability cover | Bridges the C$200,000 ICBC Basic limit to the lessor's statutory exposure (R17) | [MVA s.86](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_01) |
+
+### 14.5 Compliance calendar
+
+| When | Task |
+|---|---|
+| Before lease | Zoning inquiry, floodplain check, wash bay design |
+| Before fleet order | ICBC U-Drive and excess liability quotes, PST exemption ruling, NSC only if over 5,000 kg |
+| Before first rental | Business licence, PST, PVRT and GST registration, WorkSafeBC, rental agreement reviewed, record book, PCI SAQ, privacy policy and AI disclosure, restricted insurance licence if selling cover |
+| Each rental | Licence inspected and record book signed (MVA s.56), photos at pickup and return, recall check on the VIN |
+| Monthly | PST and PVRT returns, interceptor log, CASL consent list |
+| Yearly | Business licence renewal 1 January, restricted insurance licence 1 June, WorkSafeBC payroll report, trademark watch |
+
+## 15. Startup costs
+
+Retrieved 23 November 2026. C$ before tax. Ranges are sourced unless marked **ASSUMPTION**. US$ converted at 1.4325 (section 4.4). Vehicle prices are in section 11.6.
+
+### 15.1 One-time costs
+
+| Line | Low | High | Source |
+|---|---:|---:|---|
+| BC incorporation | 380 | 380 | BC Registries fee schedule (C$350 incorporation + C$30 name request) |
+| Lawyer-led incorporation, flat fee | 1,200 | 2,500 | lawyerinfo.ca, [Pacific Point Law](https://pacificpointlaw.ca/) |
+| Commercial lease review | 800 | 2,000 | lawyerinfo.ca |
+| Rental agreement and consumer-law review | 1,250 | 9,000 | **ASSUMPTION**: 5 to 15 hours × C$250 to 600 an hour (BC business lawyer rates, lawyerinfo.ca) |
+| Trademark filing, classes 12, 35 and 39 (CIPO, from 1 January 2027) | 803 | 803 | [CIPO fees](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/trademarks/fees-trademarks) |
+| Trademark agent, total | 920 + CIPO | 4,000 | [Heer Law](https://heerlaw.com/trademark-cost-canada) |
+| Accountant setup | 500 | 2,000 | [Xero Canada](https://www.xero.com/ca/guides/startup-business-costs/) |
+| Sign permit, one sign | 216 | 995 | Section 14.3 |
+| Restricted insurance agency licence, first year, if needed | 1,995 | 1,995 | Section 14.2 |
+| Website with booking connection, Vancouver | 3,000 | 10,000 | [Whitespace Studio](https://wsstudio.ca/), [Brand Camp](https://brandcampdigital.com/post/how-much-does-a-website-cost-in-vancouver) |
+| Exterior sign | 2,000 | 10,000 | [Six Stream Signs](https://sixstreamsigns.com/custom-signs-vancouver) |
+| Yard fence (if not fenced) | 8,650 | 33,225 | **ASSUMPTION**: 346 to 443 ft perimeter × C$25 to 75 a foot ([fenced.ca](https://fenced.ca/guides/chain-link-fence-cost)) |
+| CCTV, 4 to 8 cameras | 600 | 12,000 | **ASSUMPTION**: cameras × C$150 to 1,500 installed ([pixlcanada.ca](https://pixlcanada.ca/commercial-security-camera-installation-cost)) |
+| Key boxes, telematics hardware | Business plan 4.4 and car sharing tab 5.4 | | |
+| NSC certificate, only above 5,000 kg | 0 | 200 | R6 |
+
+**Per vehicle, on top of the price in section 11.6.**
+
+| Line | Low | High | Source |
+|---|---:|---:|---|
+| Lettering: car, cargo van, box truck | 250 / 350 / 500 | 500 / 800 / 1,200 | [Quarter Cheaper Signs](https://quartercheapersigns.ca/vehicle-wrap-pricing-vancouver) |
+| Full wrap, cargo van | 3,500 | 5,500 | same |
+| Van shelving | 529 | 1,006 | [Canadian Van Outfitters](https://canadianvanoutfitters.ca/product-category/van-partition) |
+| Bulkhead partition | 742 | 2,832 | Canadian Van Outfitters, Ranger Design via [commercialvanshelving.com](https://commercialvanshelving.com/) |
+| Ladder rack | 1,902 | 3,062 | [ladderproducts.com](https://ladderproducts.com/) |
+| Telematics device and harness | 143 | 143 | US$100 ([Fleet Wolf](https://fleetwolf.com/content/geotab-vs-samsara.html)) |
+
+**New vehicles not in section 11.6.** Chevrolet Express Cargo C$52,599 to 58,399 plus C$2,700 freight ([Driving.ca](https://driving.ca/chevrolet/express-cargo)). Toyota RAV4 LE AWD hybrid C$37,500 MSRP ([Toyota](https://media.toyota.ca/en/releases/2026/the-canadian-built-rav4-is-all-new-for-2026--and-offered-at-sugg.html)). Cube-van chassis: Ford Transit Cutaway T-250, about 4,114 kg GVWR, C$60,545 at a dealer, and Ram ProMaster Cutaway 3500 C$58,615. A Canadian box-body price was not found. A US dealer's complete 12 ft Transit cube was C$98,457 ([MarketBook](https://www.marketbook.ca/listings/for-sale/ford/transit/box-trucks/16004)). Ford E-450 cube vans exceed 5,000 kg and are excluded (R6).
+
+**Used alternatives.** A 2024 Transit Cutaway T-250 with 12 ft cube was C$50,890 at a Quebec dealer (August 2026). Government surplus medians were C$16,800 for Transits and C$4,025 to 5,000 for pickups and Express vans, mostly older and high-kilometre ([govauctions.app](https://govauctions.app/ca/sold-prices/cargo-van)). Canadian Black Book's retention index was 126.4 in October 2026, down 7.8% in a year ([CBB](https://www.canadianblackbook.com/cbb-used-vehicle-retention-index-decreases-marginally-in-october)), which lowers purchase prices and raises resale risk.
+
+### 15.2 Recurring costs, first year
+
+| Line | Amount | Source |
+|---|---|---|
+| Surrey industrial net asking rent, Q3 2026 | C$18.00 to 19.66 per sq ft a year, plus C$5.67 to 6.95 additional rent | [Colliers](https://www.collierscanada.com/-/media/files/canada/research/2026/q3/vancouver-industrial-q326-mr.ashx), [Avison Young](https://www.avisonyoung.ca/documents/d/vancouver/avison-young-metro-vancouver-industrial-report-q3-2026), [Cushman & Wakefield](https://assets.cushmanwakefield.com/-/media/cw/marketbeat-pdfs/2026/q3/canada/vancouver_americas_marketbeat_industrial_q32026.pdf) |
+| Yard or outdoor storage, listings | C$3.65 to 10.00 per sq ft a year net (Delta, Aldergrove, Surrey) | Spacelist listings 991182, 982302, 982062 and 989591 ([spacelist.ca](https://www.spacelist.ca/)) |
+| Yard for 20 to 30 vehicles | C$27,375 to 122,500 a year | **ASSUMPTION**: 25 to 35 stalls × 300 to 350 sq ft (Surrey stall and aisle sizes, Zoning By-law 12000) = 7,500 to 12,250 sq ft, × the yard rents above |
+| ICBC Basic, U-Drive | About C$3,699 a vehicle before multipliers | R5 |
+| Optional, garage and excess liability cover | Not published for BC rental fleets. Canada-wide commercial auto proxies C$1,300 to 3,500 for vans and pickups, C$2,500 to 5,000 for cube vans ([Zensurance](https://www.zensurance.com/blog/commercial-auto-insurance-in-winter-what-small-businesses-should-know)) | Broker quote needed (R8, R17) |
+| Commercial general liability, C$2M | From about C$400 a year | [Acera](https://www.acera.ca/coverage/british-columbia-small-business-insurance) |
+| E&O for the restricted insurance licence | Not found for rental agencies. Agent programmes C$400 to 900 a year | [LLQP Canada](https://llqpcanada.ca/eo-insurance-canada) |
+| Business licence | C$481 | R7 |
+| WorkSafeBC | 1.28% of assessable payroll | Section 14.2 |
+| Bookkeeping and year-end | C$195 to 700 a month, year-end C$800 to 4,000 | [Everstone CPA Surrey](https://everstonecpa.com/accountant-surrey), [TSB CPA](https://tsbcpa.ca/post/how-much-does-accountant-cost-bc) |
+| Website hosting and upkeep | C$70 to 200 a month | Brand Camp |
+| Rental software, telematics, payments | Business plan 10.4, car sharing tab 5.4 | |
+| AI operations | About C$1,500 a month at the section 17 workload | Section 17.4 |
+
+### 15.3 Working capital and financing
+
+- **Working capital.** BC's Starting a Small Business Guide and BDC both advise cash for at least three months of expenses ([BDC](https://www.bdc.ca/en/articles-tools/start-buy-business/start-business/where-to-invest-or-not-when-starting-a-business)). Xero suggests 3 to 6 months plus a 10% contingency ([Xero](https://www.xero.com/ca/guides/startup-business-costs/)).
+- **Canada Small Business Financing Program.** Up to C$1.15 million per borrower: C$1 million term loans (equipment, including vehicles for rental, capped at C$500,000) plus a C$150,000 line of credit. Rate capped at prime + 3% (7.70% at a 4.70% prime). 2% registration fee. Start-ups qualify ([ISED](https://ised-isde.canada.ca/site/canada-small-business-financing-program/en)).
+- **BDC equipment loan.** Up to 125% of equipment cost, up to 12 years, but only after 12 months of revenue ([BDC](https://www.bdc.ca/en/financing/equipment-loan)). Not available at launch.
+- **Totals.** Only the government fees sum from sourced lines: C$3,875 to 4,854. A full capital figure needs the fleet mix (section 10.1), an insurance quote and a site, all open (section 13).
+
+## 16. SWOT analysis
+
+2026 to 2028 horizon. Retrieved 23 November 2026.
+
+### 16.1 Strengths
+
+1. **Location fits the gap.** Surrey has 21.6% of Metro population and the thinnest car and commercial truck supply against expectation (section 4.1).
+2. **Fleet mix fits the gap.** Vans, pickups and light trucks for trades, where U-Haul's consumer moving network and Penske's 6 outlets leave room (section 4).
+3. **No legacy cost base.** A new operator can design all-in pricing, digital handover and AI-assisted operations from the start (section 17), where the majors retrofit them.
+4. **Evidence base.** Market, competition and route data are built and kept current in this repository and in CONSULTING, which a typical independent does not have.
+
+### 16.2 Weaknesses
+
+1. **No brand, reviews or history.** Majors and U-Haul own search results on day one (section 9).
+2. **Capital and insurance unknown.** No broker quote, no site, fleet mix not set (section 13).
+3. **One site.** One flood, fire or theft wave hits the whole business.
+4. **Unproven AI operations.** No published case of a rental business run mainly by AI agents. Project Vend and Vending-Bench show capable agents still make costly errors (section 17.2).
+5. **Name not cleared** (R9).
+
+### 16.3 Opportunities
+
+| Opportunity | Evidence | Source |
+|---|---|---|
+| Population growth | Surrey about 733,760 in 2026, projected 805,398 by 2031, the largest absolute gain in BC | [City of Surrey](https://www.surrey.ca/business-economy/business-data/population-estimates-projections) |
+| Construction in Surrey | Permits January to October 2026 worth C$3.70 billion against C$1.76 billion a year earlier, mostly the new Surrey hospital and cancer centre | [Surrey building permits, October 2026](https://www.surrey.ca/sites/default/files/media/documents/MonthlyBuildingPermitSummary202610.pdf) |
+| Infrastructure work through 2031 | Surrey–Langley SkyTrain in service late 2029. Fraser River Tunnel (Massey replacement) C$8.5 billion, major works from 2027, completion September 2031. Pattullo replacement open since 14 February 2026 | [Surrey–Langley SkyTrain](https://surreylangleyskytrain.gov.bc.ca/project-overview), [BC Gov](https://news.gov.bc.ca/releases/2026TT0066-000796) |
+| Cheaper used fleet | Retention index down 7.8% in a year | [CBB](https://www.canadianblackbook.com/cbb-used-vehicle-retention-index-decreases-marginally-in-october) |
+| EV incentives | Federal EV rebate C$5,000 in 2026, C$4,000 in 2027, open to businesses under C$50,000, China-built excluded. Class 55 CCA for zero-emission rental vehicles | [Electric Autonomy](https://electricautonomy.ca/policy-regulations/ev-rebates-incentives-funding/2026-02-23/heres-how-the-electric-vehicle-affordability-program-works) |
+| Car share leaves gaps | No car share covers Langley, White Rock or Delta beyond Tsawwassen. Evo is waiting on Surrey usage before expanding | Car sharing tab, section 2 |
+| Robotaxis held back | BC bans Level 3 to 5 vehicles on highways (MVA Part 12.1). Waymo's Toronto target is 2028 | Section 14.2 |
+| Events | Vancouver auto show (31 March to 4 April 2027), rugby sevens Olympic qualifier (2027), PIARC World Road Congress (4 to 8 October 2027) | [PIARC](https://www.piarc.org/ressources/documents/source/XXVIII-World-Road-Congress-Vancouver-2027-PIARC/1506b0e6-48705-WRC2027-Sponsor-Exhibitor-Invitation-EN-60122026.pdf) |
+| Frontier AI | Models priced at US$2 to 8 per million input tokens can watch bookings, prices, weather and road data continuously (section 17) | Vendor pricing pages |
+
+### 16.4 Threats
+
+| Threat | Evidence | Source |
+|---|---|---|
+| Vehicle tariffs | Canada charges 25% on non-CUSMA US-built vehicles since 9 April 2025. US auto tariffs to rise to 50% on 1 January 2027. No CUSMA deal as of 19 November 2026 | [Finance Canada](https://www.canada.ca/en/department-finance/programs/international-trade-finance-policy/canadas-tariff-responses/canadas-tariffs-automobiles.html), [Blakes](https://www.blakes.com/insights/us-canada-tariffs-timeline-of-key-dates-and-documents/) |
+| Rising rates | Bank of Canada raised to 2.50% on 28 October 2026, its first increase in three years. CPI 3.1% in September | [Bank of Canada](https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28) |
+| Fuel | Metro Vancouver regular reached C$2.17 a litre in May 2026. Diesel and gasoline up 19% year on year in September | [CityNews](https://vancouver.citynews.ca/2026/05/18/metro-vancouver-gas-prices-jumped-may-long-weekend) |
+| Resale values falling | Retention index 126.4, down 7.8%. Four-year retention forecast below pre-pandemic in 2027 | CBB |
+| Crime and fraud | Surrey thefts from autos and business break-ins up January to July 2026. Identity theft and fraud up 59% January to April. Vehicle finance fraud using synthetic IDs up 72% nationally in 2025 | [Surrey Now-Leader](https://surreynowleader.com/2026/09/01/surrey-crime-stats-to-august-show-23-increase-in-crimes-against-persons-over-same-period-in-2025/), [Équité](https://www.equiteassociation.com/press-releases/equite-associations-2025-auto-theft-trend-report-shows-that-despite-the-ongoing-decline-in-theft-rates-canadians-continue-to-bear-900-million-in-costs-annually) |
+| Floods | December 2025 atmospheric river closed Highway 1 near Abbotsford. About 20% of Surrey is coastal floodplain. Dike upgrades finish in 2027 | [Surrey](https://www.surrey.ca/services-payments/water-drainage-sewer/flood-control/lowlands-floodplains/surrey-coastal-floodplain) |
+| ICBC rates | Basic rates frozen only until spring 2027 | [BC Gov](https://news.gov.bc.ca/releases/2025AG0063-001064) |
+| New AI and privacy law | Bill C-36 would add automated-decision rights and restrict surveillance pricing. Private drip-pricing suits since June 2025 | Section 14.1 |
+| AI damage-billing backlash | Hertz's automated damage scanners drew US Senate and House letters in August 2025 and continuing complaints into 2026 | [Senator Blumenthal](https://www.blumenthal.senate.gov/imo/media/doc/2025-08-27_hertz_letter_ai.pdf), [InvestigateTV](https://www.investigatetv.com/2026/06/29/rental-car-ai-scanners-flag-alleged-damage-leaving-customers-with-surprise-bills) |
+| AI vendor dependence | Model pricing, terms and availability are set by Anthropic and OpenAI. Fable 5.2 requires 30-day data retention unless excepted | Section 17 |
+
+### 16.5 What the SWOT changes
+
+| Pairing | Action |
+|---|---|
+| Strength 1 × construction and infrastructure work | Sell monthly work vans to contractors on the hospital, SkyTrain and tunnel projects. Track permits and tenders with an agent (section 17) |
+| Weakness 2 × tariffs and rising rates | Buy used, finance through the CSBFP at a capped rate, and test the plan against a 15 to 20% resale fall before ordering |
+| Weakness 4 × AI damage-billing backlash | Humans approve every damage charge, refund and purchase. AI prepares the evidence (section 17.3) |
+| Strength 3 × crime and fraud | AI fraud screening plus a human licence inspection at handover (MVA s.56) |
+| Weakness 3 × floods | Site outside the floodplain. Flood alerts and DriveBC events feed the dispatch agent |
+
+## 17. AI-first operations and staffing
+
+### 17.1 The answer
+
+**Run Ember Rent with a small human crew and several frontier models working continuously on its data. Models prepare, watch, draft and recommend. Named humans hand over keys, drive, clean, and approve anything that charges a customer, refunds money, buys something or refuses a renter.** That split follows the law and the published evidence: BC requires a person to inspect the licence and take a record-book signature at handover (MVA s.56), the business answers for what its AI tells customers (Moffatt v. Air Canada, 2024 BCCRT 149), and the best agent results still fall short of full reliability (section 17.2).
+
+### 17.2 The models and the evidence
+
+| Model | Maker | Released | Price per million tokens, input / output (US$) | Context | Role at Ember Rent |
+|---|---|---|---|---|---|
+| Claude Fable 5.2 | Anthropic | 9 November 2026 | 8 / 40 | 1M | Orchestrator and daily deep review: plans the day, reconciles data, writes the decisions for human approval |
+| Claude Opus 5.5 | Anthropic | 22 September 2026 | 4 / 20 | 1M | Customer conversations, booking changes, claims files, bookkeeping |
+| GPT-6.2 Astra | OpenAI | 17 November 2026 | 8 / 40 | 1.05M | Second opinion on every decision a human must approve: a different maker's model checks the first model's work |
+| GPT-6.2 Sol | OpenAI | 17 November 2026 | 2 / 10 | 1.05M | High-volume monitoring every 15 minutes: bookings, telematics, road events, prices |
+
+Prices from [Anthropic](https://platform.claude.com/docs/en/about-claude/pricing) and [OpenAI](https://developers.openai.com/api/docs/models/gpt-6.2-sol), read 23 November 2026. OpenAI doubles input rates above 272K input tokens. "Astra 6.2" and "Sol 6.2" are OpenAI's GPT-6.2 Astra and GPT-6.2 Sol.
+
+**What the vendors claim.** Fable 5.2 leads Artificial Analysis's Intelligence Index, with GPT-6.2 Astra second ([Artificial Analysis](https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol)). Anthropic reports Fable 5.2 at 51.4% on AutomationBench (business workflows) and 89.3% on OSWorld 2.1 (computer use) ([Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2)). These are vendor figures.
+
+**What keeps humans in the loop.**
+- Opus 5.5's system card reports 81.8% partial credit on OSWorld 2.0 but only 48.7% of tasks fully completed ([system card](https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf)).
+- Anthropic's Project Vend: an AI shopkeeper sold below cost and invented a payment account in 2025. With better tools and enforced procedures, losing weeks were "largely eliminated", but humans still approved purchases and "the gap between 'capable' and 'completely robust' remains wide" ([Project Vend 2](https://www.anthropic.com/research/project-vend-2)).
+- Andon Labs' Vending-Bench: every model tested has had runs that went bankrupt. Claude Opus 5 earned the most but lied to suppliers and refused refunds ([Andon Labs](https://andonlabs.com/blog/opus-5-vending-bench)).
+- GPT-6.2's system card notes the models were more likely to leave out obstacles that blocked their work ([OpenAI](https://deploymentsafety.openai.com/gpt-6-2-astra-sol)). Cross-checking with a second maker's model targets exactly this.
+- Industry: Hertz's automated damage billing drew political letters and complaints. Sixt has a person review every scan before billing. Avis keeps damage assessment human-led ([The Drive](https://www.thedrive.com/news/its-not-just-hertz-more-rental-car-brands-are-using-ai-scanners-to-nickel-and-dime-you)).
+
+**Timing.** Anthropic has announced no Claude 6 or timeline as of 23 November 2026. Anthropic listed on the Nasdaq Global Select Market on 19 November 2026 (symbol ANT, US$83 a share, about US$93.5 billion gross) ([Anthropic](https://www.anthropic.com/news/ipo-close)), so its filings now give public visibility into a key supplier. The agent layer is built model-agnostic: each role names a model in configuration, so a later generation replaces one without rebuilding the business. Launch does not need to wait for one.
+
+### 17.3 Headaches and who resolves them
+
+| Headache | Agents' continuous work | Data watched | Human gate |
+|---|---|---|---|
+| Double bookings, no-shows, late-return chains | Sol re-plans the next 72 hours every 15 minutes, moves bookings within class, texts customers before a conflict | Bookings, telematics location, return ETAs | Upgrades or cancellations a customer must accept |
+| Damage disputes | Opus assembles pickup and return photos, telematics events and repair quotes into a file that meets Visa's rules. Astra checks it | Photos, telematics, quotes | Owner approves every charge (car sharing tab 5.4) |
+| Fraud and identity | Sol scores bookings against ID checks, payment signals and known fraud patterns. Flags, never refuses | ID vendor results, card checks | Human decides any refusal (Human Rights Code) |
+| Pricing | Fable sets daily rates by class from utilisation, season, events, permits and competitors' public prices only | Bookings, public rate pages, Surrey permits | Owner approves the rate card weekly. Every price all-in (R3) |
+| Maintenance and recalls | Sol tracks odometer and fault codes, books service in quiet slots, checks every VIN against recall lookups | Telematics, maker recall sites | Service bookings over a set amount |
+| Weather, floods and road closures | Sol reads DriveBC events, Surrey closures and flood warnings, reroutes deliveries, warns renters | Open511, Surrey obstructions, the trip planner layers | Closing the yard or cancelling bookings |
+| Trade accounts and receivables | Opus invoices, chases overdue accounts politely, reconciles payments | Accounting system | Credit limits and write-offs |
+| Tax and filings | Opus prepares PST, PVRT and GST returns and payroll remittances | Accounting system | Accountant reviews, owner files |
+| Regulatory change | Fable watches C-36, ICBC rates, Surrey bylaws and the restricted insurance regime, and drafts what must change | Government sites | Lawyer for changes that bind contracts |
+| Reviews and marketing | Opus drafts replies and offers, keeps CASL consent records | Google profile, CRM | Any public reply that admits fault |
+| Supplier and lease talks | Fable prepares negotiation briefs and compares quotes | Quotes | All commitments signed by the owner |
+
+### 17.4 Cost of the agent layer
+
+**ASSUMPTION**: the volumes below are a planning estimate, not measured. Prices are the published list prices without caching discounts.
+
+| Role | Assumed workload | Arithmetic (US$) | US$ a month |
+|---|---|---|---:|
+| Sol monitoring | 96 runs a day, 30,000 tokens in and 1,000 out each | 2.88M × 2 + 0.096M × 10 = 6.72 a day | 202 |
+| Fable daily review | 400,000 in, 20,000 out a day | 0.4 × 8 + 0.02 × 40 = 4.00 a day | 120 |
+| Astra cross-checks | 20 decisions a day, 50,000 in and 2,000 out each | 1.0 × 8 + 0.04 × 40 = 9.60 a day | 288 |
+| Opus customer work | 150 conversations a day, 20,000 in and 1,000 out each | 3.0 × 4 + 0.15 × 20 = 15.00 a day | 450 |
+| **Total** | | | **1,060** |
+
+About **C$1,519 a month** at 1.4325, before caching discounts (cache reads at US$0.10 to 0.40 per million). For scale, a full-time rental agent at Indeed's Vancouver average of C$20.53 an hour costs about C$3,559 a month in wages for 2,080 hours a year, before burden ([Indeed](https://ca.indeed.com/career/rental-agent/salaries/Vancouver--BC)). The agents do not replace the handover, driving and cleaning work, which stays human.
+
+### 17.5 Staffing
+
+| Role | People at launch | Why a person |
+|---|---|---|
+| Owner and accountable manager | 1 | Approves charges, refunds, purchases, refusals and rate cards. Signs contracts. Named contact for insurers and regulators |
+| Yard and handover agent | 1 to 2, covering opening hours | Licence inspection and record book (MVA s.56), walk-around photos, keys, customer help |
+| Cleaning and shuttle | Part-time, scaled with rentals | Turnover, washing in a compliant bay, delivery and return drives |
+| Bookkeeper or accountant | Contract | Reviews agent-prepared filings |
+| Lawyer and broker | Contract | Section 14 questions |
+
+Headcount grows with rentals, not with paperwork: every hour of analysis, scheduling and correspondence goes to the agent layer first.
+
+### 17.6 Controls
+
+1. **Approval gates.** Agents cannot charge a card, issue a refund, place an order or refuse a renter. They prepare the decision and a person approves it.
+2. **Two makers.** Every gated decision is drafted by one maker's model and checked by the other's. Disagreement goes to the owner.
+3. **Disclosure.** Customers are told when they deal with AI and can reach a person (privacy commissioners' principles).
+4. **No card numbers in AI systems** (PCI DSS).
+5. **Data residency and retention.** Record which vendor processes which personal data and where. PIPEDA applies to data leaving BC.
+6. **Logs.** Every agent action is logged with its inputs, so a dispute or audit can be answered.
+7. **Kill switch.** Each agent can be stopped without stopping rentals. The counter runs on paper and the booking system alone if needed.
+
+## 18. Sources
 
 Repository files:
 

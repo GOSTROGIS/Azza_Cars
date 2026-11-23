@@ -1,55 +1,15 @@
 <!doctype html>
-<html lang="en-CA">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Popular models in Canada | Ember Rent</title>
-  <meta name="description" content="The best-selling vehicles in Canada in 2025, shown with real photos." />
-  <meta name="theme-color" content="#111112" />
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
-  <script type="module" src="/src/explorer.js"></script>
-</head>
-<body>
-  <header class="top">
-    %BRAND_LINK%
-    <nav aria-label="Main">
-      <a href="./plan.html">Business plan</a>
-      <a href="./market/map.html">Market map</a>
-      <a href="./status.html">Project status</a>
-    </nav>
-  </header>
-
-  <main class="section models">
-    <p class="eyebrow"><span class="dial">MX</span>Popular models</p>
-    <h1>Canada's best sellers, 2025</h1>
-    <p class="models__lede">Real photos with the background removed. White and silver vehicles can be shown in other colours.</p>
-
-    <div class="models__tools">
-      <label class="models__search">
-        <span class="az-visually-hidden">Search models</span>
-        <input id="q" class="az-input" type="search" placeholder="Search make or model" autocomplete="off" />
-      </label>
-      <div class="models__types" role="group" aria-label="Vehicle type" id="types"></div>
-    </div>
-
-    <p class="models__count" id="count" aria-live="polite"></p>
-    <ul class="models__grid" id="grid"></ul>
-
-    <dialog class="model" id="detail" aria-labelledby="detail-title">
-      <form method="dialog"><button class="model__close" aria-label="Close">×</button></form>
-      <h2 id="detail-title"></h2>
-      <div class="model__stage" id="stage"></div>
-      <div class="model__paint" id="paint"></div>
-      <dl class="model__facts" id="facts"></dl>
-      <p class="model__credit" id="credit"></p>
-    </dialog>
-  </main>
-
-  <footer class="foot">
-    <div class="foot__credits">
-      <p><strong>Sources.</strong> Sales figures are 2025 calendar-year units from the sources linked on each model. Where sources disagree, both figures are shown. Photos are cut-out adaptations of photos from Wikimedia Commons, credited on each model. CC BY-SA adaptations are shared under the same licence. Vehicles shown do not imply any manufacturer's endorsement.</p>
-      <p><a href="./">Home</a> · <a href="./plan.html">Business plan</a> · <a href="./status.html">Project status</a></p>
-    </div>
-  </footer>
-</body>
+<html lang="en-CA" data-theme="carbon">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Searchable catalogue of vehicle makes and models sold in Canada, the United States and Mexico, with sources for every entry." />
+    <meta name="theme-color" content="#0a0a0b" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <title>Vehicle catalogue | Ember Rent</title>
+  </head>
+  <body class="az-root">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>

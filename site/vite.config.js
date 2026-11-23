@@ -1,6 +1,7 @@
 import { defineConfig } from "vite";
 import path from "node:path";
 import fs from "node:fs";
+import react from "@vitejs/plugin-react";
 import { marked } from "marked";
 
 // Facts on the pages come from the data files that tools/ write, never typed by hand.
@@ -52,11 +53,11 @@ const factsPlugin = {
 // base "./" keeps the build portable: it works from any sub-path or straight from disk hosting.
 export default defineConfig({
   base: "./",
-  plugins: [factsPlugin],
+  plugins: [react(), factsPlugin],
   resolve: { alias: { "@design": path.resolve(__dirname, "../design") } },
   server: { fs: { allow: [".."] } },
   build: {
-    // Every page is plain HTML with a small script, for speed and search.
-    rollupOptions: { input: Object.fromEntries(["index", "explorer", "status", "plan"].map((n) => [n, path.resolve(__dirname, `${n}.html`)])) },
+    // Pages are plain HTML with a small script, for speed and search. The vehicle catalogue (explorer.html) is a React app.
+    rollupOptions: { input: Object.fromEntries(["index", "explorer", "status", "plan", "trips"].map((n) => [n, path.resolve(__dirname, `${n}.html`)])) },
   },
 });

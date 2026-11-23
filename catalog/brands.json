@@ -44,7 +44,7 @@
   "name": "BMW",
   "segment": "light",
   "models": 366,
-  "logo": null,
+  "logo": "logos/svg/bmw.svg",
   "register_sources": 3
  },
  {
@@ -588,7 +588,7 @@
   "name": "Isuzu",
   "segment": "light",
   "models": 76,
-  "logo": null,
+  "logo": "logos/svg/isuzu.svg",
   "register_sources": 3
  },
  {
@@ -1260,7 +1260,7 @@
   "name": "Iveco",
   "segment": "truck",
   "models": 12,
-  "logo": null,
+  "logo": "logos/svg/iveco.svg",
   "register_sources": 2
  },
  {

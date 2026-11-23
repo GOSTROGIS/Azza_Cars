@@ -6,8 +6,8 @@ The first workstream is a verified library of automotive brand logos in SVG,
 for use in documents and on the website.
 
 The second is the customer-facing website: the Ember Rent landing page, the business plan,
-the market map and a popular-models page with real photos of Canada's 2025 best sellers.
-The cited catalog of every model and the 3D vehicles below are kept as data, but the site no longer shows them.
+the trip planner, the market map and the vehicle catalogue, a searchable database of every cited brand
+and model with its logo. The 3D vehicles below are kept as data, but the site does not show them.
 
 ## Repository layout
 

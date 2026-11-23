@@ -1,22 +1,24 @@
 # Website and dashboard
 
-The public Ember Rent website: landing page, business plan, project status, market map and a popular-models page. It is a static site, so it can be hosted anywhere (no server code).
+The public Ember Rent website: landing page, business plan, trip planner, project status, market map and the vehicle catalogue. It is a static site, so it can be hosted anywhere (no server code).
 
 ## Stack and why
 
-- **Vite, plain HTML and small scripts.** No framework: each page is HTML that search engines can read, with a few kilobytes of JavaScript.
-- **Real photos only.** The popular-models page shows open-licence Wikimedia Commons photos with the background removed by `tools/models/build.py`. White and silver photos carry a paint mask, so the page can multiply another colour into the real paint.
+- **Vite, plain HTML and small scripts.** Each page except the catalogue is HTML that search engines can read, with a few kilobytes of JavaScript.
+- **React for the vehicle catalogue.** `explorer.html` is a searchable database of every brand and model in `catalog/`, with the audited logos from `logos/`. No 3D.
+- **Photos only where a licensed one exists.** A model shows an open-licence photo from `tools/models/build.py` with its credit, otherwise the brand logo. Manufacturer and other open-licence images are added to the same slot.
 
 ## Layout
 
 | Path | What it is |
 |---|---|
 | `index.html`, `src/landing.js` | Landing page |
-| `explorer.html`, `src/explorer.js` | Popular models: Canada's 2025 best sellers, search, type filter, detail with colour swatches and PNG download |
-| `plan.html`, `status.html` | Business plan (rendered from `plan/BUSINESS_PLAN.md`) and project status |
+| `trips.html`, `src/trips.js` | Trip planner: OSRM road route (FOSSGIS demo, one request a second, on a button press), live Surrey truck routes and closures and DriveBC events, snapshot layers from `tools/market/trip_layers.py`, prices from `market/trip_rates.json`, shared with the plan's trip-cost chart |
+| `explorer.html`, `src/main.jsx`, `src/App.jsx`, `src/search.js`, `src/labels.js`, `src/app.css` | Vehicle catalogue: search, filters by country, segment, body, power and years, brand pages with logos, model detail with sources and photo credit |
+| `plan.html`, `src/plan.js`, `status.html` | Business plan in two tabs (rendered from `plan/BUSINESS_PLAN.md` and `plan/RENTAL_PLAN.md`) and project status |
 | `src/landing.css` | Styles for every page. Colours and type come from `design/` |
-| `scripts/copy-data.mjs` | Copies `market/map.html` into `public/` |
-| `public/models/` | Cutouts and `models.json`, written by `tools/models/build.py` |
+| `scripts/copy-data.mjs` | Copies the catalogue (`catalog/` as compact `public/data/catalog.json`), the logos, `market/map.html` and the trip planner layers (`market/trips/`) into `public/` |
+| `public/models/` | Model photos and `models.json` (with `catalog_id`), written by `tools/models/build.py` |
 
 ## Run
 

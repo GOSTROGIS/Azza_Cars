@@ -1,0 +1,211 @@
+{
+ "note": "Published prices the trip planner (site/trips.html) and the plan's trip-cost chart (tools/market/rental_charts.py) use to cost a trip, before GST and PST. Hand-maintained: update when an operator changes its rates. Ember Rent's own prices are not set (business plan, open question 1).",
+ "retrieved": "23 November 2026",
+ "ember_rent": "Not priced yet. All-in prices are set after the rate survey.",
+ "pvrt_from_hours": 8,
+ "jobs": {
+  "car": {
+   "label": "Car for errands or a day out",
+   "operators": [
+    "evo",
+    "modo_car"
+   ],
+   "heavy": false
+  },
+  "pickup": {
+   "label": "Pickup for a haul",
+   "operators": [
+    "modo_pickup",
+    "homedepot_small"
+   ],
+   "heavy": true
+  },
+  "van": {
+   "label": "Cargo van for a trade job or small move",
+   "operators": [
+    "modo_van",
+    "homedepot_large",
+    "uhaul_van"
+   ],
+   "heavy": true
+  },
+  "truck": {
+   "label": "Moving truck under 5,000 kg",
+   "operators": [
+    "uhaul_10",
+    "uhaul_15"
+   ],
+   "heavy": true
+  }
+ },
+ "operators": {
+  "evo": {
+   "name": "Evo",
+   "model": "evo",
+   "per_min": 0.49,
+   "per_hour": 17.99,
+   "per_day": 104.99,
+   "trip_fee": 1.85,
+   "pvrt": 1.5,
+   "terms": "Gas, insurance, parking and km included. Bills the cheapest of minute, hour and day rates. PVRT C$1.50 from 8 hours. Cars only. One-way within the home zone.",
+   "source": "https://evo.ca/rates"
+  },
+  "modo_car": {
+   "name": "Modo Plus, Daily Drive car",
+   "model": "modo",
+   "per_hour": 5,
+   "per_km": 0.35,
+   "trip_fee": 3,
+   "day_tripper": 100,
+   "day_km": 500,
+   "pvrt": 1.5,
+   "terms": "Daytime booking, gas car. Day Tripper applies to whole-day bookings. Round trip from a fixed spot.",
+   "source": "https://www.modo.coop/plans"
+  },
+  "modo_car_monthly": {
+   "name": "Modo Monthly, Daily Drive car",
+   "model": "modo",
+   "per_hour": 6,
+   "per_km": 0.35,
+   "trip_fee": 3,
+   "day_tripper": 100,
+   "day_km": 250,
+   "pvrt": 1.5,
+   "terms": "Daytime booking, gas car, C$6 a month plan. Day Tripper applies to whole-day bookings. Round trip from a fixed spot.",
+   "source": "https://www.modo.coop/plans"
+  },
+  "modo_pickup": {
+   "name": "Modo Plus, Large & Loadable (pickup)",
+   "model": "modo",
+   "per_hour": 7,
+   "per_km": 0.35,
+   "trip_fee": 3,
+   "day_tripper": 135,
+   "day_km": 500,
+   "pvrt": 1.5,
+   "terms": "Daytime booking, gas vehicle. Round trip from a fixed spot.",
+   "source": "https://www.modo.coop/plans"
+  },
+  "modo_van": {
+   "name": "Modo Plus, Oversized (Ram ProMaster cargo van)",
+   "model": "modo",
+   "per_hour": 10,
+   "per_km": 0.35,
+   "trip_fee": 3,
+   "pvrt": 1.5,
+   "terms": "Daytime booking. No Day Tripper rate for Oversized. Set-return bookings only.",
+   "source": "https://www.modo.coop/plans"
+  },
+  "modo_van_monthly": {
+   "name": "Modo Monthly, Oversized (Ram ProMaster cargo van)",
+   "model": "modo",
+   "per_hour": 11,
+   "per_km": 0.35,
+   "trip_fee": 3,
+   "pvrt": 1.5,
+   "terms": "Daytime booking, C$6 a month plan. No Day Tripper rate for Oversized.",
+   "source": "https://www.modo.coop/plans"
+  },
+  "homedepot_small": {
+   "name": "Home Depot, small cargo van or pickup",
+   "model": "tiers",
+   "tiers": [
+    [
+     1.5,
+     24.95
+    ],
+    [
+     4,
+     79.95
+    ],
+    [
+     24,
+     119.95
+    ]
+   ],
+   "terms": "National price page, Surrey store not confirmed. Unlimited km. Rounded up to the next published tier. Renter needs own non-owned auto liability insurance.",
+   "source": "https://www.homedepot.ca/en/home/tool-and-vehicle-rental.html"
+  },
+  "homedepot_large": {
+   "name": "Home Depot, large cargo van",
+   "model": "tiers",
+   "tiers": [
+    [
+     1.5,
+     39.0
+    ],
+    [
+     4,
+     94.0
+    ],
+    [
+     24,
+     139.95
+    ]
+   ],
+   "terms": "National price page, Surrey store not confirmed. Unlimited km. Rounded up to the next published tier.",
+   "source": "https://www.homedepot.ca/en/home/tool-and-vehicle-rental.html"
+  },
+  "uhaul_van": {
+   "name": "U-Haul cargo van, in town",
+   "model": "per_rental",
+   "per_rental": 19.95,
+   "per_km": 0.99,
+   "terms": "Surrey in-town quote for 3 December 2026, per rental day. C$1 environmental fee. Damage cover extra.",
+   "source": "https://www.uhaul.com/Truck-Rentals/",
+   "trip_fee": 1.0
+  },
+  "uhaul_10": {
+   "name": "U-Haul 10 ft truck, in town",
+   "model": "per_rental",
+   "per_rental": 19.95,
+   "per_km": 1.09,
+   "terms": "Surrey in-town quote for 3 December 2026, per rental day. C$1 environmental fee.",
+   "source": "https://www.uhaul.com/Truck-Rentals/",
+   "trip_fee": 1.0
+  },
+  "uhaul_15": {
+   "name": "U-Haul 15 ft truck, in town",
+   "model": "per_rental",
+   "per_rental": 29.95,
+   "per_km": 1.09,
+   "terms": "Surrey in-town quote for 3 December 2026, per rental day. C$1 environmental fee.",
+   "source": "https://www.uhaul.com/Truck-Rentals/",
+   "trip_fee": 1.0
+  }
+ },
+ "standard_trips": [
+  {
+   "label": "Car, 3 hours, 30 km",
+   "hours": 3,
+   "km": 30,
+   "operators": [
+    "modo_car",
+    "modo_car_monthly",
+    "evo"
+   ]
+  },
+  {
+   "label": "Car, 24 hours, 100 km",
+   "hours": 24,
+   "km": 100,
+   "operators": [
+    "modo_car",
+    "modo_car_monthly",
+    "evo"
+   ]
+  },
+  {
+   "label": "Van or pickup, 4 hours, 40 km",
+   "hours": 4,
+   "km": 40,
+   "operators": [
+    "modo_pickup",
+    "modo_van",
+    "modo_van_monthly",
+    "uhaul_van",
+    "homedepot_large"
+   ]
+  }
+ ]
+}

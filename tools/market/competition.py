@@ -42,6 +42,16 @@ CATS = [("car_rental", "Car"), ("truck_rental", "Truck and van"), ("rv_rental", 
 MIX = [("car_rental", "Car"), ("moving", "U-Haul moving"), ("commercial", "Commercial truck and van"), ("rv_rental", "RV"), ("carshare", "Car share")]
 ORANGE, STEEL, SAND, STONE = "#ff4b1f", "#6f8fd0", "#b08a3a", "#8a847a"
 CAT_FILL = {"car_rental": BONE, "moving": STONE, "commercial": ORANGE, "rv_rental": STEEL, "carshare": SAND}
+
+
+def mix_kind(p):
+    """What a rental outlet rents out, as a MIX key: truck rental is split into U-Haul (consumer moving) and the rest."""
+    kind = p["category"]
+    if kind == "truck_rental":
+        return "moving" if p.get("brand") == "U-Haul" else "commercial"
+    return kind
+
+
 SHORT = {"north-vancouver-city": "N. Van City", "north-vancouver-district": "N. Van District", "langley-district": "Langley Twp",
          "langley-city": "Langley City", "new-westminster": "New West", "port-coquitlam": "Port Coquitlam",
          "west-vancouver": "West Van", "mvrd-ea-a": "Electoral Area A", "pitt-meadows": "Pitt Meadows",
@@ -287,9 +297,7 @@ def main():
     mix = {}
     for f in rental:
         p = f["properties"]
-        kind = p["category"]
-        if kind == "truck_rental":
-            kind = "moving" if p["brand"] == "U-Haul" else "commercial"
+        kind = mix_kind(p)
         mix.setdefault(p["muni"], Counter())[kind] += 1
 
     out = []

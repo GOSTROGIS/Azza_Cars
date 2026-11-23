@@ -1,0 +1,24 @@
+{
+ "generated_utc": "2026-11-23T15:02:52+00:00",
+ "generator": "tools/market/trip_layers.py",
+ "files": {
+  "rentals.geojson": {
+   "source": "market/supply.geojson (this repository)",
+   "licence": "As market/supply.geojson: OpenStreetMap contributors (ODbL), Overture Maps Foundation and the sources listed in market/README.md",
+   "features": 328
+  },
+  "structures.geojson": {
+   "source": "https://openmaps.gov.bc.ca/geo/pub/wfs layer pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP",
+   "filter": "BMIS_STRUCTURE_TYPE IN ('BRIDGE','TUNNEL') AND BMIS_STRUCT_STATUS_TYPE_DESC IN ('OPEN/IN USE','CLOSED','UNDER CONSTRUCTION')",
+   "licence": "Open Government Licence - British Columbia",
+   "attribution": "Contains information licensed under the Open Government Licence \u2013 British Columbia.",
+   "features": 1027
+  },
+  "ferries.geojson": {
+   "source": "https://openmaps.gov.bc.ca/geo/pub/wfs layer pub:WHSE_IMAGERY_AND_BASE_MAPS.GSR_FERRY_TERMINALS_SV",
+   "licence": "Open Government Licence - British Columbia",
+   "attribution": "Contains information licensed under the Open Government Licence \u2013 British Columbia.",
+   "features": 7
+  }
+ }
+}

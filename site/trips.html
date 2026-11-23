@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trip planner | Ember Rent</title>
+  <meta name="description" content="Plan a van, truck or car trip in Metro Vancouver: road route, truck routes, closures, live DriveBC events, highway bridges and what the trip costs at published prices." />
+  <meta name="theme-color" content="#111112" />
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script type="module" src="/src/trips.js"></script>
+</head>
+<body class="trips-page">
+  <header class="top">
+    %BRAND_LINK%
+    <nav aria-label="Main">
+      <a href="./plan.html">Business plan</a>
+      <a href="./explorer.html">Vehicle catalogue</a>
+      <a href="./status.html">Project status</a>
+    </nav>
+  </header>
+
+  <main class="trips">
+    <aside class="trips__panel" aria-label="Trip planner">
+      <p class="eyebrow"><span class="dial">TP</span>Trip planner</p>
+      <h1>Route, road checks and cost</h1>
+      <p class="trips__note">Concept demo. Ember Rent is not renting yet. Competitor prices are their published rates.</p>
+
+      <label class="trips__field">What is the job?
+        <select id="job" class="az-input"></select>
+      </label>
+      <label class="trips__field">Hours you need the vehicle
+        <input id="hours" class="az-input" type="number" min="1" max="168" step="0.5" value="4" />
+      </label>
+
+      <div class="trips__stops">
+        <p class="trips__label">Stops <span class="trips__hint">Click the map, or pick a place</span></p>
+        <ol id="stops"></ol>
+        <label class="trips__field"><span class="az-visually-hidden">Add a place</span>
+          <select id="pick" class="az-input"><option value="">Add a place…</option></select>
+        </label>
+        <div class="trips__actions">
+          <button id="route" class="btn btn--primary" type="button" disabled>Plan route</button>
+          <button id="clear" class="btn btn--ghost" type="button">Clear</button>
+        </div>
+      </div>
+
+      <section id="result" class="trips__result" aria-live="polite"></section>
+
+      <details class="trips__layers" open>
+        <summary>Map layers</summary>
+        <div id="layers"></div>
+      </details>
+
+      <p class="trips__credit" id="credit">
+        Road routing: FOSSGIS OSRM demo service, © OpenStreetMap contributors (<a href="https://routing.openstreetmap.de/about.html" rel="noopener">usage policy</a>, no live traffic).
+        Contains information licensed under the Open Government License – City of Surrey and the Open Government Licence – British Columbia (DriveBC Open511, DataBC).
+        Rental outlets and the competition index are from this project's <a href="./plan.html#plan">market analysis</a>.
+      </p>
+    </aside>
+    <div id="map" class="trips__map" role="region" aria-label="Map"></div>
+  </main>
+</body>
+</html>
