@@ -55,36 +55,14 @@
     <section class="hero" aria-labelledby="hero-title">
       <svg class="hero__ring" viewBox="0 0 600 600" aria-hidden="true">
         <g fill="none" stroke-linecap="round">
-          <circle class="ring ring--ticks" cx="300" cy="300" r="282" stroke="#3d3d42" stroke-width="10" stroke-dasharray="2 14"/>
+          <circle class="ring" cx="300" cy="300" r="282" stroke="#3d3d42" stroke-width="10" stroke-dasharray="2 14"/>
           <path class="ring ring--outer" d="M300 70 A 230 230 0 1 0 530 300" stroke="#eee8dc" stroke-opacity="0.16" stroke-width="34"/>
           <path class="ring ring--inner" d="M300 170 A 130 130 0 1 0 430 300" stroke="#eee8dc" stroke-opacity="0.09" stroke-width="34"/>
         </g>
-        <circle class="ring__ember" cx="520" cy="80" r="26" fill="#ff4b1f"/>
-        <circle cx="300" cy="300" r="14" fill="#ff4b1f"/>
       </svg>
-      <!-- A random vehicle from hero/provenance.json turns on the turntable. The pick runs inline, before the
-           first paint, so only one car downloads. Two lagging exposures give the slow-shutter trail. -->
-      <div class="showroom" aria-hidden="true">
-        <div class="showroom__car">
-          <noscript><img class="exposure exposure--0" src="./hero/ford-f150.webp" alt="" /></noscript>
-          <script>
-            (() => {
-              const pool = %HERO_POOL%;
-              const src = "./hero/" + pool[Math.floor(Math.random() * pool.length)];
-              const car = document.currentScript.parentElement;
-              for (const n of [2, 1, 0]) {
-                const img = new Image();
-                img.className = "exposure exposure--" + n;
-                img.alt = "";
-                if (n === 0) img.fetchPriority = "high";
-                img.src = src;
-                car.append(img);
-              }
-            })();
-          </script>
-        </div>
-        <div class="showroom__shutter"></div>
-      </div>
+      <figure class="hero__car" aria-hidden="true">
+        <img src="./hero/ford-f150.webp" alt="" width="1200" height="410" fetchpriority="high" />
+      </figure>
       <div class="hero__copy">
         <p class="eyebrow">Surrey · Delta · White Rock · Langley</p>
         <h1 id="hero-title">Vans, trucks and cars, <span>ready when the job is.</span></h1>

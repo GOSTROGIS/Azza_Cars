@@ -93,56 +93,46 @@ h3 { font-size: 1.25rem; font-weight: 700; }
     radial-gradient(40% 40% at 10% 10%, rgba(238, 232, 220, 0.06), transparent 70%),
     var(--carbon-900);
 }
-/* ---- Showroom: a random vehicle turns on the ignition-ring turntable, shot with a slow shutter ---- */
-/* One turn sweep is 18s and the shutter and turntable are timed to it, at 6 frames a second throughout. */
-.hero { --turn: 18s; --turn-frames: 108; --spin: 36s; --spin-frames: 216; }
-.showroom { position: absolute; inset: 0; pointer-events: none; z-index: 1; }
-.showroom__car {
+/* ---- Hero vehicle: crisp at the front, the rear and underside dissolve into the page ---- */
+.hero__car {
   position: absolute;
-  width: min(48vw, 780px);
+  z-index: 1;
+  margin: 0;
+  width: min(52vw, 860px);
   right: 3vw;
-  bottom: 11%;
-  aspect-ratio: 1200 / 440;
-  perspective: 1500px;
+  bottom: 10%;
+  pointer-events: none;
 }
-.exposure {
+/* Ember backlight so a black truck reads against carbon. */
+.hero__car::before {
+  content: "";
   position: absolute;
-  inset: auto 0 0 0;
+  inset: -30% -10% 10% 5%;
+  background: radial-gradient(50% 50% at 45% 55%, color-mix(in srgb, var(--orange-500) 34%, transparent), transparent 70%);
+  z-index: -1;
+}
+/* Floor shadow. */
+.hero__car::after {
+  content: "";
+  position: absolute;
+  left: 4%;
+  right: 22%;
+  bottom: -3%;
+  height: 12%;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.7), transparent 70%);
+  z-index: -1;
+}
+.hero__car img {
+  display: block;
   width: 100%;
   height: auto;
-  filter: saturate(0.88) contrast(1.06);
-  /* The fade travels with the turn: the end swinging away dissolves into nothing. */
-  --fade: linear-gradient(to right, transparent 0%, #000 22%, #000 78%, transparent 100%),
-    linear-gradient(to bottom, #000 62%, transparent 100%);
+  filter: brightness(1.18) contrast(1.06) saturate(0.9);
+  --fade: linear-gradient(to left, transparent 0%, #000 30%), linear-gradient(to bottom, #000 78%, transparent 100%);
   -webkit-mask-image: var(--fade);
   -webkit-mask-composite: source-in;
   mask-image: var(--fade);
   mask-composite: intersect;
-  -webkit-mask-size: 170% 100%, 100% 100%;
-  mask-size: 170% 100%, 100% 100%;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-  transform-origin: 50% 85%;
-  /* steps() makes the motion advance in visible frames, like a slow camera shutter. */
-  animation: turn var(--turn) steps(var(--turn-frames)) infinite alternate;
 }
-/* Lagging exposures leave the trail of a long exposure. */
-.exposure--1 { opacity: 0.26; filter: saturate(0.7) blur(1.5px); animation-delay: -0.5s; }
-.exposure--2 { opacity: 0.1; filter: saturate(0.5) blur(3px); animation-delay: -1s; }
-@keyframes turn {
-  from { transform: rotateY(-22deg) translateX(3%) scale(0.94); -webkit-mask-position: 100% 0, 0 0; mask-position: 100% 0, 0 0; }
-  50% { transform: rotateY(0deg) translateX(0) scale(1); -webkit-mask-position: 50% 0, 0 0; mask-position: 50% 0, 0 0; }
-  to { transform: rotateY(22deg) translateX(-3%) scale(0.94); -webkit-mask-position: 0 0, 0 0; mask-position: 0 0, 0 0; }
-}
-/* The shutter: a brief darkening as the turn reverses. */
-.showroom__shutter {
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(70% 70% at 70% 60%, transparent 40%, color-mix(in srgb, var(--carbon-950) 85%, transparent) 100%);
-  opacity: 0;
-  animation: shutter var(--turn) steps(36) infinite;
-}
-@keyframes shutter { 0%, 4%, 96%, 100% { opacity: 0.8; } 12%, 88% { opacity: 0; } }
 
 .hero__copy { position: relative; z-index: 3; max-width: 640px; }
 .hero h1 {
@@ -216,15 +206,12 @@ h3 { font-size: 1.25rem; font-weight: 700; }
   .top .btn { margin-left: auto; min-height: 40px; padding: 0 14px; font-size: 0.72rem; }
   .brand__word { font-size: 1.2rem; }
   .top .brand__tag { display: none; }
-  .hero { align-items: flex-start; padding-top: 48px; min-height: 720px; }
-  .showroom__car { width: 118vw; right: -34vw; bottom: 3%; }
-  .exposure--1, .exposure--2 { display: none; }
+  .hero { align-items: flex-start; padding-top: 48px; padding-bottom: 46vw; min-height: 720px; }
+  .hero__car { width: 100vw; right: -6vw; bottom: 2%; }
   .top { backdrop-filter: none; background: var(--carbon-900); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .exposure, .showroom__shutter { animation: none; }
-  .exposure--1, .exposure--2 { display: none; }
   .btn { transition: none; }
 }
 
@@ -255,13 +242,7 @@ body {
 }
 .ring--outer, .ring--inner { stroke-dasharray: 1200; stroke-dashoffset: 1200; animation: ignite 1.6s var(--ease-out) 0.2s forwards; }
 .ring--inner { animation-delay: 0.45s; }
-.ring__ember { filter: drop-shadow(0 0 18px rgba(255, 75, 31, 0.9)); animation: ember 3.2s ease-in-out 1.6s infinite alternate; }
 @keyframes ignite { to { stroke-dashoffset: 0; } }
-/* The turntable turns under the vehicle, in the same stepped cadence. */
-.ring--ticks { transform-origin: 300px 300px; animation: spin var(--spin) steps(var(--spin-frames)) infinite; }
-.hero.is-offscreen * { animation-play-state: paused; }
-@keyframes spin { to { transform: rotate(360deg); } }
-@keyframes ember { from { opacity: 0.75; } to { opacity: 1; } }
 
 /* Section labels read like a gauge readout. */
 .dial {
@@ -378,8 +359,6 @@ body {
 }
 @media (prefers-reduced-motion: reduce) {
   .ring--outer, .ring--inner { animation: none; stroke-dashoffset: 0; }
-  .ring--ticks { animation: none; }
-  .ring__ember { animation: none; }
 }
 
 /* ---- Business plan: long-form document rendered from Markdown ---- */
@@ -388,7 +367,14 @@ body {
 .doc h3 { margin: var(--space-6) 0 var(--space-3); color: var(--orange-300); }
 .doc p, .doc li { max-width: 72ch; }
 .doc strong { color: var(--bone-50); }
+.doc a { overflow-wrap: anywhere; }
 .doc table { width: 100%; border-collapse: collapse; margin: var(--space-5) 0; font-size: 0.92rem; display: block; overflow-x: auto; }
 .doc th, .doc td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--carbon-700); vertical-align: top; }
 .doc th { font-family: var(--font-display); font-size: var(--text-xs); letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--carbon-300); }
 .doc blockquote { margin: var(--space-5) 0; padding: var(--space-4) var(--space-5); border-left: 3px solid var(--orange-500); background: var(--carbon-800); border-radius: 0 var(--radius-md) var(--radius-md) 0; }
+
+/* Plan charts (tools/market/competition.py), inlined so each mark carries a hover title. */
+.chart-fig { margin: var(--space-6) 0; overflow-x: auto; }
+.chart-fig svg { min-width: 680px; display: block; width: 100%; height: auto; background: var(--carbon-950); border: 1px solid var(--carbon-700); border-radius: var(--radius-md); }
+.chart-fig figcaption { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--carbon-300); }
+.chart-fig svg g:hover > path, .chart-fig svg g:hover > circle:last-of-type, .chart-fig svg g:hover > rect { stroke: #f7f4ee; stroke-width: 2; }

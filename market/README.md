@@ -14,6 +14,8 @@ A cited gap analysis and market sizing for a new car and truck rental business i
 | `stations.geojson` | SkyTrain, West Coast Express and SeaBus stations inside Metro Vancouver, with the distance to the nearest counted rental location |
 | `analysis.json` | Every number the gap analysis quotes, as computed |
 | `tam_sam_som.json` | Every number the sizing quotes, as computed |
+| `competition.json` | Competition index per municipality: logarithmic-curve fits for car, U-Haul moving and commercial truck and van outlets, scores, index and gaps (`tools/market/competition.py`) |
+| `competition.geojson` | The municipal polygons with the index (`index`), the three scores, actual and expected outlets, gaps and the map colour (`colour`) |
 | `map.html` | Static Leaflet 1.9.4 map (cdnjs) with municipalities shaded by rental locations per 10,000 residents and the supply points. Data is embedded, so it opens from disk |
 | `sources/` | Small Metro Vancouver extracts of every input, plus `provenance.json` with URL, retrieval time and SHA-256 of each raw file |
 
@@ -24,11 +26,13 @@ pip install duckdb shapely pypdf
 python tools/market/fetch_sources.py --consulting /home/user/consulting
 python tools/market/build_market.py
 python tools/market/tam_sam_som.py
+python tools/market/competition.py
 ```
 
 * `fetch_sources.py` reads the consulting repository read only (boundaries, census profile, business counts, AllThePlaces) and fetches Overture places (DuckDB over HTTP range requests on the release's GeoParquet), the TransLink GTFS feed, StatCan tables 21-10-0012 and 21-10-0014 through WDS, and the web pages cited for demand drivers. It fails if a quoted phrase is missing from a page.
 * `build_market.py` builds the layers, the CSV, `analysis.json` and the map from the archived extracts only.
 * `tam_sam_som.py` builds the sizing from the archived extracts and the owner's assumptions in `tools/market/som_inputs.json`.
+* `competition.py` fits the logarithmic curves, scores each municipality and draws the business plan charts in `site/public/plan/`.
 
 All requests send the user agent `Azza_Cars-market-research/1.0 (+https://github.com/GOSTROGIS/Azza_Cars)`.
 
@@ -48,13 +52,15 @@ The GeoJSON outputs load into [SlipCurve GIS](https://gostrogis.github.io/SLIPCU
 * https://raw.githubusercontent.com/GOSTROGIS/Azza_Cars/main/market/supply.geojson
 * https://raw.githubusercontent.com/GOSTROGIS/Azza_Cars/main/market/municipalities.geojson
 * https://raw.githubusercontent.com/GOSTROGIS/Azza_Cars/main/market/stations.geojson
+* https://raw.githubusercontent.com/GOSTROGIS/Azza_Cars/main/market/competition.geojson
 
 The repository is private, so a URL load may fail without access. Use the local files instead in that case.
 
 1. Add `municipalities.geojson` and `supply.geojson`.
 2. On `municipalities`, open **Feature Layer → Symbology**, choose graduated colors on `rent_p10k` (rental locations per 10,000 residents).
 3. On `supply`, select `counted = true` and symbolise by `category`.
-4. Buffer example: add `stations.geojson`, then **Map → Select By Location** with input `stations`, selecting layer `supply`, within a distance of 2 kilometres, with **Invert Spatial Relationship** ticked. This returns the three stations with no counted rental within 2 km (Pitt Meadows, Production Way-University, Burquitlam). For drawn 2 km rings, project `supply` to NAD83 / UTM zone 10N and run **Analysis → Tools → Buffer** at 2,000 metres, since the Buffer tool expects a projected layer.
+4. Competition: add `competition.geojson` and use graduated colours on `index`, from bone white (underserved, low) to deep blood orange (competitive, high). The `colour` field holds the exact colour the plan uses.
+5. Buffer example: add `stations.geojson`, then **Map → Select By Location** with input `stations`, selecting layer `supply`, within a distance of 2 kilometres, with **Invert Spatial Relationship** ticked. This returns the three stations with no counted rental within 2 km (Pitt Meadows, Production Way-University, Burquitlam). For drawn 2 km rings, project `supply` to NAD83 / UTM zone 10N and run **Analysis → Tools → Buffer** at 2,000 metres, since the Buffer tool expects a projected layer.
 
 ## Licences
 

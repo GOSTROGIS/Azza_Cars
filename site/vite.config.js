@@ -13,15 +13,26 @@ facts.BRAND_LINK = () => fs.readFileSync(path.resolve(__dirname, "partials/brand
 // %PLAN_HTML% is plan/BUSINESS_PLAN.md rendered to HTML, read at build time so the page follows every edit.
 // Links to other repository files become GitHub links, since only the site itself is published.
 const REPO = "https://github.com/GOSTROGIS/Azza_Cars/blob/main/";
+// Charts from tools/market/competition.py (site/charts/) are inlined, so their hover titles work and they take the page fonts.
+const CHART = /^\.\.\/site\/charts\/([\w-]+\.svg)$/;
+marked.use({
+  renderer: {
+    image({ href, text }) {
+      const m = CHART.exec(href);
+      if (!m) return false;
+      return `<figure class="chart-fig">${fs.readFileSync(path.resolve(__dirname, "charts", m[1]), "utf8").trim()}<figcaption>${text}</figcaption></figure>`;
+    },
+  },
+});
 facts.PLAN_HTML = () => marked.parse(fs.readFileSync(path.resolve(__dirname, "../plan/BUSINESS_PLAN.md"), "utf8"))
+  .replace(/<p>(<figure class="chart-fig">[\s\S]*?<\/figure>)<\/p>/g, "$1")
   .replace(/href="\.\.\/site\/public\//g, 'href="./')
   .replace(/href="\.\.\/([^"#]+)/g, (m, p) => `href="${REPO}${p}`);
-// The hero showroom pool and its photo credits both come from public/hero/provenance.json (tools/hero/cutouts.py),
-// so a new cutout can never appear on the page without its CC credit.
-const hero = JSON.parse(fs.readFileSync(path.resolve(__dirname, "public/hero/provenance.json"), "utf8")).images;
-facts.HERO_POOL = () => JSON.stringify(hero.map((i) => i.file));
+// %PHOTO_CREDITS% credits every hero cutout the page references, from public/hero/provenance.json (tools/hero/cutouts.py).
+const heroImages = JSON.parse(fs.readFileSync(path.resolve(__dirname, "public/hero/provenance.json"), "utf8")).images;
 const LICENCE_URL = { "CC BY 2.0": "https://creativecommons.org/licenses/by/2.0/", "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/" };
-facts.PHOTO_CREDITS = () => {
+facts.PHOTO_CREDITS = (html) => {
+  const hero = heroImages.filter((i) => html.includes(`hero/${i.file}`));
   const missing = hero.filter((i) => !LICENCE_URL[i.license]).map((i) => i.license);
   if (missing.length) throw new Error(`No licence URL for ${missing.join(", ")}: add it to LICENCE_URL in vite.config.js`);
   const lines = hero.map((i) => `${i.label} by <a href="${i.commons_page}">${i.author}</a>, ${i.license}.`);
@@ -31,7 +42,7 @@ facts.PHOTO_CREDITS = () => {
 };
 const factsPlugin = {
   name: "facts",
-  transformIndexHtml: (html) => html.replace(/%([A-Z_]+)%/g, (m, k) => facts[k]?.() ?? m),
+  transformIndexHtml: (html) => html.replace(/%([A-Z_]+)%/g, (m, k) => facts[k]?.(html) ?? m),
 };
 
 // base "./" keeps the build portable: it works from any sub-path or straight from disk hosting.
