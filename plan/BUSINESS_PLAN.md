@@ -16,7 +16,7 @@ Why this is the right first move:
 
 What could sink it: under-utilised vehicles financed with debt, rates set without a full survey (only U-Haul and Home Depot publish Surrey prices, section 4.2), insurance cost and availability for a small U-Drive fleet, and the closed ICBC replacement-rental channel (ICBC's preferred suppliers are Budget and Enterprise from 1 September 2026, per [MARKETING_REVIEW](../brand/MARKETING_REVIEW.md)). Section 6 states these plainly.
 
-Decisions before launch: fleet size and mix, capital and financing (Ford Credit excludes rental units from commercial purchase financing, section 11.6), site, insurance carrier, legal entity. Turo is both a price competitor and a channel for idle winter days, and owner-sourced vehicles are a phase 2 option for summer capacity (section 4.3).
+Decisions before launch: fleet size and mix, capital and financing (Ford Credit excludes rental units from commercial purchase financing, section 11.6), site, insurance carrier, legal entity. Turo is both a price competitor and a channel for idle winter days, and owner-sourced vehicles are a phase 2 option for summer capacity, viable only on vehicles grossing about C$1,473 a month or more (sections 4.3, 4.4).
 
 ## 2. Business strategy
 
@@ -223,9 +223,64 @@ Rent-by-owner is the Airbnb model for vehicles: private owners list their own ca
 
 1. **Competitor.** Turo vans and pickups compete on price for residents and small jobs. The limits in the table above leave large vans, commercial-licence vehicles, heavier trucks and delivery outside what a Turo host can offer safely. Ember Rent's account billing and trade fleet are outside it too.
 2. **Channel for idle days.** Cars that meet Turo's limits can be listed in the winter trough (section 6). On the highest-share plan Ember Rent keeps 85% of the trip price and carries up to C$2,000 per claim. A vehicle rated U-Drive for Ember Rent's own rentals and also used under Turo's blanket needs its use confirmed with an Autoplan broker first (ICBC tariff s. 2.15).
-3. **Fleet-light sourcing, the host-management model.** Ember Rent rents owners' vehicles under its brand and splits revenue, as Airbnb management companies do for homes. The only published splits are Turo's US passive-income program, 70% to the owner and 30% to the manager ([Turo](https://turo.com/blog/news/turo-launches-passive-income-hosting-in-the-united-states/)), and one US manager's 30% fee. The program is US only. Ember Rent's 30% would have to cover cleaning, handover, claims handling and damage responsibility. It adds vehicles without capital, which matters most for the summer peak. Three questions decide whether it is legal and insurable: whether owners' vehicles rented through Ember Rent's own booking channel must each be rated U-Drive by ICBC, who collects PVRT and PST, and whether Surrey's Automobile/Truck Rental licence covers it.
+3. **Fleet-light sourcing, the host-management model.** Ember Rent rents owners' vehicles under its brand and splits revenue, as Airbnb management companies do for homes. The only published splits are Turo's US passive-income program, 70% to the owner and 30% to the manager ([Turo](https://turo.com/blog/news/turo-launches-passive-income-hosting-in-the-united-states/)), and one US manager's 30% fee. The program is US only. Ember Rent's share would have to cover cleaning, handover, claims handling and damage responsibility, about C$516 a vehicle a month (section 4.4). It adds vehicles without capital, which matters most for the summer peak. Three questions decide whether it is legal and insurable: whether owners' vehicles rented through Ember Rent's own booking channel must each be rated U-Drive by ICBC, who collects PVRT and PST, and whether Surrey's Automobile/Truck Rental licence covers it.
 
 **What this changes in the plan.** Phase 1 keeps an owned or leased trade fleet. The winter idle days go to Turo where vehicles qualify (go-to-market step 7). Fleet-light sourcing is a phase 2 option for summer capacity, after an ICBC broker and a lawyer answer the three questions above.
+
+### 4.4 Running rent-by-owner hands off
+
+How little staff time can an owner-supplied fleet need? Retrieved 23 November 2026.
+
+**Most hands-off model that works in Surrey.** List owners' vehicles on Turo with Ember Rent as host and co-host manager, and keep a direct-booking channel second. Turo covers what a standalone channel would have to build:
+
+| Function | On Turo | On Ember Rent's own channel |
+|---|---|---|
+| Renter screening | Drivers 23 and over for standard vehicles, licence and selfie check ([Turo](https://help.turo.com/en_us/booking-a-car-in-canada-ByHbS9wRT)) | Stripe Identity checks ID and face at C$2.00 per verification ([Stripe](https://stripe.com/en-ca/identity)), not BC licence status |
+| Deposits | Run by Turo ([Turo](https://help.turo.com/en_us/security-deposits-canada-ryCqIcvAT.md)) | Ember Rent's own card pre-authorisation |
+| YVR delivery | Turo holds the permit. Handover at Parkade level P3 only, host pays at least one hour of parking. Second violation: C$250 fine and suspension ([Turo](https://help.turo.com/en_us/vancouver-international-airport-yvr-hosts-B1jBPRgUT.md)) | No published route to a permit |
+| Booking sync | No public Turo API. Turo blocked third-party access in 2023 ([TechCrunch](https://techcrunch.com/2023/04/11/turo-is-blocking-access-to-third-party-services-and-hosts-are-freaking-out/)) | Fleetwire from US$89 a month, calendar sync with Turo ([Fleetwire](https://fleetwire.io/pricing/)) |
+
+**Keyless handover, in order of preference.**
+
+| Option | Cost | Limit | Source |
+|---|---|---|---|
+| Turo Go, through the car's own connected-car service (Smartcar) | No hardware. Canadian fee not published | Only models on Turo's Canada compatibility list. Vans and pickups not confirmed | [Turo](https://turo.com/ca/en/car-rental/canada/hosting-your-first-trip), [list](https://support-resources.turo.com/turo-go/Turo_Go_Smartcar_Compatibility_CA.pdf) |
+| igloohome Keybox 3 at the parking stall | US$179.99 once | PIN codes. Mechanical boxes are a theft risk | [igloohome](https://store-us.igloohome.co/products/keybox-3) |
+| KeyNest locker, 9 slots, at a hub | C$1,949 plus C$149 a month | Outdoors only under a roof, not below −20 °C | [KeyNest](https://keynest.com/ca/hotel-locker) |
+| Keycafe SmartBox (Vancouver company) | US$2,750 plus US$59 to 175 a month | Hub of 10 or more vehicles | [Keycafe](https://www.keycafe.com/s/enterprise) |
+
+**What cannot be automated.** A person still has to:
+- confirm the licence by hand when Turo's automated check fails
+- take the 15 exterior and 8 interior photos Turo requires within 24 hours of each trip ([Turo](https://help.turo.com/en_us/trip-photos-guide-or-hosts-BkKcBEeN5.md))
+- clean and reset the interior
+- drive every delivery, return, wash and shop run
+- load keys for cars that Turo Go does not support
+- handle repairs, damage claims and guest exceptions
+
+**Indicative logistics cost per vehicle per month.** Unit prices are sourced. Volumes are assumptions: 4 trips a month, half of them delivered, 1 hour per turnover and per delivery leg, a full detail monthly, an oil change every 4 months, software shared over 10 cars.
+
+| Line | Arithmetic | C$ a month |
+|---|---|---:|
+| Parking stall, Surrey | mean of listings at C$97.88 and C$101.10 ([Parksy](https://www.parksy.com/costs/ca/bc/surrey)) | 99.49 |
+| Exterior washes | 4 × C$13.95 ([Express Auto Wash Surrey](https://www.expressautowash.ca/locations/surrey/)) | 55.80 |
+| Full detail | 1 × C$160, weak source ([Halo Detailing](https://halodetailing.pages.dev/)) | 160.00 |
+| Turnover labour | 4 h × C$18.25, BC minimum wage from 1 June 2026 ([BC Gov](https://news.gov.bc.ca/releases/2026LBR0021-000581)) | 73.00 |
+| Delivery labour | 4 legs × 1 h × C$18.25 | 73.00 |
+| YVR parking | 1 airport delivery × C$14.75 half-hour rate. Turo charges hosts a one-hour minimum, so this may be low | 14.75 |
+| Oil change | C$107 Surrey average ÷ 4 ([VAP](https://vapautoparts.ca/oil-change-cost-vancouver)) | 26.75 |
+| Software | US$89 ÷ 10 vehicles × 1.4325 CAD per USD (Bank of Canada, 20 November 2026) | 12.75 |
+| Keyless | Turo Go, Canadian fee not published | 0 |
+| **Total** | | **515.54** |
+
+Excluded: insurance (R5, R15), PVRT (R4), depreciation, damage, payroll burden, tyres, repairs, the driver's return trip after a delivery, and Turo's share (section 4.3). Deliveries also run without third-party liability cover in BC (section 4.3), another reason to keep them few.
+
+**Verdict.**
+
+- Turo's Canadian hosts earned a median C$657 a month in January to October 2025, and an average C$712 a month in the year to June 2024, before ownership costs ([Turo](https://turo.com/ca/en/list-your-car), [Turo](https://turo.com/ca/en/car-rental/canada/hosting-your-first-trip)). C$515.54 of logistics is 78% of the median.
+- Auto Flow, a Vancouver co-host, keeps 35% of revenue plus a C$250 setup fee and does handovers, cleaning and maintenance itself ([Barchart, March 2025](https://www.barchart.com/story/news/31544863/new-cohost-program-from-auto-flow-car-rental-turns-car-ownership-into-passive-income)).
+- A 35% share covers C$515.54 only on vehicles grossing C$1,473 a month or more. A 30% share needs C$1,718. Both are more than twice the median.
+- Without delivery (−C$87.75) and with a detail every other month (−C$80) the stack is C$347.79.
+- It works only with higher-earning vehicles (vans, pickups, in-demand SUVs), one self-service Surrey hub, washes instead of monthly details, and little delivery.
 
 ## 5. Why it wins
 
@@ -268,8 +323,9 @@ In rough order of how likely each is to end the business.
 | R11 | Majors cut prices locally | Med | Med | Compete on vans, trade accounts and service rather than car price | — |
 | R12 | Marketplace dependence, including Turo (R14) | Low | Med | Cap the share of fleet days sold through marketplaces | — |
 | R13 | Privacy of driver licence and payment data | Med | Med | Obtain legal advice on BC private-sector privacy law and payment-card rules before collecting customer data | Lawyer |
-| R14 | **Turo account closure or plan change.** Closure can be immediate and host shares are set by Turo (section 4.3) | Low | Med | Keep Turo to idle days only. Keep cancellations under 5%. Keep direct booking as the main channel | — |
+| R14 | **Turo account closure or plan change.** Closure can be immediate and host shares are set by Turo (section 4.3) | Low | Med | For Ember Rent's own fleet, keep Turo to idle days and direct booking as the main channel. For owner-sourced vehicles Turo is the main channel (section 4.4), so keep cancellations under 5% and keep a direct channel ready | — |
 | R15 | **Owner-sourced vehicles uninsured for rental use.** An owner who does not declare rental use risks the policy being cancelled for misrepresentation ([Turo S-1/A](https://www.sec.gov/Archives/edgar/data/1514587/000162828024047889/turoinc-sx1a12.htm)) | Med | High | No fleet-light vehicle goes live until ICBC rating, owner declaration and endorsements are confirmed by a broker | Broker |
+| R16 | **Owner-vehicle logistics cost more than the manager share.** About C$516 a vehicle a month against a C$657 median host month (section 4.4) | High | Med | Accept only vehicles whose expected gross clears the section 4.4 break-even. Self-service handover at one hub, little delivery | — |
 
 ## 8. Prerequisites and launch checklist
 
@@ -292,6 +348,7 @@ In rough order of how likely each is to end the business.
 | Location | Site in Surrey near industrial employment | decision | 1,616 mapped industrial buildings in Surrey ([service-area.json](../site/public/service-area.json)) |
 | Systems | Booking, fleet and payments system | decision | Vendor prices in section 10.4 |
 | Insurance | Broker confirms Turo listing of U-Drive-rated vehicles, and the rating for owner-sourced vehicles | open | Section 4.3, R15 |
+| Operations | Turo Go compatibility checked per vehicle, and one Surrey hub with self-service key access | open | Section 4.4 |
 | Brand | Name chosen: Ember Rent | done | [NAMING](../brand/NAMING.md) recommended Keyhand, with Ember second |
 | Brand | Trademark search (CIPO, USPTO) | open | Pending ([NAMING](../brand/NAMING.md)) |
 | Brand | emberrent.com and emberrent.ca registered | open | Reported available by GoDaddy on 22 November 2026, which is not a reservation ([NAMING](../brand/NAMING.md)) |
@@ -478,6 +535,8 @@ Driving.ca rows are not confirmed on the manufacturer's own price builder.
 11. Must owners' vehicles rented through Ember Rent's own booking channel each be rated U-Drive by ICBC?
 12. On owner-sourced vehicles rented through Ember Rent, does Ember Rent or the owner collect and remit PVRT and PST?
 13. Does the Automobile/Truck Rental licence cover renting owner-sourced vehicles, and does Surrey Planning treat vehicle rental as a general service use outside zone CHI?
+14. What does Turo Go cost Canadian hosts, and which vans and pickups does it support? Check in the Turo app per vehicle before accepting an owner's car.
+15. What does a per-turnover cleaner and a delivery driver's return trip cost in Surrey? These are the largest unpriced lines in section 4.4.
 
 ## 14. Sources
 
