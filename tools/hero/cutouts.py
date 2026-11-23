@@ -90,24 +90,29 @@ def glass_filled(rgba, panes):
     return rgba
 
 
+def cutout(item, cache, session):
+    """Steps 1 to 4b for one entry: (download record, source bytes, RGBA cutout at the working size)."""
+    got, raw = source(item, cache)
+    src = Image.open(io.BytesIO(raw)).convert("RGB")
+    if src.width > THUMB_WIDTH:
+        # Same working size whether the photo is an original or the thumbnail, so the clear boxes hold.
+        src = src.resize((THUMB_WIDTH, round(src.height * THUMB_WIDTH / src.width)), Image.LANCZOS)
+    if item.get("source_crop"):
+        a, b, c, d = item["source_crop"]
+        src = src.crop((int(a * src.width), int(b * src.height), int(c * src.width), int(d * src.height)))
+    rgba = largest_region(np.array(remove(src, session=session, post_process_mask=True)))
+    for boxes in item.get("clear_passes", []):
+        rgba = boxes_cleared(rgba, boxes)
+    return got, raw, glass_filled(rgba, item.get("glass", []))
+
+
 def main(cache=None):
     cfg = json.loads(CONFIG.read_text())
     session = new_session(MODEL)
     OUT.mkdir(parents=True, exist_ok=True)
     images = []
     for item in cfg["images"]:
-        got, raw = source(item, cache)
-        src = Image.open(io.BytesIO(raw)).convert("RGB")
-        if src.width > THUMB_WIDTH:
-            # Same working size whether the photo is an original or the thumbnail, so the clear boxes hold.
-            src = src.resize((THUMB_WIDTH, round(src.height * THUMB_WIDTH / src.width)), Image.LANCZOS)
-        if item.get("source_crop"):
-            a, b, c, d = item["source_crop"]
-            src = src.crop((int(a * src.width), int(b * src.height), int(c * src.width), int(d * src.height)))
-        rgba = largest_region(np.array(remove(src, session=session, post_process_mask=True)))
-        for boxes in item.get("clear_passes", []):
-            rgba = boxes_cleared(rgba, boxes)
-        rgba = glass_filled(rgba, item.get("glass", []))
+        got, raw, rgba = cutout(item, cache, session)
         out = Image.fromarray(rgba)
         if out.width > MAX_WIDTH:
             out = out.resize((MAX_WIDTH, round(out.height * MAX_WIDTH / out.width)), Image.LANCZOS)

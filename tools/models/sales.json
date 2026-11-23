@@ -1,0 +1,839 @@
+{
+ "generator": "converted from market/CANADA_TOP_MODELS_2025.md (research retrieved 2026-11-23)",
+ "source_urls": {
+  "GA10": "https://www.guideautoweb.com/en/articles/80882/top-10-best-selling-vehicles-in-canada-in-2025/",
+  "GAB": "https://www.guideautoweb.com/en/galleries/81878/this-is-every-car-brand-s-best-selling-vehicle/",
+  "HON": "https://www.guideautoweb.com/en/articles/80771/honda-toyota-achieve-impressive-2025-sales-in-canada/",
+  "CarGurus": "https://partnercontent.cargurus.ca/research/articles/best-selling-cars-canada",
+  "BSCB": "https://bestsellingcarsblog.com/2026/01/canada-full-year-2025-ford-f-series-celebrates-60-years-as-1-pick-up-truck-in-strongest-market-in-6-years",
+  "DesRosiers via Canadian Auto Dealer": "https://canadianautodealer.ca/2026/01/f-series-stays-on-top-as-2025-model-race-reshuffles/",
+  "GCBC pattern": "https://www.goodcarbadcar.net/{make}-{model}-sales-figures/",
+  "FCA": "https://media.stellantisnorthamerica.com/newsrelease.do?id=26909",
+  "MAZ": "https://www.newswire.ca/news-releases/mazda-canada-reports-sales-for-december-and-full-year-2025-800117733.html",
+  "KIA": "https://www.finanzen.net/nachricht/aktien/kia-canada-achieves-another-all-time-sales-record-in-2025-with-nearly-1-5-million-units-sold-to-date-15400007",
+  "FORD": "https://www.fromtheroad.ford.com/ca/en/articles/2026/ford-canada-2025-sales-highlights",
+  "TCI": "https://media.toyota.ca/en/releases/2026/record-electrified-vehicle-sales-power-toyota-canada-inc--to-rec.html",
+  "MB": "https://www.finanzen.net/nachricht/aktien/mercedes-benz-canada-reports-2025-sales-results-15409267",
+  "GM Canada": "https://news.gm.ca/en/home.detail.html/Pages/news/ca/en/2026/jan/0105_gm-leads-canadian-auto-sales-for-third-straight-year.html",
+  "Discontinuations": "https://www.cars.com/articles/these-cars-have-been-discontinued-for-2026-517150"
+ },
+ "models": [
+  {
+   "rank": 1,
+   "make": "Ford",
+   "model": "F-Series (F-150 + Super Duty)",
+   "units": 138470,
+   "units_alt": null,
+   "units_text": "138,470",
+   "year": 2025,
+   "sources": [
+    "FORD",
+    "GA10",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 2,
+   "make": "Toyota",
+   "model": "RAV4",
+   "units": 75573,
+   "units_alt": null,
+   "units_text": "75,573",
+   "year": 2025,
+   "sources": [
+    "TCI",
+    "GA10",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 3,
+   "make": "GMC",
+   "model": "Sierra (incl. HD)",
+   "units": 59962,
+   "units_alt": 61400,
+   "units_text": "59,962 (GA10) / 61,400 (GCBC)",
+   "year": 2025,
+   "sources": [
+    "GA10",
+    "GCBC"
+   ],
+   "type": "3P-est",
+   "notes": "The sources disagree."
+  },
+  {
+   "rank": 4,
+   "make": "Honda",
+   "model": "CR-V",
+   "units": 55987,
+   "units_alt": null,
+   "units_text": "55,987",
+   "year": 2025,
+   "sources": [
+    "HON",
+    "GA10",
+    "GCBC"
+   ],
+   "type": "3P (Honda Canada figure, reported by The Car Guide)",
+   "notes": "GAB prints 57,987, likely a typo. 35,325 of these were hybrids."
+  },
+  {
+   "rank": 5,
+   "make": "Chevrolet",
+   "model": "Silverado (incl. HD)",
+   "units": 54068,
+   "units_alt": 56824,
+   "units_text": "54,068 (GA10) / 56,824 (GCBC)",
+   "year": 2025,
+   "sources": [
+    "GA10",
+    "GCBC"
+   ],
+   "type": "3P-est",
+   "notes": "BSCB ranks Silverado #4 and CR-V #5. GA10 has the reverse."
+  },
+  {
+   "rank": 6,
+   "make": "Ram",
+   "model": "Pickup (1500 Classic, 1500, HD, 4500/5500)",
+   "units": 42759,
+   "units_alt": 42758,
+   "units_text": "42,759 (GA10) / 42,758 (FCA sum)",
+   "year": 2025,
+   "sources": [
+    "GA10",
+    "FCA"
+   ],
+   "type": "MFR",
+   "notes": "FCA lines: DS 3,256; DT 24,351; HD 13,914; 4500/5500 1,237. 1500 + HD alone = 41,521."
+  },
+  {
+   "rank": 7,
+   "make": "Hyundai",
+   "model": "Tucson",
+   "units": 41840,
+   "units_alt": null,
+   "units_text": "41,840",
+   "year": 2025,
+   "sources": [
+    "GA10",
+    "GCBC",
+    "Hyundai Canada release (seen only as a dealer-hosted copy in search)"
+   ],
+   "type": "MFR/3P",
+   "notes": ""
+  },
+  {
+   "rank": 8,
+   "make": "Nissan",
+   "model": "Kicks (incl. Kicks Play)",
+   "units": 40956,
+   "units_alt": null,
+   "units_text": "40,956",
+   "year": 2025,
+   "sources": [
+    "GCBC",
+    "BSCB (#8, +70.1%)"
+   ],
+   "type": "3P",
+   "notes": "GA10 left Kicks out of its top 10, saying Kicks and Kicks Play combined for more than 40,000. Kicks Play is not offered for 2026 (Cars.com, US source)."
+  },
+  {
+   "rank": 9,
+   "make": "Nissan",
+   "model": "Rogue",
+   "units": 36034,
+   "units_alt": null,
+   "units_text": "36,034",
+   "year": 2025,
+   "sources": [
+    "GA10",
+    "GCBC",
+    "GAB"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 10,
+   "make": "Ford",
+   "model": "Escape",
+   "units": 32956,
+   "units_alt": null,
+   "units_text": "32,956",
+   "year": 2025,
+   "sources": [
+    "GA10",
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": "**DISCONTINUED.** Production ended in 2025; reports give August or December. Edmunds lists 2026 as the final year."
+  },
+  {
+   "rank": 11,
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "units": 32534,
+   "units_alt": null,
+   "units_text": "32,534",
+   "year": 2025,
+   "sources": [
+    "GA10",
+    "GAB"
+   ],
+   "type": "3P",
+   "notes": "The GCBC Canada page is members-only."
+  },
+  {
+   "rank": 12,
+   "make": "Hyundai",
+   "model": "Kona",
+   "units": 31745,
+   "units_alt": null,
+   "units_text": "31,745",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": "It is unclear whether Kona Electric is included."
+  },
+  {
+   "rank": 13,
+   "make": "Honda",
+   "model": "Civic",
+   "units": 31054,
+   "units_alt": null,
+   "units_text": "31,054",
+   "year": 2025,
+   "sources": [
+    "HON",
+    "GCBC",
+    "BSCB (#13)"
+   ],
+   "type": "3P (Honda figure)",
+   "notes": "Best-selling car in Canada."
+  },
+  {
+   "rank": 14,
+   "make": "Mitsubishi",
+   "model": "Outlander",
+   "units": 29629,
+   "units_alt": 12688,
+   "units_text": "29,629 (GCBC) / 12,688 (GAB)",
+   "year": 2025,
+   "sources": [
+    "GCBC",
+    "GAB"
+   ],
+   "type": "3P",
+   "notes": "**Large disagreement.** Possibly PHEV or other models are counted differently. Rank uncertain (14 or about 40)."
+  },
+  {
+   "rank": 15,
+   "make": "Mazda",
+   "model": "CX-5",
+   "units": 28288,
+   "units_alt": null,
+   "units_text": "28,288",
+   "year": 2025,
+   "sources": [
+    "MAZ",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 16,
+   "make": "Chevrolet",
+   "model": "Equinox",
+   "units": 25198,
+   "units_alt": 15139,
+   "units_text": "25,198 (GCBC) / 15,139 (GM Authority, gas model)",
+   "year": 2025,
+   "sources": [
+    "GCBC",
+    "GM Authority Q4-2025 (search excerpt)"
+   ],
+   "type": "3P-est",
+   "notes": "The GCBC figure may include Equinox EV."
+  },
+  {
+   "rank": 17,
+   "make": "Toyota",
+   "model": "Corolla",
+   "units": 25105,
+   "units_alt": null,
+   "units_text": "25,105",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 18,
+   "make": "Volkswagen",
+   "model": "Taos",
+   "units": 24286,
+   "units_alt": null,
+   "units_text": "24,286",
+   "year": 2025,
+   "sources": [
+    "GAB",
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 19,
+   "make": "Hyundai",
+   "model": "Elantra",
+   "units": 24248,
+   "units_alt": null,
+   "units_text": "24,248",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 20,
+   "make": "Kia",
+   "model": "Sportage",
+   "units": 23906,
+   "units_alt": null,
+   "units_text": "23,906",
+   "year": 2025,
+   "sources": [
+    "KIA",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 21,
+   "make": "Chevrolet",
+   "model": "Trax",
+   "units": 22280,
+   "units_alt": null,
+   "units_text": "22,280",
+   "year": 2025,
+   "sources": [
+    "GCBC",
+    "GM Authority"
+   ],
+   "type": "3P-est",
+   "notes": ""
+  },
+  {
+   "rank": 22,
+   "make": "Subaru",
+   "model": "Forester",
+   "units": 21968,
+   "units_alt": null,
+   "units_text": "21,968",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 23,
+   "make": "Ford",
+   "model": "Bronco Sport",
+   "units": 21839,
+   "units_alt": null,
+   "units_text": "21,839",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": "FORD gives Bronco + Bronco Sport combined: 31,586."
+  },
+  {
+   "rank": 24,
+   "make": "Volkswagen",
+   "model": "Tiguan",
+   "units": 21548,
+   "units_alt": null,
+   "units_text": "21,548",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 25,
+   "make": "Kia",
+   "model": "Seltos",
+   "units": 21276,
+   "units_alt": null,
+   "units_text": "21,276",
+   "year": 2025,
+   "sources": [
+    "KIA",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 26,
+   "make": "Toyota",
+   "model": "Corolla Cross",
+   "units": 19457,
+   "units_alt": null,
+   "units_text": "19,457",
+   "year": 2025,
+   "sources": [
+    "GCBC (consistent with TCI's +15.5%)"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 27,
+   "make": "Toyota",
+   "model": "Tacoma",
+   "units": 16526,
+   "units_alt": null,
+   "units_text": "16,526",
+   "year": 2025,
+   "sources": [
+    "GCBC (consistent with TCI's +54.1%)"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 28,
+   "make": "Mazda",
+   "model": "CX-30",
+   "units": 16521,
+   "units_alt": null,
+   "units_text": "16,521",
+   "year": 2025,
+   "sources": [
+    "MAZ",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 29,
+   "make": "Ford",
+   "model": "Maverick",
+   "units": 16308,
+   "units_alt": null,
+   "units_text": "16,308",
+   "year": 2025,
+   "sources": [
+    "FORD",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 30,
+   "make": "Volkswagen",
+   "model": "Jetta",
+   "units": 15849,
+   "units_alt": null,
+   "units_text": "15,849",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 31,
+   "make": "Ford",
+   "model": "Explorer",
+   "units": 15718,
+   "units_alt": null,
+   "units_text": "15,718",
+   "year": 2025,
+   "sources": [
+    "GCBC (consistent with FORD's +38.13%)"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 32,
+   "make": "Toyota",
+   "model": "Sienna",
+   "units": 15218,
+   "units_alt": null,
+   "units_text": "15,218",
+   "year": 2025,
+   "sources": [
+    "GCBC (consistent with TCI's +28.5%)"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 33,
+   "make": "Audi",
+   "model": "Q5",
+   "units": 14998,
+   "units_alt": 15998,
+   "units_text": "14,998 (GCBC) / 15,998 (GAB)",
+   "year": 2025,
+   "sources": [
+    "GCBC",
+    "GAB"
+   ],
+   "type": "3P",
+   "notes": "The sources disagree by 1,000."
+  },
+  {
+   "rank": 34,
+   "make": "Hyundai",
+   "model": "Venue",
+   "units": 14629,
+   "units_alt": null,
+   "units_text": "14,629",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 35,
+   "make": "Mazda",
+   "model": "Mazda3",
+   "units": 14042,
+   "units_alt": null,
+   "units_text": "14,042",
+   "year": 2025,
+   "sources": [
+    "MAZ"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 36,
+   "make": "Kia",
+   "model": "K4 / Forte",
+   "units": 14039,
+   "units_alt": 13984,
+   "units_text": "14,039 (GCBC) / 13,984 (KIA, K4 \"since its launch\" in Q4 2024)",
+   "year": 2025,
+   "sources": [
+    "GCBC",
+    "KIA"
+   ],
+   "type": "3P/MFR",
+   "notes": "The KIA figure is not strictly calendar 2025."
+  },
+  {
+   "rank": 37,
+   "make": "Toyota",
+   "model": "Tundra",
+   "units": 13267,
+   "units_alt": null,
+   "units_text": "13,267",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 38,
+   "make": "Tesla",
+   "model": "Model Y",
+   "units": 13057,
+   "units_alt": 12965,
+   "units_text": "13,057 (GAB) / 12,965 (GCBC)",
+   "year": 2025,
+   "sources": [
+    "GAB",
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": "Tesla does not publish Canadian model sales."
+  },
+  {
+   "rank": 39,
+   "make": "Jeep",
+   "model": "Wrangler",
+   "units": 12952,
+   "units_alt": null,
+   "units_text": "12,952",
+   "year": 2025,
+   "sources": [
+    "FCA",
+    "GAB",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 40,
+   "make": "GMC",
+   "model": "Terrain",
+   "units": 12753,
+   "units_alt": null,
+   "units_text": "12,753",
+   "year": 2025,
+   "sources": [
+    "GCBC",
+    "GM Authority"
+   ],
+   "type": "3P-est",
+   "notes": ""
+  },
+  {
+   "rank": 41,
+   "make": "Hyundai",
+   "model": "Santa Fe",
+   "units": 11794,
+   "units_alt": null,
+   "units_text": "11,794",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 42,
+   "make": "Lexus",
+   "model": "NX",
+   "units": 11674,
+   "units_alt": null,
+   "units_text": "11,674",
+   "year": 2025,
+   "sources": [
+    "GAB"
+   ],
+   "type": "3P",
+   "notes": "TCI gives NX family +26.9% only."
+  },
+  {
+   "rank": 43,
+   "make": "Kia",
+   "model": "Sorento",
+   "units": 11545,
+   "units_alt": null,
+   "units_text": "11,545",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 44,
+   "make": "Jeep",
+   "model": "Compass",
+   "units": 11017,
+   "units_alt": null,
+   "units_text": "11,017",
+   "year": 2025,
+   "sources": [
+    "FCA",
+    "GCBC"
+   ],
+   "type": "MFR",
+   "notes": ""
+  },
+  {
+   "rank": 45,
+   "make": "Lexus",
+   "model": "RX",
+   "units": 10766,
+   "units_alt": null,
+   "units_text": "10,766",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 46,
+   "make": "Chrysler",
+   "model": "Pacifica",
+   "units": 10671,
+   "units_alt": null,
+   "units_text": "10,671",
+   "year": 2025,
+   "sources": [
+    "FCA",
+    "GAB"
+   ],
+   "type": "MFR",
+   "notes": "Pacifica Hybrid ended after the 2025 model year (Cars.com). Chrysler Grand Caravan sold a further 6,017 (FCA)."
+  },
+  {
+   "rank": 47,
+   "make": "Ford",
+   "model": "Bronco",
+   "units": 9747,
+   "units_alt": null,
+   "units_text": "~9,747 (derived)",
+   "year": 2025,
+   "sources": [
+    "FORD combined 31,586 minus GCBC Bronco Sport 21,839"
+   ],
+   "type": "Derived",
+   "notes": "No direct figure. GCBC Canada data is members-only."
+  },
+  {
+   "rank": 48,
+   "make": "Buick",
+   "model": "Envision",
+   "units": 9703,
+   "units_alt": null,
+   "units_text": "9,703",
+   "year": 2025,
+   "sources": [
+    "GAB"
+   ],
+   "type": "3P-est",
+   "notes": ""
+  },
+  {
+   "rank": 49,
+   "make": "Nissan",
+   "model": "Sentra",
+   "units": 9592,
+   "units_alt": null,
+   "units_text": "9,592",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P",
+   "notes": ""
+  },
+  {
+   "rank": 50,
+   "make": "Chevrolet",
+   "model": "Traverse",
+   "units": 9481,
+   "units_alt": null,
+   "units_text": "9,481",
+   "year": 2025,
+   "sources": [
+    "GCBC"
+   ],
+   "type": "3P-est",
+   "notes": ""
+  }
+ ],
+ "vans": [
+  {
+   "make": "Ford",
+   "model": "Transit",
+   "units_text": "**Full year not found.** 9,427 for H1 2025 (Q1 4,552 + Q2 4,875)",
+   "period": "Jan–Jun 2025",
+   "source_urls": [
+    "https://fordauthority.com/2025/07/ford-transit-numbers-figures-results-second-quarter-2025-q2",
+    "https://fordauthority.com/2026/06/ford-transit-numbers-figures-results-first-quarter-2026-q1/"
+   ],
+   "type": "3P",
+   "notes": "Ford Authority pages return 403. These figures come from search-result excerpts. GCBC Canada data is members-only. FORD gives no Transit number. The likely leading van, but this is unverified."
+  },
+  {
+   "make": "Mercedes-Benz",
+   "model": "Sprinter (Mercedes-Benz Vans total)",
+   "units_text": "6,083",
+   "period": "2025",
+   "source_urls": [
+    "https://www.finanzen.net/nachricht/aktien/mercedes-benz-canada-reports-2025-sales-results-15409267"
+   ],
+   "type": "MFR",
+   "notes": "This is the total for all Mercedes-Benz Vans, not Sprinter alone. Q4 included 107 eSprinters. The 2024 figure is 6,408 per MB and 5,883 per GCBC, so the sources disagree. GCBC also lists Sprinter 2025 at 6,083."
+  },
+  {
+   "make": "Ram",
+   "model": "ProMaster",
+   "units_text": "5,247 (2024: 5,586, −6%)",
+   "period": "2025",
+   "source_urls": [
+    "https://media.stellantisnorthamerica.com/newsrelease.do?id=26909"
+   ],
+   "type": "MFR",
+   "notes": "ProMaster City: 0 (discontinued)."
+  },
+  {
+   "make": "GMC",
+   "model": "Savana",
+   "units_text": "5,029 (GCBC, 2024: 3,617). Q4 2025: 1,136 (−10.05%, GM Authority)",
+   "period": "2025 / Q4 2025",
+   "source_urls": [
+    "https://www.goodcarbadcar.net/gmc-savana-sales-figures/",
+    "https://gmauthority.com/blog/2026/01/gm-canada-sales-figures-numbers-results-fourth-quarter-2025-q4/"
+   ],
+   "type": "3P-est",
+   "notes": "GM Canada's public release has no model figures. The GM Authority page returns 403; the figure comes from a search excerpt."
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Express",
+   "units_text": "3,990 (GCBC, 2024: 5,586). Q4 2025: 994 (−54.26%, GM Authority). Q2 2025: 838",
+   "period": "2025 / quarters",
+   "source_urls": [
+    "https://www.goodcarbadcar.net/chevrolet-express-sales-figures/"
+   ],
+   "type": "3P-est",
+   "notes": "GCBC's 2024 Express figure is identical to Ram ProMaster 2024 (5,586). Worth checking."
+  },
+  {
+   "make": "Ford",
+   "model": "E-Series (cutaway/stripped chassis only)",
+   "units_text": "3,813 (GCBC, 2024: 3,210). Q1 801 + Q2 769 = H1 1,570 (Ford Authority)",
+   "period": "2025",
+   "source_urls": [
+    "https://www.goodcarbadcar.net/ford-e-series-sales-figures/",
+    "https://fordauthority.com/2025/08/ford-e-series-sales-numbers-figures-results-second-quarter-2025-q2"
+   ],
+   "type": "3P",
+   "notes": "Not a cargo van body. GCBC and Ford Authority agree on H1."
+  },
+  {
+   "make": "Ford",
+   "model": "Transit Connect (small van, for reference)",
+   "units_text": "0 (2024: 181)",
+   "period": "2025",
+   "source_urls": [
+    "https://www.goodcarbadcar.net/ford-transit-connect-sales-figures/"
+   ],
+   "type": "3P",
+   "notes": "Discontinued."
+  }
+ ]
+}
