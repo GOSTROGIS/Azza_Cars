@@ -49,8 +49,11 @@ function Highlighted({ text, words }) {
   return highlight(text, words).map((p, i) => (p.mark ? <mark key={i}>{p.text}</mark> : <span key={i}>{p.text}</span>));
 }
 
+// Logos drawn in white or light colours sit on a dark chip instead of being recoloured.
+const logoOnDark = (brand) => (brand?.logo_on_dark ? " logo--on-dark" : "");
+
 function BrandMark({ brand, size = "sm" }) {
-  if (brand?.logo) return <img className={`brandmark brandmark--${size}`} src={brand.logo} alt="" loading="lazy" />;
+  if (brand?.logo) return <img className={`brandmark brandmark--${size}${logoOnDark(brand)}`} src={brand.logo} alt="" loading="lazy" />;
   const initials = (brand?.name || "?").replace(/\(.*\)/, "").trim().split(/\s+/).map((w) => w[0]).join("").slice(0, 2);
   return <span className={`brandmark brandmark--${size} brandmark--text`} aria-hidden="true">{initials}</span>;
 }
@@ -237,7 +240,7 @@ function BrandGrid({ brands, selected, onSelect }) {
         </button>
         {shown.map((b) => (
           <button key={b.slug} type="button" className="az-tile" aria-pressed={selected === b.slug} onClick={() => onSelect(selected === b.slug ? null : b.slug)}>
-            {b.logo ? <img className="az-tile__logo" src={b.logo} alt={`${b.name} logo`} loading="lazy" /> : null}
+            {b.logo ? <img className={`az-tile__logo${logoOnDark(b)}`} src={b.logo} alt={`${b.name} logo`} loading="lazy" /> : null}
             <span className="az-tile__wordmark">{b.name}</span>
             {!b.logo && b.inegi_company && <span className="az-tile__note">INEGI company group</span>}
             <span className="az-tile__count">{b.models.toLocaleString()} models</span>
@@ -431,7 +434,7 @@ export default function App() {
             <div className="az-stat"><dt className="az-stat__label">Models</dt><dd className="az-stat__value">{report.models.toLocaleString()}</dd></div>
             <div className="az-stat"><dt className="az-stat__label">Brands</dt><dd className="az-stat__value">{data.brands.filter((b) => b.models && !b.inegi_company).length}</dd></div>
             <div className="az-stat"><dt className="az-stat__label">Current</dt><dd className="az-stat__value">{report.by_status.current.toLocaleString()}</dd></div>
-            <div className="az-stat"><dt className="az-stat__label">Audited logos</dt><dd className="az-stat__value">{report.logos_audited.length}</dd></div>
+            <div className="az-stat"><dt className="az-stat__label">Brand logos</dt><dd className="az-stat__value">{report.logos_audited.length + report.logos_unaudited.length}</dd></div>
           </dl>
         </section>
 
@@ -473,7 +476,7 @@ export default function App() {
 
       <footer className="shell footer az-muted small">
         <p>Data: NHTSA vPIC, EPA fueleconomy.gov, NRCan Fuel Consumption Ratings, INEGI RAIAVL, Wikidata. Each model lists its sources. Latest model year in the data: {report.latest_model_year}.</p>
-        <p>Logos appear only after passing the Ember Rent logo audit. Brand logos are trademarks of their owners and do not imply sponsorship or endorsement.</p>
+        <p>Brand logos: {report.logos_audited.length} passed the Ember Rent logo audit. {report.logos_unaudited.length} more are taken from the manufacturers' own websites with the background removed and are not yet audited. Brand logos are trademarks of their owners and do not imply sponsorship or endorsement.</p>
       </footer>
     </>
   );

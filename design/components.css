@@ -221,7 +221,7 @@
 }
 .az-option mark { background: none; color: var(--accent-text); font-weight: 700; }
 
-/* ---- Brand tile: audited logo, or the brand name in clean type with a pending note ---- */
+/* ---- Brand tile: the brand's logo, or the brand name in clean type ---- */
 .az-tile {
   display: flex;
   flex-direction: column;
@@ -247,8 +247,11 @@
   object-fit: contain;
   padding: 6px;
   border-radius: var(--radius-sm);
-  background: var(--bone-50);
+  background: var(--logo-chip, var(--bone-50));
 }
+/* Logos drawn in white or light colours sit on a dark chip instead of being recoloured.
+   Logo chips read --logo-chip, so this works whatever order the stylesheets load in. */
+.logo--on-dark { --logo-chip: var(--carbon-900); }
 .az-tile__wordmark {
   font: 800 var(--text-md) / 1.1 var(--font-display);
   font-stretch: 112%;

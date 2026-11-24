@@ -1,0 +1,1400 @@
+{
+ "alfa-romeo": {
+  "file": "alfa-romeo.png",
+  "on_dark": false,
+  "source_file": "logos/sources/alfa-romeo/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idemhYdTUh/w/144/h/120/theme/dark/logo.png",
+  "page": "alfaromeo.com",
+  "retrieved_utc": "2026-11-22T20:01:08Z",
+  "sha256": "10820afe1b841f996d89fb051885b6c41d9f8a5257a901303d5391d17cc44d09",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "e3dc92fa142e3f7b0b488565d029f9e7c0b917966af1af0a3ce0a93c0fe688f2"
+ },
+ "aston-martin": {
+  "file": "aston-martin.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/aston-martin/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idZsNImIdo/theme/dark/logo.svg",
+  "page": "astonmartinlagonda.com",
+  "retrieved_utc": "2026-11-22T20:01:09Z",
+  "sha256": "d874b2ebdf707a57aef4f6579480512d611b952ae6539e1d8f9fb91ac6bba2ee",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "d874b2ebdf707a57aef4f6579480512d611b952ae6539e1d8f9fb91ac6bba2ee"
+ },
+ "audi": {
+  "file": "audi.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/audi/brandfetch/logo-light.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idW2NumpEj/theme/light/logo.svg",
+  "page": "audi.co.za",
+  "retrieved_utc": "2026-11-22T20:01:10Z",
+  "sha256": "b85752880cd8a2b268f4eca8e184ce7edc7a463bf708719eb32041959ef23ef5",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "b85752880cd8a2b268f4eca8e184ce7edc7a463bf708719eb32041959ef23ef5"
+ },
+ "autocar": {
+  "file": "autocar.png",
+  "on_dark": false,
+  "source_file": "logos/sources/autocar/website/logo-1.png",
+  "origin": "website",
+  "url": "https://d3w5dxa1iffln.cloudfront.net/media/2398/autocar-logo-2023-upload.png",
+  "page": "https://autocartruck.com",
+  "retrieved_utc": "2026-11-22T20:23:08.614Z",
+  "sha256": "4b7088f1c844f08a952fe889af8d9710a899220cf817054f2f207f7d73b5b3bd",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "104268194ed75d8e42f1a6cd28318326a4e0813e4091705e5c827a7682983af5"
+ },
+ "baic": {
+  "file": "baic.png",
+  "on_dark": false,
+  "source_file": "logos/sources/baic/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id4XfEPg7X/w/362/h/275/theme/dark/logo.png",
+  "page": "baicmotor.com",
+  "retrieved_utc": "2026-11-22T20:01:11Z",
+  "sha256": "b46290d62139bfe8f1c4d53f7e46410b9ce048fab7006c6b105de78e35518914",
+  "processing": [
+   "background #ffffff removed from 94692 edge-connected pixels",
+   "trimmed to content"
+  ],
+  "output_sha256": "3b9f8dcb5beac6b060db8048459a5a3c185ab39451de3c7315ee1cfa8d27bfda"
+ },
+ "bentley": {
+  "file": "bentley.png",
+  "on_dark": false,
+  "source_file": "logos/sources/bentley/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idBM67A4sF/w/1000/h/500/theme/dark/logo.png",
+  "page": "bentleymotors.com",
+  "retrieved_utc": "2026-11-22T20:01:11Z",
+  "sha256": "14d697bf41d6e94d3912fe7f8cd36d65c635047ad4c63a9eee687f0477ab91b2",
+  "processing": [
+   "trimmed to content",
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "69af5cc6adf6bac30398be8b92e46604a3521e6ce32656ec687897835d35e742"
+ },
+ "bugatti": {
+  "file": "bugatti.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/bugatti/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idFjUAepvr/theme/dark/logo.svg",
+  "page": "bugatti.com",
+  "retrieved_utc": "2026-11-22T20:01:13Z",
+  "sha256": "97bdfc6043bbd571557172ac6edd39c44995b27e3e86392069860eaa171a4f64",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "97bdfc6043bbd571557172ac6edd39c44995b27e3e86392069860eaa171a4f64"
+ },
+ "buick": {
+  "file": "buick.png",
+  "on_dark": false,
+  "source_file": "logos/sources/buick/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idLDlqUvtv/w/310/h/89/theme/dark/logo.png",
+  "page": "buick.com",
+  "retrieved_utc": "2026-11-22T20:01:14Z",
+  "sha256": "de642d22c6c926b1813894218ca68bdd462dd91fa3ce2f9d2c17508320e156e1",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "80e6c4d94050ea86c75397f19bfa0c6892b4ddbc5eabbbb4545deba78c0cbc3f"
+ },
+ "byd": {
+  "file": "byd.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/byd/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.byd.com/material/byd-site/america-public/byd-logo.svg",
+  "page": "https://www.byd.com/mx",
+  "retrieved_utc": "2026-11-22T20:27:07.632Z",
+  "sha256": "2b8ca934df800f3a3da8088817de44d971068ef7e55353495ff355fa401a5e9a",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "2b8ca934df800f3a3da8088817de44d971068ef7e55353495ff355fa401a5e9a"
+ },
+ "cadillac": {
+  "file": "cadillac.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/cadillac/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idjcY_09lV/theme/dark/logo.svg",
+  "page": "cadillac.com",
+  "retrieved_utc": "2026-11-22T20:01:16Z",
+  "sha256": "3df1982ad077e9eb3e6ab18b7e2be75a3e0900816f6c88782e33aa01f317bc3c",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "3df1982ad077e9eb3e6ab18b7e2be75a3e0900816f6c88782e33aa01f317bc3c"
+ },
+ "changan": {
+  "file": "changan.png",
+  "on_dark": true,
+  "source_file": "logos/sources/changan/brandfetch/logo-light.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idp0J4K1oj/w/435/h/91/theme/light/logo.png",
+  "page": "changan.com.cn",
+  "retrieved_utc": "2026-11-22T20:01:16Z",
+  "sha256": "de03f6b2662bf5a618fbe88b318acd099f39b07fef370e812541d0b06e0a1c98",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "fc46f2af51577e750214db1bd579d8767607e73e49066fbb92e77e435f872053"
+ },
+ "checker": {
+  "file": "checker.png",
+  "on_dark": false,
+  "source_file": "logos/sources/checker/website/logo-1.png",
+  "origin": "website",
+  "url": "https://checkermotorcars.com/wp-content/uploads/2025/11/Checker-Motor-Cars-logo.png",
+  "page": "https://www.checkermotorcars.com",
+  "retrieved_utc": "2026-11-22T20:21:08.625Z",
+  "sha256": "b7130a5901812f069599bd9b68be644f5c4fe078270dbd291d72d132f4f9e0d5",
+  "processing": [
+   "trimmed to content",
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "7baa3148b4ea8cb72f6febbe8893c1dd46c25cd82571be477db14599bb1f46fe"
+ },
+ "chevrolet": {
+  "file": "chevrolet.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/chevrolet/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idnsJwFYs4/theme/dark/logo.svg",
+  "page": "chevrolet.com",
+  "retrieved_utc": "2026-11-22T20:01:17Z",
+  "sha256": "5415445cb0f6cd7631f98adf08a2308496fa9cff72972d567cd4c076936058a8",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "5415445cb0f6cd7631f98adf08a2308496fa9cff72972d567cd4c076936058a8"
+ },
+ "chirey": {
+  "file": "chirey.svg",
+  "on_dark": false,
+  "source_file": "catalog/logos/sources/chirey/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.chirey.mx",
+  "page": "https://www.chirey.mx",
+  "retrieved_utc": "2026-11-24T14:37:24.664Z",
+  "sha256": "b177f6d1bd09f69c2781dcc66fd826e2f79e2dffa7d668dd1daf845b2f98a859",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "b177f6d1bd09f69c2781dcc66fd826e2f79e2dffa7d668dd1daf845b2f98a859"
+ },
+ "cupra": {
+  "file": "cupra.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/cupra/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.cupra.com/etc.clientlibs/cupra-website/components/clientlibs/resources/cupra-diagonal/icons/logo-cupra.svg",
+  "page": "https://cupra.com",
+  "retrieved_utc": "2026-11-22T20:17:06.413Z",
+  "sha256": "eb34516390f20511fc012642d50032e0f1cbcfb020cfd7c4c155907b0d2780a9",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "eb34516390f20511fc012642d50032e0f1cbcfb020cfd7c4c155907b0d2780a9"
+ },
+ "czinger": {
+  "file": "czinger.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/czinger/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.czinger.com/assets/v3/logos/czinger-wordmark.svg",
+  "page": "https://czinger.com",
+  "retrieved_utc": "2026-11-22T20:15:52.289Z",
+  "sha256": "5128ae5d24bbb9ff30de72c862586e7f6b63b0f8f8badd66268d701144a738b9",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "5128ae5d24bbb9ff30de72c862586e7f6b63b0f8f8badd66268d701144a738b9"
+ },
+ "daihatsu": {
+  "file": "daihatsu.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/daihatsu/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/iddGETUv79/theme/dark/logo.svg",
+  "page": "daihatsu.com",
+  "retrieved_utc": "2026-11-22T20:01:19Z",
+  "sha256": "052f43607439f369c972c5171cb8072ed6a66f5c71976586e1918bf2c9f86d4d",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "052f43607439f369c972c5171cb8072ed6a66f5c71976586e1918bf2c9f86d4d"
+ },
+ "dfsk": {
+  "file": "dfsk.png",
+  "on_dark": true,
+  "source_file": "logos/sources/dfsk/website/logo-1.png",
+  "origin": "website",
+  "url": "https://www.dfdongfeng.com.cn/static/web/img/logo_1.png?v=v8",
+  "page": "https://www.dfdongfeng.com.cn",
+  "retrieved_utc": "2026-11-22T20:19:49.597Z",
+  "sha256": "65a63f05a42d0574b1dfa3c365839fdcba026adad75e47d3a18a90fd6ecbe58d",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "692d2b0f0ef3a9933783504fea511cd3e74236fe6fd99c36c41a23e0f23b9d57"
+ },
+ "dina": {
+  "file": "dina.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/dina/website/logo-4.svg",
+  "origin": "website",
+  "url": "https://www.dina.com.mx/my_content/uploads/2024/06/Logo-DINA.svg",
+  "page": "https://dina.com.mx",
+  "retrieved_utc": "2026-11-22T20:23:47.162Z",
+  "sha256": "968e1865cfc7fb2c0b5b6dd90bf9c19c2bf64412d05846ba8fc27b7c17893c96",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "968e1865cfc7fb2c0b5b6dd90bf9c19c2bf64412d05846ba8fc27b7c17893c96"
+ },
+ "dodge": {
+  "file": "dodge.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/dodge/brandfetch/logo-light.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id3_mHybWv/theme/light/logo.svg",
+  "page": "dodge.com",
+  "retrieved_utc": "2026-11-22T20:01:20Z",
+  "sha256": "e7566ac2c3cb134002d951a3448ebaabc7c6baecf8b2f7f04f57e03a21034a06",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "e7566ac2c3cb134002d951a3448ebaabc7c6baecf8b2f7f04f57e03a21034a06"
+ },
+ "ferrari": {
+  "file": "ferrari.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/ferrari/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idhiG18qpz/theme/dark/logo.svg",
+  "page": "ferrari.com",
+  "retrieved_utc": "2026-11-22T20:01:20Z",
+  "sha256": "c8f2b12134cd7c5624de82afb8045c249d633faf2d3cc646531311fcf139dfde",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "c8f2b12134cd7c5624de82afb8045c249d633faf2d3cc646531311fcf139dfde"
+ },
+ "fiat": {
+  "file": "fiat.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/fiat/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idPMedq_sc/theme/dark/logo.svg",
+  "page": "fiat.com",
+  "retrieved_utc": "2026-11-22T20:01:21Z",
+  "sha256": "e52ae44bfe47ba74f9b0fe36729306211f7624e1a0467356eb2583d22bbb5aeb",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "e52ae44bfe47ba74f9b0fe36729306211f7624e1a0467356eb2583d22bbb5aeb"
+ },
+ "ford": {
+  "file": "ford.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/ford/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idy8eQmfJp/theme/dark/logo.svg",
+  "page": "ford.com",
+  "retrieved_utc": "2026-11-22T20:01:22Z",
+  "sha256": "87420c19c43bea0d99679c95804a4f22e4eeacc55f7cdf98ac5292736676c870",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "87420c19c43bea0d99679c95804a4f22e4eeacc55f7cdf98ac5292736676c870"
+ },
+ "freightliner": {
+  "file": "freightliner.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/freightliner/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.freightliner.com/images/FLLogo.svg",
+  "page": "https://freightliner.com",
+  "retrieved_utc": "2026-11-22T20:22:00.747Z",
+  "sha256": "cf477fb70cbb6b7f70818e9b23f0855e7f1e6a1be2aaf3fcdc51079c5c2b5f88",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "cf477fb70cbb6b7f70818e9b23f0855e7f1e6a1be2aaf3fcdc51079c5c2b5f88"
+ },
+ "fuso": {
+  "file": "fuso.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/fuso/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idTgCynIp6/theme/dark/logo.svg",
+  "page": "mitsubishi-fuso.com",
+  "retrieved_utc": "2026-11-22T20:01:23Z",
+  "sha256": "98c7aaaf961098b328f8c18aadd30181e89a0be0c56c44116e4bc13cf725b0ee",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "98c7aaaf961098b328f8c18aadd30181e89a0be0c56c44116e4bc13cf725b0ee"
+ },
+ "geely": {
+  "file": "geely.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/geely/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idatoDC6-X/theme/dark/logo.svg",
+  "page": "geely.com",
+  "retrieved_utc": "2026-11-22T20:01:23Z",
+  "sha256": "bd5858a59711b274b34ab8ce3b26686fd7ddf9373b4c99a10e0832281eaae3b3",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "bd5858a59711b274b34ab8ce3b26686fd7ddf9373b4c99a10e0832281eaae3b3"
+ },
+ "genesis": {
+  "file": "genesis.png",
+  "on_dark": true,
+  "source_file": "logos/sources/genesis/brandfetch/logo-light.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id3KaX-Rji/w/170/h/34/theme/light/logo.png",
+  "page": "genesis.com",
+  "retrieved_utc": "2026-11-22T20:01:25Z",
+  "sha256": "c031ce2dfcdbe7104c6ea5c5568b2ef989085c4798a35d5cbd8eec5f26fc480b",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "9244f5199c7e86853d4fc568cef61b17bbc9f64dee2c7a897dc2279084ae54a5"
+ },
+ "glickenhaus": {
+  "file": "glickenhaus.png",
+  "on_dark": false,
+  "source_file": "logos/sources/glickenhaus/brandfetch/logo-light.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id06cPZFmZ/w/276/h/361/theme/light/logo.png",
+  "page": "glickenhausracing.com",
+  "retrieved_utc": "2026-11-22T20:01:25Z",
+  "sha256": "dec94aefbdb05f919c6b3bbd894a6b7f5141ff1adf217df887bfb5e27e6de227",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "0b363ee6bbc9dd9ac6a0c6d630de0c9228ed97ef710137a2095e88f36e00abb2"
+ },
+ "gmc": {
+  "file": "gmc.png",
+  "on_dark": false,
+  "source_file": "logos/sources/gmc/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idW7y_kCul/w/926/h/167/theme/dark/logo.png",
+  "page": "gmc.com",
+  "retrieved_utc": "2026-11-22T20:01:25Z",
+  "sha256": "eb1fb608f9cb0906299ae21320f969d0dd16a72353f2a157fccc4d29e367662e",
+  "processing": [
+   "trimmed to content",
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "f080983ad07fa6d3346a8600b5fd51b724be3463b834feffbd7cccb3db8d735d"
+ },
+ "gwm": {
+  "file": "gwm.png",
+  "on_dark": false,
+  "source_file": "logos/sources/gwm/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idBorQRb0g/w/1234/h/331/theme/dark/logo.png",
+  "page": "gwm.com.cn",
+  "retrieved_utc": "2026-11-22T20:01:25Z",
+  "sha256": "40635cee674dbad03a54eb20282700994d8651579f046c8d93269eec5361c6e1",
+  "processing": [
+   "trimmed to content",
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "7b7a1b7646f6a2acd73791eb0210dbcdaa8642ed8ccb7083b5f6461901a98680"
+ },
+ "hino": {
+  "file": "hino.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/hino/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.hino.com/user_area/content_media/raw/hino-logo.svg?w=150&quality=80",
+  "page": "https://www.hino.com",
+  "retrieved_utc": "2026-11-22T20:27:33.682Z",
+  "sha256": "cb069a4f9ac1c818b7bdcda355909de6494dc399e4625cebdcdc65dddcb2a988",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "cb069a4f9ac1c818b7bdcda355909de6494dc399e4625cebdcdc65dddcb2a988"
+ },
+ "holden": {
+  "file": "holden.png",
+  "on_dark": false,
+  "source_file": "logos/sources/holden/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idJGrvcvlx/w/528/h/189/theme/dark/logo.png",
+  "page": "holden.com.au",
+  "retrieved_utc": "2026-11-22T20:01:26Z",
+  "sha256": "6a93178b9dec29a99754c90c5d0ec1b2af2cc035e00b5cce30901eedf188cb52",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "5c57c6aa7a158dad5caeb67dddbef5aec2c5ccd15793164ce555d2fd03bac03f"
+ },
+ "honda": {
+  "file": "honda.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/honda/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id9GnxU3pT/theme/dark/logo.svg",
+  "page": "global.honda",
+  "retrieved_utc": "2026-11-22T20:01:26Z",
+  "sha256": "93bb94cf6dcb05ff2b781f7e5f9ba64ce564ab62460a623b3ec6b493666c3bbf",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "93bb94cf6dcb05ff2b781f7e5f9ba64ce564ab62460a623b3ec6b493666c3bbf"
+ },
+ "hyundai": {
+  "file": "hyundai.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/hyundai/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idZAAlb6l9/theme/dark/logo.svg",
+  "page": "hyundai.com",
+  "retrieved_utc": "2026-11-22T20:01:27Z",
+  "sha256": "c384fed506b259ff9a9885e0a26b45e06259345a909c53b11ca3d276b4a5e478",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "c384fed506b259ff9a9885e0a26b45e06259345a909c53b11ca3d276b4a5e478"
+ },
+ "ineos": {
+  "file": "ineos.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/ineos/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.ineos.com/contentassets/416ec8a86e714e04870994301eb7dcb9/new-ineos-logo-2024.svg",
+  "page": "https://www.ineos.com",
+  "retrieved_utc": "2026-11-22T20:12:45.435Z",
+  "sha256": "bf3bdc94029e0ff1edb9683ede4c5561fb0dc2d8ecd443a293c08625aad85c5d",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "bf3bdc94029e0ff1edb9683ede4c5561fb0dc2d8ecd443a293c08625aad85c5d"
+ },
+ "infiniti": {
+  "file": "infiniti.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/infiniti/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idr0d8kaDP/theme/dark/logo.svg",
+  "page": "infiniti.com",
+  "retrieved_utc": "2026-11-22T20:01:28Z",
+  "sha256": "da6f645d56b2e36a0198745fd497986fc8eda959f7545e1ea68ae88c16bba81c",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "da6f645d56b2e36a0198745fd497986fc8eda959f7545e1ea68ae88c16bba81c"
+ },
+ "international": {
+  "file": "international.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/international/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idXsxJOrRY/theme/dark/logo.svg",
+  "page": "international.com",
+  "retrieved_utc": "2026-11-22T20:01:29Z",
+  "sha256": "cf25451822f5ca0562d1865ae11983348e146e286cbe98d3b81e04ede7b48d87",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "cf25451822f5ca0562d1865ae11983348e146e286cbe98d3b81e04ede7b48d87"
+ },
+ "jac": {
+  "file": "jac.png",
+  "on_dark": true,
+  "source_file": "catalog/logos/sources/jac/website/logo-1.png",
+  "origin": "website",
+  "url": "https://www.jac.mx/assets/images/new_logo_JAC_white.png",
+  "page": "https://www.jac.mx",
+  "retrieved_utc": "2026-11-24T14:37:42.549Z",
+  "sha256": "eef739f0a2c5e69c88b21593a5402446c7d386d0485fc08e1f42109d2f988b8b",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "0879b7e41258d156e77eecc4976804acdf4d63308e4d388a633265f96ba3fd9a"
+ },
+ "jaecoo": {
+  "file": "jaecoo.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/jaecoo/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idT1k4R0SI/theme/dark/logo.svg",
+  "page": "omodajaecoo.com",
+  "retrieved_utc": "2026-11-22T20:01:31Z",
+  "sha256": "4218040ac2ab9b1e5b6f414587b3ad006ee933ad3215f18b13a1c3600e5f1b20",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "4218040ac2ab9b1e5b6f414587b3ad006ee933ad3215f18b13a1c3600e5f1b20"
+ },
+ "jeep": {
+  "file": "jeep.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/jeep/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idPY6AZfq2/theme/dark/logo.svg",
+  "page": "jeep.com",
+  "retrieved_utc": "2026-11-22T20:01:32Z",
+  "sha256": "f6ba3e2c5c4518d36f9a4f80e7175d31efecbe09234d8ad926c5098310281b39",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "f6ba3e2c5c4518d36f9a4f80e7175d31efecbe09234d8ad926c5098310281b39"
+ },
+ "jetour": {
+  "file": "jetour.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/jetour/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id1podPAw-/theme/dark/logo.svg",
+  "page": "jetour.com.cn",
+  "retrieved_utc": "2026-11-22T20:01:33Z",
+  "sha256": "96861473f483116edc89c563ab25e48d321616a554a5b401ffdf52c7fdf79309",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "96861473f483116edc89c563ab25e48d321616a554a5b401ffdf52c7fdf79309"
+ },
+ "jmc": {
+  "file": "jmc.png",
+  "on_dark": false,
+  "source_file": "logos/sources/jmc/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idgcJ2Vovd/w/648/h/977/theme/dark/logo.png",
+  "page": "jmc.com.cn",
+  "retrieved_utc": "2026-11-22T20:01:33Z",
+  "sha256": "df5142bf64fe44b8f9a4c8e883c0def81d7236bb992fbbdce5782cdfa5fbbc0a",
+  "processing": [
+   "trimmed to content",
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "7844f5245f53c81e84d3277becbe90bc73db1d54a08408a12b0aa021d441787f"
+ },
+ "kandi": {
+  "file": "kandi.png",
+  "on_dark": false,
+  "source_file": "logos/sources/kandi/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idjdxfHBEv/w/796/h/107/theme/dark/logo.png",
+  "page": "kandivehicle.com",
+  "retrieved_utc": "2026-11-22T20:01:33Z",
+  "sha256": "33e53930ca4ab399736b91de93a062e9e2675829bd6804c4db737bcf5c85fe8e",
+  "processing": [
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "29dc86918122517c44b344c1a78e62567a8e78eb56a18ae3f8b1911f2a3717e6"
+ },
+ "karma": {
+  "file": "karma.png",
+  "on_dark": true,
+  "source_file": "logos/sources/karma/website/logo-1.png",
+  "origin": "website",
+  "url": "https://karmaautomotive.com/wp-content/uploads/2026/01/karma-logo.png",
+  "page": "https://karmaautomotive.com",
+  "retrieved_utc": "2026-11-22T20:16:45.306Z",
+  "sha256": "4470e2a592e07e975a58124a9c866ce04acb3a38e8903134e427add8350c1d09",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "496b90165337ebd90dfce78327b9ab013cff9bf6298a75847ff0ee83da3bee83"
+ },
+ "kenworth": {
+  "file": "kenworth.png",
+  "on_dark": false,
+  "source_file": "logos/sources/kenworth/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idy7I6kgkZ/w/347/h/60/theme/dark/logo.png",
+  "page": "kenworth.com",
+  "retrieved_utc": "2026-11-22T20:01:33Z",
+  "sha256": "c7c30954ba490a3b2a8f654a67858b3040853fc1666c660c9fde6210802e7d78",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "21b309e5248d51979c76136011bd659e5c682b918c116b9fa776705340adb5b8"
+ },
+ "kia": {
+  "file": "kia.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/kia/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idXPqT-KEy/theme/dark/logo.svg",
+  "page": "kia.com",
+  "retrieved_utc": "2026-11-22T20:01:34Z",
+  "sha256": "d827b24e059b962b3ae0ee9ad16ae994a5aa2f5470978aa12f4480e640f43b20",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "d827b24e059b962b3ae0ee9ad16ae994a5aa2f5470978aa12f4480e640f43b20"
+ },
+ "koenigsegg": {
+  "file": "koenigsegg.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/koenigsegg/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id5X4C9Oft/theme/dark/logo.svg",
+  "page": "koenigsegg.com",
+  "retrieved_utc": "2026-11-22T20:01:35Z",
+  "sha256": "c22bac30bcdeac0e1411aa5f8e84668e2cebf95cb3018c23150c7a418440f751",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "c22bac30bcdeac0e1411aa5f8e84668e2cebf95cb3018c23150c7a418440f751"
+ },
+ "lada": {
+  "file": "lada.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/lada/brandfetch/logo-light.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id1_qiIDND/theme/light/logo.svg",
+  "page": "lada.ru",
+  "retrieved_utc": "2026-11-22T20:01:35Z",
+  "sha256": "e169f19a7f52763ca161ba9bfbc45542bb3bd0843cfbc0ef3cb6fe4ddafd4f29",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "e169f19a7f52763ca161ba9bfbc45542bb3bd0843cfbc0ef3cb6fe4ddafd4f29"
+ },
+ "lamborghini": {
+  "file": "lamborghini.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/lamborghini/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idPo-rq5rw/theme/dark/logo.svg",
+  "page": "lamborghini.com",
+  "retrieved_utc": "2026-11-22T20:01:36Z",
+  "sha256": "a7b362deebf0ec785bc7846a02dfe513df06679c9c7c0d1441fbe6c380ca5d9d",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "a7b362deebf0ec785bc7846a02dfe513df06679c9c7c0d1441fbe6c380ca5d9d"
+ },
+ "lancia": {
+  "file": "lancia.png",
+  "on_dark": false,
+  "source_file": "catalog/logos/sources/lancia/website/logo-1.jpg",
+  "origin": "website",
+  "url": "https://www.lancia.it/content/dam/lancia2023/cross/header/logo-rect.jpg",
+  "page": "https://www.lancia.it",
+  "retrieved_utc": "2026-11-24T14:37:53.448Z",
+  "sha256": "e025231ea19a8bf9f6d35a08de11099dae275fa438b3c649ab9e18814ce2ffd3",
+  "processing": [
+   "background #ffffff removed from 534482 edge-connected pixels",
+   "trimmed to content",
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "9cbd1163edef0de1c370678fc6a72952157194033b9eedbea4a9ed2dd7df775d"
+ },
+ "leapmotor": {
+  "file": "leapmotor.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/leapmotor/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/ida_HqcXq2/theme/dark/logo.svg",
+  "page": "leapmotor.net",
+  "retrieved_utc": "2026-11-22T20:01:37Z",
+  "sha256": "98f11b1ea9e7618dcc23a36269b71c7a8038f2d4a91bd2cbc582e79ae10f1af3",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "98f11b1ea9e7618dcc23a36269b71c7a8038f2d4a91bd2cbc582e79ae10f1af3"
+ },
+ "lexus": {
+  "file": "lexus.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/lexus/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idPWtJpPcA/theme/dark/logo.svg",
+  "page": "discoverlexus.com",
+  "retrieved_utc": "2026-11-22T20:01:37Z",
+  "sha256": "3dc0b2696851c4eab429ccbbc41b8114d86ef091a32b7854839f79ea4507469c",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "3dc0b2696851c4eab429ccbbc41b8114d86ef091a32b7854839f79ea4507469c"
+ },
+ "lincoln": {
+  "file": "lincoln.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/lincoln/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/ideuNLYrQg/theme/dark/logo.svg",
+  "page": "lincoln.com",
+  "retrieved_utc": "2026-11-22T20:01:38Z",
+  "sha256": "bd07c7366474645c0ac72c4ed6312a66ead4b8049b980c0abe6a1ca5b135c3c4",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "bd07c7366474645c0ac72c4ed6312a66ead4b8049b980c0abe6a1ca5b135c3c4"
+ },
+ "lion": {
+  "file": "lion.png",
+  "on_dark": false,
+  "source_file": "logos/sources/lion/website/logo-1.png",
+  "origin": "website",
+  "url": "https://lionlion.ca/wp-content/uploads/2025/07/LION_New_Logo_Horizontal-1536x875.png",
+  "page": "https://lionbuses.com",
+  "retrieved_utc": "2026-11-22T20:23:39.943Z",
+  "sha256": "3e2e55ba02bcd52a3d9db8cd236e258ed5b60c4319347e18d1bd70de23ede0c6",
+  "processing": [
+   "trimmed to content",
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "e250544aec9275183dd1744dd7b917a6a45d4f1a81a0f556804fffca15ca84e2"
+ },
+ "lordstown": {
+  "file": "lordstown.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/lordstown/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idKsfGWM78/theme/dark/logo.svg",
+  "page": "lordstownmotors.com",
+  "retrieved_utc": "2026-11-22T20:01:39Z",
+  "sha256": "4dea7f4ea7ee5b702e546842c71aa68116be8bc36199da3d3b81c243296bed7c",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "4dea7f4ea7ee5b702e546842c71aa68116be8bc36199da3d3b81c243296bed7c"
+ },
+ "lotus": {
+  "file": "lotus.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/lotus/brandfetch/logo-light.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idcVo14xKT/theme/light/logo.svg",
+  "page": "lotuscars.com",
+  "retrieved_utc": "2026-11-22T20:01:40Z",
+  "sha256": "f2901b07148268114bb7f4a3253507bcc0cdb793996277d9869c80bbef0cfe63",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "f2901b07148268114bb7f4a3253507bcc0cdb793996277d9869c80bbef0cfe63"
+ },
+ "lucid": {
+  "file": "lucid.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/lucid/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idNi8EP0AY/theme/dark/logo.svg",
+  "page": "lucidmotors.com",
+  "retrieved_utc": "2026-11-22T20:01:41Z",
+  "sha256": "fdc7b17abeaefb7f98e5bc63a4654f99abc539d5312f022966bc59ab07aa7e51",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "fdc7b17abeaefb7f98e5bc63a4654f99abc539d5312f022966bc59ab07aa7e51"
+ },
+ "lynk-co": {
+  "file": "lynk-co.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/lynk-co/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idPc6_WdWT/theme/dark/logo.svg",
+  "page": "lynkco.com",
+  "retrieved_utc": "2026-11-22T20:01:42Z",
+  "sha256": "115d60310ec924be875bb4dbe39e5f20ab99e7e1cfaff377f66922c6bd037554",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "115d60310ec924be875bb4dbe39e5f20ab99e7e1cfaff377f66922c6bd037554"
+ },
+ "mack": {
+  "file": "mack.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/mack/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://macktrucks.com",
+  "page": "https://macktrucks.com",
+  "retrieved_utc": "2026-11-22T20:22:23.210Z",
+  "sha256": "c4fc6b38fba05e691832dc4b787f5da582980bdb35d872e595ab3d6922b24634",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "c4fc6b38fba05e691832dc4b787f5da582980bdb35d872e595ab3d6922b24634"
+ },
+ "mahindra": {
+  "file": "mahindra.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/mahindra/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idXYGjoJSI/theme/dark/logo.svg",
+  "page": "mahindra.com",
+  "retrieved_utc": "2026-11-22T20:01:42Z",
+  "sha256": "f9e2f554a9f77525f1e4fa2836a6b4fe1f6dafe5041f1fc652cb3c6ca4072ec5",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "f9e2f554a9f77525f1e4fa2836a6b4fe1f6dafe5041f1fc652cb3c6ca4072ec5"
+ },
+ "maserati": {
+  "file": "maserati.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/maserati/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idg7hwdIMC/theme/dark/logo.svg",
+  "page": "maserati.com",
+  "retrieved_utc": "2026-11-22T20:01:43Z",
+  "sha256": "11d5664dc75c926f8fdada1fe7d2dcbad2800ce649cd4f8da6b39321fbdd13fe",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "11d5664dc75c926f8fdada1fe7d2dcbad2800ce649cd4f8da6b39321fbdd13fe"
+ },
+ "mazda": {
+  "file": "mazda.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/mazda/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idI_p8sN6E/theme/dark/logo.svg",
+  "page": "mazda.com",
+  "retrieved_utc": "2026-11-22T20:01:45Z",
+  "sha256": "c78a995d9968c67e8964270b862532d7abe3872db7c95cc7d7d2a28152b74fd2",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "c78a995d9968c67e8964270b862532d7abe3872db7c95cc7d7d2a28152b74fd2"
+ },
+ "mclaren": {
+  "file": "mclaren.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/mclaren/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idAfYJ2X2Y/theme/dark/logo.svg",
+  "page": "mclaren.com",
+  "retrieved_utc": "2026-11-22T20:01:46Z",
+  "sha256": "ad9c0e6638a6a87501b01eedc9d584e544b20de64db4641d3e6634b3983ea6aa",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "ad9c0e6638a6a87501b01eedc9d584e544b20de64db4641d3e6634b3983ea6aa"
+ },
+ "mercedes-benz": {
+  "file": "mercedes-benz.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/mercedes-benz/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idsWGwlSmy/theme/dark/logo.svg",
+  "page": "mercedes-benz.com",
+  "retrieved_utc": "2026-11-22T20:01:48Z",
+  "sha256": "8a7916438917e548d069828f1f6fd21263c9062ace27da816a71cd410b76ec4b",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "8a7916438917e548d069828f1f6fd21263c9062ace27da816a71cd410b76ec4b"
+ },
+ "mg": {
+  "file": "mg.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/mg/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.mgmotor.com.mx/assets/mg-logo-black-Xqlh6kZh.svg",
+  "page": "https://www.mgmotor.com.mx",
+  "retrieved_utc": "2026-11-22T20:28:45.294Z",
+  "sha256": "41fdf6193139297b318a6b32c3aef2309b0f2e9c9978c3823d87ab04bbaf54d0",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "41fdf6193139297b318a6b32c3aef2309b0f2e9c9978c3823d87ab04bbaf54d0"
+ },
+ "mitsubishi": {
+  "file": "mitsubishi.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/mitsubishi/website/logo-2.svg",
+  "origin": "website",
+  "url": "https://www.mitsubishicars.com/content/dam/mitsubishi-motors/images/logos/nav-logo-black.svg",
+  "page": "https://www.mitsubishicars.com",
+  "retrieved_utc": "2026-11-22T20:28:59.090Z",
+  "sha256": "ce00b81ad17e9c4e679720a9e70f6aea57f21d49a327aed2bddbf79c22867426",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "ce00b81ad17e9c4e679720a9e70f6aea57f21d49a327aed2bddbf79c22867426"
+ },
+ "morgan": {
+  "file": "morgan.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/morgan/brandfetch/logo-light.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id951nfCWT/theme/light/logo.svg",
+  "page": "morgan-motor.co.uk",
+  "retrieved_utc": "2026-11-22T20:01:51Z",
+  "sha256": "ace9cbf48b6eb74dc28eb7546fbb008b5dfab6a21ff457d2bcb385631f9e3a97",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "ace9cbf48b6eb74dc28eb7546fbb008b5dfab6a21ff457d2bcb385631f9e3a97"
+ },
+ "nikola": {
+  "file": "nikola.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/nikola/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/iddaPgFA_B/theme/dark/logo.svg",
+  "page": "nikolamotor.com",
+  "retrieved_utc": "2026-11-22T20:01:52Z",
+  "sha256": "35f8e3ea8895926d86306dd067e58e9af73af12ef0ec69cf7763ed22b1f20b6d",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "35f8e3ea8895926d86306dd067e58e9af73af12ef0ec69cf7763ed22b1f20b6d"
+ },
+ "oshkosh": {
+  "file": "oshkosh.png",
+  "on_dark": false,
+  "source_file": "logos/sources/oshkosh/website/logo-1.png",
+  "origin": "website",
+  "url": "https://www.oshkoshcorp.com/includes/Oshkosh/OshkoshCorp/img/Main_nav_logo.png",
+  "page": "https://oshkoshcorp.com",
+  "retrieved_utc": "2026-11-22T20:23:17.479Z",
+  "sha256": "2eac3550b261f890e32b1591a847ef500a868cd6c2327ce6c2f89ff8a39555b6",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "07e349362f1d128a5b659ef0e8c3af06f82877c89dac0ca7c881ebaecff6ce1b"
+ },
+ "panoz": {
+  "file": "panoz.png",
+  "on_dark": false,
+  "source_file": "logos/sources/panoz/website/logo-1.png",
+  "origin": "website",
+  "url": "https://panoz.com/wp-content/uploads/2019/05/PANOZ-LLC-Crest-OnlyV6.png",
+  "page": "https://panoz.com",
+  "retrieved_utc": "2026-11-22T20:21:35.417Z",
+  "sha256": "e68c0da08391c117fbe1fd2c1bf05877ac737172744b50884547aea937558f9a",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "963d72348d53cf0d78d016500552e2844dc09ee6ace19d8c61743da980e83dfd"
+ },
+ "peterbilt": {
+  "file": "peterbilt.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/peterbilt/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.peterbilt.com/_nuxt/img/logo.4990198.svg",
+  "page": "https://peterbilt.com",
+  "retrieved_utc": "2026-11-22T20:22:13.081Z",
+  "sha256": "345833922704b54196eef7581526df8821f6ae37220d22dedfa99506f9f3cea4",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "345833922704b54196eef7581526df8821f6ae37220d22dedfa99506f9f3cea4"
+ },
+ "peugeot": {
+  "file": "peugeot.png",
+  "on_dark": true,
+  "source_file": "logos/sources/peugeot/website/logo-2.png",
+  "origin": "website",
+  "url": "https://www.peugeot.com.mx/content/dam/peugeot/master/home/peugeot-logo-alt.png",
+  "page": "https://www.peugeot.com.mx",
+  "retrieved_utc": "2026-11-22T20:29:09.538Z",
+  "sha256": "1c94cc1bf66a120f7d02c7e6446cdb554353e18bc032f68f0c68efac9d19c1a6",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "3e11e6d1e6a4600d1d044a560c0853beb2da141a83e6981c0c81a617d01213ac"
+ },
+ "polestar": {
+  "file": "polestar.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/polestar/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idYZ-4Cs-J/theme/dark/logo.svg",
+  "page": "polestar.com",
+  "retrieved_utc": "2026-11-22T20:01:56Z",
+  "sha256": "4c281630c6f573d6df354bc0c9f9709de1cc440cc5a38b30be50989626ad3328",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "4c281630c6f573d6df354bc0c9f9709de1cc440cc5a38b30be50989626ad3328"
+ },
+ "porsche": {
+  "file": "porsche.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/porsche/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idOSUjsXG-/theme/dark/logo.svg",
+  "page": "porsche.com",
+  "retrieved_utc": "2026-11-22T20:01:56Z",
+  "sha256": "438ad91261b5766c55a2a5f4123b23e553117262db5e57ea77c1fa51e7e6ef35",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "438ad91261b5766c55a2a5f4123b23e553117262db5e57ea77c1fa51e7e6ef35"
+ },
+ "ram": {
+  "file": "ram.png",
+  "on_dark": false,
+  "source_file": "logos/sources/ram/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idqrJ7qipe/w/225/h/62/theme/dark/logo.png",
+  "page": "ramtrucks.com",
+  "retrieved_utc": "2026-11-22T20:01:56Z",
+  "sha256": "3f536f5ece86044a97295b2508b4f4f36c45aca64922223f8a73168b0270c1b4",
+  "processing": [
+   "background #fafbfb removed from 10075 edge-connected pixels",
+   "trimmed to content"
+  ],
+  "output_sha256": "25b146804bcf4e452429462efabdfb92c8c97cd17f32cc74bafaa4c244e4feb4"
+ },
+ "renault": {
+  "file": "renault.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/renault/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.renault.com.mx",
+  "page": "https://www.renault.com.mx",
+  "retrieved_utc": "2026-11-22T20:29:27.315Z",
+  "sha256": "7fd10a4bb58191724b666c499b9918807d2e67ee866c41d847058f824faf9046",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "7fd10a4bb58191724b666c499b9918807d2e67ee866c41d847058f824faf9046"
+ },
+ "rimac": {
+  "file": "rimac.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/rimac/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idq3jf_Vhf/theme/dark/logo.svg",
+  "page": "rimac-automobili.com",
+  "retrieved_utc": "2026-11-22T20:01:58Z",
+  "sha256": "481abb9111489969af39f7da8e365fac80a9b96c1300ce44e3ba6176f6f2486d",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "481abb9111489969af39f7da8e365fac80a9b96c1300ce44e3ba6176f6f2486d"
+ },
+ "rolls-royce": {
+  "file": "rolls-royce.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/rolls-royce/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id8xE5OHKB/theme/dark/logo.svg",
+  "page": "rolls-roycemotorcars.com",
+  "retrieved_utc": "2026-11-22T20:01:59Z",
+  "sha256": "687e49d7fe3e08a22413ef06fe32c568497cfaa67ddd4daf07b336c5625f152c",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "687e49d7fe3e08a22413ef06fe32c568497cfaa67ddd4daf07b336c5625f152c"
+ },
+ "saleen": {
+  "file": "saleen.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/saleen/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id5WVyfdJ2/theme/dark/logo.svg",
+  "page": "saleen.com",
+  "retrieved_utc": "2026-11-22T20:02:01Z",
+  "sha256": "6cdf4cc9281e486bf77468b6a1639dd9f4b060cf269cf919f6b848a546e8fc2a",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "6cdf4cc9281e486bf77468b6a1639dd9f4b060cf269cf919f6b848a546e8fc2a"
+ },
+ "scion": {
+  "file": "scion.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/toyota/website/logo-3.svg",
+  "origin": "website",
+  "url": "https://delivery.tcom.assetscs.toyota.com/adobe/assets/urn:aaid:aem:593ef81f-5bba-44c4-a9f2-08d703de5cdc/as/scion_sm_logo.svg",
+  "page": "https://www.toyota.com",
+  "retrieved_utc": "2026-11-22T20:29:44.290Z",
+  "sha256": "2df2209004c7852e5f8445605070c7f58efe3006dcdc45480400c3d091df1dfd",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "2df2209004c7852e5f8445605070c7f58efe3006dcdc45480400c3d091df1dfd"
+ },
+ "scout": {
+  "file": "scout.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/scout/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://scoutmotors.com",
+  "page": "https://scoutmotors.com",
+  "retrieved_utc": "2026-11-22T20:15:40.354Z",
+  "sha256": "ed1a01ebba99eebc5b50874f1d39f8dd83adbb6a9edf424732dd5f88b81a9611",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "ed1a01ebba99eebc5b50874f1d39f8dd83adbb6a9edf424732dd5f88b81a9611"
+ },
+ "seres": {
+  "file": "seres.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/seres/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idI7D59ses/theme/dark/logo.svg",
+  "page": "seres.cn",
+  "retrieved_utc": "2026-11-22T20:02:02Z",
+  "sha256": "968f317b22c5aed3aa6a97bde5e5c20b23aec737d5924f4106595edc14ba8f4e",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "968f317b22c5aed3aa6a97bde5e5c20b23aec737d5924f4106595edc14ba8f4e"
+ },
+ "shelby": {
+  "file": "shelby.png",
+  "on_dark": false,
+  "source_file": "logos/sources/shelby/website/logo-1.png",
+  "origin": "website",
+  "url": "https://shelby.com/images/ShelbyLogoCircle2.png",
+  "page": "https://shelby.com",
+  "retrieved_utc": "2026-11-22T20:21:47.241Z",
+  "sha256": "ae3da27cab2f1d3a822614f3256087f376df8be0db6e90c4aebb8b3037bb0e11",
+  "processing": [
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "2787e342a4c973363b54fc07f6020ccb0bb83ea23f828f1d5573ea2ac0515408"
+ },
+ "slate": {
+  "file": "slate.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/slate/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idmNXV-Cnc/theme/dark/logo.svg",
+  "page": "slate.auto",
+  "retrieved_utc": "2026-11-22T20:02:03Z",
+  "sha256": "4c8ab494ceae371e41d2ef4de40d46054f27a1d88f8c3607de4a99f9021dbb64",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "4c8ab494ceae371e41d2ef4de40d46054f27a1d88f8c3607de4a99f9021dbb64"
+ },
+ "smart": {
+  "file": "smart.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/smart/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idwda_9fcc/theme/dark/logo.svg",
+  "page": "smart.com",
+  "retrieved_utc": "2026-11-22T20:02:04Z",
+  "sha256": "d739ad9a42188bb51d200115233ce75653a826ad2a2e22a9271f1f1663fd094e",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "d739ad9a42188bb51d200115233ce75653a826ad2a2e22a9271f1f1663fd094e"
+ },
+ "soueast": {
+  "file": "soueast.png",
+  "on_dark": false,
+  "source_file": "logos/sources/soueast/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idwzRUxg9W/w/254/h/17/theme/dark/logo.png",
+  "page": "soueast-motor.com",
+  "retrieved_utc": "2026-11-22T20:02:04Z",
+  "sha256": "17c19c9156808dda76dd5db851671fb82162b182fbf0e20f1d505b3f5344f2d0",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "e7f6bc7e27efdc6c38f0a928a96803ab5709ab0ece931ad1caf2312f33e27a19"
+ },
+ "spyker": {
+  "file": "spyker.svg",
+  "on_dark": true,
+  "source_file": "logos/sources/spyker/brandfetch/logo-light.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id706PROjM/theme/light/logo.svg",
+  "page": "spykercars.com",
+  "retrieved_utc": "2026-11-22T20:02:05Z",
+  "sha256": "a3102dcce683325b9f8789976d81772e74b1afd6da0b6aad79884ceecca9ccfc",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "a3102dcce683325b9f8789976d81772e74b1afd6da0b6aad79884ceecca9ccfc"
+ },
+ "ssc": {
+  "file": "ssc.png",
+  "on_dark": false,
+  "source_file": "logos/sources/ssc/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idc_RneSs_/w/353/h/52/theme/dark/logo.png",
+  "page": "sscnorthamerica.com",
+  "retrieved_utc": "2026-11-22T20:02:05Z",
+  "sha256": "839e8fc4510f8ac1706278b95bce164df6fd6d7cf0092b69d6691e37d23342ce",
+  "processing": [
+   "background #f2f2f8 removed from 15424 edge-connected pixels",
+   "trimmed to content"
+  ],
+  "output_sha256": "17ff1b7270d7a96eebf6c301d8442fe839dcbaff8d64ab4ba49993faf7762205"
+ },
+ "subaru": {
+  "file": "subaru.png",
+  "on_dark": false,
+  "source_file": "logos/sources/subaru/website/logo-2.jpg",
+  "origin": "website",
+  "url": "https://s7d1.scene7.com/is/image/scomv2/SOA_Primary_HOR_600x150?$160wa$",
+  "page": "https://www.subaru.com",
+  "retrieved_utc": "2026-11-22T20:29:33.313Z",
+  "sha256": "9bb962ecd731c8fbe14df631a6ce8bbb165de82a600aefc6d43b339c6f1e99eb",
+  "processing": [
+   "background #ffffff removed from 29371 edge-connected pixels",
+   "trimmed to content"
+  ],
+  "output_sha256": "d8a0a43b391240cf860e8a9bf72c1cddef07a350b57a7baed255dff74c5530da"
+ },
+ "suzuki": {
+  "file": "suzuki.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/suzuki/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id1JlESK-8/theme/dark/logo.svg",
+  "page": "globalsuzuki.com",
+  "retrieved_utc": "2026-11-22T20:02:05Z",
+  "sha256": "6e5171a6660bbdb703e4d9cab1488d9f61a6ce6fef08a066a7644ac5d14f333a",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "6e5171a6660bbdb703e4d9cab1488d9f61a6ce6fef08a066a7644ac5d14f333a"
+ },
+ "tesla": {
+  "file": "tesla.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/tesla/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id2S-kXbuK/theme/dark/logo.svg",
+  "page": "tesla.com",
+  "retrieved_utc": "2026-11-22T20:02:06Z",
+  "sha256": "f4836d44e077e46ea20719c23abf86b6cbe72a718ae21c3e3698dc4a628b272e",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "f4836d44e077e46ea20719c23abf86b6cbe72a718ae21c3e3698dc4a628b272e"
+ },
+ "toyota": {
+  "file": "toyota.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/toyota/website/logo-1.svg",
+  "origin": "website",
+  "url": "https://www.toyota.com",
+  "page": "https://www.toyota.com",
+  "retrieved_utc": "2026-11-22T20:29:44.290Z",
+  "sha256": "dfc82f764dfe2244399d0f51b94beb06803cab7927afe94218ae92d1978f018c",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "dfc82f764dfe2244399d0f51b94beb06803cab7927afe94218ae92d1978f018c"
+ },
+ "vinfast": {
+  "file": "vinfast.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/vinfast/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idKaxgh0r7/theme/dark/logo.svg",
+  "page": "vinfastauto.com",
+  "retrieved_utc": "2026-11-22T20:02:08Z",
+  "sha256": "2bfc62c110b6eabe44e4fd1e1cc2f66e7fdddf819f944b04bd7315d58952c3d3",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "2bfc62c110b6eabe44e4fd1e1cc2f66e7fdddf819f944b04bd7315d58952c3d3"
+ },
+ "volkswagen": {
+  "file": "volkswagen.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/volkswagen/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idWpwxSA3p/theme/dark/logo.svg",
+  "page": "vw.com",
+  "retrieved_utc": "2026-11-22T20:02:08Z",
+  "sha256": "af495395c7ff9933cf7cee4eef358fc840a8386d6e5a0cbf294d16a4c845e895",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "af495395c7ff9933cf7cee4eef358fc840a8386d6e5a0cbf294d16a4c845e895"
+ },
+ "volvo": {
+  "file": "volvo.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/volvo/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id46Eadm1_/theme/dark/logo.svg",
+  "page": "volvocars.com",
+  "retrieved_utc": "2026-11-22T20:02:09Z",
+  "sha256": "99b7901829469a908ca952201aabfd89fbfd5b855a86892221abecb81704ed4f",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "99b7901829469a908ca952201aabfd89fbfd5b855a86892221abecb81704ed4f"
+ },
+ "western-star": {
+  "file": "western-star.png",
+  "on_dark": true,
+  "source_file": "logos/sources/western-star/website/logo-1.png",
+  "origin": "website",
+  "url": "https://www.westernstartrucks.com/static/images/logo-white.png",
+  "page": "https://westernstartrucks.com",
+  "retrieved_utc": "2026-11-22T20:22:07.022Z",
+  "sha256": "b085a2f127c2e0f547e1bd55bb23e176b67164fc244af05a7c243acf9f7a1b68",
+  "processing": [
+   "trimmed to content"
+  ],
+  "output_sha256": "11778894da3b2d18c9848f179869d79ac17653cf7d4bf81d7ddee4dc469aa0b5"
+ },
+ "workhorse": {
+  "file": "workhorse.png",
+  "on_dark": false,
+  "source_file": "logos/sources/workhorse/brandfetch/logo-dark.png",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/id-yjO3mTG/w/3433/h/329/theme/dark/logo.png",
+  "page": "workhorse.com",
+  "retrieved_utc": "2026-11-22T20:02:10Z",
+  "sha256": "853743d69abf68ef71be62351f1926751f0924f9b73cb8c252d679400e241cbb",
+  "processing": [
+   "scaled to 600 px wide"
+  ],
+  "output_sha256": "b3ec2462f024b7723b6ecc5199ab58a5347c7eb66ea275b404f9429ac8de8016"
+ },
+ "xos": {
+  "file": "xos.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/xos/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idZ1WrldV9/theme/dark/logo.svg",
+  "page": "xostrucks.com",
+  "retrieved_utc": "2026-11-22T20:02:11Z",
+  "sha256": "7b94a065fa83dc07e4a53dc0b83388b41357df26de2df995e7cc0b8fcea1fda6",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "7b94a065fa83dc07e4a53dc0b83388b41357df26de2df995e7cc0b8fcea1fda6"
+ },
+ "zeekr": {
+  "file": "zeekr.svg",
+  "on_dark": false,
+  "source_file": "logos/sources/zeekr/brandfetch/logo-dark.svg",
+  "origin": "brandfetch",
+  "url": "https://cdn.brandfetch.io/idV6c4bL0n/theme/dark/logo.svg",
+  "page": "zeekrlife.com",
+  "retrieved_utc": "2026-11-22T20:02:12Z",
+  "sha256": "fb53a0aff60c616bdde55c9b606b3cb80c8b40105c16f66dfa8139929961be83",
+  "processing": [
+   "none"
+  ],
+  "output_sha256": "fb53a0aff60c616bdde55c9b606b3cb80c8b40105c16f66dfa8139929961be83"
+ }
+}

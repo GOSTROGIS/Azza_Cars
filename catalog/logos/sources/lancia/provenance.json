@@ -1,0 +1,22 @@
+{
+ "website": {
+  "page_requested": "https://www.lancia.it",
+  "retrieved_utc": "2026-11-24T14:37:53.448Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.jpg",
+    "kind": "img",
+    "selector": "header a[href=\"/\"] img",
+    "src": "https://www.lancia.it/content/dam/lancia2023/cross/header/logo-rect.jpg",
+    "displayed_px": [
+     117,
+     56
+    ],
+    "sha256": "e025231ea19a8bf9f6d35a08de11099dae275fa438b3c649ab9e18814ce2ffd3",
+    "bytes": 19067
+   }
+  ],
+  "page_final": "https://www.lancia.it/",
+  "http_status": 200
+ }
+}

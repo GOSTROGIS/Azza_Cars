@@ -1,0 +1,22 @@
+{
+ "website": {
+  "page_requested": "https://www.chirey.mx",
+  "retrieved_utc": "2026-11-24T14:37:24.664Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.svg",
+    "kind": "svg",
+    "selector": "header a[href=\"/\"] svg",
+    "src": null,
+    "displayed_px": [
+     180,
+     16
+    ],
+    "sha256": "b177f6d1bd09f69c2781dcc66fd826e2f79e2dffa7d668dd1daf845b2f98a859",
+    "bytes": 4328
+   }
+  ],
+  "page_final": "https://www.chirey.mx/",
+  "http_status": 200
+ }
+}

@@ -1,6 +1,7 @@
 // Copies generated data into site/public so the static build is self-contained.
 //   catalog/models.json + catalog/brands.json -> public/data/catalog.json (compact keys)
-//   logos/svg/<slug>.svg for audited logos     -> public/logos/<slug>.svg
+//   logos/svg/<slug>.svg for audited logos, else catalog/logos/<slug>.svg|png (unaudited,
+//   from the manufacturer's website)            -> public/logos/<slug>.<ext>
 //   market/map.html (self-contained Leaflet map) -> public/market/map.html
 //   market/trips/*.geojson, market/competition.geojson, market/stations.geojson, market/trip_rates.json -> public/trips/ (trip planner)
 // Vehicle photos and their models.json are written straight into public/models by tools/models/build.py.
@@ -14,7 +15,7 @@ const root = path.resolve(here, "..", "..");
 const pub = path.resolve(here, "..", "public");
 const read = (p) => JSON.parse(fs.readFileSync(path.join(root, p), "utf8"));
 
-// The vehicle catalogue (explorer.html): every brand and model with its sources, and the audited logos.
+// The vehicle catalogue (explorer.html): every brand and model with its sources, and its logos.
 fs.mkdirSync(path.join(pub, "data"), { recursive: true });
 fs.mkdirSync(path.join(pub, "logos"), { recursive: true });
 const brands = read("catalog/brands.json");
@@ -22,8 +23,9 @@ const models = read("catalog/models.json");
 const report = read("catalog/build_report.json");
 for (const b of brands) {
   if (!b.logo) continue;
-  fs.copyFileSync(path.join(root, b.logo), path.join(pub, "logos", `${b.slug}.svg`));
-  b.logo = `logos/${b.slug}.svg`;
+  const file = `${b.slug}${path.extname(b.logo)}`;
+  fs.copyFileSync(path.join(root, b.logo), path.join(pub, "logos", file));
+  b.logo = `logos/${file}`;
 }
 const compact = models.map((m) => ({
   i: m.id, b: m.brand, n: m.name, a: m.aliases, y: [m.year_min, m.year_max], yb: m.years_basis, t: m.bodies, c: m.classes,

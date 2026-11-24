@@ -40,7 +40,7 @@ a { color: var(--accent-text); }
 .searchbox__foot { display: flex; gap: 6px; align-items: center; padding: var(--space-2) var(--space-4) var(--space-3); border-top: 1px solid var(--border); }
 
 /* ---- Brand marks ---- */
-.brandmark { display: inline-grid; place-items: center; flex: none; border-radius: var(--radius-sm); object-fit: contain; background: var(--bone-50); }
+.brandmark { display: inline-grid; place-items: center; flex: none; border-radius: var(--radius-sm); object-fit: contain; background: var(--logo-chip, var(--bone-50)); }
 .brandmark--sm { width: 40px; height: 40px; padding: 5px; }
 .brandmark--lg { width: 72px; height: 72px; padding: 9px; border-radius: var(--radius-md); box-shadow: var(--bevel), var(--shadow-1); }
 .brandmark--text { background: var(--surface-3); color: var(--text-muted); font: 800 var(--text-sm) var(--font-display); box-shadow: var(--bevel); }

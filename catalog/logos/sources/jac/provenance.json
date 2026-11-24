@@ -1,0 +1,22 @@
+{
+ "website": {
+  "page_requested": "https://www.jac.mx",
+  "retrieved_utc": "2026-11-24T14:37:42.549Z",
+  "files": [
+   {
+    "saved_as": "website/logo-1.png",
+    "kind": "img",
+    "selector": "img[class*=\"logo\" i]",
+    "src": "https://www.jac.mx/assets/images/new_logo_JAC_white.png",
+    "displayed_px": [
+     120,
+     24
+    ],
+    "sha256": "eef739f0a2c5e69c88b21593a5402446c7d386d0485fc08e1f42109d2f988b8b",
+    "bytes": 1159
+   }
+  ],
+  "page_final": "https://www.jac.mx/",
+  "http_status": 200
+ }
+}

@@ -5,6 +5,7 @@
   "segment": "light",
   "models": 37,
   "logo": "logos/svg/acura.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -12,7 +13,8 @@
   "name": "Alfa Romeo",
   "segment": "light",
   "models": 119,
-  "logo": null,
+  "logo": "catalog/logos/alfa-romeo.png",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -20,7 +22,8 @@
   "name": "Aston Martin",
   "segment": "light",
   "models": 66,
-  "logo": null,
+  "logo": "catalog/logos/aston-martin.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -28,7 +31,8 @@
   "name": "Audi",
   "segment": "light",
   "models": 266,
-  "logo": null,
+  "logo": "catalog/logos/audi.svg",
+  "logo_on_dark": true,
   "register_sources": 3
  },
  {
@@ -36,7 +40,8 @@
   "name": "Bentley",
   "segment": "light",
   "models": 42,
-  "logo": null,
+  "logo": "catalog/logos/bentley.png",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -45,6 +50,7 @@
   "segment": "light",
   "models": 366,
   "logo": "logos/svg/bmw.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -52,7 +58,8 @@
   "name": "Bugatti",
   "segment": "light",
   "models": 18,
-  "logo": null,
+  "logo": "catalog/logos/bugatti.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -60,7 +67,8 @@
   "name": "Buick",
   "segment": "light",
   "models": 73,
-  "logo": null,
+  "logo": "catalog/logos/buick.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -68,7 +76,8 @@
   "name": "Cadillac",
   "segment": "light",
   "models": 125,
-  "logo": null,
+  "logo": "catalog/logos/cadillac.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -76,7 +85,8 @@
   "name": "Chevrolet",
   "segment": "light",
   "models": 338,
-  "logo": null,
+  "logo": "catalog/logos/chevrolet.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -85,6 +95,7 @@
   "segment": "light",
   "models": 131,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -92,7 +103,8 @@
   "name": "Dodge",
   "segment": "light",
   "models": 177,
-  "logo": null,
+  "logo": "catalog/logos/dodge.svg",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -100,7 +112,8 @@
   "name": "Ferrari",
   "segment": "light",
   "models": 215,
-  "logo": null,
+  "logo": "catalog/logos/ferrari.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -108,7 +121,8 @@
   "name": "Fiat",
   "segment": "light",
   "models": 363,
-  "logo": null,
+  "logo": "catalog/logos/fiat.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -116,7 +130,8 @@
   "name": "Ford",
   "segment": "light",
   "models": 476,
-  "logo": null,
+  "logo": "catalog/logos/ford.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -124,7 +139,8 @@
   "name": "Genesis",
   "segment": "light",
   "models": 10,
-  "logo": null,
+  "logo": "catalog/logos/genesis.png",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -132,7 +148,8 @@
   "name": "GMC",
   "segment": "light",
   "models": 111,
-  "logo": null,
+  "logo": "catalog/logos/gmc.png",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -140,7 +157,8 @@
   "name": "Honda",
   "segment": "light",
   "models": 155,
-  "logo": null,
+  "logo": "catalog/logos/honda.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -148,7 +166,8 @@
   "name": "Hyundai",
   "segment": "light",
   "models": 125,
-  "logo": null,
+  "logo": "catalog/logos/hyundai.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -156,7 +175,8 @@
   "name": "Infiniti",
   "segment": "light",
   "models": 53,
-  "logo": null,
+  "logo": "catalog/logos/infiniti.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -164,7 +184,8 @@
   "name": "Ineos Automotive",
   "segment": "light",
   "models": 3,
-  "logo": null,
+  "logo": "catalog/logos/ineos.svg",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -173,6 +194,7 @@
   "segment": "light",
   "models": 76,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -180,7 +202,8 @@
   "name": "Jeep",
   "segment": "light",
   "models": 46,
-  "logo": null,
+  "logo": "catalog/logos/jeep.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -188,7 +211,8 @@
   "name": "Kia",
   "segment": "light",
   "models": 88,
-  "logo": null,
+  "logo": "catalog/logos/kia.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -196,7 +220,8 @@
   "name": "Koenigsegg",
   "segment": "light",
   "models": 7,
-  "logo": null,
+  "logo": "catalog/logos/koenigsegg.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -204,7 +229,8 @@
   "name": "Lamborghini",
   "segment": "light",
   "models": 57,
-  "logo": null,
+  "logo": "catalog/logos/lamborghini.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -213,6 +239,7 @@
   "segment": "light",
   "models": 52,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -220,7 +247,8 @@
   "name": "Lexus",
   "segment": "light",
   "models": 73,
-  "logo": null,
+  "logo": "catalog/logos/lexus.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -228,7 +256,8 @@
   "name": "Lincoln",
   "segment": "light",
   "models": 41,
-  "logo": null,
+  "logo": "catalog/logos/lincoln.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -236,7 +265,8 @@
   "name": "Lotus",
   "segment": "light",
   "models": 69,
-  "logo": null,
+  "logo": "catalog/logos/lotus.svg",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -244,7 +274,8 @@
   "name": "Lucid",
   "segment": "light",
   "models": 23,
-  "logo": null,
+  "logo": "catalog/logos/lucid.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -252,7 +283,8 @@
   "name": "Maserati",
   "segment": "light",
   "models": 85,
-  "logo": null,
+  "logo": "catalog/logos/maserati.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -260,7 +292,8 @@
   "name": "Mazda",
   "segment": "light",
   "models": 134,
-  "logo": null,
+  "logo": "catalog/logos/mazda.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -268,7 +301,8 @@
   "name": "McLaren",
   "segment": "light",
   "models": 34,
-  "logo": null,
+  "logo": "catalog/logos/mclaren.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -276,7 +310,8 @@
   "name": "Mercedes-Benz",
   "segment": "light",
   "models": 588,
-  "logo": null,
+  "logo": "catalog/logos/mercedes-benz.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -285,6 +320,7 @@
   "segment": "light",
   "models": 11,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -293,6 +329,7 @@
   "segment": "light",
   "models": 29,
   "logo": "logos/svg/mini.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -300,7 +337,8 @@
   "name": "Mitsubishi Motors",
   "segment": "light",
   "models": 141,
-  "logo": null,
+  "logo": "catalog/logos/mitsubishi.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -308,7 +346,8 @@
   "name": "Morgan",
   "segment": "light",
   "models": 16,
-  "logo": null,
+  "logo": "catalog/logos/morgan.svg",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -317,6 +356,7 @@
   "segment": "light",
   "models": 249,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -325,6 +365,7 @@
   "segment": "light",
   "models": 11,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -332,7 +373,8 @@
   "name": "Polestar",
   "segment": "light",
   "models": 19,
-  "logo": null,
+  "logo": "catalog/logos/polestar.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -340,7 +382,8 @@
   "name": "Porsche",
   "segment": "light",
   "models": 128,
-  "logo": null,
+  "logo": "catalog/logos/porsche.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -348,7 +391,8 @@
   "name": "Ram",
   "segment": "light",
   "models": 16,
-  "logo": null,
+  "logo": "catalog/logos/ram.png",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -356,7 +400,8 @@
   "name": "Rimac",
   "segment": "light",
   "models": 3,
-  "logo": null,
+  "logo": "catalog/logos/rimac.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -365,6 +410,7 @@
   "segment": "light",
   "models": 75,
   "logo": "logos/svg/rivian.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -372,7 +418,8 @@
   "name": "Rolls-Royce",
   "segment": "light",
   "models": 62,
-  "logo": null,
+  "logo": "catalog/logos/rolls-royce.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -380,7 +427,8 @@
   "name": "Subaru",
   "segment": "light",
   "models": 117,
-  "logo": null,
+  "logo": "catalog/logos/subaru.png",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -388,7 +436,8 @@
   "name": "Tesla",
   "segment": "light",
   "models": 30,
-  "logo": null,
+  "logo": "catalog/logos/tesla.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -396,7 +445,8 @@
   "name": "Toyota",
   "segment": "light",
   "models": 349,
-  "logo": null,
+  "logo": "catalog/logos/toyota.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -404,7 +454,8 @@
   "name": "VinFast",
   "segment": "light",
   "models": 11,
-  "logo": null,
+  "logo": "catalog/logos/vinfast.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -412,7 +463,8 @@
   "name": "Volkswagen",
   "segment": "light",
   "models": 229,
-  "logo": null,
+  "logo": "catalog/logos/volkswagen.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -420,7 +472,8 @@
   "name": "Volvo Cars",
   "segment": "light",
   "models": 211,
-  "logo": null,
+  "logo": "catalog/logos/volvo.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -428,7 +481,8 @@
   "name": "Scout Motors",
   "segment": "light",
   "models": 4,
-  "logo": null,
+  "logo": "catalog/logos/scout.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -436,7 +490,8 @@
   "name": "Slate Auto",
   "segment": "light",
   "models": 2,
-  "logo": null,
+  "logo": "catalog/logos/slate.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -444,7 +499,8 @@
   "name": "Czinger",
   "segment": "light",
   "models": 1,
-  "logo": null,
+  "logo": "catalog/logos/czinger.svg",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -452,7 +508,8 @@
   "name": "Saleen",
   "segment": "light",
   "models": 9,
-  "logo": null,
+  "logo": "catalog/logos/saleen.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -460,7 +517,8 @@
   "name": "SSC North America",
   "segment": "light",
   "models": 5,
-  "logo": null,
+  "logo": "catalog/logos/ssc.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -468,7 +526,8 @@
   "name": "Glickenhaus",
   "segment": "light",
   "models": 9,
-  "logo": null,
+  "logo": "catalog/logos/glickenhaus.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -476,7 +535,8 @@
   "name": "Mahindra",
   "segment": "light",
   "models": 24,
-  "logo": null,
+  "logo": "catalog/logos/mahindra.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -484,7 +544,8 @@
   "name": "Zeekr",
   "segment": "light",
   "models": 8,
-  "logo": null,
+  "logo": "catalog/logos/zeekr.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -492,7 +553,8 @@
   "name": "BYD",
   "segment": "light",
   "models": 87,
-  "logo": null,
+  "logo": "catalog/logos/byd.svg",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -500,7 +562,8 @@
   "name": "Kandi",
   "segment": "light",
   "models": 21,
-  "logo": null,
+  "logo": "catalog/logos/kandi.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -508,7 +571,8 @@
   "name": "Karma",
   "segment": "light",
   "models": 12,
-  "logo": null,
+  "logo": "catalog/logos/karma.png",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -517,6 +581,7 @@
   "segment": "light",
   "models": 11,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -525,6 +590,7 @@
   "segment": "light",
   "models": 8,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -532,7 +598,8 @@
   "name": "Lordstown Motors",
   "segment": "light",
   "models": 2,
-  "logo": null,
+  "logo": "catalog/logos/lordstown.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -541,6 +608,7 @@
   "segment": "light",
   "models": 1,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -549,6 +617,7 @@
   "segment": "light",
   "models": 100,
   "logo": "logos/svg/seat.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -556,7 +625,8 @@
   "name": "Cupra",
   "segment": "light",
   "models": 4,
-  "logo": null,
+  "logo": "catalog/logos/cupra.svg",
+  "logo_on_dark": true,
   "register_sources": 1
  },
  {
@@ -564,7 +634,8 @@
   "name": "Peugeot",
   "segment": "light",
   "models": 259,
-  "logo": null,
+  "logo": "catalog/logos/peugeot.png",
+  "logo_on_dark": true,
   "register_sources": 3
  },
  {
@@ -572,7 +643,8 @@
   "name": "Renault",
   "segment": "light",
   "models": 354,
-  "logo": null,
+  "logo": "catalog/logos/renault.svg",
+  "logo_on_dark": true,
   "register_sources": 3
  },
  {
@@ -580,7 +652,8 @@
   "name": "Suzuki",
   "segment": "light",
   "models": 93,
-  "logo": null,
+  "logo": "catalog/logos/suzuki.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -589,6 +662,7 @@
   "segment": "light",
   "models": 76,
   "logo": "logos/svg/isuzu.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -596,7 +670,8 @@
   "name": "MG",
   "segment": "light",
   "models": 27,
-  "logo": null,
+  "logo": "catalog/logos/mg.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -604,7 +679,8 @@
   "name": "Chirey (Chery)",
   "segment": "light",
   "models": 75,
-  "logo": null,
+  "logo": "catalog/logos/chirey.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -613,6 +689,7 @@
   "segment": "light",
   "models": 5,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -620,7 +697,8 @@
   "name": "Jaecoo",
   "segment": "light",
   "models": 0,
-  "logo": null,
+  "logo": "catalog/logos/jaecoo.svg",
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -628,7 +706,8 @@
   "name": "JAC",
   "segment": "light",
   "models": 69,
-  "logo": null,
+  "logo": "catalog/logos/jac.png",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -636,7 +715,8 @@
   "name": "GWM (Great Wall Motor)",
   "segment": "light",
   "models": 54,
-  "logo": null,
+  "logo": "catalog/logos/gwm.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -645,6 +725,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -653,6 +734,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -661,6 +743,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -668,7 +751,8 @@
   "name": "Changan",
   "segment": "light",
   "models": 54,
-  "logo": null,
+  "logo": "catalog/logos/changan.png",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -677,6 +761,7 @@
   "segment": "light",
   "models": 5,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -684,7 +769,8 @@
   "name": "Geely",
   "segment": "light",
   "models": 43,
-  "logo": null,
+  "logo": "catalog/logos/geely.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -692,7 +778,8 @@
   "name": "Lynk & Co",
   "segment": "light",
   "models": 10,
-  "logo": null,
+  "logo": "catalog/logos/lynk-co.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -700,7 +787,8 @@
   "name": "Leapmotor",
   "segment": "light",
   "models": 11,
-  "logo": null,
+  "logo": "catalog/logos/leapmotor.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -709,6 +797,7 @@
   "segment": "light",
   "models": 10,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -716,7 +805,8 @@
   "name": "Jetour",
   "segment": "light",
   "models": 11,
-  "logo": null,
+  "logo": "catalog/logos/jetour.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -724,7 +814,8 @@
   "name": "Soueast",
   "segment": "light",
   "models": 15,
-  "logo": null,
+  "logo": "catalog/logos/soueast.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -732,7 +823,8 @@
   "name": "BAIC",
   "segment": "light",
   "models": 15,
-  "logo": null,
+  "logo": "catalog/logos/baic.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -740,7 +832,8 @@
   "name": "DFSK",
   "segment": "light",
   "models": 14,
-  "logo": null,
+  "logo": "catalog/logos/dfsk.png",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -748,7 +841,8 @@
   "name": "JMC",
   "segment": "light",
   "models": 13,
-  "logo": null,
+  "logo": "catalog/logos/jmc.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -756,7 +850,8 @@
   "name": "Seres",
   "segment": "light",
   "models": 3,
-  "logo": null,
+  "logo": "catalog/logos/seres.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -765,6 +860,7 @@
   "segment": "light",
   "models": 19,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -773,6 +869,7 @@
   "segment": "light",
   "models": 23,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -781,6 +878,7 @@
   "segment": "light",
   "models": 10,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -789,6 +887,7 @@
   "segment": "light",
   "models": 52,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -797,6 +896,7 @@
   "segment": "light",
   "models": 68,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -805,6 +905,7 @@
   "segment": "light",
   "models": 45,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -813,6 +914,7 @@
   "segment": "light",
   "models": 31,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -821,6 +923,7 @@
   "segment": "light",
   "models": 44,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -829,6 +932,7 @@
   "segment": "light",
   "models": 4,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -837,6 +941,7 @@
   "segment": "light",
   "models": 7,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -844,7 +949,8 @@
   "name": "Scion",
   "segment": "light",
   "models": 8,
-  "logo": null,
+  "logo": "catalog/logos/scion.svg",
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -853,6 +959,7 @@
   "segment": "light",
   "models": 28,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -861,6 +968,7 @@
   "segment": "light",
   "models": 11,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -869,6 +977,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -877,6 +986,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -885,6 +995,7 @@
   "segment": "light",
   "models": 7,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -893,6 +1004,7 @@
   "segment": "light",
   "models": 42,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -900,7 +1012,8 @@
   "name": "Daihatsu",
   "segment": "light",
   "models": 86,
-  "logo": null,
+  "logo": "catalog/logos/daihatsu.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -908,7 +1021,8 @@
   "name": "Smart",
   "segment": "light",
   "models": 13,
-  "logo": null,
+  "logo": "catalog/logos/smart.svg",
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -917,6 +1031,7 @@
   "segment": "light",
   "models": 1,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -925,6 +1040,7 @@
   "segment": "light",
   "models": 0,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -932,7 +1048,8 @@
   "name": "Lada",
   "segment": "light",
   "models": 14,
-  "logo": null,
+  "logo": "catalog/logos/lada.svg",
+  "logo_on_dark": true,
   "register_sources": 1
  },
  {
@@ -941,6 +1058,7 @@
   "segment": "light",
   "models": 1,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -949,6 +1067,7 @@
   "segment": "light",
   "models": 1,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -956,7 +1075,8 @@
   "name": "Checker",
   "segment": "light",
   "models": 6,
-  "logo": null,
+  "logo": "catalog/logos/checker.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -964,7 +1084,8 @@
   "name": "Lancia",
   "segment": "light",
   "models": 62,
-  "logo": null,
+  "logo": "catalog/logos/lancia.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -973,6 +1094,7 @@
   "segment": "light",
   "models": 37,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -981,6 +1103,7 @@
   "segment": "light",
   "models": 27,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 3
  },
  {
@@ -989,6 +1112,7 @@
   "segment": "light",
   "models": 143,
   "logo": "logos/svg/opel.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -996,7 +1120,8 @@
   "name": "Holden",
   "segment": "light",
   "models": 48,
-  "logo": null,
+  "logo": "catalog/logos/holden.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1005,6 +1130,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -1013,6 +1139,7 @@
   "segment": "light",
   "models": 1,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1021,6 +1148,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1028,7 +1156,8 @@
   "name": "Panoz",
   "segment": "light",
   "models": 4,
-  "logo": null,
+  "logo": "catalog/logos/panoz.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1037,6 +1166,7 @@
   "segment": "light",
   "models": 4,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1045,6 +1175,7 @@
   "segment": "light",
   "models": 8,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1052,7 +1183,8 @@
   "name": "Shelby American",
   "segment": "light",
   "models": 6,
-  "logo": null,
+  "logo": "catalog/logos/shelby.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1060,7 +1192,8 @@
   "name": "Spyker",
   "segment": "light",
   "models": 9,
-  "logo": null,
+  "logo": "catalog/logos/spyker.svg",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -1069,6 +1202,7 @@
   "segment": "light",
   "models": 1,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -1077,6 +1211,7 @@
   "segment": "light",
   "models": 2,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -1084,7 +1219,8 @@
   "name": "Freightliner",
   "segment": "truck",
   "models": 129,
-  "logo": null,
+  "logo": "catalog/logos/freightliner.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1092,7 +1228,8 @@
   "name": "Western Star",
   "segment": "truck",
   "models": 18,
-  "logo": null,
+  "logo": "catalog/logos/western-star.png",
+  "logo_on_dark": true,
   "register_sources": 2
  },
  {
@@ -1100,7 +1237,8 @@
   "name": "Peterbilt",
   "segment": "truck",
   "models": 47,
-  "logo": null,
+  "logo": "catalog/logos/peterbilt.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1108,7 +1246,8 @@
   "name": "Kenworth",
   "segment": "truck",
   "models": 44,
-  "logo": null,
+  "logo": "catalog/logos/kenworth.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1116,7 +1255,8 @@
   "name": "Mack",
   "segment": "truck",
   "models": 59,
-  "logo": null,
+  "logo": "catalog/logos/mack.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1125,6 +1265,7 @@
   "segment": "truck",
   "models": 46,
   "logo": "logos/svg/volvo-trucks.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1132,7 +1273,8 @@
   "name": "International (Navistar)",
   "segment": "truck",
   "models": 346,
-  "logo": null,
+  "logo": "catalog/logos/international.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1140,7 +1282,8 @@
   "name": "Hino",
   "segment": "truck",
   "models": 31,
-  "logo": null,
+  "logo": "catalog/logos/hino.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1148,7 +1291,8 @@
   "name": "Mitsubishi Fuso",
   "segment": "truck",
   "models": 48,
-  "logo": null,
+  "logo": "catalog/logos/fuso.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1157,6 +1301,7 @@
   "segment": "truck",
   "models": 27,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1165,6 +1310,7 @@
   "segment": "truck",
   "models": 33,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1172,7 +1318,8 @@
   "name": "Autocar",
   "segment": "truck",
   "models": 20,
-  "logo": null,
+  "logo": "catalog/logos/autocar.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1181,6 +1328,7 @@
   "segment": "truck",
   "models": 11,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1189,6 +1337,7 @@
   "segment": "truck",
   "models": 26,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 1
  },
  {
@@ -1197,6 +1346,7 @@
   "segment": "truck",
   "models": 10,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1205,6 +1355,7 @@
   "segment": "truck",
   "models": 1,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1212,7 +1363,8 @@
   "name": "Oshkosh",
   "segment": "truck",
   "models": 64,
-  "logo": null,
+  "logo": "catalog/logos/oshkosh.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1220,7 +1372,8 @@
   "name": "Workhorse",
   "segment": "truck",
   "models": 32,
-  "logo": null,
+  "logo": "catalog/logos/workhorse.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1228,7 +1381,8 @@
   "name": "Nikola",
   "segment": "truck",
   "models": 3,
-  "logo": null,
+  "logo": "catalog/logos/nikola.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1236,7 +1390,8 @@
   "name": "Xos",
   "segment": "truck",
   "models": 9,
-  "logo": null,
+  "logo": "catalog/logos/xos.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1244,7 +1399,8 @@
   "name": "Lion Electric",
   "segment": "truck",
   "models": 5,
-  "logo": null,
+  "logo": "catalog/logos/lion.png",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1252,7 +1408,8 @@
   "name": "DINA",
   "segment": "truck",
   "models": 4,
-  "logo": null,
+  "logo": "catalog/logos/dina.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1261,6 +1418,7 @@
   "segment": "truck",
   "models": 12,
   "logo": "logos/svg/iveco.svg",
+  "logo_on_dark": false,
   "register_sources": 2
  },
  {
@@ -1269,6 +1427,7 @@
   "segment": "light",
   "models": 14,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 0,
   "inegi_company": "Changan"
  },
@@ -1278,6 +1437,7 @@
   "segment": "light",
   "models": 21,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 0,
   "inegi_company": "Chrysler"
  },
@@ -1287,6 +1447,7 @@
   "segment": "light",
   "models": 35,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 0,
   "inegi_company": "General Motors"
  },
@@ -1296,6 +1457,7 @@
   "segment": "light",
   "models": 4,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 0,
   "inegi_company": "Great Wall Motor"
  },
@@ -1305,6 +1467,7 @@
   "segment": "light",
   "models": 10,
   "logo": null,
+  "logo_on_dark": false,
   "register_sources": 0,
   "inegi_company": "MOTORNATION"
  }

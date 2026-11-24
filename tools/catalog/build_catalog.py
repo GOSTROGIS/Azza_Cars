@@ -396,6 +396,20 @@ def logo_status():
     return passed
 
 
+def fallback_logos():
+    """Unaudited logos from the manufacturers' websites (tools/catalog/fallback_logos.py), used where no audited logo exists."""
+    index = CATALOG / "logos" / "index.json"
+    return json.loads(index.read_text()) if index.exists() else {}
+
+
+def logo_fields(slug, passed, fallback):
+    """A brand's logo: the audited SVG, else the unaudited fallback, else none."""
+    if slug in passed:
+        return {"logo": f"logos/svg/{slug}.svg", "logo_on_dark": False}
+    f = fallback.get(slug)
+    return {"logo": f"catalog/logos/{f['file']}" if f else None, "logo_on_dark": bool(f and f["on_dark"])}
+
+
 def main():
     cat = Catalog()
     cat.load_vpic()
@@ -405,15 +419,16 @@ def main():
     cat.load_wikidata()
     models, latest_my = cat.finish()
     passed = logo_status()
+    fallback = {s: f for s, f in fallback_logos().items() if s not in passed}
     counts = collections.Counter(m["brand"] for m in models)
     brand_rows = [{"slug": s, "name": b["name"], "segment": b["segment"], "models": counts.get(s, 0),
-                   "logo": f"logos/svg/{s}.svg" if s in passed else None,
+                   **logo_fields(s, passed, fallback),
                    "register_sources": int(b["sources_confirming"] or 0)}
                   for s, b in cat.brands.items()]
     for company_slug in sorted(s for s in counts if s.startswith("_inegi_")):
         company = next(m["inegi_company"] for m in models if m["brand"] == company_slug)
         brand_rows.append({"slug": company_slug, "name": f"{company} (INEGI company, brand not stated)",
-                           "segment": "light", "models": counts[company_slug], "logo": None,
+                           "segment": "light", "models": counts[company_slug], **logo_fields(company_slug, passed, fallback),
                            "register_sources": 0, "inegi_company": company})
     (CATALOG / "models.json").write_text(json.dumps(models, ensure_ascii=False, indent=0) + "\n")
     (CATALOG / "brands.json").write_text(json.dumps(brand_rows, ensure_ascii=False, indent=1) + "\n")
@@ -428,6 +443,7 @@ def main():
         "by_body": dict(collections.Counter(b for m in models for b in m["bodies"])),
         "no_body": sum(1 for m in models if not m["bodies"]),
         "logos_audited": sorted(passed),
+        "logos_unaudited": sorted(s for s in fallback if s in cat.brands),
         "skipped_source_makes": dict(sorted(cat.skipped.items(), key=lambda kv: -kv[1])),
     }
     (CATALOG / "build_report.json").write_text(json.dumps(report, indent=1, ensure_ascii=False) + "\n")
